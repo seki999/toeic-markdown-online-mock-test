@@ -87,6 +87,153 @@ MyChatGPT → Generate Markdown → public/tests/test-xxx/
 → GitHub Actions → GitHub Pages → New Mock Test
 ```
 
+## 生成完整题库的提示词
+
+下面的提示词可以直接交给 ChatGPT、Codex 或其他能够创建项目文件的生成工具。使用前替换 `[TEST_ID]`、`[TEST_NUMBER]`、`[TARGET_SCORE]`，并把需要学习的 50、100 或其他数量的新单词粘贴到 `[VOCABULARY_LIST]`。建议每次使用新的 Test ID，已经发布的 ID 不要重复使用。
+
+```text
+请为当前 toeic-markdown-online-mock-test 项目生成一套完整、原创、可直接运行的 TOEIC-style Listening & Reading 模拟考试题库。
+
+变量：
+- TEST_ID: [TEST_ID]，例如 test-new
+- TEST_NUMBER: [TEST_NUMBER]，例如 003
+- TARGET_SCORE: [TARGET_SCORE]，例如 600-850
+- VOCABULARY_LIST: 用户本次希望学习的新单词。可以每行一个、使用编号列表或使用逗号分隔，也可以在单词后附中文释义或英文释义。
+
+用户输入的新单词：
+[VOCABULARY_LIST]
+
+一、基本要求
+
+1. 在 public/tests/[TEST_ID]/ 下创建完整题库，不要修改其他已经存在的题库。
+2. 必须创建 metadata.md、part1.md、part2.md、part3.md、part4.md、part5.md、part6.md、part7.md。
+3. Part 1 还必须在 public/tests/[TEST_ID]/images/ 下创建 6 张原创 SVG 场景图。
+4. 全套必须正好 200 题：Listening 100 题，Reading 100 题。
+5. 所有题目、选项、听力原文、答案和解析都使用自然、准确的英语。
+6. 内容必须原创，只能创作 TOEIC-style 模拟题，不得复制、改写或声称使用 ETS 的真实、泄露或非公开试题。不要使用 TOEIC 官方商标图形。
+7. 使用现实的职场和日常商务场景，例如办公室、会议、出差、酒店、餐厅、零售、运输、物流、招聘、设施维护、客户服务和活动安排。避免机械重复的题干与模板。
+8. 难度以 medium 为主，并与 [TARGET_SCORE] 相符。正确答案 A/B/C/D 应尽量均衡分布；Part 2 使用 A/B/C。错误选项必须合理但能由原文明确排除。
+9. 每个题号在整套题库中必须唯一且连续。不得缺题、重复题号、缺选项、缺答案或缺解析。
+10. 正式题库必须设置 demo: false。不要在题库标题、正文或 UI 文案中加入 DEMO。
+11. 严格遵守 docs/TOEIC-MD-SPEC.md 的 heading、Speaker、Answer、Explanation、Tags 和 Passage 语法。文件编码使用 UTF-8，不要加入 Parser 不支持的自定义 HTML。
+12. 不创建 MP3/WAV。Listening 由浏览器 TTS 朗读，所有可朗读内容必须写在 Audio 中，并只使用 Narrator、Speaker 1、Speaker 2、Speaker 3 标签。
+
+二、用户输入词表和覆盖规则
+
+1. 开始生成前，解析 [VOCABULARY_LIST]，去除空行，合并完全重复的单词，并统计有效单词数量。若词表为空、仍是占位符或无法辨认，先停止生成并请用户提供词表，不要自行虚构一份词表。
+2. 必须覆盖每一个有效输入单词。每个单词至少一次出现在真正的考试内容中，即 Audio、Passage、题干或选项；只出现在 Explanation、Tags、标题或覆盖报告中不算完成覆盖。
+3. 单词必须按照正确词义、词性和自然搭配进入真实的 TOEIC 商务语境。可以使用语法所需的复数、时态、比较级或其他自然词形，但不得为了保留原形而写出不自然的英语。
+4. 如果用户为单词提供了指定释义，必须按照该释义设计语境；没有提供释义时，选择常见且适合职场英语的词义。多义词不要在同一道题中制造无法判断的歧义。
+5. 把单词分散到 Part 1-7，并同时覆盖 Listening 与 Reading。Part 1 只使用能够从图片观察到或自然描述的词，不要为了平均分配而破坏图片与句子的对应关系。
+6. 一部分单词可以成为 Part 5/6 的词汇考点，其他单词应自然进入对话、讲话、邮件、通知、聊天、广告和文章。不要让所有输入单词都成为正确选项，也不要在同一句中生硬堆放多个新单词。
+7. 题目应该测试对语境和含义的理解，而不是简单地看到输入单词就能猜出答案。错误选项不能只靠拼写差异排除。
+8. 在 public/tests/[TEST_ID]/ 下额外创建 vocabulary-coverage.md。该文件不参与评分，用于审核词表覆盖情况，必须逐项记录：原始单词、实际使用词形、使用位置（Part 和题号或 Group）、使用句子/材料的简短定位、采用的词义。
+9. vocabulary-coverage.md 中的每个输入单词至少有一条有效位置记录。生成完成后重新扫描 part1.md 至 part7.md，确认记录的位置真实存在；不得伪造覆盖结果。
+10. 如果输入包含 50 个单词，应覆盖全部 50 个；输入包含 100 个单词，应覆盖全部 100 个。其他数量同样按实际去重后的有效词数全部覆盖，而不是只选择其中一部分。
+
+三、Metadata
+
+public/tests/[TEST_ID]/metadata.md 必须包含：
+
+---
+id: [TEST_ID]
+title: TOEIC Complete Mock Test [TEST_NUMBER]
+version: "1.0"
+difficulty: medium
+targetScore: [TARGET_SCORE]
+listeningQuestions: 100
+readingQuestions: 100
+demo: false
+---
+
+# TOEIC Complete Mock Test [TEST_NUMBER]
+
+并加入一句简短声明，说明整套问题、transcripts、answers 和 explanations 均为本项目原创内容。
+
+四、题量和题号
+
+- Part 1：Question 1-6，共 6 题。
+- Part 2：Question 7-31，共 25 题。
+- Part 3：Question 32-70，共 39 题；13 个 conversation group，每组 3 题。
+- Part 4：Question 71-100，共 30 题；10 个 talk group，每组 3 题。
+- Part 5：Question 101-130，共 30 题。
+- Part 6：Question 131-146，共 16 题；4 个 passage group，每组 4 题。
+- Part 7：Question 147-200，共 54 题；包含 single、double、triple passage groups，并保证题目总数正好为 54。为这个项目生成 18 个材料组：6 个 single、6 个 double、6 个 triple；合理分配每组题数，使总题数和连续题号严格正确。
+
+五、各 Part 内容要求
+
+Part 1：
+- 每题包含 Image、Audio、Answer、Explanation、Tags。
+- Image 路径写成 tests/[TEST_ID]/images/文件名.svg。
+- 每张 SVG 必须是清晰、不同的职场或公共场所场景，并能从图中唯一判断正确描述。
+- Audio 包含 Speaker 1 朗读的 A-D 四个完整描述句。Explanation 必须说明图中哪个可见细节支持正确答案。
+
+Part 2：
+- 每题 Audio 先由 Speaker 1 朗读一个问题或陈述，再由 Speaker 2 依次朗读 A-C 三个回答。
+- 正确回答应包含直接回答、间接回答、请求回应、建议回应等多种类型，不能全部依赖关键词复述。
+- 每题必须包含 Answer、Explanation、Tags。
+
+Part 3：
+- 每组使用 ## Group N、### Questions、### Audio、3 个 ### Question、### Answers、### Explanation、### Tags。
+- Audio 首行由 Narrator 说明题号范围，之后使用 2-3 位 Speaker 展开自然商务对话。
+- 每组 3 题应混合主旨、细节、意图、推断和下一步行动。Explanation 下必须为每题分别建立 #### Question N。
+
+Part 4：
+- 结构与 Part 3 相同，但材料是 announcement、telephone message、advertisement、news report、tour information 或 workplace talk。
+- Audio 首行必须是 Narrator，正文通常由 Speaker 1 连续朗读。
+- 每组必须有完整 transcript、3 道题、答案映射和逐题解析。
+
+Part 5：
+- 每题包含一个自然的句子填空、A-D、Answer、Explanation、Tags，可选 Vocabulary。
+- 题目覆盖词性、时态、语态、主谓一致、介词、连词、关系从句、代词、比较结构和商务词汇。
+- Explanation 要解释具体语法或词义依据，不能只写正确字母。
+
+Part 6：
+- 创建 4 个不同类型的 Passage Group，每组 4 题。
+- 材料可以是 email、notice、article、letter 或 memo。
+- 题型应混合词汇、语法、句子插入和阅读理解，并使用项目规范中的 _____ 与 **[1]** 标记。
+- 每题均包含 A-D、Answer、Explanation；材料必须连贯，插入句必须只有一个合理位置。
+
+Part 7：
+- 使用 ## Passage Group N、### Type、### Passage 1/2/3、材料类型 heading、Questions、Answers 和 Explanations。
+- single 必须只有一份材料，double 必须有两份，triple 必须有三份。
+- 材料类型应多样，包括 Email、Notice、Advertisement、Article、Chat、Schedule、Invoice、Web Page 和 Memo；需要时使用标准 Markdown table。
+- double/triple 的部分问题必须要求交叉对照两份或三份材料，而不是所有答案都能从单一材料直接找到。
+- 题型覆盖主旨、事实细节、NOT/EXCEPT、词义、意图、推断、信息配对和文本插入。每题都必须有明确答案及证据充分的解析。
+
+六、质量与格式要求
+
+- 不要输出占位符、TODO、未完成段落、"其余题目同上" 或省略号代替内容。
+- 不要把正确答案直接泄露在题干、标签或格式中。
+- 同一组问题必须与对应 Audio/Passage 完全一致，姓名、日期、时间、价格、地点和数量不得前后矛盾。
+- Explanation 应简洁说明文本证据或语法原因；不能只重复选项。
+- Tags 使用简短、稳定、小写、连字符分隔的英文词。
+- Markdown heading 层级必须与 docs/TOEIC-MD-SPEC.md 完全一致。
+- Part 1/2 的听力选项写入 Audio；Part 3/4 的所有可朗读原文必须完整写入 Audio。
+- 不得手工把题库内容写入 Vue、TypeScript、评分逻辑或 public/tests/index.json。
+- 不得遗漏用户输入词表中的任何有效单词，也不得只在 Explanation 或 vocabulary-coverage.md 中制造表面覆盖。
+
+七、完成后的验证
+
+生成文件后必须实际执行：
+
+npm run generate:index
+npm test
+npm run build
+
+如果验证失败，继续修复 Markdown、题数、题号、答案、选项、图片路径或 Parser 格式，直到全部通过。最后报告：
+
+- 实际创建的文件列表
+- Part 1-7 各自题数
+- Listening、Reading 和总题数
+- transcript、答案、解析和 Part 1 图片是否齐全
+- 用户输入词表的原始条目数、去重后的有效单词数、已覆盖数和未覆盖数
+- vocabulary-coverage.md 的路径，以及每个单词是否都能对应到真实的 Part/Question/Group
+- 测试与构建的真实执行结果
+
+请直接创建全部文件并完成验证，不要只提供计划或少量示例。
+```
+
 ## Markdown 与 Speaker
 
 每个 Part 只有一个 Markdown 文件。Listening 的语音块使用严格标签：
