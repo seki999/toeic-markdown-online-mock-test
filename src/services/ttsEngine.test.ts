@@ -1,0 +1,3 @@
+import { describe,expect,it } from 'vitest'; import { assignDefaultVoices } from './ttsEngine'
+const voice=(voiceURI:string,lang='en-US')=>({voiceURI,name:voiceURI,lang,localService:true,default:false}) as SpeechSynthesisVoice
+describe('TTS speaker mapping',()=>{it('assigns distinct English voices when available',()=>{const result=assignDefaultVoices([voice('a'),voice('b'),voice('c'),voice('d')]);expect(new Set(Object.values(result)).size).toBe(4)});it('falls back safely when only one voice exists',()=>{const result=assignDefaultVoices([voice('only')]);expect(Object.values(result)).toEqual(['only','only','only','only'])})})
