@@ -6,9 +6,9 @@ import { parseMetadata, parsePart } from './markdownParser'
 import { allQuestions } from './testLoader'
 import { validateTestContent } from './validation'
 
-const contentRoot = fileURLToPath(new URL('../../public/tests/test-002/', import.meta.url))
+const contentRoot = fileURLToPath(new URL('../../public/tests/test-001/', import.meta.url))
 
-describe('complete test-002 content', () => {
+describe('complete test-001 content', () => {
   it('parses all 200 questions with continuous IDs and valid answers', async () => {
     const metadata = parseMetadata(await readFile(`${contentRoot}/metadata.md`, 'utf8'))
     const parts = await Promise.all(Array.from({ length: 7 }, async (_, index) => {

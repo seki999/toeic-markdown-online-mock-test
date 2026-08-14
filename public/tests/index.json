@@ -1,11 +1,11 @@
 [
   {
-    "id": "test-002",
-    "title": "TOEIC Complete Mock Test 002",
+    "id": "test-001",
+    "title": "TOEIC Complete Mock Test 001",
     "version": "1.0",
     "difficulty": "medium",
     "targetScore": "600-850",
     "demo": false,
-    "path": "tests/test-002/"
+    "path": "tests/test-001/"
   }
 ]

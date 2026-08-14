@@ -18,7 +18,7 @@
 
 ## 内置题库
 
-- `test-002`：完整原创英语模拟考试，Listening 100 + Reading 100，共 200 题；包含六张 Part 1 场景图、全部 Listening transcript、答案和逐题解析，`demo: false`。
+- `test-001`：完整原创英语模拟考试，Listening 100 + Reading 100，共 200 题；包含六张 Part 1 场景图、全部 Listening transcript、答案和逐题解析，`demo: false`。
 
 ## 技术栈
 
@@ -74,7 +74,7 @@ npm run preview
 
 ## 新增一套 TOEIC Test
 
-1. 复制 `public/tests/test-002/` 为新的唯一目录，例如 `test-003/`。
+1. 复制 `public/tests/test-001/` 为新的唯一目录，例如 `test-new/`。
 2. 编辑 `metadata.md`，至少修改 `id` 和 `title`。正式 200 题测试设 `demo: false`。
 3. 按 TOEIC-MD-SPEC 编写 `part1.md` 至 `part7.md`。题号必须在整套测试内唯一。
 4. 执行 `npm run generate:index`；不要手工长期维护 `index.json`。
