@@ -56,7 +56,7 @@ npm run generate:index
 npm run dev
 ```
 
-Vite 会输出本地 URL。浏览器 voice 列表依赖操作系统，首次打开 Settings 时可点击 “Refresh available voices”。
+Vite 会输出本地 URL。浏览器voice 列表依赖操作系统，首次打开 Settings 时可点击 “Refresh available voices”。
 
 生产检查：
 
