@@ -16,6 +16,11 @@
 - 内容校验：检查正式考试题量、重复题号、答案与选择项数量；`demo: true` 允许缩短题量。
 - Responsive：Part 7 桌面双栏、移动端上下排列，触控按钮不小于 44px。
 
+## 内置题库
+
+- `test-001`：24 题功能演示题库，`demo: true`。
+- `test-002`：完整原创英语模拟考试，Listening 100 + Reading 100，共 200 题；包含六张 Part 1 场景图、全部 Listening transcript、答案和逐题解析，`demo: false`。
+
 ## 技术栈
 
 Vue 3、TypeScript、Vite、Pinia、Vue Router、markdown-it、js-yaml、Web Speech API、Vitest、GitHub Actions / Pages。没有后端、数据库、音频生成、Docker 或云服务依赖。
@@ -125,7 +130,7 @@ Vite 使用 `base: './'`，Vue Router 使用 hash history，因此同时兼容 `
 
 ## 当前限制
 
-- Demo 题库只用于证明七 Part 的结构与交互，不是完整 200 题。
+- `test-001` 仅用于快速功能演示；正式完整题量请使用 `test-002`。
 - 显示 Raw Score，不伪造官方 scaled TOEIC score。
 - TTS 音质、voice 和 pause 行为取决于设备；未上传任何音频。
 - LocalStorage 不跨设备同步，也没有登录、云端历史或防作弊系统。

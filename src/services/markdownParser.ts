@@ -147,7 +147,8 @@ function parseGroup(all: Section[], rootIndex: number, part: PartNumber): Questi
     const siblingAnswer = trailing.find(({ section: item }) => item.title.toLowerCase() === 'answer')?.section
     const siblingExplanation = trailing.find(({ section: item }) => item.title.toLowerCase() === 'explanation')?.section
     if (siblingAnswer) localAnswers.set(id, answerValue(siblingAnswer.lines, siblingAnswer.line))
-    if (siblingExplanation) localExplanations.set(id, clean(siblingExplanation.lines))
+    const siblingExplanationText = siblingExplanation ? clean(siblingExplanation.lines) : ''
+    if (siblingExplanationText) localExplanations.set(id, siblingExplanationText)
     return questionFromSection(all, index, part, { speech: groupSpeech, passages, answers: localAnswers, explanations: localExplanations, tags: groupTags })
   })
   if (!questions.length) throw new ToeicMarkdownError(`${root.title} contains no questions`, root.line)
