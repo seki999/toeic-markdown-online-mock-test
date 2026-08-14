@@ -18,7 +18,6 @@
 
 ## 内置题库
 
-- `test-001`：24 题功能演示题库，`demo: true`。
 - `test-002`：完整原创英语模拟考试，Listening 100 + Reading 100，共 200 题；包含六张 Part 1 场景图、全部 Listening transcript、答案和逐题解析，`demo: false`。
 
 ## 技术栈
@@ -75,7 +74,7 @@ npm run preview
 
 ## 新增一套 TOEIC Test
 
-1. 复制 `public/tests/test-001/` 为新的唯一目录，例如 `test-002/`。
+1. 复制 `public/tests/test-002/` 为新的唯一目录，例如 `test-003/`。
 2. 编辑 `metadata.md`，至少修改 `id` 和 `title`。正式 200 题测试设 `demo: false`。
 3. 按 TOEIC-MD-SPEC 编写 `part1.md` 至 `part7.md`。题号必须在整套测试内唯一。
 4. 执行 `npm run generate:index`；不要手工长期维护 `index.json`。
@@ -130,11 +129,10 @@ Vite 使用 `base: './'`，Vue Router 使用 hash history，因此同时兼容 `
 
 ## 当前限制
 
-- `test-001` 仅用于快速功能演示；正式完整题量请使用 `test-002`。
 - 显示 Raw Score，不伪造官方 scaled TOEIC score。
 - TTS 音质、voice 和 pause 行为取决于设备；未上传任何音频。
 - LocalStorage 不跨设备同步，也没有登录、云端历史或防作弊系统。
-- Part 1 demo 使用内置视觉占位插画；内容作者可按规范提供自己的图片。
+- Part 1 使用题库自带的 SVG 场景图；内容作者也可以按规范提供自己的图片。
 - Exam Mode 提供合理的流程限制，但不尝试复制正式考场的全部计时与监管规则。
 
 ## 后续扩展

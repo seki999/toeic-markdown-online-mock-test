@@ -1,14 +1,5 @@
 [
   {
-    "id": "test-001",
-    "title": "TOEIC Mock Test 001",
-    "version": "1.0",
-    "difficulty": "Medium",
-    "targetScore": "600-750",
-    "demo": true,
-    "path": "tests/test-001/"
-  },
-  {
     "id": "test-002",
     "title": "TOEIC Complete Mock Test 002",
     "version": "1.0",
