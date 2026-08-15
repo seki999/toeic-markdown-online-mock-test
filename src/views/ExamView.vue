@@ -7,7 +7,7 @@ import TtsControls from '../components/TtsControls.vue'
 import { buildContinuousListeningSequence, LISTENING_INTERVALS } from '../services/listeningSequence'
 import { getTtsEngine } from '../services/ttsEngine'
 import { useExamStore } from '../stores/exam'
-import type { ChoiceLabel, QuestionGroup, ToeicTest } from '../types/exam'
+import type { ChoiceLabel, PartNumber, QuestionGroup, SpeechLine, ToeicTest } from '../types/exam'
 
 const props = defineProps<{ section?: string }>()
 const route = useRoute()
@@ -16,8 +16,7 @@ const store = useExamStore()
 const testId = String(route.params.testId)
 const test = ref<ToeicTest>()
 const started = ref(false)
-const readingPhase = ref(props.section === 'reading')
-const readingPosition = ref(0)
+const activePart = ref<PartNumber>((props.section === 'reading' ? 5 : 1) as PartNumber)
 const listeningControls = ref<{ play: () => Promise<void> }>()
 
 onMounted(async () => {
@@ -31,51 +30,53 @@ onMounted(async () => {
 onBeforeUnmount(() => getTtsEngine().cancelSpeech())
 
 const allGroups = computed<QuestionGroup[]>(() => test.value?.parts.flatMap((part) => part.groups) ?? [])
-const listeningGroups = computed(() => allGroups.value.filter((group) => group.part <= 4))
-const readingGroups = computed(() => allGroups.value.filter((group) => group.part >= 5))
-const listeningQuestions = computed(() => listeningGroups.value.flatMap((group) => group.questions))
-const currentReading = computed(() => readingGroups.value[readingPosition.value])
+const partGroups = computed(() => allGroups.value.filter((group) => group.part === activePart.value))
+const partQuestions = computed(() => partGroups.value.flatMap((group) => group.questions))
 const total = computed(() => test.value?.parts.flatMap((part) => part.groups.flatMap((group) => group.questions)).length ?? 0)
-const isListeningPhase = computed(() => started.value && props.section !== 'reading' && !readingPhase.value)
-const readingStartNumber = computed(() => listeningQuestions.value.length + readingGroups.value
-  .slice(0, readingPosition.value)
-  .reduce((count, group) => count + group.questions.length, 0) + 1)
-const percent = computed(() => total.value
-  ? Math.round((Math.min(isListeningPhase.value ? 1 : readingStartNumber.value, total.value) / total.value) * 100)
-  : 0)
+const startPart = computed(() => props.section === 'reading' ? 5 : 1)
+const endPart = computed(() => props.section === 'listening' ? 4 : 7)
+const firstQuestionNumber = computed(() => partQuestions.value[0]?.id ?? 0)
+const lastQuestionNumber = computed(() => partQuestions.value.at(-1)?.id ?? 0)
+const percent = computed(() => total.value ? Math.round((firstQuestionNumber.value / total.value) * 100) : 0)
 
-const continuousListeningLines = computed(() => buildContinuousListeningSequence(listeningGroups.value))
+const currentListeningLines = computed<SpeechLine[]>(() => {
+  const lines = buildContinuousListeningSequence(partGroups.value)
+  if (activePart.value >= 4 || !lines.length) return lines
+
+  return lines.map((line, index) => index === lines.length - 1
+    ? { ...line, pauseAfterMs: (line.pauseAfterMs ?? 0) + LISTENING_INTERVALS.partTransitionExtraMs }
+    : line)
+})
 
 function choose(id: number, value: ChoiceLabel) {
   store.answer(testId, id, value)
 }
 
+async function playCurrentListeningPart() {
+  if (activePart.value > 4) return
+  await nextTick()
+  void listeningControls.value?.play()
+}
+
 async function startTest() {
   started.value = true
   store.clearAnswers(testId)
-
-  if (props.section !== 'reading') {
-    await nextTick()
-    void listeningControls.value?.play()
-  }
+  await playCurrentListeningPart()
 }
 
-function continueToReading() {
-  getTtsEngine().cancelSpeech()
-  readingPhase.value = true
-  readingPosition.value = 0
+async function handleListeningComplete() {
+  if (activePart.value >= 4 || activePart.value >= endPart.value) return
+  activePart.value = (activePart.value + 1) as PartNumber
   window.scrollTo({ top: 0, behavior: 'smooth' })
+  await playCurrentListeningPart()
 }
 
-function nextReading() {
-  if (readingPosition.value < readingGroups.value.length - 1) {
-    readingPosition.value++
-    window.scrollTo({ top: 0, behavior: 'smooth' })
-  }
-}
-
-function previousReading() {
-  if (readingPosition.value > 0) readingPosition.value--
+async function goToPart(part: number) {
+  if (part < startPart.value || part > endPart.value) return
+  getTtsEngine().cancelSpeech()
+  activePart.value = part as PartNumber
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+  await playCurrentListeningPart()
 }
 
 function submit() {
@@ -93,48 +94,57 @@ function submit() {
     <section v-if="test && !started" class="start-screen">
       <p class="eyebrow">Exam mode</p>
       <h1>Ready when you are.</h1>
-      <p class="lead">Press Start test once. Listening Parts 1–4 will then play continuously while all 100 Listening questions remain available from top to bottom.</p>
+      <p class="lead">Each Part has its own full page. Press Start test once; Listening Parts 1–4 play continuously and change Part pages automatically.</p>
       <ul>
         <li>{{ total }} original questions in this {{ test.metadata.demo ? 'demonstration' : 'full' }} test</li>
-        <li>One click starts continuous Listening playback</li>
+        <li>One long page for every Part</li>
         <li>No Next button between Listening questions or sets</li>
         <li>Automatic TOEIC-style answer intervals: {{ LISTENING_INTERVALS.part1AnswerMs / 1000 }} seconds in Parts 1–2 and {{ LISTENING_INTERVALS.part3And4AnswerMs / 1000 }} seconds per question in Parts 3–4</li>
-        <li>Reading allows previous/next navigation</li>
+        <li>Reading moves by complete Part pages</li>
         <li>Raw scores only; no unofficial TOEIC conversion</li>
       </ul>
       <button class="button primary large" @click="startTest">Start test</button>
     </section>
 
-    <template v-else-if="test && isListeningPhase">
+    <template v-else-if="test && partGroups.length">
       <div class="exam-bar">
-        <div><span>Listening questions</span><strong>1–{{ listeningQuestions.length }}</strong></div>
+        <div><span>Part {{ activePart }}</span><strong>Questions {{ firstQuestionNumber }}–{{ lastQuestionNumber }}</strong></div>
         <div class="progress"><i :style="{ width: `${percent}%` }" /></div>
-        <span>Continuous</span>
+        <span>{{ activePart <= 4 ? 'Auto playback' : `${percent}%` }}</span>
       </div>
 
-      <div class="workspace-header listening-header">
+      <div class="workspace-header">
         <div>
-          <p class="eyebrow">Listening · Continuous playback</p>
-          <h1>Parts 1–4</h1>
-          <p class="lead">All {{ listeningQuestions.length }} questions are shown below. Audio plays automatically in question order with built-in answer intervals.</p>
+          <p class="eyebrow">{{ activePart <= 4 ? 'Listening · Continuous playback' : 'Reading' }}</p>
+          <h1>Part {{ activePart }}</h1>
+          <p class="lead">Questions {{ firstQuestionNumber }}–{{ lastQuestionNumber }} · {{ partQuestions.length }} questions on this page.</p>
         </div>
         <span class="pill">Exam mode</span>
       </div>
 
-      <TtsControls ref="listeningControls" :lines="continuousListeningLines" exam />
+      <TtsControls
+        v-if="activePart <= 4"
+        ref="listeningControls"
+        :key="activePart"
+        :lines="currentListeningLines"
+        exam
+        @complete="handleListeningComplete"
+      />
 
-      <div class="continuous-listening">
-        <section v-for="group in listeningGroups" :key="group.id" class="listening-set">
-          <header class="listening-set-header">
-            <p class="eyebrow">Part {{ group.part }}</p>
+      <div class="part-exam-page">
+        <section v-for="group in partGroups" :key="group.id" class="exam-question-set">
+          <header class="question-set-header">
+            <p class="eyebrow">Part {{ activePart }}</p>
             <h2>Questions {{ group.questions[0]?.id }}<template v-if="group.questions.length > 1">–{{ group.questions.at(-1)?.id }}</template></h2>
           </header>
+
           <div class="questions-stack exam-stack">
             <QuestionCard
-              v-for="question in group.questions"
+              v-for="(question, questionIndex) in group.questions"
               :key="question.id"
               :question="question"
               :model-value="store.answers[testId]?.[question.id]"
+              :hide-passages="activePart >= 6 && questionIndex > 0"
               exam
               @update:model-value="choose(question.id, $event)"
             />
@@ -142,86 +152,62 @@ function submit() {
         </section>
       </div>
 
-      <div class="pager sticky listening-finish">
-        <span>End of Listening Parts 1–4</span>
-        <button v-if="props.section === 'listening'" class="primary danger" @click="submit">Submit test</button>
-        <button v-else class="primary" @click="continueToReading">Continue to Reading →</button>
-      </div>
-    </template>
-
-    <template v-else-if="test && currentReading">
-      <div class="exam-bar">
-        <div><span>Question progress</span><strong>{{ readingStartNumber }} / {{ total }}</strong></div>
-        <div class="progress"><i :style="{ width: `${percent}%` }" /></div>
-        <span>{{ percent }}%</span>
-      </div>
-
-      <div class="workspace-header">
-        <div><p class="eyebrow">Reading</p><h1>Part {{ currentReading.part }}</h1></div>
-        <span class="pill">Exam mode</span>
-      </div>
-
-      <section class="questions-stack exam-stack">
-        <header v-if="currentReading.part >= 6" class="reading-question-range">
-          <p class="eyebrow">Reading set</p>
-          <h2>Questions {{ currentReading.questions[0]?.id }}<template v-if="currentReading.questions.length > 1">–{{ currentReading.questions.at(-1)?.id }}</template></h2>
-        </header>
-        <QuestionCard
-          v-for="(question, questionIndex) in currentReading.questions"
-          :key="question.id"
-          :question="question"
-          :model-value="store.answers[testId]?.[question.id]"
-          :hide-passages="currentReading.part >= 6 && questionIndex > 0"
-          exam
-          @update:model-value="choose(question.id, $event)"
-        />
-      </section>
-
-      <div class="pager sticky">
-        <button :disabled="readingPosition === 0" @click="previousReading">← Previous</button>
-        <button v-if="readingPosition < readingGroups.length - 1" class="primary" @click="nextReading">Next →</button>
+      <div v-if="activePart >= 4" class="pager sticky part-navigation">
+        <button v-if="activePart > 5 && activePart > startPart" @click="goToPart(activePart - 1)">← Part {{ activePart - 1 }}</button>
+        <span v-else>End of Part {{ activePart }}</span>
+        <button v-if="activePart < endPart" class="primary" @click="goToPart(activePart + 1)">Continue to Part {{ activePart + 1 }} →</button>
         <button v-else class="primary danger" @click="submit">Submit test</button>
+      </div>
+
+      <div v-else class="automatic-part-note">
+        Part {{ activePart + 1 }} opens and starts automatically after this Part finishes.
       </div>
     </template>
   </div>
 </template>
 
 <style scoped>
-.continuous-listening {
+.part-exam-page {
   display: grid;
   gap: 2rem;
   margin-top: 1.5rem;
 }
 
-.listening-set {
+.exam-question-set {
   scroll-margin-top: 150px;
 }
 
-.listening-set-header,
-.reading-question-range {
+.question-set-header {
   padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
   background: var(--mint);
   border: 1px solid var(--line);
   border-radius: 18px;
-  margin-bottom: 1rem;
 }
 
-.listening-set-header .eyebrow,
-.reading-question-range .eyebrow {
+.question-set-header .eyebrow {
   margin-bottom: 0.35rem;
 }
 
-.listening-set-header h2,
-.reading-question-range h2 {
+.question-set-header h2 {
   margin: 0;
   font-size: 1.8rem;
 }
 
-.listening-finish {
+.automatic-part-note {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  text-align: center;
+  font-weight: 800;
+  background: var(--mint);
+  border-radius: 14px;
+}
+
+.part-navigation {
   align-items: center;
 }
 
-.listening-finish span {
+.part-navigation span {
   font-weight: 800;
 }
 </style>

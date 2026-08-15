@@ -8,7 +8,7 @@
 
 - 覆盖 Listening Part 1–4 与 Reading Part 5–7 的统一内部模型。
 - Practice Mode：按 Part 练习、播放/暂停/继续/停止、查看答案、Transcript 和解析。
-- Exam Mode：Listening 顺序前进，Reading 可前后导航；统一提交后显示 Raw Score。
+- Exam Mode：Part 1–7 各自使用一张独立长页面。点击一次 Start 后自动连续播放 Listening Part 1–4，并在一个 Part 播放完后自动切换到下一 Part 页面，无需题组级 Next；Reading 按整个 Part 前后导航，统一提交后显示 Raw Score。
 - Result：Listening、Reading、Total、Accuracy 及各 Part 明细。
 - Review：按全部、错误、正确、未回答过滤；错误题可再次练习。
 - LocalStorage：保存当前答案、历史结果、错题以及四个角色的 voice/rate 设置。
@@ -114,7 +114,8 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 9. 每个题号在整套题库中必须唯一且连续。不得缺题、重复题号、缺选项、缺答案或缺解析。
 10. 正式题库必须设置 demo: false。不要在题库标题、正文或 UI 文案中加入 DEMO。
 11. 严格遵守 docs/TOEIC-MD-SPEC.md 的 heading、Speaker、Answer、Explanation、Tags 和 Passage 语法。文件编码使用 UTF-8，不要加入 Parser 不支持的自定义 HTML。
-12. 不创建 MP3/WAV。Listening 由浏览器 TTS 朗读，所有可朗读内容必须写在 Audio 中，并只使用 Narrator、Speaker 1、Speaker 2、Speaker 3 标签。
+12. 不创建 MP3/WAV。Listening 由浏览器 TTS 朗读，题库 Audio 只使用 Narrator、Speaker 1、Speaker 2、Speaker 3 标签。
+13. 不要在 Markdown 中写计时命令、暂停标记、分页或 Next 操作。考试模式由网站把 Part 1–7 分别显示为独立长页面；用户点击一次 Start 后，Part 1–4 自动连续播放并在 Part 边界自动换页。题号朗读、问题/选项朗读和作答间隔也由网站代码统一加入。
 
 二、用户输入词表和覆盖规则
 
@@ -165,21 +166,25 @@ Part 1：
 - 6 道题分别使用一张项目内置共享图，Image 必须填写 `images/toeic-scenes/` 下的完整路径；不要引用 [TEST_ID] 目录中的图片，也不要创建图片。
 - 先根据共享场景图设计 A-D 描述，正确答案必须与图中可观察内容一致。
 - Audio 包含 Speaker 1 朗读的 A-D 四个完整描述句。Explanation 必须说明图中哪个可见细节支持正确答案。
+- 不要在 Audio 中手工添加 `Question 1.`、`Question 2.` 等题号，也不要写暂停时间。考试模式会在每题 A-D 之前自动用 Narrator 朗读对应题号，并在该题结束后自动留出5秒作答时间；手工添加会造成重复朗读。
 
 Part 2：
 - 每题 Audio 先由 Speaker 1 朗读一个问题或陈述，再由 Speaker 2 依次朗读 A-C 三个回答。
 - 正确回答应包含直接回答、间接回答、请求回应、建议回应等多种类型，不能全部依赖关键词复述。
 - 每题必须包含 Answer、Explanation、Tags。
+- 不要写暂停标记；考试模式会在每题 Audio 结束后自动留出5秒作答时间。
 
 Part 3：
 - 每组使用 ## Group N、### Questions、### Audio、3 个 ### Question、### Answers、### Explanation、### Tags。
 - Audio 首行由 Narrator 说明题号范围，之后使用 2-3 位 Speaker 展开自然商务对话。
 - 每组 3 题应混合主旨、细节、意图、推断和下一步行动。Explanation 下必须为每题分别建立 #### Question N。
+- Audio 只写 Narrator 引导和 conversation transcript，不要在 Audio 中再次复制三道题及选项。考试模式会在对话后自动读取各 Question 和 A-D，并在每题后留出8秒作答时间。
 
 Part 4：
 - 结构与 Part 3 相同，但材料是 announcement、telephone message、advertisement、news report、tour information 或 workplace talk。
 - Audio 首行必须是 Narrator，正文通常由 Speaker 1 连续朗读。
 - 每组必须有完整 transcript、3 道题、答案映射和逐题解析。
+- Audio 不要重复 Question 和选项，也不要写暂停标记。考试模式会在 talk 后自动朗读各 Question 和 A-D，并在每题后留出8秒作答时间。
 
 Part 5：
 - 每题包含一个自然的句子填空、A-D、Answer、Explanation、Tags，可选 Vocabulary。
@@ -207,7 +212,8 @@ Part 7：
 - Explanation 应简洁说明文本证据或语法原因；不能只重复选项。
 - Tags 使用简短、稳定、小写、连字符分隔的英文词。
 - Markdown heading 层级必须与 docs/TOEIC-MD-SPEC.md 完全一致。
-- Part 1/2 的听力选项写入 Audio；Part 3/4 的所有可朗读原文必须完整写入 Audio。
+- Part 1/2 的听力内容和选项写入 Audio；Part 3/4 只把 Narrator 引导及 conversation/talk transcript 写入 Audio，三道 Question 和 choices 保持在规定的 Question sections 中，由网站自动接入播放队列。
+- Part 1 不得手工加入题号；Part 3/4 不得把已经存在的 Question/choices 再复制到 Audio。连续播放、Part 1 题号、Part 3/4 问题与选项、5秒/8秒作答间隔和 Part 切换缓冲均由网站自动生成。
 - 不得手工把题库内容写入 Vue、TypeScript、评分逻辑或 public/tests/index.json。
 - 不得遗漏用户输入词表中的任何有效单词，也不得只在 Explanation 或 vocabulary-coverage.md 中制造表面覆盖。
 
@@ -250,7 +256,9 @@ I'll check it now.
 
 ## Browser TTS 原理与限制
 
-`TtsEngine` 是唯一可直接调用 `window.speechSynthesis` 的模块。它把 `SpeechLine[]` 顺序送入 `SpeechSynthesisUtterance`，在 Narrator 后等待约 500ms、其他角色间等待约 300ms，并在新播放或离开页面时 `cancel()`，避免重叠。手机浏览器通常要求播放由点击触发，因此页面绝不自动朗读。
+`TtsEngine` 是唯一可直接调用 `window.speechSynthesis` 的模块。用户点击一次 `Start test` 满足浏览器的播放手势要求后，Exam Mode 会自动连续朗读 Part 1–4，不再要求逐题点击 Play 或 Next。每个 Part 是一张独立长页面；当前 Part 播放完成后，系统自动打开并播放下一 Part。普通 Narrator 行后等待约500ms、其他角色间等待约300ms；Part 1/2 每题后留5秒，Part 3/4 自动朗读问题和选项并在每题后留8秒，Part 切换再增加3秒缓冲。这些是 TOEIC-style 模拟节奏，不宣称是官方精确计时。
+
+Part 1 的 Markdown 只保存 A-D 描述，连续播放队列会自动在前面插入 `Question N.`；Part 3/4 的 Markdown 保存完整 conversation/talk、Question 和 choices，播放队列会在材料后自动组合并朗读它们。这样新增题库只需要正确的 Markdown，不需要自行编码题号或计时。
 
 Web Speech API 没有标准的 voice 性别字段，voice 名称和数量也因 Windows、macOS、Android、Chrome、Edge、Safari 而异。系统会优先轮换可用英语 voice，数量不足时安全回退；用户选择始终优先。某些移动浏览器的 pause/resume 行为由浏览器实现决定。
 

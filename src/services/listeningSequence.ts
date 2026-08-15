@@ -17,6 +17,17 @@ function sourceAudio(group: QuestionGroup): SpeechLine[] {
   return group.speech.length ? group.speech : group.questions.flatMap((question) => question.speech)
 }
 
+function part1Sequence(group: QuestionGroup): SpeechLine[] {
+  const questionNumber = group.questions[0]?.id
+  const announcement: SpeechLine[] = questionNumber
+    ? [{ speaker: 'Narrator', text: `Question ${questionNumber}.` }]
+    : []
+  return withFinalPause(
+    [...announcement, ...sourceAudio(group)],
+    LISTENING_INTERVALS.part1AnswerMs,
+  )
+}
+
 function part3And4Sequence(group: QuestionGroup): SpeechLine[] {
   const material = sourceAudio(group).map((line) => ({ ...line }))
   const questions = group.questions.flatMap((question) => {
@@ -37,9 +48,11 @@ export function buildContinuousListeningSequence(groups: QuestionGroup[]): Speec
     const nextGroup = groups[index + 1]
     const base = group.part >= 3
       ? part3And4Sequence(group)
-      : withFinalPause(
+      : group.part === 1
+        ? part1Sequence(group)
+        : withFinalPause(
           sourceAudio(group),
-          group.part === 1 ? LISTENING_INTERVALS.part1AnswerMs : LISTENING_INTERVALS.part2AnswerMs,
+          LISTENING_INTERVALS.part2AnswerMs,
         )
 
     if (!base.length || !nextGroup || nextGroup.part === group.part) return base

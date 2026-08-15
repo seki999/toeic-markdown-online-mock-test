@@ -5,6 +5,7 @@ import { getTtsEngine } from '../services/ttsEngine'
 import { useSettingsStore } from '../stores/settings'
 
 const props = defineProps<{ lines: SpeechLine[]; exam?: boolean }>()
+const emit = defineEmits<{ complete: [] }>()
 const settings = useSettingsStore()
 const state = ref(getTtsEngine().state)
 const hasAudio = computed(() => props.lines.length > 0)
@@ -14,6 +15,7 @@ async function play() {
   try { await getTtsEngine().speakSequence(props.lines, settings.selection, props.exam ? 1 : settings.rate) }
   catch (error) { console.error(error) }
   state.value = getTtsEngine().state
+  if (state.value === 'COMPLETED') emit('complete')
 }
 defineExpose({ play })
 function pause() { getTtsEngine().pauseSpeech(); state.value = getTtsEngine().state }

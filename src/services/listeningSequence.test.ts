@@ -30,8 +30,20 @@ describe('continuous Listening sequence', () => {
   it('adds answer time and an extra interval when the Part changes', () => {
     const lines = buildContinuousListeningSequence([group(1, 1), group(2, 7)])
 
-    expect(lines[0].pauseAfterMs).toBe(LISTENING_INTERVALS.part1AnswerMs + LISTENING_INTERVALS.partTransitionExtraMs)
+    expect(lines[0]).toMatchObject({ speaker: 'Narrator', text: 'Question 1.' })
+    expect(lines[1].pauseAfterMs).toBe(LISTENING_INTERVALS.part1AnswerMs + LISTENING_INTERVALS.partTransitionExtraMs)
     expect(lines.at(-1)?.pauseAfterMs).toBe(LISTENING_INTERVALS.part2AnswerMs)
+  })
+
+  it('announces every Part 1 question number before its answer choices', () => {
+    const lines = buildContinuousListeningSequence([group(1, 1), group(1, 2)])
+
+    expect(lines.map((line) => line.text)).toEqual([
+      'Question 1.',
+      'Material 1',
+      'Question 2.',
+      'Material 2',
+    ])
   })
 
   it('reads Part 3 questions and choices, then pauses for each answer', () => {
