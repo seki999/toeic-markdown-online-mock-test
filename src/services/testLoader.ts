@@ -4,13 +4,13 @@ import { parseMetadata, parsePart } from './markdownParser'
 const assetUrl = (path: string) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
 
 async function getText(url: string): Promise<string> {
-  const response = await fetch(url)
+  const response = await fetch(url, { cache: 'no-store' })
   if (!response.ok) throw new Error(`Unable to load ${url}: HTTP ${response.status}`)
   return response.text()
 }
 
 export async function loadTestIndex(): Promise<TestIndexEntry[]> {
-  const response = await fetch(assetUrl('tests/index.json'))
+  const response = await fetch(assetUrl('tests/index.json'), { cache: 'no-store' })
   if (!response.ok) throw new Error(`Unable to load test index: HTTP ${response.status}`)
   return response.json() as Promise<TestIndexEntry[]>
 }
