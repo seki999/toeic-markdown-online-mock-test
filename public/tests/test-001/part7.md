@@ -8,56 +8,35 @@ single
 
 ### Passage 1
 
-#### Email
+#### Notice
 
-**From:** Priya Nair  
-**To:** Riverside Hotel  
-**Subject:** Meeting room equipment
-
-Our team will use the Cedar Room on May 18. Please confirm that the room has a video screen and connections for two laptop computers. We no longer need the coffee service included in our original reservation, but we would like bottled water for twelve participants.
+This section of the rail yard is company territory and is closed to the public. Trespass beyond this sign is prohibited and may result in prosecution. Authorized personnel must display an ID badge at all times. For access requests, contact the site office at extension 204.
 
 ### Question 147
 
-Why did Priya write?
+What is prohibited beyond the sign?
 
-- A. To apply for a hotel job
-- B. To confirm and change meeting arrangements
-- C. To complain about room size
-- D. To reserve twelve bedrooms
+- A. Trespassing
+- B. Photography
+- C. Parking
+- D. Smoking
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-She confirms equipment and changes refreshments.
+The notice states that trespass beyond the sign is prohibited.
 
 ### Question 148
 
-What service should be removed?
+What must authorized personnel display?
 
-- A. Laptop rental
-- B. Bottled water
-- C. Coffee service
-- D. Video equipment
-
-### Answer
-
-C
-
-### Explanation
-
-She says coffee service is no longer needed.
-
-### Question 149
-
-How many people will attend?
-
-- A. Two
-- B. Twelve
-- C. Eighteen
-- D. Twenty
+- A. A hard hat
+- B. An ID badge
+- C. A visitor pass
+- D. A safety vest
 
 ### Answer
 
@@ -65,12 +44,12 @@ B
 
 ### Explanation
 
-Water is requested for twelve participants.
+The notice requires authorized personnel to display an ID badge at all times.
 
 ### Tags
 
-- single-passage
-- reading-comprehension
+- notice
+- restricted-area
 
 ## Passage Group 2
 
@@ -80,54 +59,20 @@ single
 
 ### Passage 1
 
-#### Notice
+#### Advertisement
 
-**Oak Street Parking Garage**
+**Cedar Ridge Retreat — Weekend Getaways**
 
-Level 3 will be closed for repainting from Monday, July 6 through Wednesday, July 8. Monthly permit holders may use Levels 1, 2, and 4 during this period. The elevator on the east side will remain in service. Oversized vehicles should use the entrance on King Street.
+Escape the city and discover true tranquility at Cedar Ridge Retreat, nestled in the mountains just two hours from downtown. Our guided trek along the ridge trail departs every Saturday at eight in the morning and includes a packed lunch. Rooms include a wood-burning stove and a private balcony overlooking the valley. Book online or call our reservations desk before Friday to guarantee a spot.
 
-### Question 150
+### Question 149
 
-Why will Level 3 close?
+What does Cedar Ridge Retreat offer guests?
 
-- A. For repainting
-- B. For an elevator inspection
-- C. For a public event
-- D. For permit registration
-
-### Answer
-
-A
-
-### Explanation
-
-The notice identifies repainting as the reason.
-
-### Question 151
-
-What will remain available?
-
-- A. The west elevator
-- B. The east elevator
-- C. Level 3 parking
-- D. The Oak Street entrance for large vehicles
-
-### Answer
-
-B
-
-### Explanation
-
-The east-side elevator remains in service.
-
-### Question 152
-
-Where should oversized vehicles enter?
-
-- A. Level 2
-- B. Oak Street
-- C. King Street
-- D. The east side
+- A. A rooftop pool
+- B. A cooking class
+- C. A guided trek
+- D. A shopping tour
 
 ### Answer
 
@@ -135,12 +80,29 @@ C
 
 ### Explanation
 
-The notice directs oversized vehicles to King Street.
+The advertisement mentions a guided trek along the ridge trail every Saturday.
+
+### Question 150
+
+By when should guests book to guarantee a spot?
+
+- A. Saturday morning
+- B. The day of arrival
+- C. Two months in advance
+- D. Before Friday
+
+### Answer
+
+D
+
+### Explanation
+
+The advertisement instructs guests to book before Friday to guarantee a spot.
 
 ### Tags
 
-- single-passage
-- reading-comprehension
+- advertisement
+- travel
 
 ## Passage Group 3
 
@@ -150,20 +112,37 @@ single
 
 ### Passage 1
 
-#### Advertisement
+#### Web Page
 
-**Learn Italian at Bellini Language Studio**
+**Coastal Connect — Plan Your Trip**
 
-New eight-week evening courses begin January 20. Beginners meet Mondays and Wednesdays; intermediate students meet Tuesdays and Thursdays. Register by January 10 to receive the course book at no extra cost. Returning students receive an additional ten-percent tuition discount.
+Traveling to Harbor Island? Choose between our twice-daily jetliner service from the regional airport or the scenic ferry that departs from Pier 9 every two hours. The ferry ride takes about ninety minutes and offers views of the lighthouse, while the flight takes only twenty-five minutes. Both options include free parking for travelers who book at least one day in advance.
 
-### Question 153
+### Question 151
 
-What is being advertised?
+How often does the ferry depart?
 
-- A. A travel package
-- B. Language courses
-- C. A bookstore opening
-- D. A restaurant event
+- A. Every two hours
+- B. Once a day
+- C. Every ninety minutes
+- D. Twice a week
+
+### Answer
+
+A
+
+### Explanation
+
+The page states the ferry departs from Pier 9 every two hours.
+
+### Question 152
+
+What is included for travelers who book at least one day in advance?
+
+- A. A free meal
+- B. Free parking
+- C. A discounted ticket
+- D. Priority boarding
 
 ### Answer
 
@@ -171,46 +150,12 @@ B
 
 ### Explanation
 
-The advertisement promotes Italian courses.
-
-### Question 154
-
-What is free for people registering by January 10?
-
-- A. Tuition
-- B. An evening meal
-- C. A course book
-- D. A private lesson
-
-### Answer
-
-C
-
-### Explanation
-
-Early registrants receive the book free.
-
-### Question 155
-
-Who receives a tuition discount?
-
-- A. Beginners
-- B. Intermediate students
-- C. Returning students
-- D. Wednesday students
-
-### Answer
-
-C
-
-### Explanation
-
-Returning students receive ten percent off.
+The page states both options include free parking for travelers who book a day ahead.
 
 ### Tags
 
-- single-passage
-- reading-comprehension
+- web-page
+- travel
 
 ## Passage Group 4
 
@@ -220,55 +165,25 @@ single
 
 ### Passage 1
 
-#### Memo
+#### Chat
 
-**To:** Distribution staff  
-**From:** Mei Walker, Operations
+**Ana — 8:02 AM**
+The sky looks pretty overcast this morning. Do you think the outdoor client lunch is still happening?
 
-Beginning next week, outgoing packages must be placed in the loading area by 3:30 P.M. The courier’s pickup time has changed from 5 P.M. to 4 P.M. Packages arriving after the deadline will be collected the following business day. International shipments still require the blue customs form.
+**Marcus — 8:04 AM**
+It should be fine, no rain in the forecast. It's just going to be really muggy by noon, so let's remind everyone to bring water.
 
-### Question 156
+**Ana — 8:05 AM**
+Good call. I'll set up the tent just in case.
 
-What has changed?
+### Question 153
 
-- A. The courier pickup time
-- B. The customs form color
-- C. The loading area
-- D. The workweek
+What is Ana concerned about?
 
-### Answer
-
-A
-
-### Explanation
-
-Pickup is now one hour earlier.
-
-### Question 157
-
-What happens to packages placed after 3:30?
-
-- A. They are returned to customers
-- B. They are collected the next business day
-- C. They require two forms
-- D. They are moved at five
-
-### Answer
-
-B
-
-### Explanation
-
-Late packages wait until the following business day.
-
-### Question 158
-
-What requires a blue form?
-
-- A. All local packages
-- B. Courier invoices
-- C. International shipments
-- D. Loading-area deliveries
+- A. A missing reservation
+- B. A parking shortage
+- C. The weather affecting the outdoor lunch
+- D. A late delivery
 
 ### Answer
 
@@ -276,12 +191,29 @@ C
 
 ### Explanation
 
-International shipments still require it.
+Ana asks whether the overcast sky will affect the outdoor client lunch.
+
+### Question 154
+
+What does Marcus say the weather will be like by noon?
+
+- A. Cold
+- B. Rainy
+- C. Windy
+- D. Muggy
+
+### Answer
+
+D
+
+### Explanation
+
+Marcus says it will be really muggy by noon.
 
 ### Tags
 
-- single-passage
-- reading-comprehension
+- chat
+- office
 
 ## Passage Group 5
 
@@ -291,54 +223,20 @@ single
 
 ### Passage 1
 
-#### Article
+#### Schedule
 
-**Neighborhood Market Adds Evening Hours**
+**Riverside Business Expo — Attendee Information**
 
-Starting August 1, Brookfield Market will remain open until 9 P.M. on weekdays. Owner Carla Jimenez said the change was requested by commuters who arrive home after the current 7 P.M. closing time. The market will also begin offering prepared dinners from a local catering company. Weekend hours will not change.
+Registration opens at 8:30 A.M. at the main entrance. Printed programs will no longer be mailed in advance; instead, pick up your event booklet at the newsstand kiosk just inside the lobby. The booklet includes the full session schedule, speaker biographies, and a floor map. Sessions begin promptly at 9:00 A.M.
 
-### Question 159
+### Question 155
 
-Why will weekday hours be extended?
+Where can attendees pick up the event booklet?
 
-- A. Employees requested shorter shifts
-- B. Commuters wanted later shopping times
-- C. A caterer closed
-- D. Weekend sales declined
-
-### Answer
-
-B
-
-### Explanation
-
-Commuters requested service after 7 P.M.
-
-### Question 160
-
-What new product will be offered?
-
-- A. Train tickets
-- B. Prepared dinners
-- C. Weekend newspapers
-- D. Imported furniture
-
-### Answer
-
-B
-
-### Explanation
-
-The market will sell prepared dinners.
-
-### Question 161
-
-What is indicated about weekend hours?
-
-- A. They will remain the same
-- B. They will end at nine
-- C. They begin August 1
-- D. They depend on commuters
+- A. At the newsstand kiosk
+- B. At the registration desk online
+- C. By mail
+- D. At each session room
 
 ### Answer
 
@@ -346,12 +244,29 @@ A
 
 ### Explanation
 
-The article says weekend hours will not change.
+The schedule says the booklet is available at the newsstand kiosk inside the lobby.
+
+### Question 156
+
+What information does the booklet include?
+
+- A. Parking rates
+- B. The session schedule and speaker biographies
+- C. Hotel discounts
+- D. Vendor contracts
+
+### Answer
+
+B
+
+### Explanation
+
+The schedule states the booklet includes the session schedule, speaker biographies, and a floor map.
 
 ### Tags
 
-- single-passage
-- reading-comprehension
+- schedule
+- event
 
 ## Passage Group 6
 
@@ -361,44 +276,42 @@ single
 
 ### Passage 1
 
-#### Schedule
+#### Invoice
 
-**Harbor Science Center — Saturday Workshops**
+**Bayview Hotel — Guest Invoice**
 
-| Time | Workshop | Room |
-| --- | --- | --- |
-| 9:00 | Weather Watch | 105 |
-| 10:30 | Build a Bridge | 214 |
-| 1:00 | Kitchen Chemistry | 105 |
-| 2:30 | Night Sky | Planetarium |
+| Item | Nights | Rate | Total |
+|---|---|---|---|
+| Deluxe Suite | 3 | $220 | $660 |
+| Airport Shuttle | 2 | $25 | $50 |
 
-Tickets include materials. Children under twelve must attend with an adult.
+Please sign and print your name legibly on the enclosed copy before checkout. A copy will be emailed within 24 hours of departure.
 
-### Question 162
+### Question 157
 
-Which workshop begins at 10:30?
+What type of room did the guest stay in?
 
-- A. Weather Watch
-- B. Build a Bridge
-- C. Kitchen Chemistry
-- D. Night Sky
+- A. Standard Room
+- B. Executive Room
+- C. Deluxe Suite
+- D. Garden Room
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The schedule lists Build a Bridge at 10:30.
+The invoice lists a Deluxe Suite as the room charged.
 
-### Question 163
+### Question 158
 
-Where is Night Sky held?
+What is the guest asked to do before checkout?
 
-- A. Room 105
-- B. Room 214
-- C. The kitchen
-- D. The planetarium
+- A. Pay in cash
+- B. Return the room key
+- C. Complete a survey
+- D. Sign and print their name legibly
 
 ### Answer
 
@@ -406,29 +319,12 @@ D
 
 ### Explanation
 
-The location is the planetarium.
-
-### Question 164
-
-What is required for children under twelve?
-
-- A. A separate materials fee
-- B. An accompanying adult
-- C. An afternoon ticket
-- D. A science textbook
-
-### Answer
-
-B
-
-### Explanation
-
-They must attend with an adult.
+The invoice asks the guest to sign and print their name legibly before checkout.
 
 ### Tags
 
-- single-passage
-- reading-comprehension
+- invoice
+- hotel
 
 ## Passage Group 7
 
@@ -440,66 +336,41 @@ double
 
 #### Email
 
-**From:** Luis Romero  
-**To:** PrintQuick
+**From:** Karen Nolan
+**To:** Bayfront Auto Body
+**Subject:** Estimate request — minor collision
 
-Please print 500 copies of the attached event program. We need delivery to 18 Pine Avenue by April 9. The cover should be green, and all inside pages may be black and white. Please send an estimate before beginning.
+Hello,
+
+My car was involved in a minor collision in the parking garage yesterday. Another vehicle backed up and collided with the front of my car, denting the hood and cracking part of the windshield near the corner. The rear bumper also has a small scrape. Could you provide a repair estimate by Thursday? I'd like to submit it to my insurance company as soon as possible.
+
+Thank you,
+Karen Nolan
 
 ### Passage 2
 
-#### Estimate
+#### Invoice
 
-**PrintQuick Estimate 8841**
+**Bayfront Auto Body — Repair Estimate #4471**
 
-500 programs: $420  
-Green cover upgrade: $35  
-Delivery by April 9: Included  
-Estimated completion: April 7  
+Customer: Karen Nolan
 
-Approve online by April 3 to keep this schedule.
+| Part | Work Needed | Cost |
+|---|---|---|
+| Hood | Dent removal and repaint | $340 |
+| Windshield | Full replacement | $410 |
+| Rear bumper | Buff and polish scrape | $95 |
 
-### Question 165
+Estimated completion: 3 business days from drop-off. This estimate is valid for 30 days.
 
-What does Luis request before printing begins?
+### Question 159
 
-- A. A design change
-- B. A price estimate
-- C. An April 7 delivery
-- D. Color inside pages
+What happened to Karen's car?
 
-### Answer
-
-B
-
-### Explanation
-
-He asks for an estimate before production.
-
-### Question 166
-
-How much is the order estimated to cost?
-
-- A. $35
-- B. $385
-- C. $420
-- D. $455
-
-### Answer
-
-D
-
-### Explanation
-
-$420 plus the $35 cover upgrade equals $455.
-
-### Question 167
-
-What must Luis do by April 3?
-
-- A. Approve the estimate
-- B. Collect the programs
-- C. Change the cover
-- D. Pay a delivery fee
+- A. It was involved in a minor collision
+- B. It was stolen
+- C. It broke down on the highway
+- D. It failed an inspection
 
 ### Answer
 
@@ -507,12 +378,47 @@ A
 
 ### Explanation
 
-Online approval is required to retain the schedule.
+Karen's email states her car was involved in a minor collision in the parking garage.
+
+### Question 160
+
+According to the estimate, what will happen to the windshield?
+
+- A. It will be polished
+- B. It will be fully replaced
+- C. It will be repainted
+- D. It will be removed
+
+### Answer
+
+B
+
+### Explanation
+
+The estimate lists "Full replacement" as the work needed for the windshield.
+
+### Question 161
+
+Which part did Karen describe as having only a small scrape, and how much will repairing it cost according to the estimate?
+
+- A. Hood, $340
+- B. Windshield, $410
+- C. Rear bumper, $95
+- D. Front bumper, $95
+
+### Answer
+
+C
+
+### Explanation
+
+Karen's email says the rear bumper has a small scrape, and the estimate lists $95 to buff and polish it.
 
 ### Tags
 
-- double-passage
-- reading-comprehension
+- email
+- invoice
+- auto-repair
 
 ## Passage Group 8
 
@@ -522,62 +428,28 @@ double
 
 ### Passage 1
 
-#### Notice
+#### Article
 
-**Maplewood Pool Maintenance**
+**Local News Brief**
 
-The pool will close June 10–12 for filter replacement. Monthly members may use the Eastside Recreation Center pool at no charge by showing their membership card. Swimming lessons scheduled during the closure will be rescheduled.
+A freight train partially derailed early Tuesday morning just outside the Millbrook rail yard. Rail officials confirmed there were no injuries or casualties, though several cargo containers were damaged. Commuter service, including the downtown tram line that shares part of the same corridor, was suspended for several hours while crews cleared the tracks.
 
 ### Passage 2
 
-#### Message
+#### Notice
 
-**From:** Coach Amira
+**Millbrook Transit Authority — Service Notice**
 
-Parents: Our Wednesday beginners’ lesson falls on June 11. The replacement lesson will be Friday, June 14 at the usual 4 P.M. time. Please tell me by Tuesday if your child cannot attend.
+Due to Tuesday's incident near the rail yard, the downtown tram line resumed normal service at 2:00 P.M. Riders affected by the delay may request a fare credit by presenting their ticket at any station office through Friday.
 
-### Question 168
+### Question 162
 
-Why will Maplewood Pool close?
+What caused the service disruption?
 
-- A. For a competition
-- B. For filter replacement
-- C. For staff training
-- D. For a private lesson
-
-### Answer
-
-B
-
-### Explanation
-
-The closure is for filter work.
-
-### Question 169
-
-What can members do during the closure?
-
-- A. Use another pool for free
-- B. Request a new membership card
-- C. Attend lessons at Maplewood
-- D. Visit only after four
-
-### Answer
-
-A
-
-### Explanation
-
-Members can use Eastside Recreation Center without charge.
-
-### Question 170
-
-When is the replacement beginners’ lesson?
-
-- A. June 10
-- B. June 11
-- C. June 12
-- D. June 14
+- A. A labor strike
+- B. A power outage
+- C. Severe weather
+- D. A partial train derailment
 
 ### Answer
 
@@ -585,12 +457,47 @@ D
 
 ### Explanation
 
-Coach Amira schedules it for Friday, June 14.
+The article says a freight train partially derailed near the rail yard.
+
+### Question 163
+
+What does the article say about injuries?
+
+- A. There were no injuries or casualties
+- B. Several passengers were injured
+- C. One casualty was reported
+- D. The report does not mention injuries
+
+### Answer
+
+A
+
+### Explanation
+
+The article states rail officials confirmed there were no injuries or casualties.
+
+### Question 164
+
+What can riders affected by the tram delay do, and by when?
+
+- A. Request a refund by Tuesday
+- B. Request a fare credit by Friday
+- C. Request a fare credit by Tuesday
+- D. File a complaint by Monday
+
+### Answer
+
+B
+
+### Explanation
+
+The notice says riders may request a fare credit by presenting their ticket through Friday.
 
 ### Tags
 
-- double-passage
-- reading-comprehension
+- article
+- notice
+- transportation
 
 ## Passage Group 9
 
@@ -602,47 +509,28 @@ double
 
 #### Advertisement
 
-**Crestview Business Hotel**
+**Skyline Adventure Park — Now Hiring: Observation Tower Attendants**
 
-Book a Deluxe Room for two nights and receive complimentary breakfast and airport transportation. Offer valid for stays through November 30. Reservations must be made directly on our website. Meeting rooms are available for an additional fee.
+We're looking for enthusiastic attendants to operate our 300-foot observation tower. Applicants should be comfortable working at height for extended periods; this role is not suitable for anyone with acrophobia. Training is provided, along with a competitive hourly wage and free park admission for family members. Apply online by June 1.
 
 ### Passage 2
 
-#### Confirmation
+#### Memo
 
-**Reservation: C-4917**
-Guest: Hana Seo  
-Room: Deluxe  
-Arrival: November 18  
-Departure: November 20  
-Booked through: crestviewhotel.com  
-Airport pickup requested: Yes
+**To:** Observation Tower Staff
+**From:** Operations Manager
+**Subject:** Weather protocol reminder
 
-### Question 171
+Please remember that operation of the tower must pause immediately whenever wind speeds exceed the posted limit. Continuing to run the attraction under unsafe conditions puts both guest safety and our operating permit in jeopardy. When in doubt, close the attraction and notify a supervisor.
 
-What is included in the advertised offer?
+### Question 165
 
-- A. A meeting room
-- B. Breakfast and airport transportation
-- C. A third night
-- D. Lunch and dinner
+Who is the job advertisement discouraging from applying?
 
-### Answer
-
-B
-
-### Explanation
-
-The offer includes breakfast and airport transportation.
-
-### Question 172
-
-How did Hana make the reservation?
-
-- A. By telephone
-- B. Through a travel agent
-- C. On the hotel website
-- D. At the airport
+- A. Applicants without a driver's license
+- B. Applicants under eighteen
+- C. Applicants with acrophobia
+- D. Applicants without customer service experience
 
 ### Answer
 
@@ -650,16 +538,33 @@ C
 
 ### Explanation
 
-The confirmation identifies the hotel website.
+The advertisement says the role is not suitable for anyone with acrophobia, a fear of heights.
 
-### Question 173
+### Question 166
 
-Why does Hana qualify for the offer?
+What does the memo say continuing operation under unsafe conditions could put in jeopardy?
 
-- A. She booked a Deluxe Room for two nights
-- B. She rented a meeting room
-- C. She will arrive after November 30
-- D. She paid an airport fee
+- A. Only the equipment
+- B. Only ticket sales
+- C. Only staff schedules
+- D. Guest safety and the operating permit
+
+### Answer
+
+D
+
+### Explanation
+
+The memo states unsafe operation puts guest safety and the operating permit in jeopardy.
+
+### Question 167
+
+Based on both documents, what quality is most important for someone in this specific role?
+
+- A. Comfort with heights and careful judgment about safety conditions
+- B. Experience with financial reporting
+- C. Fluency in a foreign language
+- D. Prior retail management experience
 
 ### Answer
 
@@ -667,12 +572,13 @@ A
 
 ### Explanation
 
-Her room type, length of stay, booking channel, and dates satisfy the offer.
+The advertisement requires comfort with heights, and the memo requires careful judgment about pausing operations for safety.
 
 ### Tags
 
-- double-passage
-- reading-comprehension
+- advertisement
+- memo
+- workplace-safety
 
 ## Passage Group 10
 
@@ -682,47 +588,30 @@ double
 
 ### Passage 1
 
-#### Email
+#### Article
 
-**From:** Ben Carter  
-**To:** Facilities
+**Regional News**
 
-The temperature in Room 402 remains unusually cold even when the wall control is set to 22 degrees. We have a client presentation there Thursday at 10 A.M. Could someone inspect the system before then?
+Officials are calling last week's flooding a genuine calamity for the riverside business district, with early damage estimates topping two million dollars. While some described the event as an unavoidable catastrophe, a preliminary engineering report suggests a more direct causal link: outdated drainage infrastructure that had not been upgraded in over twenty years.
 
 ### Passage 2
 
-#### Work Order
+#### Chat
 
-**Request 7718 — Completed**
-Location: Room 402  
-Issue: Heating control  
-Technician note: Replaced faulty sensor Tuesday at 3:15 P.M. Tested system at 22 degrees. Room reached normal temperature.
+**Rosa — 9:15 AM**
+Did you see the report? They're saying old drainage pipes might be the real reason the flooding was so bad.
 
-### Question 174
+**Diego — 9:17 AM**
+I read that too. It's frustrating — the city called it unavoidable, but it sounds like better maintenance could have prevented a lot of this.
 
-What problem does Ben report?
+### Question 168
 
-- A. A broken projector
-- B. A room that is too cold
-- C. A missing wall control
-- D. A canceled presentation
+How do officials initially describe the flooding?
 
-### Answer
-
-B
-
-### Explanation
-
-He says Room 402 remains unusually cold.
-
-### Question 175
-
-Why is Thursday mentioned?
-
-- A. A technician arrives then
-- B. A client presentation is scheduled
-- C. The sensor warranty ends
-- D. The room will close
+- A. A minor inconvenience
+- B. A calamity for the business district
+- C. A planned drill
+- D. A seasonal event
 
 ### Answer
 
@@ -730,16 +619,16 @@ B
 
 ### Explanation
 
-The room is needed for a client presentation Thursday.
+The article says officials called the flooding a genuine calamity for the business district.
 
-### Question 176
+### Question 169
 
-What did the technician do?
+What does the engineering report suggest?
 
-- A. Moved the presentation
-- B. Raised the requested temperature
-- C. Replaced a sensor
-- D. Installed a projector
+- A. The flooding was entirely random
+- B. New businesses caused the flooding
+- C. Outdated drainage had a direct causal role
+- D. The flooding was caused by construction nearby
 
 ### Answer
 
@@ -747,12 +636,30 @@ C
 
 ### Explanation
 
-The work order records replacement of a faulty sensor.
+The article says the report suggests a direct causal link between outdated drainage and the flooding.
+
+### Question 170
+
+What is Diego's opinion, based on the chat?
+
+- A. He agrees the flooding was completely unavoidable
+- B. He believes the report is inaccurate
+- C. He is unaware of the report
+- D. He thinks better maintenance could have reduced the damage
+
+### Answer
+
+D
+
+### Explanation
+
+Diego says it sounds like better maintenance could have prevented a lot of the damage.
 
 ### Tags
 
-- double-passage
-- reading-comprehension
+- article
+- chat
+- news
 
 ## Passage Group 11
 
@@ -762,80 +669,78 @@ double
 
 ### Passage 1
 
-#### Web Page
+#### Notice
 
-**City Arts Festival Volunteer Roles**
+**Public Notice — Riverside Warehouse Demolition**
 
-Information desk: morning and afternoon shifts  
-Stage assistant: afternoon and evening shifts; lifting required  
-Gallery guide: morning shifts; training session required May 2  
-Food area: evening shifts; food-safety certificate required
+The vacant warehouse at 220 Dockside Lane will be razed beginning next month to make way for a new community park. Nearby residents should expect increased noise and dust during the two-week demolition period. Dockside Lane will remain open, though the north sidewalk will be closed for safety.
 
 ### Passage 2
 
-#### Application
+#### Memo
 
-**Volunteer: Samuel Reed**
-Availability: Saturday morning only  
-Experience: Museum tour guide, two years  
-Certificates: None  
-Can attend May 2 training: Yes
+**To:** Planning Department Staff
+**From:** Director's Office
+**Subject:** Schedule change
 
-### Question 177
+Please note that the demolition contractor requested an abrupt change to the original timeline; work will now begin one week earlier than planned. Please update all public communications accordingly and notify the residents' association directly.
 
-Which role best suits Samuel?
+### Question 171
 
-- A. Information desk only
-- B. Stage assistant
-- C. Gallery guide
-- D. Food area
+What will happen to the warehouse at 220 Dockside Lane?
 
-### Answer
-
-C
-
-### Explanation
-
-His morning availability, guide experience, and training availability fit gallery guide.
-
-### Question 178
-
-What experience does Samuel have?
-
-- A. Stage construction
-- B. Food service
-- C. Museum tours
-- D. Office reception
+- A. It will be razed
+- B. It will be renovated
+- C. It will be sold
+- D. It will be repainted
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-His application lists two years as a museum tour guide.
+The notice states the warehouse will be razed beginning next month.
 
-### Question 179
+### Question 172
 
-What must gallery guides do?
+What will replace the warehouse?
 
-- A. Lift equipment
-- B. Hold a food certificate
-- C. Work evenings
-- D. Attend training
+- A. An office building
+- B. A community park
+- C. A parking garage
+- D. A shopping center
 
 ### Answer
 
-D
+B
 
 ### Explanation
 
-The role requires the May 2 training session.
+The notice says demolition will make way for a new community park.
+
+### Question 173
+
+What change does the memo describe, and who should be notified directly?
+
+- A. A delayed timeline; the mayor's office
+- B. An abrupt earlier start date; the residents' association
+- C. A canceled project; nearby businesses
+- D. A budget increase; the city council
+
+### Answer
+
+B
+
+### Explanation
+
+The memo describes an abrupt earlier start date and asks staff to notify the residents' association directly.
 
 ### Tags
 
-- double-passage
-- reading-comprehension
+- notice
+- memo
+- construction
 
 ## Passage Group 12
 
@@ -845,66 +750,34 @@ double
 
 ### Passage 1
 
-#### Invoice
+#### Web Page
 
-**North Shore Supplies — Invoice 5520**
+**QuickHive Courier — How It Works**
 
-20 desk lamps @ $24 = $480  
-10 extension cords @ $8 = $80  
-Delivery = $25  
-Total = $585  
-Payment due: March 16
+Our delivery drones travel at an average velocity of 45 kilometers per hour, letting most local packages arrive in a snap. Drivers are instructed not to tarry at pickup locations; each stop should take no more than three minutes to keep the whole route on schedule.
 
 ### Passage 2
 
-#### Email
+#### Schedule
 
-**From:** Accounts, Vela Design
+**QuickHive Courier — Weekday Pickup Windows**
 
-We received invoice 5520, but only eighteen desk lamps were delivered. All ten cords arrived. Please send the two missing lamps rather than issuing a credit, and confirm whether they can arrive before our office opening on March 12.
+| Zone | Pickup Window |
+|---|---|
+| Downtown | 9:00–9:30 A.M. |
+| Riverside | 10:00–10:30 A.M. |
+| Uptown | 11:00–11:30 A.M. |
 
-### Question 180
+Drivers who fall behind schedule should contact dispatch immediately rather than skipping a zone.
 
-How many lamps were ordered?
+### Question 174
 
-- A. Ten
-- B. Eighteen
-- C. Twenty
-- D. Twenty-four
+What is the average speed of QuickHive's delivery drones?
 
-### Answer
-
-C
-
-### Explanation
-
-The invoice lists twenty desk lamps.
-
-### Question 181
-
-What problem is reported?
-
-- A. The cords are damaged
-- B. Two lamps are missing
-- C. Delivery was overcharged
-- D. The invoice is late
-
-### Answer
-
-B
-
-### Explanation
-
-Only eighteen of twenty lamps arrived.
-
-### Question 182
-
-What solution does Vela Design prefer?
-
-- A. A refund
-- B. A credit
-- C. Replacement cords
-- D. Delivery of the missing lamps
+- A. 25 kilometers per hour
+- B. 30 kilometers per hour
+- C. 60 kilometers per hour
+- D. 45 kilometers per hour
 
 ### Answer
 
@@ -912,12 +785,47 @@ D
 
 ### Explanation
 
-The email asks the supplier to send the two lamps.
+The web page states the drones travel at an average velocity of 45 kilometers per hour.
+
+### Question 175
+
+How long should each pickup stop take at most?
+
+- A. Three minutes
+- B. Ten minutes
+- C. Thirty minutes
+- D. One hour
+
+### Answer
+
+A
+
+### Explanation
+
+The web page says each stop should take no more than three minutes.
+
+### Question 176
+
+According to both documents, what should a driver do if running behind during the Riverside pickup window?
+
+- A. Skip the Riverside zone
+- B. Contact dispatch immediately
+- C. Tarry at the next stop
+- D. Cancel the remaining deliveries
+
+### Answer
+
+B
+
+### Explanation
+
+The schedule instructs drivers who fall behind to contact dispatch immediately rather than skipping a zone.
 
 ### Tags
 
-- double-passage
-- reading-comprehension
+- web-page
+- schedule
+- logistics
 
 ## Passage Group 13
 
@@ -927,54 +835,49 @@ triple
 
 ### Passage 1
 
-#### Advertisement
+#### Web Page
 
-**GreenRide Electric Bicycles**
+**Northern Trails Co. — Highland Traverse**
 
-City model: $1,250 — lightweight, 60-km range  
-Cargo model: $1,690 — rear storage platform, 50-km range  
-Touring model: $1,480 — comfort seat, 90-km range  
-All models include a two-year battery warranty.
+Our signature five-day route traverses the full length of the Ashcombe Ridge, crossing streams, forests, and open moorland. Depending on rainfall, hikers may need to wade across the Ashcombe stream on day two; waterproof boots are strongly recommended. Please avoid wallowing in the boggy sections near the halfway camp, as it damages the trail.
 
 ### Passage 2
 
-#### Review
+#### Schedule
 
-I tested the GreenRide Touring model for my 35-km daily commute. The battery easily lasted two round trips, and the seat was comfortable. The bicycle is heavier than the City model, but that matters less to me than range. — D. Huang
+**Highland Traverse — Daily Itinerary**
+
+| Day | Distance | Highlight |
+|---|---|---|
+| 1 | 12 km | Ridge lookout |
+| 2 | 15 km | Ashcombe stream crossing |
+| 3 | 10 km | Halfway camp |
+| 4 | 14 km | Forest descent |
+| 5 | 8 km | Valley finish |
 
 ### Passage 3
 
 #### Email
 
-**From:** GreenRide Sales
+**From:** Priya Malhotra
+**To:** Northern Trails Co.
+**Subject:** Question about day two
 
-Mr. Huang, thank you for your order. Your blue Touring model will be ready for pickup Friday after 2 P.M. Please bring photo identification. We have added the optional rear basket you selected.
+Hi there,
 
-### Question 183
+I'm registered for the Highland Traverse next month. I saw on your website that we might need to wade across a stream on day two. Is there an alternate route for anyone who would prefer to avoid this, or is it mandatory for the whole group?
 
-Which model has the longest advertised range?
+Thanks,
+Priya
 
-- A. City
-- B. Cargo
-- C. Touring
-- D. All are equal
+### Question 177
 
-### Answer
+What does the Highland Traverse route cross?
 
-C
-
-### Explanation
-
-The Touring model has a 90-km range.
-
-### Question 184
-
-What feature mattered most to Mr. Huang?
-
-- A. Low weight
-- B. Storage capacity
-- C. Battery range
-- D. Price
+- A. Only forests
+- B. Only open moorland
+- C. Streams, forests, and moorland
+- D. A desert
 
 ### Answer
 
@@ -982,16 +885,50 @@ C
 
 ### Explanation
 
-He says range matters more than the Touring model’s heavier weight.
+The web page says the route crosses streams, forests, and open moorland.
 
-### Question 185
+### Question 178
 
-What should Mr. Huang bring Friday?
+On which day might hikers need to wade across a stream?
 
-- A. A battery
-- B. Photo identification
-- C. A printed review
-- D. A comfort seat
+- A. Day 1
+- B. Day 3
+- C. Day 4
+- D. Day 2
+
+### Answer
+
+D
+
+### Explanation
+
+Both the web page and the schedule identify day two as the Ashcombe stream crossing.
+
+### Question 179
+
+What does the web page ask hikers to avoid near the halfway camp?
+
+- A. Wallowing in the boggy sections
+- B. Making noise after dark
+- C. Feeding wildlife
+- D. Leaving the marked trail
+
+### Answer
+
+A
+
+### Explanation
+
+The web page asks hikers to avoid wallowing in the boggy sections near the halfway camp.
+
+### Question 180
+
+What is Priya asking about, based on information from the web page?
+
+- A. The total distance of the route
+- B. Whether the stream crossing on day two is mandatory
+- C. The price of the tour
+- D. Where the halfway camp is located
 
 ### Answer
 
@@ -999,12 +936,14 @@ B
 
 ### Explanation
 
-The pickup email requests photo identification.
+Priya's email references the web page's mention of wading across a stream and asks whether it is mandatory.
 
 ### Tags
 
-- triple-passage
-- reading-comprehension
+- web-page
+- schedule
+- email
+- outdoor-tour
 
 ## Passage Group 14
 
@@ -1014,41 +953,40 @@ triple
 
 ### Passage 1
 
-#### Schedule
+#### Article
 
-**Lakeview Conference — Room A**
+**Marketing Trends Weekly**
 
-9:00 Opening Remarks  
-9:30 Retail Trends  
-11:00 Coffee Break  
-11:30 Sustainable Packaging  
-1:00 Lunch  
-2:00 Digital Payments
+Fern & Co. is drawing attention for a publicity campaign that skips traditional advertising entirely, relying instead on short unscripted videos shared by employees. Compared to more conventional campaigns built around expensive television spots, the approach has cost a fraction of the usual budget while generating strong engagement online.
 
 ### Passage 2
 
-#### Message
+#### Correspondence
 
-**From:** Conference Office
+**From:** Marketing Director
+**To:** CEO
+**Subject:** Campaign performance summary
 
-The Retail Trends speaker’s train is delayed. Her session will now begin at 2 P.M. in Room C. Digital Payments remains at 2 P.M. in Room A. All other Room A sessions are unchanged.
+As outlined in our earlier correspondence, the employee video campaign has exceeded our engagement targets for the quarter. I recommend we allocate additional budget to expand this approach rather than returning to a more conventional media mix next year.
 
 ### Passage 3
 
-#### Note
+#### Chat
 
-**To:** Kim
+**Sofia — 2:10 PM**
+Did you see the Marketing Trends Weekly piece about us? Pretty good coverage.
 
-I have a supplier call at two, so I cannot attend the rescheduled Retail Trends talk. Please go and send me your notes. I’ll attend Sustainable Packaging before lunch. — Omar
+**Ben — 2:12 PM**
+I did. It's nice to get that kind of publicity without spending a fortune on ads.
 
-### Question 186
+### Question 181
 
-What begins at 11:30?
+What is unusual about Fern & Co.'s publicity campaign, according to the article?
 
-- A. Retail Trends
-- B. Coffee Break
-- C. Sustainable Packaging
-- D. Digital Payments
+- A. It uses only print ads
+- B. It targets only international markets
+- C. It skips traditional advertising for employee videos
+- D. It was created by an outside agency
 
 ### Answer
 
@@ -1056,33 +994,33 @@ C
 
 ### Explanation
 
-The schedule lists Sustainable Packaging at 11:30.
+The article says the campaign skips traditional advertising entirely, relying on employee videos instead.
 
-### Question 187
+### Question 182
 
-Where will Retail Trends take place?
+What does the marketing director recommend?
 
-- A. Room A at 9:30
-- B. Room C at 2:00
-- C. Room A at 2:00
-- D. Room C at 11:30
+- A. Returning to conventional advertising
+- B. Reducing the marketing budget
+- C. Hiring an outside agency
+- D. Expanding the employee video approach
 
 ### Answer
 
-B
+D
 
 ### Explanation
 
-The update moves it to Room C at 2 P.M.
+The correspondence says the director recommends expanding this approach rather than returning to a conventional media mix.
 
-### Question 188
+### Question 183
 
-Why can Omar not attend Retail Trends?
+What does Ben appreciate about the coverage, based on the chat?
 
-- A. He has a supplier call
-- B. He will be at lunch
-- C. His train is delayed
-- D. He is giving another talk
+- A. It came without spending a large amount of money
+- B. It focused on the company's history
+- C. It included a video interview
+- D. It was published internationally
 
 ### Answer
 
@@ -1090,12 +1028,31 @@ A
 
 ### Explanation
 
-Omar’s note says he has a supplier call at two.
+Ben says it's nice to get that kind of publicity without spending a fortune on ads.
+
+### Question 184
+
+What do the article and the internal correspondence agree on regarding the campaign's cost?
+
+- A. It was more expensive than expected
+- B. It cost less than a conventional approach while performing well
+- C. It required no budget at all
+- D. It was fully funded by an outside sponsor
+
+### Answer
+
+B
+
+### Explanation
+
+The article says the campaign cost a fraction of the usual budget, and the correspondence confirms it exceeded engagement targets, supporting expansion.
 
 ### Tags
 
-- triple-passage
-- reading-comprehension
+- article
+- correspondence
+- chat
+- marketing
 
 ## Passage Group 15
 
@@ -1105,42 +1062,93 @@ triple
 
 ### Passage 1
 
-#### Notice
+#### Web Page
 
-**Central Station Bicycle Lockers**
+**City Weather Center — 5-Day Outlook**
 
-Monthly locker rental: $18  
-Six-month rental: $96  
-Key deposit: $25, refundable  
-Apply at the station office with identification and proof of address.
+Heavy precipitation is expected Wednesday through Friday, with rainfall totals possibly exceeding three inches. Conditions should clear by the weekend, with sunny skies returning Saturday.
 
 ### Passage 2
 
-#### Application
+#### Notice
 
-Applicant: Rosa Marin  
-Rental period: Six months  
-Start date: September 1  
-Documents provided: Driver’s license, utility bill  
-Payment submitted: $121
+**Grandview Auditorium — Facility Notice**
+
+Due to a roof leak discovered above the east balcony, the affected seating section will be closed until repairs are complete. All ticket holders assigned to that section will be reseated at no additional cost. The main floor and west balcony remain fully open.
 
 ### Passage 3
 
-#### Receipt
+#### Email
 
-Locker B-42 assigned  
-Rental: September 1–February 28  
-Key deposit received: $25  
-Key collection available August 30 after 9 A.M.
+**From:** Grandview Auditorium Box Office
+**To:** Ticket Holders
+**Subject:** Seating update for Thursday's performance
 
-### Question 189
+Dear Guest,
 
-What is required with an application?
+Given the heavy rain forecast for this week and the ongoing east balcony repairs, we want to confirm that Thursday's performance will proceed as scheduled indoors. If your original seat was in the east balcony, please check your email for a reseating confirmation before arriving.
 
-- A. A bicycle receipt
-- B. Identification and proof of address
-- C. A station ticket
-- D. A photograph of the locker
+Thank you for your understanding.
+
+### Question 185
+
+When is heavy precipitation expected?
+
+- A. Saturday only
+- B. Monday and Tuesday
+- C. Wednesday through Friday
+- D. The entire week
+
+### Answer
+
+C
+
+### Explanation
+
+The weather outlook says heavy precipitation is expected Wednesday through Friday.
+
+### Question 186
+
+Why is a section of the auditorium closed?
+
+- A. A power outage
+- B. A scheduling conflict
+- C. A construction delay
+- D. A roof leak
+
+### Answer
+
+D
+
+### Explanation
+
+The notice explains the east balcony section is closed due to a roof leak.
+
+### Question 187
+
+What will ticket holders from the closed section receive?
+
+- A. A new seat at no additional cost
+- B. A refund only
+- C. A discount on merchandise
+- D. A rescheduled performance date
+
+### Answer
+
+A
+
+### Explanation
+
+The notice says affected ticket holders will be reseated at no additional cost.
+
+### Question 188
+
+What does the email confirm about Thursday's event, given the weather and repair situation?
+
+- A. It will be canceled
+- B. It will proceed indoors as scheduled
+- C. It will be moved outdoors
+- D. It will be postponed a week
 
 ### Answer
 
@@ -1148,46 +1156,14 @@ B
 
 ### Explanation
 
-The notice requires identification and proof of address.
-
-### Question 190
-
-Why did Rosa pay $121?
-
-- A. It includes rent and the key deposit
-- B. She rented two lockers
-- C. She paid a late fee
-- D. It includes an annual ticket
-
-### Answer
-
-A
-
-### Explanation
-
-$96 rental plus $25 deposit totals $121.
-
-### Question 191
-
-When can Rosa first collect the key?
-
-- A. August 30 after 9 A.M.
-- B. September 1 at noon
-- C. February 28
-- D. After six months
-
-### Answer
-
-A
-
-### Explanation
-
-The receipt gives August 30 after 9 A.M.
+The email confirms Thursday's performance will proceed as scheduled indoors despite the rain and repairs.
 
 ### Tags
 
-- triple-passage
-- reading-comprehension
+- web-page
+- notice
+- email
+- venue
 
 ## Passage Group 16
 
@@ -1197,58 +1173,40 @@ triple
 
 ### Passage 1
 
-#### Web Page
+#### Article
 
-**BrightPath Cooking School**
+**Nature Report**
 
-Quick Weeknight Meals — Monday, 6 P.M., $55  
-Artisan Bread — Saturday, 9 A.M., $70  
-Seasonal Desserts — Saturday, 2 P.M., $65  
-Fee includes ingredients. Cancel at least 48 hours ahead for a full credit.
+Conservationists say a species of frog endemic to the Willow Marsh wetlands is at risk after a nearby developer began clearing land for a new shopping complex. Local advocates describe the clearing as a direct assault on one of the region's last untouched habitats.
 
 ### Passage 2
 
-#### Confirmation
+#### Correspondence
 
-Student: Leo Grant  
-Course: Artisan Bread  
-Date: Saturday, April 17  
-Amount paid: $70  
-Special request: Dairy-free ingredients
+**Letters to the Editor**
+
+I found the developer's public statement about "balancing growth with nature" fairly vapid, given that no concrete wetland protections were mentioned. If the company is serious about balance, it should commit to a buffer zone around the marsh in writing.
+
+— Concerned Resident
 
 ### Passage 3
 
-#### Email
+#### Chat
 
-**From:** BrightPath
+**Owen — 1:05 PM**
+Did you read that letter to the editor about the marsh? Pretty sharp criticism of the developer's statement.
 
-Mr. Grant, we can provide dairy-free ingredients. Please note that Saturday’s Artisan Bread class will begin at 10 A.M., one hour later than originally listed. No action is required if you can attend.
+**Mia — 1:07 PM**
+I did. I think they're right — the statement didn't commit to anything specific. We should reach out about a buffer zone proposal.
 
-### Question 192
+### Question 189
 
-Which course did Leo book?
+What is at risk according to the article?
 
-- A. Quick Weeknight Meals
-- B. Artisan Bread
-- C. Seasonal Desserts
-- D. Dairy-Free Cooking
-
-### Answer
-
-B
-
-### Explanation
-
-The confirmation names Artisan Bread.
-
-### Question 193
-
-What is included in the course fee?
-
-- A. Cooking equipment
-- B. A full refund
-- C. Ingredients
-- D. Transportation
+- A. A local business
+- B. A historic building
+- C. A frog species endemic to Willow Marsh
+- D. A public school
 
 ### Answer
 
@@ -1256,16 +1214,50 @@ C
 
 ### Explanation
 
-The web page says ingredients are included.
+The article says a frog species endemic to the Willow Marsh wetlands is at risk.
 
-### Question 194
+### Question 190
 
-What change is announced?
+How do local advocates describe the land clearing?
 
-- A. The price increased
-- B. The class starts later
-- C. The course moved to Monday
-- D. The request was denied
+- A. A routine project
+- B. A minor inconvenience
+- C. A temporary measure
+- D. A direct assault on a habitat
+
+### Answer
+
+D
+
+### Explanation
+
+The article says advocates describe the clearing as a direct assault on the habitat.
+
+### Question 191
+
+What is the resident's opinion of the developer's public statement?
+
+- A. It was vapid and lacked specific commitments
+- B. It was detailed and reassuring
+- C. It addressed the frog species directly
+- D. It promised a full buffer zone
+
+### Answer
+
+A
+
+### Explanation
+
+The letter writer calls the statement fairly vapid, noting no concrete protections were mentioned.
+
+### Question 192
+
+What do Mia and the letter writer agree on?
+
+- A. The developer's statement was clear and specific
+- B. The developer's statement lacked concrete commitments
+- C. The shopping complex should be built immediately
+- D. The frog species is not actually at risk
 
 ### Answer
 
@@ -1273,12 +1265,14 @@ B
 
 ### Explanation
 
-The email moves the start from 9 to 10 A.M.
+Mia says the statement didn't commit to anything specific, echoing the letter's criticism.
 
 ### Tags
 
-- triple-passage
-- reading-comprehension
+- article
+- correspondence
+- chat
+- environment
 
 ## Passage Group 17
 
@@ -1288,42 +1282,100 @@ triple
 
 ### Passage 1
 
-#### Advertisement
+#### Email
 
-**Orchard Office Cleaning**
+**From:** Terrence Boyd
+**To:** Meridian Furniture Customer Service
+**Subject:** Damaged item at rear loading dock
 
-Evening service after 6 P.M.  
-Weekly or twice-weekly plans  
-Window cleaning available monthly  
-Environmentally responsible products  
-Free on-site estimate
+Hello,
+
+My delivery arrived yesterday, but the driver left the crate at the rear loading dock instead of bringing it to my unit as promised, and it was damaged from sitting in the rain overnight. I'd like this resolved quickly.
+
+Terrence Boyd
 
 ### Passage 2
 
-#### Estimate
+#### Notice
 
-Client: Norton Legal  
-Weekly office cleaning: $180/month  
-Monthly interior windows: $45/month  
-Preferred service: Wednesday after 7 P.M.  
-Proposed start: June 5
+**Meridian Furniture — Delivery Complaint Policy**
+
+All complaints involving items left at a rear loading dock or exterior area must be escalated to a supervisor within 24 hours. Approved resolutions include a full replacement, partial refund, or store credit, at the customer's preference.
 
 ### Passage 3
 
-#### Email
+#### Correspondence
 
-**From:** Norton Legal
+**From:** Meridian Furniture Customer Service
+**To:** Terrence Boyd
+**Subject:** Re: Damaged item at rear loading dock
 
-We approve the weekly cleaning plan but will postpone window service until autumn. June 5 is a public holiday for our office, so please begin June 12 instead. The building guard will provide access after seven.
+Dear Mr. Boyd,
+
+We sincerely apologize for the inconvenience and hope this response helps assuage your frustration. Per our policy, we are sending a full replacement at no cost, along with a 15% discount on your next order.
+
+Sincerely,
+Customer Service
+
+### Question 193
+
+Where was Terrence's delivery left?
+
+- A. Inside his unit
+- B. At a neighbor's door
+- C. At the rear loading dock
+- D. At the front office
+
+### Answer
+
+C
+
+### Explanation
+
+Terrence's email says the driver left the crate at the rear loading dock.
+
+### Question 194
+
+What must complaints involving the rear loading dock be escalated to within 24 hours, according to policy?
+
+- A. The delivery driver
+- B. The regional office
+- C. The warehouse manager
+- D. A supervisor
+
+### Answer
+
+D
+
+### Explanation
+
+The policy notice says such complaints must be escalated to a supervisor within 24 hours.
 
 ### Question 195
 
-What does Orchard offer for free?
+What resolution does the response email offer?
 
-- A. Cleaning products
-- B. An on-site estimate
-- C. Window service
-- D. Guard service
+- A. A full replacement and a discount
+- B. A partial refund only
+- C. Store credit only
+- D. No resolution is offered
+
+### Answer
+
+A
+
+### Explanation
+
+The response email offers a full replacement at no cost plus a 15% discount.
+
+### Question 196
+
+What is the purpose of the response email, based on its content and the company's policy?
+
+- A. To deny the complaint
+- B. To assuage the customer's frustration in line with company policy
+- C. To request additional payment
+- D. To cancel the original order
 
 ### Answer
 
@@ -1331,46 +1383,14 @@ B
 
 ### Explanation
 
-The advertisement lists free on-site estimates.
-
-### Question 196
-
-Which service is Norton postponing?
-
-- A. Weekly cleaning
-- B. Evening access
-- C. Window cleaning
-- D. Office security
-
-### Answer
-
-C
-
-### Explanation
-
-The email postpones window service.
-
-### Question 197
-
-When should cleaning begin?
-
-- A. June 5
-- B. June 7
-- C. June 12
-- D. In autumn
-
-### Answer
-
-C
-
-### Explanation
-
-The client requests June 12 instead of June 5.
+The email explicitly aims to assuage Terrence's frustration and follows the approved resolutions listed in the policy.
 
 ### Tags
 
-- triple-passage
-- reading-comprehension
+- email
+- notice
+- correspondence
+- customer-service
 
 ## Passage Group 18
 
@@ -1380,72 +1400,79 @@ triple
 
 ### Passage 1
 
-#### Article
+#### Notice
 
-**Airport Express Adds Early Train**
+**Fleet Services Notice**
 
-Beginning December 3, Airport Express will add a 4:45 A.M. departure from Central Station on weekdays. The train reaches Terminal 1 at 5:20 and Terminal 2 at 5:28. The service is intended for passengers on flights departing before 7 A.M.
+All company vehicles must be refueled with unleaded gasoline only; using the wrong fuel type will void the vehicle's warranty and may cause engine damage. Fuel cards are valid at any station displaying the Fleet Partner logo.
 
 ### Passage 2
 
-#### Timetable
+#### Email
 
-| Departure | Terminal 1 | Terminal 2 |
-| --- | --- | --- |
-| 4:45 | 5:20 | 5:28 |
-| 5:15 | 5:50 | 5:58 |
-| 5:45 | 6:20 | 6:28 |
+**From:** Driver #118
+**To:** Fleet Services
+**Subject:** Unusual jolt while driving
+
+Hi team,
+
+While driving van 118 this morning, I felt a sudden jolt near the rear axle when going over a speed bump. The van still drives fine, but I wanted to report it in case it needs inspection.
+
+Thanks,
+Driver #118
 
 ### Passage 3
 
-#### Message
+#### Correspondence
 
-**From:** Ana
+**To:** Fleet Services Team
+**From:** Maintenance Supervisor
+**Subject:** Van 118 follow-up
 
-My flight leaves Terminal 2 at 6:35 next Tuesday. The airline recommends arriving one hour early, so I’ll take the new 4:45 train. Could you meet me at Central Station at 4:35?
+Van 118 has been scheduled for an inspection tomorrow morning to check the rear suspension following the driver's report of a jolt near the rear axle. Please also confirm the van was last refueled with unleaded gasoline, since a fuel mix-up was reported on a different vehicle this week.
+
+### Question 197
+
+What type of fuel must company vehicles use?
+
+- A. Diesel
+- B. Premium
+- C. Unleaded
+- D. Any available fuel
+
+### Answer
+
+C
+
+### Explanation
+
+The fleet notice states vehicles must be refueled with unleaded gasoline only.
 
 ### Question 198
 
-When does the new service operate?
+What did Driver #118 feel while driving van 118?
 
-- A. Daily
-- B. Weekdays
-- C. Weekends
-- D. Only in summer
+- A. A strange smell
+- B. A loss of power
+- C. A warning light
+- D. A sudden jolt near the rear axle
 
 ### Answer
 
-B
+D
 
 ### Explanation
 
-The article specifies weekdays.
+The driver's email reports feeling a sudden jolt near the rear axle over a speed bump.
 
 ### Question 199
 
-When does the 4:45 train reach Terminal 2?
+What has been scheduled for van 118?
 
-- A. 5:20
-- B. 5:28
-- C. 5:50
-- D. 5:58
-
-### Answer
-
-B
-
-### Explanation
-
-The timetable gives 5:28.
-
-### Question 200
-
-Why will Ana take the earliest train?
-
-- A. Her flight departs early
-- B. Later trains cost more
-- C. She works at Central Station
-- D. Terminal 1 is closed
+- A. An inspection
+- B. A replacement
+- C. A sale
+- D. A recall
 
 ### Answer
 
@@ -1453,9 +1480,28 @@ A
 
 ### Explanation
 
-She needs to arrive around 5:35 for a 6:35 flight.
+The supervisor's message says van 118 has been scheduled for an inspection.
+
+### Question 200
+
+Why does the maintenance supervisor want to confirm the fuel type used in van 118?
+
+- A. To calculate mileage
+- B. Because a fuel mix-up was reported on a different vehicle
+- C. Because the driver requested it
+- D. To update the warranty
+
+### Answer
+
+B
+
+### Explanation
+
+The supervisor's message says a fuel mix-up was reported on a different vehicle this week, prompting the check.
 
 ### Tags
 
-- triple-passage
-- reading-comprehension
+- notice
+- email
+- correspondence
+- fleet-management

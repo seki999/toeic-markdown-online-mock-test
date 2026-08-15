@@ -8,71 +8,26 @@ Email
 
 ### Passage
 
-**To:** All employees  
-**From:** Human Resources  
-**Subject:** Wellness Fair
+**From:** David Chen
+**To:** Priya Rao
+**Subject:** Update on Ellery Group negotiation
 
-Our annual Wellness Fair will take place in the main hall on September 8. Local health organizations will provide free screenings and short consultations. Employees who wish to participate should _____ online by September 4. **[1]** Supervisors have been asked to arrange schedules so that every team member can attend.
+Hi Priya,
+
+I wanted to update you on where things stand with the Ellery Group deal. Talks with Robert Ellery, the real estate magnate behind the offer, have reached something of a stalemate. He continues to _____ at our proposed indemnity clause, which would require his company to cover claims arising from pre-existing structural issues in the building. We had reached only a tentative agreement on the purchase price last week, and he now wants to revisit that figure as well. **[1]** I think we should hold firm on the indemnity language, since it protects us from significant financial exposure.
+
+Let me know how you would like to proceed.
+
+David
 
 ### Question 131
 
-Which word best completes the first blank?
+Which word best completes the blank?
 
-- A. registration
-- B. register
-- C. registered
-- D. registering
-
-### Answer
-
-B
-
-### Explanation
-
-“Should” takes the base verb “register.”
-
-### Question 132
-
-Which sentence best fits at **[1]**?
-
-- A. The hall was renovated last winter.
-- B. A detailed schedule is available on the employee portal.
-- C. Attendance fell sharply last year.
-- D. The organizations sell office furniture.
-
-### Answer
-
-B
-
-### Explanation
-
-A schedule on the portal logically supports employees planning their attendance.
-
-### Question 133
-
-What have supervisors been asked to do?
-
-- A. Conduct health screenings
-- B. Reserve the main hall
-- C. Adjust employee schedules
-- D. Collect participation fees
-
-### Answer
-
-C
-
-### Explanation
-
-The final sentence says supervisors should arrange schedules.
-
-### Question 134
-
-By when should employees sign up?
-
-- A. September 4
-- B. September 8
-- C. Last winter
-- D. After the fair
+- A. balk
+- B. balked
+- C. balking
+- D. balky
 
 ### Answer
 
@@ -80,12 +35,64 @@ A
 
 ### Explanation
 
-The registration deadline is September 4.
+The base verb form follows "continues to."
+
+### Question 132
+
+Which sentence best fits at **[1]**?
+
+- A. The building was originally constructed in 1998.
+- B. Our legal team believes the clause is standard for deals of this size.
+- C. Robert Ellery recently purchased a yacht.
+- D. Our office will be closed next Friday.
+
+### Answer
+
+B
+
+### Explanation
+
+This sentence supports the decision to hold firm on the indemnity language, which follows immediately after.
+
+### Question 133
+
+What does David say has happened to the negotiations?
+
+- A. They concluded successfully
+- B. They were canceled
+- C. They have reached a stalemate
+- D. They moved to another company
+
+### Answer
+
+C
+
+### Explanation
+
+David says talks have reached something of a stalemate.
+
+### Question 134
+
+What did the two sides agree on last week?
+
+- A. A final contract
+- B. A delivery date
+- C. A staffing plan
+- D. A tentative price
+
+### Answer
+
+D
+
+### Explanation
+
+David says they had reached only a tentative agreement on the purchase price.
 
 ### Tags
 
 - text-completion
 - email
+- negotiation
 
 ## Passage Group 2
 
@@ -95,18 +102,69 @@ Notice
 
 ### Passage
 
-**Ridgeway Community Center — Class Update**
+**Harrow Retail Group — Internal Notice**
 
-The Tuesday evening photography class will move from Room 204 to the ground-floor studio beginning October 12. The studio has recently been _____ with new lighting equipment. Students should enter through the south doors after 6 P.M. **[1]** Anyone needing step-free access may continue to use the main entrance.
+Effective next quarter, our online accessories division will become a separate spinoff company named Harrow Digital. The new entity will be formally _____ as a private corporation, with its own board and budget. Customers who join our new premium membership tier will receive early access to Harrow Digital's product drops. **[1]** Store managers interested in operating under the franchiser model for their location should contact regional headquarters by the end of the month. We believe this restructuring plan is plausible given the division's strong recent growth.
 
 ### Question 135
 
-Which word best completes the first blank?
+Which word best completes the blank?
 
-- A. equip
-- B. equips
-- C. equipping
-- D. equipped
+- A. incorporated
+- B. incorporate
+- C. incorporating
+- D. incorporation
+
+### Answer
+
+A
+
+### Explanation
+
+The passive voice "will be formally _____" requires the past participle "incorporated."
+
+### Question 136
+
+Which sentence best fits at **[1]**?
+
+- A. The original store opened in 1985.
+- B. This tier also includes free shipping on all orders over fifty dollars.
+- C. Regional headquarters is located downtown.
+- D. The company plans to close two warehouses.
+
+### Answer
+
+B
+
+### Explanation
+
+This sentence continues describing the benefits of the premium membership tier just mentioned.
+
+### Question 137
+
+What is Harrow Digital?
+
+- A. A competitor being acquired
+- B. A discontinued product line
+- C. A new spinoff company
+- D. A marketing campaign
+
+### Answer
+
+C
+
+### Explanation
+
+The notice states the accessories division will become a separate spinoff company named Harrow Digital.
+
+### Question 138
+
+What should interested store managers do?
+
+- A. Apply for a premium membership
+- B. Submit a growth report
+- C. Attend a product launch
+- D. Contact regional headquarters about the franchiser model
 
 ### Answer
 
@@ -114,153 +172,15 @@ D
 
 ### Explanation
 
-The passive present perfect requires the past participle “equipped.”
-
-### Question 136
-
-Which sentence best fits at **[1]**?
-
-- A. Signs will direct students from the doors to the studio.
-- B. Photographs must be mailed by Friday.
-- C. The instructor canceled every class.
-- D. Room 204 is in another city.
-
-### Answer
-
-A
-
-### Explanation
-
-Directional signs logically follow the instruction to use a different entrance.
-
-### Question 137
-
-Why is the class moving?
-
-- A. Enrollment decreased
-- B. The studio has new equipment
-- C. Room 204 is being sold
-- D. The instructor requested mornings
-
-### Answer
-
-B
-
-### Explanation
-
-The notice emphasizes the newly equipped studio.
-
-### Question 138
-
-Who may use the main entrance?
-
-- A. All instructors
-- B. New students only
-- C. People needing step-free access
-- D. Anyone arriving before noon
-
-### Answer
-
-C
-
-### Explanation
-
-The last sentence explicitly permits this group to use the main entrance.
+The notice instructs managers interested in the franchiser model to contact regional headquarters.
 
 ### Tags
 
 - text-completion
 - notice
+- corporate-restructuring
 
 ## Passage Group 3
-
-### Type
-
-Letter
-
-### Passage
-
-Dear Ms. Okafor,
-
-Thank you for choosing Brightline Office Furnishings. We are writing to confirm that your order has been shipped and is expected to arrive Thursday. Because the conference table is unusually large, our delivery team will contact you thirty minutes _____ arrival. Please make sure that the hallway is clear. **[1]** Assembly is included in the purchase price.
-
-Sincerely,  
-Customer Service
-
-### Question 139
-
-Which word best completes the first blank?
-
-- A. before
-- B. among
-- C. during
-- D. beside
-
-### Answer
-
-A
-
-### Explanation
-
-“Before arrival” establishes the timing of the call.
-
-### Question 140
-
-Which sentence best fits at **[1]**?
-
-- A. The team will bring the table directly to the designated room.
-- B. Our catalog is printed twice a year.
-- C. The original invoice was blue.
-- D. The conference starts next month.
-
-### Answer
-
-A
-
-### Explanation
-
-The sentence continues the delivery instructions and connects to assembly.
-
-### Question 141
-
-What will happen on Thursday?
-
-- A. A catalog will be printed
-- B. The table is expected to arrive
-- C. A conference will begin
-- D. The customer will place an order
-
-### Answer
-
-B
-
-### Explanation
-
-Thursday is the expected delivery date.
-
-### Question 142
-
-What service is included?
-
-- A. Hallway cleaning
-- B. Express shipping
-- C. Furniture assembly
-- D. Room design
-
-### Answer
-
-C
-
-### Explanation
-
-The letter states that assembly is included.
-
-### Tags
-
-- text-completion
-- letter
-
-## Passage Group 4
 
 ### Type
 
@@ -268,33 +188,16 @@ Article
 
 ### Passage
 
-The city’s bicycle-sharing program reached a major milestone this month when membership passed 50,000. Officials attribute the growth to the _____ of twenty new rental stations near suburban train stops. **[1]** The city will study usage data for six months before deciding where to install the next group of stations. A discounted annual plan is currently available to university students.
+Downtown Office Park unveiled its new lobby sterilization system on Monday, an event that building manager Lena Ortiz called "a truly auspicious start to the year." The system uses _____ light to eliminate germs on high-touch surfaces such as elevator buttons and door handles, offering extra protection during this year's especially vicious flu season. **[1]** The unveiling itself was something of a spectacle, drawing dozens of tenants who gathered to watch the new panels activate for the first time.
 
-### Question 143
+### Question 139
 
-Which word best completes the first blank?
+Which word best completes the blank?
 
-- A. add
-- B. added
-- C. additional
-- D. addition
-
-### Answer
-
-D
-
-### Explanation
-
-The noun “addition” correctly follows “the” and precedes “of.”
-
-### Question 144
-
-Which sentence best fits at **[1]**?
-
-- A. These locations make it easier for commuters to combine cycling and rail travel.
-- B. The oldest bicycle was sold at an auction.
-- C. Train tickets must be printed at home.
-- D. The university closed its sports center.
+- A. ultraviolet
+- B. infrared
+- C. fluorescent
+- D. incandescent
 
 ### Answer
 
@@ -302,16 +205,16 @@ A
 
 ### Explanation
 
-The sentence explains why stations near train stops increased membership.
+Sterilization systems that eliminate germs on surfaces typically use ultraviolet light.
 
-### Question 145
+### Question 140
 
-What will the city do during the next six months?
+Which sentence best fits at **[1]**?
 
-- A. Replace all bicycles
-- B. Study usage data
-- C. Raise student prices
-- D. Close suburban stations
+- A. The building was originally built in 1972.
+- B. Early results suggest a noticeable drop in reported illnesses among staff.
+- C. Tenants must renew their leases annually.
+- D. The elevator was recently repainted.
 
 ### Answer
 
@@ -319,16 +222,16 @@ B
 
 ### Explanation
 
-The article explicitly says usage data will be studied.
+This sentence logically follows the mention of extra protection during flu season by describing an early outcome.
 
-### Question 146
+### Question 141
 
-Who can currently receive a discount?
+How did Lena Ortiz describe the event?
 
-- A. City officials
-- B. Train employees
-- C. University students
-- D. New station builders
+- A. Disappointing
+- B. Routine
+- C. Auspicious
+- D. Controversial
 
 ### Answer
 
@@ -336,9 +239,115 @@ C
 
 ### Explanation
 
-A discounted annual plan is offered to university students.
+She called it "a truly auspicious start to the year."
+
+### Question 142
+
+What drew tenants to the unveiling?
+
+- A. A free lunch
+- B. A raffle
+- C. A guest speaker
+- D. Watching the panels activate
+
+### Answer
+
+D
+
+### Explanation
+
+The article says tenants gathered to watch the new panels activate for the first time.
 
 ### Tags
 
 - text-completion
 - article
+- facilities
+
+## Passage Group 4
+
+### Type
+
+Memo
+
+### Passage
+
+**To:** All Staff
+**From:** Facilities Management
+**Subject:** Response to Parking Petition
+
+Thank you to everyone who signed the recent petition requesting additional reserved parking spaces. After reviewing the request, we have decided not to add new reserved spaces at this time, largely because of _____ costs to employee morale that a change like this could create among staff who do not receive one. **[1]** As a consolation, we will be expanding the shuttle service from the north lot to run every fifteen minutes instead of every thirty. We also want to remind everyone that our vendor selection process strictly prohibits any form of kickback, so the shuttle contractor was chosen through an open bidding process. We hope this compromise will dissuade further concern about fairness in how parking decisions are made.
+
+### Question 143
+
+Which word best completes the blank?
+
+- A. intangible
+- B. intangibly
+- C. intangibility
+- D. tangible
+
+### Answer
+
+A
+
+### Explanation
+
+An adjective is needed to modify "costs," and "intangible" (not easily measured) fits the described morale impact; "tangible" contradicts this meaning.
+
+### Question 144
+
+Which sentence best fits at **[1]**?
+
+- A. The building's roof was replaced last spring.
+- B. Reserved spaces are difficult to allocate fairly across departments of different sizes.
+- C. Our office recycling program began in March.
+- D. The cafeteria menu changes every Monday.
+
+### Answer
+
+B
+
+### Explanation
+
+This sentence explains the fairness concern that leads directly into the discussion of morale costs.
+
+### Question 145
+
+What compromise is being offered instead of new parking spaces?
+
+- A. A free parking permit
+- B. A monetary bonus
+- C. An improved shuttle schedule
+- D. Remote work options
+
+### Answer
+
+C
+
+### Explanation
+
+The memo says the shuttle service will run every fifteen minutes instead of every thirty as a consolation.
+
+### Question 146
+
+How was the shuttle contractor selected, according to the memo?
+
+- A. Through a personal recommendation
+- B. Through a lottery
+- C. Through a government mandate
+- D. Through an open bidding process
+
+### Answer
+
+D
+
+### Explanation
+
+The memo states the contractor was chosen through an open bidding process to avoid any kickback.
+
+### Tags
+
+- text-completion
+- memo
+- facilities

@@ -12,68 +12,69 @@ Narrator:
 Questions 32 through 34 refer to the following conversation.
 
 Speaker 1:
-The design team sent the revised floor plan. The reception desk is now closer to the entrance.
+Have you reviewed the lease for our new premises on Baker Street?
 
 Speaker 2:
-That will help visitors, but is there still enough room for the waiting area?
+Yes, and the landlord's contract stipulates a minimum five-year term.
 
 Speaker 1:
-Yes. They removed one display cabinet and added six chairs along the west wall.
+That's longer than we discussed at the project's inception. Can we negotiate it down?
 
 Speaker 2:
-Great. I’ll show the plan to the facilities manager this afternoon.
+I'll ask, but he seemed firm about the five years when we spoke this morning.
 
 ### Question 32
 
-What are the speakers discussing?
+What are the speakers mainly discussing?
 
-- A. A product display
-- B. An office renovation
-- C. A visitor survey
-- D. A staff schedule
+- A. The terms of a new office lease
+- B. A hiring decision
+- C. A marketing campaign
+- D. A shipping delay
 
 ### Question 33
 
-Why was a display cabinet removed?
+What does the man imply about the five-year term?
 
-- A. To create more waiting space
-- B. To repair the west wall
-- C. To reduce shipping costs
-- D. To make room for a printer
+- A. It matches earlier plans
+- B. It differs from what was originally discussed
+- C. It is shorter than expected
+- D. It has already been signed
 
 ### Question 34
 
-What will Speaker 2 do next?
+What will the woman probably do next?
 
-- A. Contact a customer
-- B. Order new cabinets
-- C. Meet the design team
-- D. Show the plan to a manager
+- A. Sign the lease immediately
+- B. Cancel the lease agreement
+- C. Ask the landlord about shortening the term
+- D. Move to a different building
 
 ### Answers
 
-32: B
-33: A
-34: D
+32: A
+33: B
+34: C
 
 ### Explanation
 
 #### Question 32
 
-They discuss a revised floor plan and the placement of reception furniture.
+The speakers review a contract for new office premises, so A is correct.
 
 #### Question 33
 
-It was removed so six chairs could be placed in the waiting area.
+The man says the term is longer than what was discussed at the project's inception, showing it differs from the original plan.
 
 #### Question 34
 
-Speaker 2 says the plan will be shown to the facilities manager.
+The woman agrees to ask the landlord about reducing the term, so she will raise the issue with him.
 
 ### Tags
 
-- conversation
-- office-renovation
+- real-estate
+- negotiation
+- offices
 
 ## Group 2
 
@@ -87,47 +88,47 @@ Narrator:
 Questions 35 through 37 refer to the following conversation.
 
 Speaker 1:
-My flight to Denver lands at eleven, but the client meeting starts at noon.
+IT just confiscated my old laptop because it wasn't encrypted properly.
 
 Speaker 2:
-That will be tight. I can arrange a car to meet you at the airport.
+That's company policy now — any device without proper encryption gets pulled from the network.
 
 Speaker 1:
-Thanks. Could you also ask the hotel to hold my luggage? I won’t have time to check in.
+I understand, but I still have some documents on it that need to be shredded, not just deleted.
 
 Speaker 2:
-I’ll call them now and send the driver your flight number.
+No problem, we can send them straight to the shredding service downstairs before we return the drive.
 
 ### Question 35
 
-What problem does Speaker 1 mention?
+Why was the man's laptop taken?
 
-- A. A flight was canceled
-- B. There is little time before a meeting
-- C. A hotel room is unavailable
-- D. The client changed locations
+- A. It was reported stolen
+- B. It needed a hardware repair
+- C. It was replaced with a newer model
+- D. It lacked proper encryption
 
 ### Question 36
 
-What does Speaker 1 ask about?
+What does the man want to do with certain documents?
 
-- A. Storing luggage
-- B. Changing a ticket
-- C. Ordering lunch
-- D. Printing a contract
+- A. Have them shredded
+- B. Email them to a colleague
+- C. Print extra copies
+- D. Upload them to a shared drive
 
 ### Question 37
 
-What will Speaker 2 probably do next?
+What will happen before the laptop is returned?
 
-- A. Reserve a meeting room
-- B. Call the hotel
-- C. Visit the airport
-- D. Check in online
+- A. The laptop will be reformatted
+- B. The documents will be shredded
+- C. A new password will be issued
+- D. The man will sign a release form
 
 ### Answers
 
-35: B
+35: D
 36: A
 37: B
 
@@ -135,20 +136,21 @@ What will Speaker 2 probably do next?
 
 #### Question 35
 
-The flight lands only one hour before the meeting.
+The woman says devices without proper encryption are pulled from the network, explaining why the laptop was confiscated.
 
 #### Question 36
 
-Speaker 1 asks the hotel to hold the luggage.
+The man says the documents need to be shredded, not just deleted.
 
 #### Question 37
 
-Speaker 2 explicitly says, “I’ll call them now.”
+The woman says the documents can be sent to the shredding service before the drive is returned.
 
 ### Tags
 
-- conversation
-- business-travel
+- it-security
+- data-protection
+- office
 
 ## Group 3
 
@@ -162,68 +164,69 @@ Narrator:
 Questions 38 through 40 refer to the following conversation.
 
 Speaker 1:
-The produce delivery arrived, but the tomatoes we ordered weren’t included.
+I finished the tabulation of the customer survey results this morning.
 
 Speaker 2:
-I’ll check the invoice. We need them for tonight’s dinner service.
+Great, what do the demographics show about who's buying the new product line?
 
 Speaker 1:
-If the supplier can’t return today, the market across the street has some.
+Mostly buyers aged twenty-five to thirty-four, which confirms we're reaching a fairly narrow niche market rather than a broad audience.
 
 Speaker 2:
-Good idea. I’ll phone the supplier first, and you can prepare the other vegetables.
+That's fine for now. We can always expand once the brand is established.
 
 ### Question 38
 
-Where do the speakers most likely work?
+What has the woman completed?
 
-- A. At a restaurant
-- B. At a bank
-- C. At a library
-- D. At a hotel front desk
+- A. A price comparison
+- B. A product prototype
+- C. A tabulation of survey data
+- D. A training manual
 
 ### Question 39
 
-What item is missing?
+What do the results reveal about the buyers?
 
-- A. Invoices
-- B. Tomatoes
-- C. Dinner menus
-- D. Cooking oil
+- A. They come from many age groups
+- B. They live outside the region
+- C. They dislike the new product
+- D. They belong to a narrow age range
 
 ### Question 40
 
-What will Speaker 2 do first?
+What does the man suggest about the future?
 
-- A. Go to the market
-- B. Prepare vegetables
-- C. Call the supplier
-- D. Change the menu
+- A. Expanding beyond the current niche
+- B. Discontinuing the product
+- C. Lowering the price
+- D. Reducing the marketing budget
 
 ### Answers
 
-38: A
-39: B
-40: C
+38: C
+39: D
+40: A
 
 ### Explanation
 
 #### Question 38
 
-They discuss produce and dinner service, indicating a restaurant.
+The woman says she finished the tabulation, or organized summary, of the survey results.
 
 #### Question 39
 
-Speaker 1 says the tomatoes were not included.
+She states buyers are mostly aged twenty-five to thirty-four, a narrow range rather than a broad one.
 
 #### Question 40
 
-Speaker 2 will phone the supplier before using the backup plan.
+The man says they can expand once the brand is established, implying growth beyond the current niche market.
 
 ### Tags
 
-- conversation
-- restaurant-supplies
+- market-research
+- data-analysis
+- product
 
 ## Group 4
 
@@ -237,68 +240,69 @@ Narrator:
 Questions 41 through 43 refer to the following conversation.
 
 Speaker 1:
-Enrollment for your spreadsheet seminar is already full.
+Our company signed on as a sponsor for the juvenile delinquency prevention program this year.
 
 Speaker 2:
-Really? We only announced it yesterday.
+That's wonderful. Are we still looking for volunteers to mentor the teenagers?
 
 Speaker 1:
-Several departments asked for more places. Could you repeat the session next month?
+Yes, they need people to run workshops twice a month starting in September.
 
 Speaker 2:
-Certainly. I’m free on the second Tuesday, if the computer room is available.
+Count me in. I mentored a similar group two years ago and really enjoyed it.
 
 ### Question 41
 
-What are the speakers discussing?
+What has the company agreed to do?
 
-- A. A software purchase
-- B. A popular training session
-- C. A department budget
-- D. A job opening
+- A. Open a new training center
+- B. Sponsor a youth prevention program
+- C. Donate office equipment
+- D. Sponsor a sports league
 
 ### Question 42
 
-Why does Speaker 1 suggest another session?
+What is needed from volunteers?
 
-- A. The instructor was absent
-- B. The computers are broken
-- C. More employees want to attend
-- D. The seminar was too short
+- A. Financial donations
+- B. Weekend office cleanup
+- C. Workshops for teenagers twice a month
+- D. Legal advice
 
 ### Question 43
 
-What condition does Speaker 2 mention?
+What does the woman mention about her past experience?
 
-- A. The computer room must be available
-- B. A new instructor must be hired
-- C. The announcement must be revised
-- D. The budget must be approved
+- A. She has never volunteered before
+- B. She managed a nonprofit organization
+- C. She was a teacher for ten years
+- D. She mentored a similar group before
 
 ### Answers
 
 41: B
 42: C
-43: A
+43: D
 
 ### Explanation
 
 #### Question 41
 
-They discuss enrollment and repeating a seminar.
+The man says the company sponsored a juvenile delinquency prevention program.
 
 #### Question 42
 
-Several departments requested additional places.
+He explains that volunteers are needed to run workshops twice a month.
 
 #### Question 43
 
-The date works if the computer room is free.
+The woman says she mentored a similar group two years ago.
 
 ### Tags
 
-- conversation
-- training-seminar
+- community-outreach
+- volunteering
+- csr
 
 ## Group 5
 
@@ -312,43 +316,46 @@ Narrator:
 Questions 44 through 46 refer to the following conversation.
 
 Speaker 1:
-The new lamps look excellent in the front window, but the price cards are difficult to read.
+How did the interview with the candidate for the sales position go?
 
 Speaker 2:
-I used the standard cards. Should I print larger ones?
+Very well. She has a lot of charisma — she had the whole panel engaged within minutes.
 
 Speaker 1:
-Yes, and please place one lamp on the lower shelf so customers can examine it closely.
+I noticed that too. What did you think when we asked about her interests outside work?
 
 Speaker 2:
-I’ll make those changes before the store opens.
+She mentioned that painting is her main avocation, and her countenance really lit up while she talked about it.
+
+Speaker 1:
+She also said she volunteers with a pious community group every weekend, which shows real commitment.
 
 ### Question 44
 
-Where are the speakers?
+What impressed the interviewers about the candidate?
 
-- A. In a retail store
-- B. In a factory
-- C. In an art school
-- D. In a restaurant
+- A. Her charisma during the interview
+- B. Her technical certifications
+- C. Her salary expectations
+- D. Her punctuality
 
 ### Question 45
 
-What problem is mentioned?
+What is the candidate's avocation?
 
-- A. The lamps are damaged
-- B. The cards are hard to read
-- C. The shelf is unstable
-- D. The store opened late
+- A. Public speaking
+- B. Painting
+- C. Cooking
+- D. Photography
 
 ### Question 46
 
-When will Speaker 2 make the changes?
+What did the man notice about the candidate's expression?
 
-- A. During lunch
-- B. After closing
-- C. Before opening
-- D. Next week
+- A. It was tense
+- B. It showed confusion
+- C. It brightened while discussing painting
+- D. It remained unchanged
 
 ### Answers
 
@@ -360,20 +367,21 @@ When will Speaker 2 make the changes?
 
 #### Question 44
 
-They discuss a front-window display and customers.
+The woman says the candidate has a lot of charisma and engaged the whole panel.
 
 #### Question 45
 
-Speaker 1 says the price cards are difficult to read.
+The woman states that painting is the candidate's main avocation, or hobby.
 
 #### Question 46
 
-Speaker 2 says the changes will be made before the store opens.
+The woman says the candidate's countenance lit up while discussing painting, meaning her expression brightened.
 
 ### Tags
 
-- conversation
-- retail-display
+- hiring
+- interview
+- candidate-review
 
 ## Group 6
 
@@ -387,68 +395,69 @@ Narrator:
 Questions 47 through 49 refer to the following conversation.
 
 Speaker 1:
-The mobile app passed the final security test, so we can release it Friday.
+Did you hear that the accounting department won the office softball pennant again this year?
 
 Speaker 2:
-Excellent. Has Customer Support received the new feature guide?
+I did! They're going to display it in the break room. Are you coming to the celebration reception on Friday?
 
 Speaker 1:
-Not yet. I finished the guide this morning, but Communications needs to review it.
+I plan to. It's a good chance to mingle with people from other departments we don't usually see.
 
 Speaker 2:
-Send it to Maya. She can complete the review by tomorrow afternoon.
+Agreed. I'll save you a seat near the buffet table.
 
 ### Question 47
 
-What is scheduled for Friday?
+What did the accounting department win?
 
-- A. A security test
-- B. A product release
-- C. A staff meeting
-- D. A training course
+- A. A budget increase
+- B. A new office
+- C. A client contract
+- D. A sports league pennant
 
 ### Question 48
 
-What did Speaker 1 finish?
+What event is happening on Friday?
 
-- A. A feature guide
-- B. A customer survey
-- C. A budget report
-- D. A job application
+- A. A celebration reception
+- B. A department meeting
+- C. A training session
+- D. A client presentation
 
 ### Question 49
 
-Why should the guide be sent to Maya?
+Why does the woman want to attend the event?
 
-- A. She designed the app
-- B. She works in Customer Support
-- C. She can review it promptly
-- D. She requested a printed copy
+- A. To meet a client
+- B. To mingle with people from other departments
+- C. To collect an award
+- D. To present a report
 
 ### Answers
 
-47: B
+47: D
 48: A
-49: C
+49: B
 
 ### Explanation
 
 #### Question 47
 
-The mobile application will be released Friday.
+The man says the accounting department won the office softball pennant.
 
 #### Question 48
 
-Speaker 1 finished the guide that morning.
+The man mentions a celebration reception happening on Friday.
 
 #### Question 49
 
-Maya can finish the required review by tomorrow afternoon.
+The woman says it is a good chance to mingle with people from other departments.
 
 ### Tags
 
-- conversation
-- software-release
+- office-culture
+- social-event
+- teamwork
 
 ## Group 7
 
@@ -462,68 +471,69 @@ Narrator:
 Questions 50 through 52 refer to the following conversation.
 
 Speaker 1:
-There’s water on the floor near the employee kitchen. I think the sink is leaking.
+Have you finalized the guest list for the charity gala next month?
 
 Speaker 2:
-Thanks for telling me. I’ll put up a warning sign and call the maintenance company.
+Almost. This year's proceeds will go to the regional orphanage and a local organization that provides asylum services for displaced families.
 
 Speaker 1:
-Should I move the boxes stored beside the wall?
+That's a great cause. Should we ask the marketing team to prepare a short video about both organizations?
 
 Speaker 2:
-Yes, please. Put them in the supply room until the pipe is repaired.
+Yes, that would help explain to guests exactly where their donations are going.
 
 ### Question 50
 
-What problem do the speakers discuss?
+What is being planned?
 
-- A. A leaking sink
-- B. A missing sign
-- C. A locked supply room
-- D. A delayed delivery
+- A. A product launch
+- B. A shareholder meeting
+- C. A charity gala
+- D. A staff retreat
 
 ### Question 51
 
-Why will Speaker 2 put up a sign?
+Who will benefit from the event's proceeds?
 
-- A. To direct visitors
-- B. To advertise a kitchen
-- C. To warn people about the wet floor
-- D. To label the boxes
+- A. Local schools
+- B. A hospital
+- C. A sports team
+- D. An orphanage and an asylum services organization
 
 ### Question 52
 
-What is Speaker 1 asked to do?
+What does the man suggest?
 
-- A. Call a company
-- B. Repair a pipe
-- C. Clean the kitchen
-- D. Move some boxes
+- A. Preparing an explanatory video
+- B. Increasing ticket prices
+- C. Canceling the event
+- D. Hiring a new caterer
 
 ### Answers
 
-50: A
-51: C
-52: D
+50: C
+51: D
+52: A
 
 ### Explanation
 
 #### Question 50
 
-They identify water from a leaking sink.
+The speakers discuss the guest list for a charity gala.
 
 #### Question 51
 
-The sign will warn people of the hazard.
+The woman says proceeds will go to the orphanage and an organization providing asylum services.
 
 #### Question 52
 
-Speaker 2 asks Speaker 1 to move the boxes.
+The man suggests asking marketing to prepare a video explaining the causes.
 
 ### Tags
 
-- conversation
-- building-maintenance
+- charity-event
+- planning
+- csr
 
 ## Group 8
 
@@ -537,68 +547,69 @@ Narrator:
 Questions 53 through 55 refer to the following conversation.
 
 Speaker 1:
-We have three hundred conference folders, but registration has increased to three hundred fifty.
+I heard the warehouse team missed another safety inspection deadline.
 
 Speaker 2:
-The printer can deliver more folders by Wednesday, though the rush order costs extra.
+This is the third time. I don't think we should coddle them any longer — there need to be real consequences.
 
 Speaker 1:
-That’s acceptable. The sponsor just agreed to cover additional expenses.
+I agree. HR is recommending a one-week suspension for the shift supervisor.
 
 Speaker 2:
-Then I’ll order sixty, so we have a few spares.
+That seems fair, as long as we also offer additional safety training afterward.
 
 ### Question 53
 
-Why are more folders needed?
+What problem are the speakers discussing?
 
-- A. Some were damaged
-- B. Registration increased
-- C. A sponsor requested them
-- D. The printer made an error
+- A. A budget shortfall
+- B. A missed safety inspection
+- C. A shipping error
+- D. A staffing shortage
 
 ### Question 54
 
-What does Speaker 1 say about the extra cost?
+What does the woman mean when she says they should not "coddle" the team?
 
-- A. It is acceptable
-- B. It is too high
-- C. It was calculated incorrectly
-- D. It must be paid today
+- A. They should offer more support
+- B. They should give them a bonus
+- C. They should stop being lenient
+- D. They should transfer them
 
 ### Question 55
 
-How many additional folders will be ordered?
+What does HR recommend?
 
-- A. Three hundred
-- B. Three hundred fifty
-- C. Fifty
-- D. Sixty
+- A. Firing the entire team
+- B. A pay cut for all staff
+- C. Closing the warehouse
+- D. A one-week suspension for the supervisor
 
 ### Answers
 
 53: B
-54: A
+54: C
 55: D
 
 ### Explanation
 
 #### Question 53
 
-The number of registered attendees rose to 350.
+The man says the warehouse team missed another safety inspection deadline.
 
 #### Question 54
 
-Speaker 1 accepts the rush charge because a sponsor will cover it.
+Saying they should not coddle, or overindulge, the team means they should stop being lenient.
 
 #### Question 55
 
-Speaker 2 says, “I’ll order sixty.”
+The man says HR is recommending a one-week suspension for the shift supervisor.
 
 ### Tags
 
-- conversation
-- conference-materials
+- hr
+- discipline
+- warehouse
 
 ## Group 9
 
@@ -612,68 +623,69 @@ Narrator:
 Questions 56 through 58 refer to the following conversation.
 
 Speaker 1:
-The delivery van is at the repair shop until Monday, and we have several orders due tomorrow.
+The new supplier's quote is higher than we budgeted. Should we try to haggle over the price?
 
 Speaker 2:
-I checked a rental company nearby. They have a small truck available this afternoon.
+We could, or we might barter — offering them a longer contract in exchange for a discount.
 
 Speaker 1:
-Will our regular insurance cover it?
+That's a good idea. Either way, let's make sure the invoicing terms are clear before we sign anything.
 
 Speaker 2:
-Yes, I confirmed that with our agent. I’ll reserve the truck online.
+Agreed. I'll ask them to confirm net-thirty payment terms in writing.
 
 ### Question 56
 
-Why do the speakers need another vehicle?
+What is the man considering doing about the price?
 
-- A. Their van is being repaired
-- B. They sold their truck
-- C. A driver is unavailable
-- D. Orders were canceled
+- A. Negotiating, or haggling, over it
+- B. Accepting it immediately
+- C. Reporting it to management
+- D. Canceling the order
 
 ### Question 57
 
-What concern does Speaker 1 express?
+What does the woman propose as an alternative approach?
 
-- A. The truck size
-- B. The rental location
-- C. Insurance coverage
-- D. The delivery route
+- A. Switching suppliers entirely
+- B. Bartering a longer contract for a discount
+- C. Reducing the order size
+- D. Paying in advance
 
 ### Question 58
 
-What will Speaker 2 do?
+What does the man want clarified before signing?
 
-- A. Call a customer
-- B. Reserve a truck
-- C. Repair a van
-- D. Change an order
+- A. Delivery dates
+- B. Warranty coverage
+- C. Invoicing terms
+- D. Product specifications
 
 ### Answers
 
 56: A
-57: C
-58: B
+57: B
+58: C
 
 ### Explanation
 
 #### Question 56
 
-Their delivery van will remain at the repair shop.
+The man asks whether they should haggle, or negotiate, over the price.
 
 #### Question 57
 
-Speaker 1 asks whether insurance will cover the rental.
+The woman suggests bartering a longer contract in exchange for a discount.
 
 #### Question 58
 
-Speaker 2 says the truck will be reserved online.
+The man says the invoicing terms should be clear before signing.
 
 ### Tags
 
-- conversation
-- vehicle-rental
+- procurement
+- negotiation
+- vendor
 
 ## Group 10
 
@@ -687,68 +699,69 @@ Narrator:
 Questions 59 through 61 refer to the following conversation.
 
 Speaker 1:
-The museum’s evening lecture sold out, but twenty people are still on the waiting list.
+Did you submit your travel receipts to get reimbursed for the conference?
 
 Speaker 2:
-Could we stream it from the auditorium? The recording equipment is already installed.
+Not yet. I've been so preoccupied with the product launch that I completely forgot.
 
 Speaker 1:
-That would work. We should confirm the speaker is comfortable appearing online.
+You should do it soon — the finance department only accepts reimbursement requests within thirty days.
 
 Speaker 2:
-I’m meeting her at two. I’ll ask then.
+Thanks for the reminder. I'll submit the form this afternoon.
 
 ### Question 59
 
-What event has sold out?
+What is the woman trying to do?
 
-- A. A museum tour
-- B. An evening lecture
-- C. An online course
-- D. A concert
+- A. Book a conference
+- B. Cancel a trip
+- C. Approve a budget
+- D. Get reimbursed for travel expenses
 
 ### Question 60
 
-What solution is suggested?
+Why hasn't she submitted her receipts yet?
 
-- A. Moving to another museum
-- B. Adding a second speaker
-- C. Streaming the event
-- D. Refunding the tickets
+- A. She has been preoccupied with another project
+- B. She lost them
+- C. She is waiting for approval
+- D. She disagrees with the policy
 
 ### Question 61
 
-When will Speaker 2 speak with the presenter?
+What does the man remind her about?
 
-- A. At two o’clock
-- B. This evening
-- C. After the recording
-- D. Tomorrow morning
+- A. A new expense policy
+- B. A thirty-day deadline
+- C. A missing signature
+- D. A budget cut
 
 ### Answers
 
-59: B
-60: C
-61: A
+59: D
+60: A
+61: B
 
 ### Explanation
 
 #### Question 59
 
-Speaker 1 identifies the sold-out event as an evening lecture.
+The woman is trying to get reimbursed for her conference travel expenses.
 
 #### Question 60
 
-Speaker 2 suggests streaming from the auditorium.
+She says she has been preoccupied with the product launch and forgot to submit the receipts.
 
 #### Question 61
 
-Speaker 2 has a meeting with her at two.
+The man reminds her that finance only accepts requests within thirty days.
 
 ### Tags
 
-- conversation
-- museum-event
+- expenses
+- finance
+- reminder
 
 ## Group 11
 
@@ -762,68 +775,69 @@ Narrator:
 Questions 62 through 64 refer to the following conversation.
 
 Speaker 1:
-The annual report is ready, except for the director’s opening letter.
+Have you been watching that new documentary series about the manhunt for the train bandit from the 1970s?
 
 Speaker 2:
-She said she would send it by noon. Can the printer still meet our Friday deadline?
+Yes, it's fascinating, though some reviewers say it unfairly vilifies the local police department.
 
 Speaker 1:
-Yes, if we upload the final file before three today.
+I noticed that too. It makes them look incompetent even though they eventually caught him.
 
 Speaker 2:
-All right. I’ll remind the director and check the figures one more time.
+Still, I think it's worth watching for the historical details alone.
 
 ### Question 62
 
-What is missing from the annual report?
+What is the documentary about?
 
-- A. A photograph
-- B. A financial table
-- C. An opening letter
-- D. A printing estimate
+- A. A corporate scandal
+- B. A natural disaster
+- C. A manhunt for a bandit
+- D. A sports championship
 
 ### Question 63
 
-What must happen before three?
+What criticism have some reviewers made?
 
-- A. The report must be uploaded
-- B. The figures must be presented
-- C. The printer must be paid
-- D. The director must arrive
+- A. It is too short
+- B. It contains factual errors
+- C. It lacks historical detail
+- D. It unfairly vilifies the police
 
 ### Question 64
 
-What will Speaker 2 probably do next?
+What does the woman think is worthwhile about the documentary?
 
-- A. Cancel the print order
-- B. Contact the director
-- C. Extend the deadline
-- D. Write a new report
+- A. Its historical details
+- B. Its soundtrack
+- C. Its cast
+- D. Its length
 
 ### Answers
 
 62: C
-63: A
-64: B
+63: D
+64: A
 
 ### Explanation
 
 #### Question 62
 
-The director’s opening letter is the only missing item.
+The man describes a documentary about the manhunt for a train bandit.
 
 #### Question 63
 
-The final file must reach the printer before three.
+The woman says reviewers claim it unfairly vilifies the police department.
 
 #### Question 64
 
-Speaker 2 plans to remind the director.
+The woman says it is worth watching for the historical details.
 
 ### Tags
 
-- conversation
-- printing-schedule
+- small-talk
+- media
+- break-room
 
 ## Group 12
 
@@ -837,68 +851,69 @@ Narrator:
 Questions 65 through 67 refer to the following conversation.
 
 Speaker 1:
-Thanks for showing me the apartment. I like the large windows, but I didn’t see a laundry room.
+I finally found out why the water pressure dropped on the third floor — the old pipes have corroded badly.
 
 Speaker 2:
-It’s on the ground floor, beside the bicycle storage area.
+We'll need to schedule a replacement soon. On another note, has the tenant in unit 4B paid this month's rent?
 
 Speaker 1:
-Good. Is there an additional charge to use the machines?
+No, and honestly they've become a real debtor at this point — they now owe us for two full months.
 
 Speaker 2:
-No, laundry is included in the monthly rent.
+Let's send a formal notice today before it goes any further.
 
 ### Question 65
 
-What are the speakers discussing?
+What caused the drop in water pressure?
 
-- A. A hotel reservation
-- B. An apartment
-- C. A bicycle purchase
-- D. A repair service
+- A. A power outage
+- B. Corroded pipes
+- C. A blocked drain
+- D. A broken pump
 
 ### Question 66
 
-Where is the laundry room?
+What issue does the woman raise about unit 4B?
 
-- A. Inside the apartment
-- B. Beside the lobby
-- C. On the ground floor
-- D. Across the street
+- A. A noise complaint
+- B. A maintenance request
+- C. An unpaid rent balance
+- D. A lease renewal
 
 ### Question 67
 
-What is included in the rent?
+What will the speakers do next?
 
-- A. Bicycle rental
-- B. Laundry use
-- C. Window cleaning
-- D. Storage boxes
+- A. Evict the tenant immediately
+- B. Lower the rent
+- C. Ignore the issue
+- D. Send a formal notice
 
 ### Answers
 
 65: B
 66: C
-67: B
+67: D
 
 ### Explanation
 
 #### Question 65
 
-One speaker is viewing an apartment and asking about amenities.
+The man explains that the old pipes have corroded, causing the pressure drop.
 
 #### Question 66
 
-Speaker 2 gives its location on the ground floor.
+The woman raises the issue of the tenant in unit 4B, who has become a debtor owing two months' rent.
 
 #### Question 67
 
-Speaker 2 says laundry is included.
+The woman proposes sending a formal notice today.
 
 ### Tags
 
-- conversation
-- apartment-viewing
+- property-management
+- maintenance
+- tenants
 
 ## Group 13
 
@@ -912,65 +927,66 @@ Narrator:
 Questions 68 through 70 refer to the following conversation.
 
 Speaker 1:
-We received eight hundred responses to the customer survey—twice as many as last year.
+Everyone in the industry seems to be jumping on the bandwagon with this new project-management software.
 
 Speaker 2:
-That should give us useful data. When will the analysis be ready?
+I've noticed. It feels like the vendor almost has a monopoly on the market right now.
 
 Speaker 1:
-The software will finish processing the ratings tonight. I’ll summarize the comments tomorrow.
+True, but if we adopt it, we'll need to update our training curriculum for the whole team.
 
 Speaker 2:
-Please highlight any suggestions about delivery service. The operations team needs them Friday.
+That's fine. I'll ask HR to schedule sessions once the new licenses are ready.
 
 ### Question 68
 
-What has increased since last year?
+What trend does the man mention?
 
-- A. Survey responses
-- B. Delivery fees
-- C. Software ratings
-- D. Team size
+- A. Companies adopting new software
+- B. Companies switching to remote work
+- C. Companies reducing staff
+- D. Companies merging with competitors
 
 ### Question 69
 
-What will happen tonight?
+What does the woman say about the vendor's position in the market?
 
-- A. Comments will be summarized
-- B. Ratings will be processed
-- C. A survey will be sent
-- D. A meeting will begin
+- A. It is losing customers
+- B. It nearly has a monopoly
+- C. It just entered the market
+- D. It is going out of business
 
 ### Question 70
 
-What information does Speaker 2 especially want?
+What will need to be updated if the company adopts the software?
 
-- A. Pricing complaints
-- B. Product ratings
-- C. Website statistics
-- D. Delivery suggestions
+- A. The employee handbook
+- B. The pricing model
+- C. The training curriculum
+- D. The office layout
 
 ### Answers
 
 68: A
 69: B
-70: D
+70: C
 
 ### Explanation
 
 #### Question 68
 
-The number of responses doubled.
+The man says everyone is jumping on the bandwagon with new project-management software.
 
 #### Question 69
 
-The software will process ratings tonight.
+The woman says the vendor almost has a monopoly on the market.
 
 #### Question 70
 
-Speaker 2 asks for delivery-service suggestions to be highlighted.
+The man says they will need to update the training curriculum if they adopt the software.
 
 ### Tags
 
-- conversation
-- market-research
+- technology
+- training
+- adoption

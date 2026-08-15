@@ -9,16 +9,16 @@ images/toeic-scenes/office-meeting.svg
 ### Audio
 
 Speaker 1:
-A. Several colleagues are gathered around a table.
+A. One of the colleagues is pointing toward the table while speaking.
 
 Speaker 1:
-B. A projector is being carried out of a room.
+B. The group looks cohesive as everyone reviews the same laptop screen.
 
 Speaker 1:
-C. The windows are covered with curtains.
+C. A stack of binders has been placed at the end of the table.
 
 Speaker 1:
-D. Some documents are being placed in a cabinet.
+D. Someone is adjusting the blinds behind the seating area.
 
 ### Answer
 
@@ -26,12 +26,13 @@ A
 
 ### Explanation
 
-The illustration shows several colleagues seated together around a meeting table.
+One of the three seated colleagues is shown gesturing toward the table as if speaking, matching option A. No laptop or screen is visible, no binders are stacked on the table, and there are no blinds or windows in the room.
 
 ### Tags
 
 - photograph
-- visual-detail
+- office
+- teamwork
 
 ## Question 2
 
@@ -42,16 +43,16 @@ images/toeic-scenes/train-platform.svg
 ### Audio
 
 Speaker 1:
-A. A train is crossing a bridge.
+A. Two commuters are standing near the ticket gate.
 
 Speaker 1:
-B. Passengers are waiting beside a railway track.
+B. A large clock is mounted on a post above the platform.
 
 Speaker 1:
-C. A conductor is repairing a ticket machine.
+C. A porter is stacking luggage onto a rolling cart.
 
 Speaker 1:
-D. Luggage has been left inside a vehicle.
+D. A train conductor is announcing a delay over the speakers.
 
 ### Answer
 
@@ -59,12 +60,13 @@ B
 
 ### Explanation
 
-The people are standing on a platform next to the railway track.
+A round clock face is mounted on a post rising above the platform, matching option B. There is no ticket gate in view, no cart or luggage is shown, and nothing indicates an announcement being made.
 
 ### Tags
 
 - photograph
-- visual-detail
+- transportation
+- station
 
 ## Question 3
 
@@ -75,16 +77,16 @@ images/toeic-scenes/restaurant.svg
 ### Audio
 
 Speaker 1:
-A. A customer is paying at a counter.
+A. A sizzling platter is being carried past the entrance.
 
 Speaker 1:
-B. The tables have been moved outdoors.
+B. A waiter is clearing empty glasses from a nearby table.
 
 Speaker 1:
-C. A server is pouring a drink for a guest.
+C. A small dish has been placed at the center of the table.
 
 Speaker 1:
-D. Some dishes are being washed in a sink.
+D. A menu has been left open on an empty chair.
 
 ### Answer
 
@@ -92,12 +94,13 @@ C
 
 ### Explanation
 
-A server is shown pouring a beverage at the table.
+A small dish sits on the table between the two seated guests, matching option C. There is no entrance or platter shown in motion, no waiter clearing glasses, and no empty chair with a menu.
 
 ### Tags
 
 - photograph
-- visual-detail
+- restaurant
+- dining
 
 ## Question 4
 
@@ -108,16 +111,16 @@ images/toeic-scenes/warehouse.svg
 ### Audio
 
 Speaker 1:
-A. Boxes are being loaded onto a ship.
+A. A worker is scanning a barcode on one of the boxes.
 
 Speaker 1:
-B. A worker is operating a forklift.
+B. Empty shelves are waiting to be restocked.
 
 Speaker 1:
-C. Shelves are being painted.
+C. A forklift is moving pallets near the loading dock.
 
 Speaker 1:
-D. Some packages are stacked in a warehouse.
+D. Parcels of different sizes have been placed on the shelves.
 
 ### Answer
 
@@ -125,12 +128,13 @@ D
 
 ### Explanation
 
-The main visible detail is the group of packages stacked beside warehouse shelving.
+The shelving unit holds several parcels of varying sizes, matching option D. No person is visible scanning anything, the shelves are not empty, and no forklift or loading dock is shown.
 
 ### Tags
 
 - photograph
-- visual-detail
+- warehouse
+- logistics
 
 ## Question 5
 
@@ -141,16 +145,16 @@ images/toeic-scenes/park.svg
 ### Audio
 
 Speaker 1:
-A. A path curves through a landscaped park.
+A. Trees of different sizes line a curved path through the park.
 
 Speaker 1:
-B. A fountain is being repaired by workers.
+B. A bench has been placed beneath one of the trees.
 
 Speaker 1:
-C. Several bicycles are parked near a building.
+C. A jogger is taking a brisk walk along the path.
 
 Speaker 1:
-D. People are crossing a busy intersection.
+D. Workers are trimming the branches of a large tree.
 
 ### Answer
 
@@ -158,12 +162,13 @@ A
 
 ### Explanation
 
-The illustration shows a winding path surrounded by trees and landscaped greenery.
+Three trees of different sizes stand along a curved path winding through the park, matching option A. There is no bench, no person on the path, and no one trimming branches.
 
 ### Tags
 
 - photograph
-- visual-detail
+- park
+- landscape
 
 ## Question 6
 
@@ -174,16 +179,16 @@ images/toeic-scenes/construction.svg
 ### Audio
 
 Speaker 1:
-A. A ladder is leaning against a truck.
+A. Workers are repairing a section of the curb near the site.
 
 Speaker 1:
-B. A worker is examining a set of building plans.
+B. A worker is holding a leveling tool at the site.
 
 Speaker 1:
-C. The roof of a house is being removed.
+C. A crane is lowering a beam onto the site.
 
 Speaker 1:
-D. Some tools have been locked in a cabinet.
+D. Safety barriers surround the perimeter of the site.
 
 ### Answer
 
@@ -191,9 +196,10 @@ B
 
 ### Explanation
 
-The worker is holding and looking at a large plan at the construction site.
+A worker at the site is shown holding a long, angled leveling tool, matching option B. There is no curb, crane, or beam in view, and no barriers surround the site.
 
 ### Tags
 
 - photograph
-- visual-detail
+- construction
+- worksite

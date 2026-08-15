@@ -2,12 +2,12 @@
 
 ## Question 101
 
-Employees must submit travel receipts _____ ten business days.
+The sales team adjusted its _____ after losing three major accounts to a competitor.
 
-- A. within
-- B. among
-- C. beside
-- D. during
+- A. tactics
+- B. tactical
+- C. tactically
+- D. tactician
 
 ### Answer
 
@@ -15,65 +15,26 @@ A
 
 ### Explanation
 
-“Within ten business days” expresses the allowed time period.
+The blank follows the possessive "its" and needs a plural noun meaning "strategies." "Tactical" is an adjective, "tactically" is an adverb, and "tactician" refers to a person, not a plan.
+
+### Vocabulary
+
+- tactics: methods used to achieve a specific goal
 
 ### Tags
 
-- grammar
-- preposition
+- word-form
+- business-vocabulary
+- noun
 
 ## Question 102
 
-The new packaging is both attractive _____ environmentally friendly.
+Employees who violate the confidentiality agreement may face _____ action under the new contract terms.
 
-- A. or
-- B. but
-- C. and
-- D. so
-
-### Answer
-
-C
-
-### Explanation
-
-The correlative structure is “both ... and.”
-
-### Tags
-
-- grammar
-- conjunction
-
-## Question 103
-
-Ms. Alvarez will _____ the client at the airport tomorrow morning.
-
-- A. meets
-- B. meeting
-- C. meet
-- D. met
-
-### Answer
-
-C
-
-### Explanation
-
-The modal “will” is followed by the base verb “meet.”
-
-### Tags
-
-- grammar
-- verb-form
-
-## Question 104
-
-The board requested a more _____ estimate of construction costs.
-
-- A. accuracy
-- B. accurate
-- C. accurately
-- D. accuracies
+- A. penalize
+- B. penal
+- C. penalty
+- D. penalizing
 
 ### Answer
 
@@ -81,21 +42,53 @@ B
 
 ### Explanation
 
-An adjective is required to modify “estimate.”
+An adjective is needed before the noun "action." "Penal" (relating to punishment) fits, while "penalize" is a verb, "penalty" is a noun, and "penalizing" is a gerund/participle.
+
+### Vocabulary
+
+- penal: relating to punishment for breaking the law or rules
 
 ### Tags
 
-- grammar
+- word-form
+- legal
 - adjective
 
-## Question 105
+## Question 103
 
-All visitors are required to wear an identification badge while _____ the facility.
+As the mediator, she remained completely _____ throughout the negotiation, favoring neither side.
 
-- A. tour
-- B. tours
-- C. toured
-- D. touring
+- A. impartiality
+- B. impartially
+- C. impartial
+- D. impart
+
+### Answer
+
+C
+
+### Explanation
+
+The linking verb "remained" requires a predicate adjective. "Impartiality" is a noun, "impartially" is an adverb, and "impart" is an unrelated verb meaning to share information.
+
+### Vocabulary
+
+- impartial: not favoring one side over another; fair
+
+### Tags
+
+- word-form
+- adjective
+- negotiation
+
+## Question 104
+
+Making an _____ decision to cancel the contract without consulting legal could expose the company to unnecessary risk.
+
+- A. impulse
+- B. impulsively
+- C. impulsiveness
+- D. impulsive
 
 ### Answer
 
@@ -103,21 +96,53 @@ D
 
 ### Explanation
 
-The reduced time clause requires the present participle “touring.”
+An adjective is needed to modify the noun "decision." "Impulse" is a noun, "impulsively" is an adverb, and "impulsiveness" is a noun.
+
+### Vocabulary
+
+- impulsive: acting suddenly without careful thought
 
 ### Tags
 
-- grammar
-- participle
+- word-form
+- adjective
+- risk-management
+
+## Question 105
+
+After profits fell for the third consecutive quarter, analysts painted a rather _____ picture of the company's prospects.
+
+- A. bleak
+- B. bleakly
+- C. bleakness
+- D. optimistic
+
+### Answer
+
+A
+
+### Explanation
+
+The blank needs an adjective before "picture." Given the falling profits, "bleak" (gloomy) fits the context, while "optimistic" contradicts the negative news, and B/C are the wrong part of speech.
+
+### Vocabulary
+
+- bleak: offering little hope or encouragement
+
+### Tags
+
+- word-choice
+- adjective
+- finance
 
 ## Question 106
 
-The shipment arrived two days earlier than _____.
+Consumer spending remained _____ throughout the summer despite the retailer's aggressive discounts.
 
-- A. expect
-- B. expected
-- C. expecting
-- D. expectation
+- A. sluggishly
+- B. sluggish
+- C. sluggishness
+- D. brisk
 
 ### Answer
 
@@ -125,65 +150,80 @@ B
 
 ### Explanation
 
-“Than expected” is a standard reduced passive construction.
+"Remained" requires a predicate adjective. "Sluggish" (slow-moving) fits, since spending stayed weak despite discounts; "brisk" would contradict this, and A/C are the wrong part of speech.
+
+### Vocabulary
+
+- sluggish: slow to respond or make progress
 
 ### Tags
 
-- grammar
-- participle
+- word-choice
+- adjective
+- retail
 
 ## Question 107
 
-Please notify Reception _____ you need to reserve a visitor parking space.
+Wages in the manufacturing sector have stayed largely _____ for the past five years, even as inflation rose.
 
-- A. if
-- B. despite
-- C. unless
-- D. whereas
+- A. stagnation
+- B. stagnate
+- C. stagnant
+- D. rising
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-“If” introduces the condition for notifying Reception.
+The blank needs an adjective after "stayed." "Stagnant" (not growing) matches wages that have not kept pace with inflation. "Rising" contradicts the context, and A/B are the wrong part of speech.
+
+### Vocabulary
+
+- stagnant: not growing, developing, or changing
 
 ### Tags
 
-- grammar
-- conjunction
+- word-choice
+- adjective
+- economy
 
 ## Question 108
 
-The research department has not _____ released its findings.
+The vendor's inconsistent delivery schedule has become increasingly _____ for our production line.
 
-- A. yet
-- B. ever
-- C. soon
-- D. still
+- A. problem
+- B. problematically
+- C. beneficial
+- D. problematic
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-“Yet” is used with a negative present perfect statement.
+An adjective is needed after "become increasingly." "Problematic" (causing difficulty) fits an inconsistent schedule, while "beneficial" contradicts the negative context, and A/B are the wrong part of speech.
+
+### Vocabulary
+
+- problematic: causing difficulty or presenting a problem
 
 ### Tags
 
-- grammar
-- adverb
+- word-choice
+- adjective
+- supply-chain
 
 ## Question 109
 
-Customers may return unused items for a full _____ within thirty days.
+Employees are required to follow the standard safety checklist and must not _____ from it without supervisor approval.
 
-- A. refund
-- B. refunded
-- C. refundable
-- D. refunding
+- A. deviate
+- B. deviation
+- C. deviating
+- D. deviant
 
 ### Answer
 
@@ -191,131 +231,53 @@ A
 
 ### Explanation
 
-A noun is required after “a full.”
+The base verb form is needed after the modal "must not." "Deviation" and "deviant" are nouns, and "deviating" is a gerund/participle.
+
+### Vocabulary
+
+- deviate: to depart from an established course or standard
 
 ### Tags
 
-- grammar
 - word-form
+- verb
+- workplace-safety
 
 ## Question 110
 
-The auditorium can _____ up to eight hundred guests.
+The manager tried to _____ the new hires of the notion that overtime pay was automatic.
 
-- A. accommodation
-- B. accommodated
-- C. accommodate
-- D. accommodating
+- A. disabused
+- B. disabuse
+- C. disabusing
+- D. abuse
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The modal “can” takes the base verb.
+The base verb form follows "to." "Abuse" has a different meaning (to mistreat), which does not fit correcting a false belief; A and C are the wrong verb forms.
+
+### Vocabulary
+
+- disabuse: to persuade someone that a belief they hold is mistaken
 
 ### Tags
 
-- grammar
-- verb-form
+- word-form
+- verb
+- hr
 
 ## Question 111
 
-Neither the manager nor the assistants _____ available this afternoon.
+The company quickly moved to _____ the misleading advertisement once it learned the claims were false.
 
-- A. is
-- B. are
-- C. was
-- D. be
-
-### Answer
-
-B
-
-### Explanation
-
-With “neither ... nor,” the verb agrees with the nearer plural subject “assistants.”
-
-### Tags
-
-- grammar
-- agreement
-
-## Question 112
-
-Our technicians responded _____ to the customer’s request for help.
-
-- A. prompt
-- B. promptly
-- C. promptness
-- D. prompted
-
-### Answer
-
-B
-
-### Explanation
-
-An adverb modifies the verb “responded.”
-
-### Tags
-
-- grammar
-- adverb
-
-## Question 113
-
-The contract will remain valid _____ both parties agree to terminate it.
-
-- A. until
-- B. during
-- C. between
-- D. throughout
-
-### Answer
-
-A
-
-### Explanation
-
-“Until” marks the ending condition.
-
-### Tags
-
-- grammar
-- preposition
-
-## Question 114
-
-Because demand has increased, the factory will hire _____ workers.
-
-- A. addition
-- B. additional
-- C. additionally
-- D. additions
-
-### Answer
-
-B
-
-### Explanation
-
-The adjective “additional” modifies “workers.”
-
-### Tags
-
-- grammar
-- adjective
-
-## Question 115
-
-Ms. Ito is responsible for ensuring that all records are kept _____.
-
-- A. secure
-- B. security
-- C. securely
-- D. securing
+- A. disavowed
+- B. disavowal
+- C. disavow
+- D. endorse
 
 ### Answer
 
@@ -323,21 +285,53 @@ C
 
 ### Explanation
 
-The adverb “securely” modifies “are kept.”
+The base verb form follows "to." "Endorse" means the opposite of rejecting the advertisement, and "disavowed" and "disavowal" are the wrong verb forms.
+
+### Vocabulary
+
+- disavow: to deny responsibility for or connection with something
 
 ### Tags
 
-- grammar
-- adverb
+- word-form
+- verb
+- public-relations
 
-## Question 116
+## Question 112
 
-The renovation project was completed _____ budget.
+The onboarding session was extremely _____, covering everything from benefits to office procedures.
 
-- A. under
-- B. below of
-- C. less
-- D. inside of
+- A. information
+- B. informatively
+- C. informed
+- D. informative
+
+### Answer
+
+D
+
+### Explanation
+
+An adjective describing the session is needed. "Informative" (providing useful information) fits; "informed" describes a person who has knowledge, not something that provides it, and A/B are the wrong part of speech.
+
+### Vocabulary
+
+- informative: providing useful or interesting information
+
+### Tags
+
+- word-choice
+- adjective
+- hr
+
+## Question 113
+
+Facing declining revenue, the firm decided to _____ by closing two underperforming branches.
+
+- A. retrench
+- B. retrenched
+- C. retrenchment
+- D. expand
 
 ### Answer
 
@@ -345,21 +339,26 @@ A
 
 ### Explanation
 
-“Under budget” means costing less than the planned amount.
+The base verb form follows "to." "Expand" contradicts the act of closing branches, and B/C are the wrong verb forms.
+
+### Vocabulary
+
+- retrench: to reduce costs or spending, often by cutting operations
 
 ### Tags
 
-- grammar
-- collocation
+- word-form
+- verb
+- finance
 
-## Question 117
+## Question 114
 
-Applicants _____ résumés are selected will be contacted by Friday.
+Management announced a significant _____ in travel spending for the remainder of the year.
 
-- A. who
-- B. whose
-- C. whom
-- D. which
+- A. cut back
+- B. cutback
+- C. cutting back
+- D. increase
 
 ### Answer
 
@@ -367,295 +366,438 @@ B
 
 ### Explanation
 
-“Whose” shows possession of the résumés.
+A single-word noun is needed after "a significant ___ in." "Cutback" is the correct noun form; "increase" contradicts the reduction implied, and A/C are phrasal or verb forms.
+
+### Vocabulary
+
+- cutback: a reduction in something, especially spending
+
+### Tags
+
+- word-form
+- noun
+- budget
+
+## Question 115
+
+The relief among staff was _____ when the merger negotiations finally concluded.
+
+- A. palpably
+- B. palpability
+- C. palpable
+- D. invisible
+
+### Answer
+
+C
+
+### Explanation
+
+The linking verb "was" requires a predicate adjective. "Palpable" (easily noticed) fits the described relief; "invisible" contradicts this, and A/B are the wrong part of speech.
+
+### Vocabulary
+
+- palpable: so intense as to be almost touched or felt; obvious
+
+### Tags
+
+- word-choice
+- adjective
+- corporate
+
+## Question 116
+
+The new customer service hotline was introduced to _____ some of the complaints about long wait times.
+
+- A. palliated
+- B. palliating
+- C. worsen
+- D. palliate
+
+### Answer
+
+D
+
+### Explanation
+
+The base verb form follows "to." "Worsen" contradicts the purpose of the new hotline, and A/B are the wrong verb forms.
+
+### Vocabulary
+
+- palliate: to make a problem less severe without solving it completely
+
+### Tags
+
+- word-form
+- verb
+- customer-service
+
+## Question 117
+
+The newly appointed director pursued the restructuring plan with great _____.
+
+- A. vigor
+- B. vigorous
+- C. vigorously
+- D. weakness
+
+### Answer
+
+A
+
+### Explanation
+
+A noun is needed as the object of "with great ___." "Weakness" contradicts the sense of energetic pursuit, and B/C are the wrong part of speech.
+
+### Vocabulary
+
+- vigor: physical or mental energy and enthusiasm
+
+### Tags
+
+- word-form
+- noun
+- leadership
+
+## Question 118
+
+It is unprofessional to _____ a former employer during a job interview.
+
+- A. disparaged
+- B. disparage
+- C. disparaging
+- D. praise
+
+### Answer
+
+B
+
+### Explanation
+
+The base verb form follows "to." "Praise" is the opposite of criticizing, and A/C are the wrong verb forms.
+
+### Vocabulary
+
+- disparage: to speak of someone or something in a negative, belittling way
+
+### Tags
+
+- word-form
+- verb
+- interview
+
+## Question 119
+
+The board faced a difficult _____: cut costs immediately or risk losing investor confidence.
+
+- A. dilemmas
+- B. resolution
+- C. dilemma
+- D. dispute
+
+### Answer
+
+C
+
+### Explanation
+
+A singular noun is needed after "a difficult." The colon introduces two conflicting options, matching "dilemma"; "resolution" describes an outcome rather than a problem, and "dilemmas" is plural.
+
+### Vocabulary
+
+- dilemma: a situation requiring a choice between two difficult options
+
+### Tags
+
+- word-choice
+- noun
+- decision-making
+
+## Question 120
+
+City officials expect the flooding to _____ within the next two days as the rain stops.
+
+- A. abated
+- B. abating
+- C. intensify
+- D. abate
+
+### Answer
+
+D
+
+### Explanation
+
+The base verb form follows "to." "Intensify" contradicts the expectation tied to the rain stopping, and A/B are the wrong verb forms.
+
+### Vocabulary
+
+- abate: to become less severe or intense
+
+### Tags
+
+- word-form
+- verb
+- news
+
+## Question 121
+
+Currency exchange rates can _____ significantly within a single trading day.
+
+- A. fluctuate
+- B. fluctuated
+- C. fluctuation
+- D. stabilize
+
+### Answer
+
+A
+
+### Explanation
+
+The base verb form follows the modal "can." "Stabilize" contradicts the idea of significant movement, and B/C are the wrong verb forms.
+
+### Vocabulary
+
+- fluctuate: to rise and fall irregularly
+
+### Tags
+
+- word-form
+- verb
+- finance
+
+## Question 122
+
+Shipping times from the new overseas supplier have been rather _____, ranging from one week to over a month.
+
+- A. erratically
+- B. erratic
+- C. erraticism
+- D. consistent
+
+### Answer
+
+B
+
+### Explanation
+
+The linking verb "have been" requires a predicate adjective. "Erratic" (irregular) matches the wide range given; "consistent" contradicts this, and A/C are the wrong part of speech.
+
+### Vocabulary
+
+- erratic: not consistent or regular in pattern
+
+### Tags
+
+- word-choice
+- adjective
+- logistics
+
+## Question 123
+
+The customer requested that we _____ the delivery due to an upcoming trade show.
+
+- A. expedited
+- B. expediting
+- C. expedite
+- D. delay
+
+### Answer
+
+C
+
+### Explanation
+
+A subjunctive base verb follows "requested that we." "Delay" contradicts the urgency implied by the trade show, and A/B are the wrong verb forms.
+
+### Vocabulary
+
+- expedite: to make a process happen more quickly
+
+### Tags
+
+- word-form
+- verb
+- logistics
+
+## Question 124
+
+The scale of the data breach may _____ a full external audit of our security systems.
+
+- A. warranted
+- B. warranty
+- C. prevent
+- D. warrant
+
+### Answer
+
+D
+
+### Explanation
+
+The base verb form follows the modal "may." Here "warrant" means to justify or call for; "prevent" contradicts the logic of the sentence, and A/B are the wrong forms.
+
+### Vocabulary
+
+- warrant: to justify or call for a particular course of action
+
+### Tags
+
+- word-form
+- verb
+- security
+
+## Question 125
+
+A dedicated project coordinator was hired to _____ communication between the design and engineering teams.
+
+- A. facilitate
+- B. facility
+- C. facilitated
+- D. hinder
+
+### Answer
+
+A
+
+### Explanation
+
+The base verb form follows "to." "Hinder" means to obstruct, which contradicts the coordinator's purpose, and B/C are the wrong forms.
+
+### Vocabulary
+
+- facilitate: to make a process or action easier
+
+### Tags
+
+- word-form
+- verb
+- project-management
+
+## Question 126
+
+The initial proposal was rejected, but a _____ revision was approved without further changes.
+
+- A. subsequently
+- B. subsequent
+- C. subsequence
+- D. previous
+
+### Answer
+
+B
+
+### Explanation
+
+An adjective is needed to modify "revision." "Previous" contradicts the sequence described, since the revision came after the rejection, and A/C are the wrong part of speech.
+
+### Vocabulary
+
+- subsequent: coming after something in time; following
+
+### Tags
+
+- word-choice
+- adjective
+- process
+
+## Question 127
+
+The contract contains an _____ clause prohibiting the use of subcontractors without written consent.
+
+- A. explicitly
+- B. explicitness
+- C. explicit
+- D. implicit
+
+### Answer
+
+C
+
+### Explanation
+
+An adjective is needed to modify "clause." "Explicit" (clearly stated) fits a clause that directly prohibits something; "implicit" (implied, not stated directly) contradicts this, and A/B are the wrong part of speech.
+
+### Vocabulary
+
+- explicit: stated clearly and in detail, leaving no room for confusion
+
+### Tags
+
+- word-choice
+- adjective
+- contracts
+
+## Question 128
+
+It would be _____ of us not to inform the client about the delay immediately.
+
+- A. remissly
+- B. remission
+- C. careful
+- D. remiss
+
+### Answer
+
+D
+
+### Explanation
+
+The linking verb "would be" requires a predicate adjective. "Remiss" (negligent) fits failing to inform the client; "careful" contradicts the intended meaning, and A/B are the wrong part of speech.
+
+### Vocabulary
+
+- remiss: negligent in fulfilling one's duty or obligation
+
+### Tags
+
+- word-choice
+- adjective
+- client-relations
+
+## Question 129
+
+The consultant _____ recommendations led to a twenty percent increase in efficiency has been invited back for a follow-up project.
+
+- A. whose
+- B. who
+- C. which
+- D. whom
+
+### Answer
+
+A
+
+### Explanation
+
+A possessive relative pronoun is needed before the noun "recommendations." "Whose" correctly shows possession; "who" and "whom" are used for people without possession, and "which" is not possessive.
 
 ### Tags
 
 - grammar
 - relative-clause
-
-## Question 118
-
-The conference organizer asked speakers to arrive _____ than eight thirty.
-
-- A. early
-- B. earliest
-- C. earlier
-- D. more early
-
-### Answer
-
-C
-
-### Explanation
-
-The comparative form “earlier” is used with “than.”
-
-### Tags
-
-- grammar
-- comparison
-
-## Question 119
-
-We appreciate your _____ during the temporary service interruption.
-
-- A. patient
-- B. patiently
-- C. patience
-- D. patients
-
-### Answer
-
-C
-
-### Explanation
-
-The possessive “your” is followed by the noun “patience.”
-
-### Tags
-
-- grammar
-- word-form
-
-## Question 120
-
-The software update includes several features _____ by users.
-
-- A. request
-- B. requested
-- C. requesting
-- D. requests
-
-### Answer
-
-B
-
-### Explanation
-
-The past participle describes features that users requested.
-
-### Tags
-
-- grammar
-- participle
-
-## Question 121
-
-Mr. Osei will lead the negotiations in the director’s _____.
-
-- A. absent
-- B. absence
-- C. absently
-- D. absences
-
-### Answer
-
-B
-
-### Explanation
-
-The fixed phrase is “in someone’s absence.”
-
-### Tags
-
-- grammar
-- noun
-
-## Question 122
-
-Production increased _____ the shortage of raw materials.
-
-- A. although
-- B. despite
-- C. because
-- D. unless
-
-### Answer
-
-B
-
-### Explanation
-
-“Despite” correctly precedes the noun phrase “the shortage.”
-
-### Tags
-
-- grammar
-- preposition
-
-## Question 123
-
-The hotel recommends that guests _____ valuables in the lobby safe.
-
-- A. leave
-- B. leaves
-- C. left
-- D. leaving
-
-### Answer
-
-A
-
-### Explanation
-
-After “recommends that,” the subjunctive uses the base verb.
-
-### Tags
-
-- grammar
-- subjunctive
-
-## Question 124
-
-Our newest branch is conveniently _____ near the central station.
-
-- A. location
-- B. locate
-- C. located
-- D. locating
-
-### Answer
-
-C
-
-### Explanation
-
-The passive expression is “is located.”
-
-### Tags
-
-- grammar
-- passive-voice
-
-## Question 125
-
-By the time the guests arrived, the catering staff _____ the tables.
-
-- A. sets
-- B. has set
-- C. had set
-- D. will set
-
-### Answer
-
-C
-
-### Explanation
-
-Past perfect describes an action completed before another past action.
-
-### Tags
-
-- grammar
-- tense
-
-## Question 126
-
-The warranty covers parts but does not include the cost of _____.
-
-- A. deliver
-- B. delivered
-- C. delivery
-- D. delivers
-
-### Answer
-
-C
-
-### Explanation
-
-The noun “delivery” follows “cost of.”
-
-### Tags
-
-- grammar
-- word-form
-
-## Question 127
-
-_____ the survey results, most commuters prefer earlier trains.
-
-- A. According to
-- B. In case
-- C. Instead of
-- D. As long as
-
-### Answer
-
-A
-
-### Explanation
-
-“According to” identifies the source of information.
-
-### Tags
-
-- grammar
-- phrase
-
-## Question 128
-
-The committee will review the proposal and make _____ recommendation next week.
-
-- A. it
-- B. its
-- C. itself
-- D. their
-
-### Answer
-
-B
-
-### Explanation
-
-The possessive determiner “its” modifies “recommendation.”
-
-### Tags
-
-- grammar
 - pronoun
-
-## Question 129
-
-No changes may be made to the design without prior _____.
-
-- A. approve
-- B. approved
-- C. approval
-- D. approving
-
-### Answer
-
-C
-
-### Explanation
-
-The adjective “prior” modifies the noun “approval.”
-
-### Tags
-
-- grammar
-- word-form
 
 ## Question 130
 
-The upgraded system processes orders much more _____ than the previous one.
+This year's marketing budget is significantly _____ than last year's, reflecting the company's expansion plans.
 
-- A. efficient
-- B. efficiency
-- C. efficiently
-- D. efficiencies
+- A. large
+- B. larger
+- C. largest
+- D. more large
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The adverb modifies the verb “processes.”
+The comparative structure "_____ than" requires the comparative form "larger." "Largest" is superlative, "large" is the base form, and "more large" is an incorrect comparative form for a one-syllable adjective.
 
 ### Tags
 
 - grammar
-- adverb
+- comparative
+- budget

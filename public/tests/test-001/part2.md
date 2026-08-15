@@ -5,45 +5,46 @@
 ### Audio
 
 Speaker 1:
-Where should I leave these delivery forms?
+Why was the client meeting adjourned early?
 
 Speaker 2:
-A. On Ms. Patel’s desk.
+A. It's scheduled for Tuesday.
 
 Speaker 2:
-B. They arrived this morning.
+B. I'll adjourn to the lobby for lunch.
 
 Speaker 2:
-C. About twelve pages.
+C. Because the projector stopped working.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The response identifies the requested location.
+C directly explains the reason the meeting ended early. A answers a different question about timing, and B misuses "adjourn" to mean moving to another room.
 
 ### Tags
 
 - question-response
-- listening
+- meetings
+- reason
 
 ## Question 8
 
 ### Audio
 
 Speaker 1:
-Didn’t Marcus reserve the conference room?
+The quarterly numbers look pretty dismal this time.
 
 Speaker 2:
-A. No, the room is quite large.
+A. The printer is out of paper.
 
 Speaker 2:
-B. Yes, for Thursday afternoon.
+B. I know, sales dropped sharply in every region.
 
 Speaker 2:
-C. A reservation number.
+C. It starts at nine o'clock.
 
 ### Answer
 
@@ -51,28 +52,29 @@ B
 
 ### Explanation
 
-The yes response confirms that Marcus made the reservation and supplies the time.
+B agrees with the negative assessment and adds a supporting detail about poor performance, matching "dismal." A and C are unrelated topics.
 
 ### Tags
 
 - question-response
-- listening
+- sales
+- opinion
 
 ## Question 9
 
 ### Audio
 
 Speaker 1:
-How often is the safety equipment inspected?
+Could you ascertain whether the shipment has left the warehouse?
 
 Speaker 2:
-A. At the east entrance.
+A. It weighs about ten kilograms.
 
 Speaker 2:
-B. The equipment is new.
+B. The warehouse is next to the depot.
 
 Speaker 2:
-C. Every three months.
+C. I'll check with the logistics team right away.
 
 ### Answer
 
@@ -80,28 +82,29 @@ C
 
 ### Explanation
 
-“How often” asks about frequency, answered by “Every three months.”
+C agrees to find out the requested information, which is what "ascertain" (to find out for certain) is asking for. A and B do not address the request.
 
 ### Tags
 
 - question-response
-- listening
+- logistics
+- request
 
 ## Question 10
 
 ### Audio
 
 Speaker 1:
-Who will present the quarterly sales figures?
+What's impeding the progress on the new website?
 
 Speaker 2:
-A. Ms. Laurent from Finance.
+A. We're waiting on approval from legal.
 
 Speaker 2:
-B. In the main auditorium.
+B. It's a great design.
 
 Speaker 2:
-C. They increased by eight percent.
+C. About three weeks ago.
 
 ### Answer
 
@@ -109,28 +112,29 @@ A
 
 ### Explanation
 
-“Who” requires the name or role of a person.
+A identifies the obstacle (waiting on legal approval), directly answering what is impeding, or slowing, progress. B and C do not explain a cause.
 
 ### Tags
 
 - question-response
-- listening
+- project-management
+- reason
 
 ## Question 11
 
 ### Audio
 
 Speaker 1:
-Why was the morning flight canceled?
+Would you be willing to waive the late fee this once?
 
 Speaker 2:
-A. The airport shuttle.
+A. Yes, I waved to him yesterday.
 
 Speaker 2:
-B. Because of heavy fog.
+B. Let me check with my supervisor.
 
 Speaker 2:
-C. At gate twenty-four.
+C. The fee was ten dollars last year.
 
 ### Answer
 
@@ -138,231 +142,239 @@ B
 
 ### Explanation
 
-The because-clause gives a reason for the cancellation.
+B is an indirect but appropriate response to a request to waive, or cancel, a fee. A confuses "waive" with the unrelated word "wave."
 
 ### Tags
 
 - question-response
-- listening
+- billing
+- request
 
 ## Question 12
 
 ### Audio
 
 Speaker 1:
-Could you help me move this cabinet?
+Who's the incumbent manager of the design department?
 
 Speaker 2:
-A. Certainly. Where should it go?
+A. The department is on the third floor.
 
 Speaker 2:
-B. The key is in the drawer.
+B. It's due next Friday.
 
 Speaker 2:
-C. It is made of oak.
+C. Sarah Kim has held the position since March.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The speaker accepts the request and asks for the destination.
+C names the person currently holding, or incumbent in, the role, which answers the "who" question. A and B answer different question types.
 
 ### Tags
 
 - question-response
-- listening
+- personnel
+- who-question
 
 ## Question 13
 
 ### Audio
 
 Speaker 1:
-When does the new employee orientation start?
+Is the trade of counterfeit goods illicit in this country?
 
 Speaker 2:
-A. For all new employees.
+A. Yes, it's strictly prohibited by law.
 
 Speaker 2:
-B. In the training center.
+B. The trade fair starts Monday.
 
 Speaker 2:
-C. At nine thirty.
+C. I bought it at a discount.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-“When” asks for a time.
+A confirms that the activity is illicit, meaning forbidden by law. B reuses the word "trade" in an unrelated sense, and C does not answer the yes/no question.
 
 ### Tags
 
 - question-response
-- listening
+- legal
+- yes-no
 
 ## Question 14
 
 ### Audio
 
 Speaker 1:
-Which printer should I use for the brochures?
+This new cleaning solution is quite potent, isn't it?
 
 Speaker 2:
-A. The color one near Reception.
+A. The meeting is postponed.
 
 Speaker 2:
-B. Two hundred copies.
+B. Yes, a little goes a long way.
 
 Speaker 2:
-C. The paper was recycled.
+C. He's a very promising candidate.
 
 ### Answer
 
-A
+B
 
 ### Explanation
 
-The response identifies a specific printer.
+B agrees and explains why the solution is potent, or powerful in effect. A and C are unrelated to the product being discussed.
 
 ### Tags
 
 - question-response
-- listening
+- facilities
+- opinion
 
 ## Question 15
 
 ### Audio
 
 Speaker 1:
-Haven’t the invoices been mailed yet?
+Why don't we cultivate stronger relationships with local suppliers?
 
 Speaker 2:
-A. The postage was expensive.
+A. The garden needs watering.
 
 Speaker 2:
-B. No, they still need signatures.
+B. It's due at the end of the month.
 
 Speaker 2:
-C. A list of customers.
+C. That's a good idea. Let's schedule some visits.
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The negative response explains why the invoices have not been mailed.
+C accepts the suggestion to cultivate, or develop, supplier relationships and proposes a next step. A uses the literal gardening sense, which does not fit this business context.
 
 ### Tags
 
 - question-response
-- listening
+- suggestion
+- suppliers
 
 ## Question 16
 
 ### Audio
 
 Speaker 1:
-Where can I find the updated product catalog?
+Is your travel budget contingent on approval from head office?
 
 Speaker 2:
-A. It was updated yesterday.
+A. Yes, we need sign-off before booking anything.
 
 Speaker 2:
-B. Try the company website.
+B. The flight leaves at noon.
 
 Speaker 2:
-C. A wide selection.
+C. I already went there twice.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The company website is a location where the catalog can be found.
+A confirms that the budget is contingent, or dependent, on approval by describing the required sign-off. B and C do not address the dependency.
 
 ### Tags
 
 - question-response
-- listening
+- budget
+- yes-no
 
 ## Question 17
 
 ### Audio
 
 Speaker 1:
-Would you prefer tea or coffee?
+Sales this quarter have reached an unprecedented level.
 
 Speaker 2:
-A. Coffee, please.
+A. The store opens at ten.
 
 Speaker 2:
-B. Yes, I made some.
+B. That's fantastic news for the whole team.
 
 Speaker 2:
-C. In the break room.
+C. We ordered it last week.
 
 ### Answer
 
-A
+B
 
 ### Explanation
 
-The response selects one of the two offered drinks.
+B reacts appropriately to the statement about record-breaking, or unprecedented, sales. A and C do not respond to the announcement.
 
 ### Tags
 
 - question-response
-- listening
+- sales
+- reaction
 
 ## Question 18
 
 ### Audio
 
 Speaker 1:
-How did the client react to our proposal?
+Could you send me the peripheral devices list for the new laptops?
 
 Speaker 2:
-A. By express delivery.
+A. The laptops are on sale this week.
 
 Speaker 2:
-B. She was very enthusiastic.
+B. It's located on the outskirts of town.
 
 Speaker 2:
-C. At the client’s office.
+C. Sure, I'll email it this afternoon.
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The response describes the client’s reaction.
+C agrees to send the requested list of peripheral, or supporting, devices. B mistakenly uses the literal, geographic sense of "peripheral."
 
 ### Tags
 
 - question-response
-- listening
+- it-equipment
+- request
 
 ## Question 19
 
 ### Audio
 
 Speaker 1:
-Can we postpone the inspection until Friday?
+That comedian's speech at the banquet was hilarious.
 
 Speaker 2:
-A. Friday’s schedule is full.
+A. I know, I couldn't stop laughing.
 
 Speaker 2:
-B. The inspector wore a badge.
+B. The banquet hall seats two hundred.
 
 Speaker 2:
-C. It took about an hour.
+C. He arrived a bit late.
 
 ### Answer
 
@@ -370,173 +382,119 @@ A
 
 ### Explanation
 
-The response indirectly declines by explaining that Friday is unavailable.
+A agrees that the speech was hilarious, or extremely funny, by describing a reaction of laughter. B and C do not comment on the speech itself.
 
 ### Tags
 
 - question-response
-- listening
+- events
+- opinion
 
 ## Question 20
 
 ### Audio
 
 Speaker 1:
-Why don’t we order lunch for the workshop?
+What should I do with these miscellaneous receipts?
 
 Speaker 2:
-A. That’s a good idea.
+A. The receipt printer is broken.
 
 Speaker 2:
-B. The workshop lasted all day.
+B. Just attach them to the expense report.
 
 Speaker 2:
-C. From the supply department.
+C. I miss the old office location.
 
 ### Answer
 
-A
+B
 
 ### Explanation
 
-“Why don’t we” makes a suggestion, and the response accepts it.
+B gives instructions for handling the miscellaneous, or unsorted, receipts, which answers the "what should I do" question. A and C do not offer instructions.
 
 ### Tags
 
 - question-response
-- listening
+- expenses
+- instruction
 
 ## Question 21
 
 ### Audio
 
 Speaker 1:
-Who is responsible for updating the website?
+The client adamantly refused to change the delivery date.
 
 Speaker 2:
-A. The latest version.
+A. The delivery truck arrived early.
 
 Speaker 2:
-B. Our digital media coordinator.
+B. Yes, he ordered it last Monday.
 
 Speaker 2:
-C. Before the end of the month.
+C. Then we'll need to adjust our production schedule.
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The coordinator is the person responsible.
+C responds logically to the client's firm, adamant refusal by proposing an internal adjustment. A and B do not follow from the statement.
 
 ### Tags
 
 - question-response
-- listening
+- client-relations
+- reaction
 
 ## Question 22
 
 ### Audio
 
 Speaker 1:
-When will the replacement parts arrive?
+How was the view from the new rooftop terrace?
 
 Speaker 2:
-A. They fit perfectly.
+A. Honestly, it was fabulous.
 
 Speaker 2:
-B. From our supplier in Berlin.
+B. The terrace was built in April.
 
 Speaker 2:
-C. Sometime on Wednesday.
+C. I put together the report myself.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The response provides an expected day.
+A directly evaluates the view as fabulous, or wonderful, answering the "how was" question. B and C do not describe the view.
 
 ### Tags
 
 - question-response
-- listening
+- facilities
+- opinion
 
 ## Question 23
 
 ### Audio
 
 Speaker 1:
-Would you mind closing the window?
+Don't you think the consultant tends to exaggerate the risks?
 
 Speaker 2:
-A. Not at all.
+A. The exit is down the hall.
 
 Speaker 2:
-B. The view is impressive.
+B. A little, but his warnings are usually worth considering.
 
 Speaker 2:
-C. It was recently cleaned.
-
-### Answer
-
-A
-
-### Explanation
-
-“Not at all” politely agrees to the request.
-
-### Tags
-
-- question-response
-- listening
-
-## Question 24
-
-### Audio
-
-Speaker 1:
-Where is tonight’s award ceremony being held?
-
-Speaker 2:
-A. At the Lakeside Hotel.
-
-Speaker 2:
-B. The marketing division won.
-
-Speaker 2:
-C. It begins after dinner.
-
-### Answer
-
-A
-
-### Explanation
-
-The hotel answers the location question.
-
-### Tags
-
-- question-response
-- listening
-
-## Question 25
-
-### Audio
-
-Speaker 1:
-How many applicants did we interview?
-
-Speaker 2:
-A. For the accounting position.
-
-Speaker 2:
-B. Seven altogether.
-
-Speaker 2:
-C. In Meeting Room B.
+C. He arrives at nine every day.
 
 ### Answer
 
@@ -544,28 +502,29 @@ B
 
 ### Explanation
 
-“How many” asks for a number.
+B addresses whether the consultant exaggerates, or overstates, risks, giving a balanced opinion. A and C are unrelated to the question.
 
 ### Tags
 
 - question-response
-- listening
+- consulting
+- opinion
 
-## Question 26
+## Question 24
 
 ### Audio
 
 Speaker 1:
-Should I contact the supplier now or wait?
+Have the preliminary results from the survey come in yet?
 
 Speaker 2:
-A. The contract is on my desk.
+A. The survey took about ten minutes to complete.
 
 Speaker 2:
-B. I contacted three suppliers.
+B. I prefer the second option.
 
 Speaker 2:
-C. Wait until we confirm the quantity.
+C. Not yet, we expect them by Friday.
 
 ### Answer
 
@@ -573,57 +532,119 @@ C
 
 ### Explanation
 
-The response chooses waiting and specifies the condition.
+C directly answers whether the preliminary, or initial, results have arrived and gives a timeline. A and B do not answer the yes/no question.
 
 ### Tags
 
 - question-response
-- listening
+- research
+- yes-no
+
+## Question 25
+
+### Audio
+
+Speaker 1:
+What steps can we take to mitigate the shipping delays?
+
+Speaker 2:
+A. We could switch to a faster courier service.
+
+Speaker 2:
+B. The shipment weighs twenty kilograms.
+
+Speaker 2:
+C. It arrived two days ago.
+
+### Answer
+
+A
+
+### Explanation
+
+A proposes an action to mitigate, or reduce the impact of, the delays, which answers the "what steps" question. B and C describe unrelated facts.
+
+### Tags
+
+- question-response
+- logistics
+- suggestion
+
+## Question 26
+
+### Audio
+
+Speaker 1:
+I still cringe when I remember that presentation mistake.
+
+Speaker 2:
+A. The presentation starts at noon.
+
+Speaker 2:
+B. Don't worry, everyone makes mistakes sometimes.
+
+Speaker 2:
+C. The projector needs a new bulb.
+
+### Answer
+
+B
+
+### Explanation
+
+B offers reassurance in response to the speaker's embarrassment, or cringing, about the mistake. A and C do not address the feeling expressed.
+
+### Tags
+
+- question-response
+- presentations
+- reaction
 
 ## Question 27
 
 ### Audio
 
 Speaker 1:
-What caused the production delay?
+When does the new employee orientation begin?
 
 Speaker 2:
-A. A malfunctioning conveyor belt.
+A. In the main conference room.
 
 Speaker 2:
-B. Nearly two hours.
+B. Yes, I already registered.
 
 Speaker 2:
-C. At the northern facility.
+C. At nine o'clock on Monday.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The malfunctioning equipment is the cause.
+C gives a specific time, correctly answering the "when" question. A answers a "where" question, and B answers a yes/no question.
 
 ### Tags
 
 - question-response
-- listening
+- hr
+- when-question
 
 ## Question 28
 
 ### Audio
 
 Speaker 1:
-Is the cafeteria open on public holidays?
+Would you like tea or coffee while you wait?
 
 Speaker 2:
-A. Only until two o’clock.
+A. Coffee would be great, thanks.
 
 Speaker 2:
-B. The holiday was relaxing.
+B. The waiting room is upstairs.
 
 Speaker 2:
-C. A vegetarian meal.
+C. I'll be back in an hour.
 
 ### Answer
 
@@ -631,28 +652,29 @@ A
 
 ### Explanation
 
-The response indicates limited holiday opening hours.
+A selects one of the two options offered, which is the expected response to a choice question. B and C do not choose between the items.
 
 ### Tags
 
 - question-response
-- listening
+- hospitality
+- choice-question
 
 ## Question 29
 
 ### Audio
 
 Speaker 1:
-Couldn’t we take a taxi to the convention center?
+Has the invoice for last month's order been sent yet?
 
 Speaker 2:
-A. The convention attracted many visitors.
+A. The order includes twelve items.
 
 Speaker 2:
-B. Yes, that would be faster.
+B. Yes, it went out yesterday afternoon.
 
 Speaker 2:
-C. A receipt from the driver.
+C. We received it last week.
 
 ### Answer
 
@@ -660,28 +682,59 @@ B
 
 ### Explanation
 
-The response agrees and gives the advantage.
+B confirms that the invoice was sent and gives the timing, directly answering the question. A describes the order, and C contradicts the direction of the action.
 
 ### Tags
 
 - question-response
-- listening
+- invoicing
+- yes-no
 
 ## Question 30
 
 ### Audio
 
 Speaker 1:
-Whose umbrella is this by the door?
+Why don't we move the client dinner to Thursday?
 
 Speaker 2:
-A. It might belong to Daniel.
+A. The restaurant closes at ten.
 
 Speaker 2:
-B. The rain stopped an hour ago.
+B. He ordered the steak.
 
 Speaker 2:
-C. Beside the coat rack.
+C. That works better for me too.
+
+### Answer
+
+C
+
+### Explanation
+
+C accepts the suggestion to reschedule, which is the natural response to a "why don't we" proposal. A and B do not address the scheduling suggestion.
+
+### Tags
+
+- question-response
+- scheduling
+- suggestion
+
+## Question 31
+
+### Audio
+
+Speaker 1:
+Who's covering the front desk during lunch?
+
+Speaker 2:
+A. I believe Marcus volunteered for it.
+
+Speaker 2:
+B. Lunch is served at noon.
+
+Speaker 2:
+C. The front desk needs a new phone.
 
 ### Answer
 
@@ -689,38 +742,10 @@ A
 
 ### Explanation
 
-The response identifies a possible owner.
+A names the person covering the desk, which answers the "who" question. B and C do not identify a person.
 
 ### Tags
 
 - question-response
-- listening
-
-## Question 31
-
-### Audio
-
-Speaker 1:
-What time should we meet the visiting consultants?
-
-Speaker 2:
-A. They specialize in logistics.
-
-Speaker 2:
-B. At a quarter past ten.
-
-Speaker 2:
-C. The meeting went well.
-
-### Answer
-
-B
-
-### Explanation
-
-The response gives the requested meeting time.
-
-### Tags
-
-- question-response
-- listening
+- office
+- who-question
