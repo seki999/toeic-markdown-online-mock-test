@@ -35,6 +35,10 @@ const partQuestions = computed(() => partGroups.value.flatMap((group) => group.q
 const total = computed(() => test.value?.parts.flatMap((part) => part.groups.flatMap((group) => group.questions)).length ?? 0)
 const startPart = computed(() => props.section === 'reading' ? 5 : 1)
 const endPart = computed(() => props.section === 'listening' ? 4 : 7)
+const availableParts = computed(() => Array.from(
+  { length: endPart.value - startPart.value + 1 },
+  (_, index) => startPart.value + index,
+))
 const firstQuestionNumber = computed(() => partQuestions.value[0]?.id ?? 0)
 const lastQuestionNumber = computed(() => partQuestions.value.at(-1)?.id ?? 0)
 const percent = computed(() => total.value ? Math.round((firstQuestionNumber.value / total.value) * 100) : 0)
@@ -113,6 +117,19 @@ function submit() {
         <span>{{ activePart <= 4 ? 'Auto playback' : `${percent}%` }}</span>
       </div>
 
+      <nav class="part-tabs exam-part-menu" aria-label="Choose an exam Part">
+        <button
+          v-for="number in availableParts"
+          :key="number"
+          :class="{ active: activePart === number }"
+          type="button"
+          @click="goToPart(number)"
+        >
+          Part {{ number }}
+          <small>{{ number <= 4 ? 'Listening' : 'Reading' }}</small>
+        </button>
+      </nav>
+
       <div class="workspace-header">
         <div>
           <p class="eyebrow">{{ activePart <= 4 ? 'Listening · Continuous playback' : 'Reading' }}</p>
@@ -171,6 +188,24 @@ function submit() {
   display: grid;
   gap: 2rem;
   margin-top: 1.5rem;
+}
+
+.exam-part-menu {
+  position: sticky;
+  top: 146px;
+  z-index: 9;
+  padding: 0.75rem;
+  margin: 0 0 2rem;
+  background: rgba(247, 245, 239, 0.96);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  backdrop-filter: blur(12px);
+}
+
+@media (max-width: 800px) {
+  .exam-part-menu {
+    top: 126px;
+  }
 }
 
 .exam-question-set {

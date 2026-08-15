@@ -8,7 +8,7 @@
 
 - 覆盖 Listening Part 1–4 与 Reading Part 5–7 的统一内部模型。
 - Practice Mode：按 Part 练习、播放/暂停/继续/停止、查看答案、Transcript 和解析。
-- Exam Mode：Part 1–7 各自使用一张独立长页面。点击一次 Start 后自动连续播放 Listening Part 1–4，并在一个 Part 播放完后自动切换到下一 Part 页面，无需题组级 Next；Reading 按整个 Part 前后导航，统一提交后显示 Raw Score。
+- Exam Mode：Part 1–7 各自使用一张独立长页面，顶部 Part 菜单可随时自由切换。点击一次 Start 后自动连续播放 Listening Part 1–4，并在一个 Part 播放完后自动切换到下一 Part 页面，无需题组级 Next；从菜单选择 Listening Part 会停止当前朗读并从所选 Part 开头播放。Reading 按整个 Part 前后导航，统一提交后显示 Raw Score。
 - Result：Listening、Reading、Total、Accuracy 及各 Part 明细。
 - Review：按全部、错误、正确、未回答过滤；错误题可再次练习。
 - LocalStorage：保存当前答案、历史结果、错题以及四个角色的 voice/rate 设置。
@@ -115,7 +115,7 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 10. 正式题库必须设置 demo: false。不要在题库标题、正文或 UI 文案中加入 DEMO。
 11. 严格遵守 docs/TOEIC-MD-SPEC.md 的 heading、Speaker、Answer、Explanation、Tags 和 Passage 语法。文件编码使用 UTF-8，不要加入 Parser 不支持的自定义 HTML。
 12. 不创建 MP3/WAV。Listening 由浏览器 TTS 朗读，题库 Audio 只使用 Narrator、Speaker 1、Speaker 2、Speaker 3 标签。
-13. 不要在 Markdown 中写计时命令、暂停标记、分页或 Next 操作。考试模式由网站把 Part 1–7 分别显示为独立长页面；用户点击一次 Start 后，Part 1–4 自动连续播放并在 Part 边界自动换页。题号朗读、问题/选项朗读和作答间隔也由网站代码统一加入。
+13. 不要在 Markdown 中写计时命令、暂停标记、分页、Part 菜单或 Next 操作。考试模式由网站把 Part 1–7 分别显示为独立长页面，并自动提供顶部 Part 1–7 选择菜单；用户点击一次 Start 后，Part 1–4 自动连续播放并在 Part 边界自动换页。题号朗读、问题/选项朗读和作答间隔也由网站代码统一加入。
 
 二、用户输入词表和覆盖规则
 
