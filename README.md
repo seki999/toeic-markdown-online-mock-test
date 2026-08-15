@@ -162,11 +162,20 @@ demo: false
 五、各 Part 内容要求
 
 Part 1：
+- 生成之前必须先读取 Repository 中除 [TEST_ID] 之外的所有 `public/tests/*/part1.md`。提取历史题库中的每一句 A-D、正确答案、Explanation、图片路径和图片对应的考查重点，建立“禁止重复清单”；不得只参考当前题库模板后直接改题号。
 - 每题包含 Image、Audio、Answer、Explanation、Tags。
 - 6 道题分别使用一张项目内置共享图，Image 必须填写 `images/toeic-scenes/` 下的完整路径；不要引用 [TEST_ID] 目录中的图片，也不要创建图片。
 - 先根据共享场景图设计 A-D 描述，正确答案必须与图中可观察内容一致。
 - Audio 包含 Speaker 1 朗读的 A-D 四个完整描述句。Explanation 必须说明图中哪个可见细节支持正确答案。
 - 不要在 Audio 中手工添加 `Question 1.`、`Question 2.` 等题号，也不要写暂停时间。考试模式会自动把对应题号与该题 A 选项合并为一个稳定的朗读单元，例如 `Question 2. A. ...`，避免浏览器跳过过短的独立题号；该题结束后自动留出5秒作答时间。手工添加题号会造成重复朗读。
+- 新 Part 1 的24个描述句必须与所有历史 Part 1 保持零完全重复；忽略大小写、标点、单复数和空白后仍不得重复。
+- 同义改写也视为重复。例如历史题是 `Several colleagues are gathered around a table.`，新题不能只改成 `Some coworkers are sitting around a table.`。必须更换真正的观察重点，而不是替换几个同义词。
+- 对重复使用的共享图片，优先改换可验证的观察重点，例如人物数量与位置、物品所在位置、可见动作、物体排列、场所结构或状态。新正确答案不得复用历史题库相同的“图片 + 核心事实”组合。
+- A-D 四个干扰项也必须全新。不得复制历史错误选项，不得只调换 A-D 顺序，不得沿用同一组动作、物体和地点后做轻微改写。
+- 六题应混合 present continuous、passive、stative/location 和 there-is/are 等自然描述结构，但语法变化不能代替内容变化。所有描述仍必须能仅凭图片判断。
+- 正确答案位置需要在 A-D 间合理平衡，并避免沿用已有题库相同的六题答案序列；不能通过旋转旧选项来伪造新题。
+- 输入词表中的单词只有在图片确实支持时才能用于 Part 1；不能为了覆盖新单词而虚构图片中不存在的物体或动作。
+- 如果共享图片已经无法支持六个与历史题库语义不同、且可以从图中确认的新正确描述，停止生成并明确报告需要增加新的共享场景图；不得输出重复题来凑足6题。
 
 Part 2：
 - 每题 Audio 先由 Speaker 1 朗读一个问题或陈述，再由 Speaker 2 依次朗读 A-C 三个回答。
@@ -216,6 +225,7 @@ Part 7：
 - Part 1 不得手工加入题号；Part 3/4 不得把已经存在的 Question/choices 再复制到 Audio。连续播放、Part 1 题号、Part 3/4 问题与选项、5秒/8秒作答间隔和 Part 切换缓冲均由网站自动生成。
 - 不得手工把题库内容写入 Vue、TypeScript、评分逻辑或 public/tests/index.json。
 - 不得遗漏用户输入词表中的任何有效单词，也不得只在 Explanation 或 vocabulary-coverage.md 中制造表面覆盖。
+- 对 Part 1 执行两级去重：先比较规范化文本以排除完全重复，再逐句比较语义、图片和核心事实以排除近义改写。任何一项重复都必须重写后再交付。
 
 七、交付边界和内容自检
 
@@ -229,6 +239,7 @@ Part 7：
 - transcript、答案、解析和 Part 1 图片是否齐全
 - 用户输入词表的原始条目数、去重后的有效单词数、已覆盖数和未覆盖数
 - vocabulary-coverage.md 的路径，以及每个单词是否都能对应到真实的 Part/Question/Group
+- Part 1 历史去重报告：扫描过的已有 Test ID、历史描述句总数、新题完全重复数、近义重复数、六张图片各自采用的新观察重点，以及新旧答案序列对比。完全重复数和近义重复数都必须为0
 - 已确认只创建 Markdown 文件，未修改项目代码、配置或 `index.json`
 - 提醒用户把整个 `public/tests/[TEST_ID]/` 文件夹加入 Repository；后续发现、测试、构建和发布均由 GitHub Actions 自动完成
 
