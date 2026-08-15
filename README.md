@@ -166,7 +166,7 @@ Part 1：
 - 6 道题分别使用一张项目内置共享图，Image 必须填写 `images/toeic-scenes/` 下的完整路径；不要引用 [TEST_ID] 目录中的图片，也不要创建图片。
 - 先根据共享场景图设计 A-D 描述，正确答案必须与图中可观察内容一致。
 - Audio 包含 Speaker 1 朗读的 A-D 四个完整描述句。Explanation 必须说明图中哪个可见细节支持正确答案。
-- 不要在 Audio 中手工添加 `Question 1.`、`Question 2.` 等题号，也不要写暂停时间。考试模式会在每题 A-D 之前自动用 Narrator 朗读对应题号，并在该题结束后自动留出5秒作答时间；手工添加会造成重复朗读。
+- 不要在 Audio 中手工添加 `Question 1.`、`Question 2.` 等题号，也不要写暂停时间。考试模式会自动把对应题号与该题 A 选项合并为一个稳定的朗读单元，例如 `Question 2. A. ...`，避免浏览器跳过过短的独立题号；该题结束后自动留出5秒作答时间。手工添加题号会造成重复朗读。
 
 Part 2：
 - 每题 Audio 先由 Speaker 1 朗读一个问题或陈述，再由 Speaker 2 依次朗读 A-C 三个回答。
@@ -258,7 +258,7 @@ I'll check it now.
 
 `TtsEngine` 是唯一可直接调用 `window.speechSynthesis` 的模块。用户点击一次 `Start test` 满足浏览器的播放手势要求后，Exam Mode 会自动连续朗读 Part 1–4，不再要求逐题点击 Play 或 Next。每个 Part 是一张独立长页面；当前 Part 播放完成后，系统自动打开并播放下一 Part。普通 Narrator 行后等待约500ms、其他角色间等待约300ms；Part 1/2 每题后留5秒，Part 3/4 自动朗读问题和选项并在每题后留8秒，Part 切换再增加3秒缓冲。这些是 TOEIC-style 模拟节奏，不宣称是官方精确计时。
 
-Part 1 的 Markdown 只保存 A-D 描述，连续播放队列会自动在前面插入 `Question N.`；Part 3/4 的 Markdown 保存完整 conversation/talk、Question 和 choices，播放队列会在材料后自动组合并朗读它们。这样新增题库只需要正确的 Markdown，不需要自行编码题号或计时。
+Part 1 的 Markdown 只保存 A-D 描述，连续播放队列会自动把 `Question N.` 接到对应 A 选项前组成同一个朗读单元；Part 3/4 的 Markdown 保存完整 conversation/talk、Question 和 choices，播放队列会在材料后自动组合并朗读它们。这样新增题库只需要正确的 Markdown，不需要自行编码题号或计时。
 
 Web Speech API 没有标准的 voice 性别字段，voice 名称和数量也因 Windows、macOS、Android、Chrome、Edge、Safari 而异。系统会优先轮换可用英语 voice，数量不足时安全回退；用户选择始终优先。某些移动浏览器的 pause/resume 行为由浏览器实现决定。
 

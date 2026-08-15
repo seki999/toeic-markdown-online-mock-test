@@ -4,6 +4,7 @@ import { describe, expect, it } from 'vitest'
 import type { PartNumber, ToeicTest } from '../types/exam'
 import { parseMetadata, parsePart } from './markdownParser'
 import { allQuestions } from './testLoader'
+import { buildContinuousListeningSequence } from './listeningSequence'
 import { validateTestContent } from './validation'
 
 const contentRoot = fileURLToPath(new URL('../../public/tests/test-001/', import.meta.url))
@@ -24,6 +25,8 @@ describe('complete test-001 content', () => {
     expect(questions.filter((question) => !question.explanation.trim())).toEqual([])
     expect(questions.filter((question) => question.part <= 4 && question.speech.length === 0)).toEqual([])
     expect(parts[0].groups.flatMap((group) => group.questions).every((question) => Boolean(question.image))).toBe(true)
+    const part1Sequence = buildContinuousListeningSequence(parts[0].groups)
+    expect(part1Sequence.filter((line) => /^Question [1-6]\. A\./.test(line.text)).map((line) => line.text.match(/^Question (\d+)\./)?.[1])).toEqual(['1', '2', '3', '4', '5', '6'])
     expect(parts[6].groups.reduce<Record<string, number>>((counts, group) => {
       const type = group.passages[0]?.type ?? 'missing'
       counts[type] = (counts[type] ?? 0) + 1

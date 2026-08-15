@@ -30,8 +30,8 @@ describe('continuous Listening sequence', () => {
   it('adds answer time and an extra interval when the Part changes', () => {
     const lines = buildContinuousListeningSequence([group(1, 1), group(2, 7)])
 
-    expect(lines[0]).toMatchObject({ speaker: 'Narrator', text: 'Question 1.' })
-    expect(lines[1].pauseAfterMs).toBe(LISTENING_INTERVALS.part1AnswerMs + LISTENING_INTERVALS.partTransitionExtraMs)
+    expect(lines[0]).toMatchObject({ speaker: 'Speaker 1', text: 'Question 1. Material 1' })
+    expect(lines[0].pauseAfterMs).toBe(LISTENING_INTERVALS.part1AnswerMs + LISTENING_INTERVALS.partTransitionExtraMs)
     expect(lines.at(-1)?.pauseAfterMs).toBe(LISTENING_INTERVALS.part2AnswerMs)
   })
 
@@ -39,10 +39,8 @@ describe('continuous Listening sequence', () => {
     const lines = buildContinuousListeningSequence([group(1, 1), group(1, 2)])
 
     expect(lines.map((line) => line.text)).toEqual([
-      'Question 1.',
-      'Material 1',
-      'Question 2.',
-      'Material 2',
+      'Question 1. Material 1',
+      'Question 2. Material 2',
     ])
   })
 

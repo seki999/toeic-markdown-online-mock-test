@@ -19,11 +19,11 @@ function sourceAudio(group: QuestionGroup): SpeechLine[] {
 
 function part1Sequence(group: QuestionGroup): SpeechLine[] {
   const questionNumber = group.questions[0]?.id
-  const announcement: SpeechLine[] = questionNumber
-    ? [{ speaker: 'Narrator', text: `Question ${questionNumber}.` }]
-    : []
+  const audio = sourceAudio(group).map((line, index) => index === 0 && questionNumber
+    ? { ...line, text: `Question ${questionNumber}. ${line.text}` }
+    : { ...line })
   return withFinalPause(
-    [...announcement, ...sourceAudio(group)],
+    audio,
     LISTENING_INTERVALS.part1AnswerMs,
   )
 }
