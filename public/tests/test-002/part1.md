@@ -9,16 +9,16 @@ images/toeic-scenes/office-meeting.svg
 ### Audio
 
 Speaker 1:
-A. The employees are seated in a cohesive group around the conference table.
+A. One of the colleagues is pointing toward the table while speaking.
 
 Speaker 1:
-B. A worker is climbing a ladder to adjust the ceiling lights.
+B. The group looks cohesive as everyone reviews the same laptop screen.
 
 Speaker 1:
-C. Some chairs have been stacked against the back wall.
+C. A stack of binders has been placed at the end of the table.
 
 Speaker 1:
-D. A window washer is cleaning the glass from outside.
+D. Someone is adjusting the blinds behind the seating area.
 
 ### Answer
 
@@ -26,7 +26,7 @@ A
 
 ### Explanation
 
-The image shows employees seated together around the conference table, matching option A. There is no ladder, stacked chairs, or window washer visible in the room.
+One of the three seated colleagues is shown gesturing toward the table as if speaking, matching option A. No laptop or screen is visible, no binders are stacked on the table, and there are no blinds or windows in the room.
 
 ### Tags
 
@@ -43,16 +43,16 @@ images/toeic-scenes/train-platform.svg
 ### Audio
 
 Speaker 1:
-A. Some passengers are boarding a bus at the corner.
+A. Two commuters are standing near the ticket gate.
 
 Speaker 1:
-B. A porter is pushing a cart of luggage along the platform.
+B. A large clock is mounted on a post above the platform.
 
 Speaker 1:
-C. A vendor is closing a newsstand for the night.
+C. A porter is stacking luggage onto a rolling cart.
 
 Speaker 1:
-D. Workers are painting the platform railing.
+D. A train conductor is announcing a delay over the speakers.
 
 ### Answer
 
@@ -60,7 +60,7 @@ B
 
 ### Explanation
 
-The scene shows a porter moving a luggage cart along the platform, which matches option B. The vehicle shown is a train, not a bus, so option A is incorrect, and no one is painting or closing a stand.
+A round clock face is mounted on a post rising above the platform, matching option B. There is no ticket gate in view, no cart or luggage is shown, and nothing indicates an announcement being made.
 
 ### Tags
 
@@ -77,16 +77,16 @@ images/toeic-scenes/restaurant.svg
 ### Audio
 
 Speaker 1:
-A. A chef is chopping vegetables in an open kitchen.
+A. A sizzling platter is being carried past the entrance.
 
 Speaker 1:
-B. Menus are being stacked on an empty table.
+B. A waiter is clearing empty glasses from a nearby table.
 
 Speaker 1:
-C. A sizzling dish is being carried out to a table.
+C. A small dish has been placed at the center of the table.
 
 Speaker 1:
-D. Customers are lining up outside the entrance.
+D. A menu has been left open on an empty chair.
 
 ### Answer
 
@@ -94,7 +94,7 @@ C
 
 ### Explanation
 
-The image shows a server bringing a sizzling dish to a table, matching option C. There is no open kitchen visible, no stack of menus, and no line at the entrance.
+A small dish sits on the table between the two seated guests, matching option C. There is no entrance or platter shown in motion, no waiter clearing glasses, and no empty chair with a menu.
 
 ### Tags
 
@@ -111,16 +111,16 @@ images/toeic-scenes/warehouse.svg
 ### Audio
 
 Speaker 1:
-A. A forklift is being loaded onto a truck.
+A. A worker is scanning a barcode on one of the boxes.
 
 Speaker 1:
-B. Boxes have been left scattered across the floor.
+B. Empty shelves are waiting to be restocked.
 
 Speaker 1:
-C. An inspector is reviewing a checklist near the exit.
+C. A forklift is moving pallets near the loading dock.
 
 Speaker 1:
-D. Workers are stacking parcels onto a shelf.
+D. Parcels of different sizes have been placed on the shelves.
 
 ### Answer
 
@@ -128,7 +128,7 @@ D
 
 ### Explanation
 
-The image shows warehouse workers placing parcels onto storage shelves, which matches option D. The floor is not cluttered, no forklift is being loaded onto a truck, and no inspector is shown at the exit.
+The shelving unit holds several parcels of varying sizes, matching option D. No person is visible scanning anything, the shelves are not empty, and no forklift or loading dock is shown.
 
 ### Tags
 
@@ -145,16 +145,16 @@ images/toeic-scenes/park.svg
 ### Audio
 
 Speaker 1:
-A. A man is jogging briskly along the path.
+A. Trees of different sizes line a curved path through the park.
 
 Speaker 1:
-B. Children are flying a kite near the trees.
+B. A bench has been placed beneath one of the trees.
 
 Speaker 1:
-C. A vendor is selling snacks from a cart.
+C. A jogger is taking a brisk walk along the path.
 
 Speaker 1:
-D. Workers are mowing the grass with a large machine.
+D. Workers are trimming the branches of a large tree.
 
 ### Answer
 
@@ -162,13 +162,13 @@ A
 
 ### Explanation
 
-The image shows a man jogging at a brisk pace along the park path, matching option A. There is no kite, snack cart, or mowing equipment visible in the scene.
+Three trees of different sizes stand along a curved path winding through the park, matching option A. There is no bench, no person on the path, and no one trimming branches.
 
 ### Tags
 
 - photograph
 - park
-- outdoor-activity
+- landscape
 
 ## Question 6
 
@@ -179,16 +179,16 @@ images/toeic-scenes/construction.svg
 ### Audio
 
 Speaker 1:
-A. A crane is lifting steel beams above the site.
+A. Workers are repairing a section of the curb near the site.
 
 Speaker 1:
-B. Workers are repairing a section of the curb near the site.
+B. A worker is holding a leveling tool at the site.
 
 Speaker 1:
-C. A bulldozer is parked beside an empty lot.
+C. A crane is lowering a beam onto the site.
 
 Speaker 1:
-D. Safety cones have been removed from the roadway.
+D. Safety barriers surround the perimeter of the site.
 
 ### Answer
 
@@ -196,10 +196,10 @@ B
 
 ### Explanation
 
-The image shows workers repairing the curb along the edge of the construction site, matching option B. No crane, bulldozer, or empty lot is shown, and the safety cones remain in place.
+A worker at the site is shown holding a long, angled leveling tool, matching option B. There is no curb, crane, or beam in view, and no barriers surround the site.
 
 ### Tags
 
 - photograph
 - construction
-- roadwork
+- worksite

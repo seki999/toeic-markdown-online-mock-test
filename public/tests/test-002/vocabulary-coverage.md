@@ -20,7 +20,7 @@ Input list: 180 lines submitted, 0 blank lines removed, 0 exact duplicates merge
 | 12 | cringe | cringe | Part 2, Question 26 | "I still cringe when I remember that presentation mistake" | to feel embarrassed discomfort |
 | 13 | incumbent | incumbent | Part 2, Question 12 | "who's the incumbent manager of the design department" | currently holding a specified position |
 | 14 | inception | inception | Part 3, Group 1 / Question 33 | "longer than we discussed at the project's inception" | the establishment or beginning of something |
-| 15 | curb | curb | Part 1, Question 6 | "workers are repairing a section of the curb" | the raised edge of a street/sidewalk |
+| 15 | curb | curb | Part 1, Question 6 (distractor choice A) | "workers are repairing a section of the curb near the site" | the raised edge of a street/sidewalk |
 | 16 | illicit | illicit | Part 2, Question 13 | "is the trade of counterfeit goods illicit in this country" | forbidden by law |
 | 17 | potent | potent | Part 2, Question 14 | "this new cleaning solution is quite potent" | having great power or effect |
 | 18 | shred | shredded / shredding | Part 3, Group 2 / Questions 36–37 | "have them shredded" / "shredding service downstairs" | to destroy documents by cutting into strips |
@@ -45,7 +45,7 @@ Input list: 180 lines submitted, 0 blank lines removed, 0 exact duplicates merge
 | 37 | niche | niche | Part 3, Group 3 / Question 40 | "we're reaching a fairly narrow niche market" | a specialized segment of a market |
 | 38 | impartial | impartial | Part 5, Question 103 | "she remained completely impartial throughout the negotiation" | not favoring one side |
 | 39 | impulsive | impulsive | Part 5, Question 104 | "making an impulsive decision to cancel the contract" | acting suddenly without careful thought |
-| 40 | brisk | briskly | Part 1, Question 5 | "a man is jogging briskly along the path" | at a quick, energetic pace |
+| 40 | brisk | brisk | Part 1, Question 5 (distractor choice C) | "a jogger is taking a brisk walk along the path" | at a quick, energetic pace |
 | 41 | bleak | bleak | Part 5, Question 105 | "analysts painted a rather bleak picture" | offering little hope; gloomy |
 | 42 | sluggish | sluggish | Part 5, Question 106 | "consumer spending remained sluggish" | slow-moving, lacking energy |
 | 43 | stagnant | stagnant | Part 5, Question 107 | "wages...have stayed largely stagnant" | not growing or changing |
@@ -102,7 +102,7 @@ Input list: 180 lines submitted, 0 blank lines removed, 0 exact duplicates merge
 | 94 | recede | recede | Part 4, Group 10 / Question 98 | "floodwaters...have finally begun to recede" | to move back or grow smaller |
 | 95 | expedite | expedite | Part 5, Question 123 | "requested that we expedite the delivery" | to make a process happen faster |
 | 96 | warrant | warrant | Part 5, Question 124 | "the scale of the data breach may warrant a full...audit" | to justify or call for |
-| 97 | sizzling | sizzling | Part 1, Question 3 | "a sizzling dish is being carried out" | cooking with a hissing sound (very hot) |
+| 97 | sizzling | sizzling | Part 1, Question 3 (distractor choice A) | "a sizzling platter is being carried past the entrance" | cooking with a hissing sound (very hot) |
 | 98 | benchmark | benchmark | Part 4, Group 1 / Question 71 | "passed all internal benchmark tests" | a standard used for comparison/testing |
 | 99 | patent | patent | Part 4, Group 1 / Question 73 | "filed a patent application to protect the...design" | a legal right protecting an invention |
 | 100 | prototype | prototype | Part 4, Group 1 / Questions 71–72 | "our new prototype for the compact air purifier" | an original model used for testing |
@@ -155,7 +155,7 @@ Input list: 180 lines submitted, 0 blank lines removed, 0 exact duplicates merge
 | 147 | trek | trek | Part 7, Group 2 / Question 149 | "our guided trek along the ridge trail" | a long, arduous journey, especially on foot |
 | 148 | casualty | casualties | Part 7, Group 8 / Question 163 | "no injuries or casualties" | a person killed or injured in an incident |
 | 149 | collide | collided | Part 7, Group 7, Passage | "another vehicle...collided with the front of my car" | to crash together |
-| 150 | parcel | parcels | Part 1, Question 4 | "workers are stacking parcels onto a shelf" | a wrapped package |
+| 150 | parcel | parcels | Part 1, Question 4 (correct answer D) | "parcels of different sizes have been placed on the shelves" | a wrapped package |
 | 151 | territory | territory | Part 7, Group 1, Passage | "this section of the rail yard is company territory" | an area under someone's control |
 | 152 | tram | tram | Part 7, Group 8 / Question 164 | "the downtown tram line resumed normal service" | a light rail vehicle running on city streets |
 | 153 | vapid | vapid | Part 7, Group 16 / Question 191 | "found the developer's...statement...fairly vapid" | dull, lacking substance |
@@ -166,13 +166,13 @@ Input list: 180 lines submitted, 0 blank lines removed, 0 exact duplicates merge
 | 158 | assault | assault | Part 7, Group 16 / Question 190 | "a direct assault on...habitats" | a serious, harmful attack (used figuratively) |
 | 159 | raze | razed | Part 7, Group 11 / Question 171 | "the vacant warehouse...will be razed" | to demolish completely |
 | 160 | abrupt | abrupt | Part 7, Group 11 / Question 173 | "requested an abrupt change to the...timeline" | sudden and unexpected |
-| 161 | porter | porter | Part 1, Question 2 | "a porter is pushing a cart of luggage" | a person employed to carry luggage |
+| 161 | porter | porter | Part 1, Question 2 (distractor choice C) | "a porter is stacking luggage onto a rolling cart" | a person employed to carry luggage |
 | 162 | newsstand | newsstand | Part 7, Group 5 / Question 155 | "pick up your event booklet at the newsstand kiosk" | a stall selling newspapers/magazines |
 | 163 | velocity | velocity | Part 7, Group 12 / Question 174 | "an average velocity of 45 kilometers per hour" | speed in a given direction |
 | 164 | snap | snap | Part 7, Group 12, Passage | "letting most local packages arrive in a snap" | a very short period of time (idiomatic) |
 | 165 | booklet | booklet | Part 7, Group 5 / Questions 155–156 | "pick up your event booklet" | a small book/pamphlet |
 | 166 | tarry | tarry | Part 7, Group 12 / Question 176 | "drivers are instructed not to tarry at pickup locations" | to linger or delay |
-| 167 | cohesive | cohesive | Part 1, Question 1 | "the employees are seated in a cohesive group" | closely united, sticking together |
+| 167 | cohesive | cohesive | Part 1, Question 1 (distractor choice B) | "the group looks cohesive as everyone reviews the same laptop screen" | closely united, sticking together |
 | 168 | tranquility | tranquility | Part 7, Group 2, Passage | "discover true tranquility at Cedar Ridge Retreat" | peacefulness, calm |
 | 169 | legible | legibly | Part 7, Group 6 / Question 158 | "sign and print your name legibly" | able to be read clearly |
 | 170 | assuage | assuage | Part 7, Group 17 / Question 196 | "hope this response helps assuage your frustration" | to make an unpleasant feeling less intense |
