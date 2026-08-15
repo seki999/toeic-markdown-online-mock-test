@@ -121,6 +121,7 @@ function groupAnswered(group: QuestionGroup) {
               :model-value="store.answers[testId]?.[question.id]"
               :reveal="Boolean(revealedGroups[group.id])"
               :show-transcript="Boolean(visibleTranscripts[group.id]) && questionIndex === 0"
+              :hide-passages="group.part >= 6 && questionIndex > 0"
               @update:model-value="choose(question.id, $event)"
             />
           </div>

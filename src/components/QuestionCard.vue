@@ -3,19 +3,20 @@ import { computed, ref } from 'vue'
 import type { ChoiceLabel, Question } from '../types/exam'
 import { renderMarkdown } from '../services/markdownParser'
 
-const props = defineProps<{ question: Question; modelValue?: ChoiceLabel; reveal?: boolean; showTranscript?: boolean; exam?: boolean }>()
+const props = defineProps<{ question: Question; modelValue?: ChoiceLabel; reveal?: boolean; showTranscript?: boolean; exam?: boolean; hidePassages?: boolean }>()
 const emit = defineEmits<{ 'update:modelValue': [value: ChoiceLabel] }>()
 const correct = computed(() => props.modelValue === props.question.answer)
 const concealChoiceText = computed(() =>
   (props.exam && props.question.part <= 2)
   || (!props.exam && props.question.part === 1 && !props.showTranscript),
 )
+const displayPassages = computed(() => !props.hidePassages && props.question.passages.length > 0)
 const imageFailed = ref(false)
 const imageUrl = computed(() => `${import.meta.env.BASE_URL}${props.question.image?.replace(/^\/+/, '') ?? ''}`)
 </script>
 <template>
-  <article class="question-card" :class="{ 'with-passage': question.passages.length }">
-    <div v-if="question.passages.length" class="passage-pane">
+  <article class="question-card" :class="{ 'with-passage': displayPassages }">
+    <div v-if="displayPassages" class="passage-pane">
       <section v-for="(passage, index) in question.passages" :key="index" class="passage"><p class="eyebrow">{{ passage.type || passage.title }} · {{ index + 1 }}</p><div class="markdown" v-html="renderMarkdown(passage.content)" /></section>
     </div>
     <div class="question-pane">
@@ -30,3 +31,15 @@ const imageUrl = computed(() => `${import.meta.env.BASE_URL}${props.question.ima
     </div>
   </article>
 </template>
+
+<style scoped>
+.question-card.with-passage {
+  grid-template-columns: 1fr;
+}
+
+.passage-pane {
+  max-height: none;
+  border-right: 0;
+  border-bottom: 1px solid var(--line);
+}
+</style>
