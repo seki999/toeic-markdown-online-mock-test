@@ -22,6 +22,7 @@ export interface Choice {
 export interface SpeechLine {
   speaker: 'Narrator' | 'Speaker 1' | 'Speaker 2' | 'Speaker 3'
   text: string
+  pauseAfterMs?: number
 }
 
 export interface Passage {

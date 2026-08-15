@@ -45,7 +45,10 @@ export class TtsEngine {
     for (let index = 0; index < lines.length; index += 1) {
       if (run !== this.generation) return
       await this.speakLine(lines[index], voiceSelection, rate)
-      if (index < lines.length - 1) await new Promise((resolve) => setTimeout(resolve, lines[index].speaker === 'Narrator' ? 500 : 300))
+      if (index < lines.length - 1) {
+        const pauseAfterMs = lines[index].pauseAfterMs ?? (lines[index].speaker === 'Narrator' ? 500 : 300)
+        await new Promise((resolve) => setTimeout(resolve, pauseAfterMs))
+      }
     }
     if (run === this.generation) this.state = 'COMPLETED'
   }

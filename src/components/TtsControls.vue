@@ -15,6 +15,7 @@ async function play() {
   catch (error) { console.error(error) }
   state.value = getTtsEngine().state
 }
+defineExpose({ play })
 function pause() { getTtsEngine().pauseSpeech(); state.value = getTtsEngine().state }
 function resume() { getTtsEngine().resumeSpeech(); state.value = getTtsEngine().state }
 function stop() { getTtsEngine().cancelSpeech(); state.value = getTtsEngine().state }
