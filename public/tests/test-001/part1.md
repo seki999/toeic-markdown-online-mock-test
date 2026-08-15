@@ -4,7 +4,7 @@
 
 ### Image
 
-tests/test-001/images/office-meeting.svg
+images/toeic-scenes/office-meeting.svg
 
 ### Audio
 
@@ -37,7 +37,7 @@ The illustration shows several colleagues seated together around a meeting table
 
 ### Image
 
-tests/test-001/images/train-platform.svg
+images/toeic-scenes/train-platform.svg
 
 ### Audio
 
@@ -70,7 +70,7 @@ The people are standing on a platform next to the railway track.
 
 ### Image
 
-tests/test-001/images/restaurant.svg
+images/toeic-scenes/restaurant.svg
 
 ### Audio
 
@@ -103,7 +103,7 @@ A server is shown pouring a beverage at the table.
 
 ### Image
 
-tests/test-001/images/warehouse.svg
+images/toeic-scenes/warehouse.svg
 
 ### Audio
 
@@ -136,7 +136,7 @@ The main visible detail is the group of packages stacked beside warehouse shelvi
 
 ### Image
 
-tests/test-001/images/park.svg
+images/toeic-scenes/park.svg
 
 ### Audio
 
@@ -169,7 +169,7 @@ The illustration shows a winding path surrounded by trees and landscaped greener
 
 ### Image
 
-tests/test-001/images/construction.svg
+images/toeic-scenes/construction.svg
 
 ### Audio
 

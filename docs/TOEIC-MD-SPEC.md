@@ -60,7 +60,7 @@ Part 2 使用 A–C；其他 Part 通常使用 A–D。Part 1/2 的 choices 写�
 
 ## 9. Part 1 format
 
-文件以 `# Part 1` 开头。每题是 level-2 Question，包含 `### Image`、`### Audio`、`### Answer`、`### Explanation`、`### Tags`。Image 是相对于该测试目录的路径。Audio 中 A–D 各写一个 SpeechLine。
+文件以 `# Part 1` 开头。每题是 level-2 Question，包含 `### Image`、`### Audio`、`### Answer`、`### Explanation`、`### Tags`。只包含 Markdown 的新题库应引用 `images/toeic-scenes/` 下的项目共享 SVG，例如 `images/toeic-scenes/office-meeting.svg`；不需要在新题库目录中创建图片。Audio 中 A–D 各写一个 SpeechLine。
 
 ## 10. Part 2 format
 

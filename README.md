@@ -74,17 +74,15 @@ npm run preview
 
 ## 新增一套 TOEIC Test
 
-1. 复制 `public/tests/test-001/` 为新的唯一目录，例如 `test-new/`。
-2. 编辑 `metadata.md`，至少修改 `id` 和 `title`。正式 200 题测试设 `demo: false`。
-3. 按 TOEIC-MD-SPEC 编写 `part1.md` 至 `part7.md`。题号必须在整套测试内唯一。
-4. 执行 `npm run generate:index`；不要手工长期维护 `index.json`。
-5. 执行 `npm test && npm run build`。
-6. `git add`、`git commit`、`git push`。Pages workflow 会自动发布，新测试会出现在首页。
+1. 创建新的唯一目录，例如 `public/tests/test-new/`，放入 `metadata.md`、`part1.md` 至 `part7.md`，以及可选的 `vocabulary-coverage.md`。
+2. 在 `metadata.md` 中使用与目录一致的唯一 `id`，正式 200 题测试设 `demo: false`。
+3. 把整个 Markdown 文件夹加入 Repository 并推送到 `main`。不需要修改 Vue、TypeScript、JSON、Vite 或其他配置文件，也不要手工编辑 `public/tests/index.json`。
+4. GitHub Actions 会在云端自动扫描 `public/tests/*/metadata.md`、检查七个 Part、生成 `index.json`、测试、构建并部署。部署成功后，新测试会自动显示在 Test library。
 
 ```text
-MyChatGPT → Generate Markdown → public/tests/test-xxx/
-→ git add → git commit → git push
-→ GitHub Actions → GitHub Pages → New Mock Test
+MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
+→ add folder to Repository → push main
+→ GitHub Actions auto-discovery → GitHub Pages → New Mock Test
 ```
 
 ## 生成完整题库的提示词
@@ -106,8 +104,8 @@ MyChatGPT → Generate Markdown → public/tests/test-xxx/
 一、基本要求
 
 1. 在 public/tests/[TEST_ID]/ 下创建完整题库，不要修改其他已经存在的题库。
-2. 必须创建 metadata.md、part1.md、part2.md、part3.md、part4.md、part5.md、part6.md、part7.md。
-3. Part 1 还必须在 public/tests/[TEST_ID]/images/ 下创建 6 张原创 SVG 场景图。
+2. 只创建 Markdown 文件：metadata.md、part1.md、part2.md、part3.md、part4.md、part5.md、part6.md、part7.md、vocabulary-coverage.md。不要创建或修改 JavaScript、TypeScript、Vue、JSON、YAML、SVG、配置文件、脚本或测试文件。
+3. Part 1 直接使用项目已经提供的 6 张共享场景图，不要生成新的图片文件。可用路径是：images/toeic-scenes/office-meeting.svg、images/toeic-scenes/train-platform.svg、images/toeic-scenes/restaurant.svg、images/toeic-scenes/warehouse.svg、images/toeic-scenes/park.svg、images/toeic-scenes/construction.svg。
 4. 全套必须正好 200 题：Listening 100 题，Reading 100 题。
 5. 所有题目、选项、听力原文、答案和解析都使用自然、准确的英语。
 6. 内容必须原创，只能创作 TOEIC-style 模拟题，不得复制、改写或声称使用 ETS 的真实、泄露或非公开试题。不要使用 TOEIC 官方商标图形。
@@ -164,8 +162,8 @@ demo: false
 
 Part 1：
 - 每题包含 Image、Audio、Answer、Explanation、Tags。
-- Image 路径写成 tests/[TEST_ID]/images/文件名.svg。
-- 每张 SVG 必须是清晰、不同的职场或公共场所场景，并能从图中唯一判断正确描述。
+- 6 道题分别使用一张项目内置共享图，Image 必须填写 `images/toeic-scenes/` 下的完整路径；不要引用 [TEST_ID] 目录中的图片，也不要创建图片。
+- 先根据共享场景图设计 A-D 描述，正确答案必须与图中可观察内容一致。
 - Audio 包含 Speaker 1 朗读的 A-D 四个完整描述句。Explanation 必须说明图中哪个可见细节支持正确答案。
 
 Part 2：
@@ -213,15 +211,11 @@ Part 7：
 - 不得手工把题库内容写入 Vue、TypeScript、评分逻辑或 public/tests/index.json。
 - 不得遗漏用户输入词表中的任何有效单词，也不得只在 Explanation 或 vocabulary-coverage.md 中制造表面覆盖。
 
-七、完成后的验证
+七、交付边界和内容自检
 
-生成文件后必须实际执行：
+你的任务只生成 `public/tests/[TEST_ID]/` 中的 Markdown 文件，不要在本地安装依赖、启动服务器、运行 `npm run generate:index`、运行测试或执行构建。不要修改 `public/tests/index.json`；该文件会在题库文件夹被推送后由 GitHub Actions 自动生成。
 
-npm run generate:index
-npm test
-npm run build
-
-如果验证失败，继续修复 Markdown、题数、题号、答案、选项、图片路径或 Parser 格式，直到全部通过。最后报告：
+交付前直接检查所生成的 Markdown 内容，修复题数、题号、答案、选项、共享图片路径或 heading 格式错误。最后报告：
 
 - 实际创建的文件列表
 - Part 1-7 各自题数
@@ -229,9 +223,10 @@ npm run build
 - transcript、答案、解析和 Part 1 图片是否齐全
 - 用户输入词表的原始条目数、去重后的有效单词数、已覆盖数和未覆盖数
 - vocabulary-coverage.md 的路径，以及每个单词是否都能对应到真实的 Part/Question/Group
-- 测试与构建的真实执行结果
+- 已确认只创建 Markdown 文件，未修改项目代码、配置或 `index.json`
+- 提醒用户把整个 `public/tests/[TEST_ID]/` 文件夹加入 Repository；后续发现、测试、构建和发布均由 GitHub Actions 自动完成
 
-请直接创建全部文件并完成验证，不要只提供计划或少量示例。
+请直接创建全部 Markdown 文件，不要只提供计划或少量示例，也不要执行任何本地编译或运行命令。
 ```
 
 ## Markdown 与 Speaker
@@ -279,7 +274,7 @@ Vite 使用 `base: './'`，Vue Router 使用 hash history，因此同时兼容 `
 - 显示 Raw Score，不伪造官方 scaled TOEIC score。
 - TTS 音质、voice 和 pause 行为取决于设备；未上传任何音频。
 - LocalStorage 不跨设备同步，也没有登录、云端历史或防作弊系统。
-- Part 1 使用题库自带的 SVG 场景图；内容作者也可以按规范提供自己的图片。
+- Part 1 可直接引用 `public/images/toeic-scenes/` 中的共享 SVG；因此新增题库可以只包含 Markdown 文件。
 - Exam Mode 提供合理的流程限制，但不尝试复制正式考场的全部计时与监管规则。
 
 ## 后续扩展
