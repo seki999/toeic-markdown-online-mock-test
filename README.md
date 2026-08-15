@@ -90,7 +90,7 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 下面的提示词可以直接交给 ChatGPT、Codex 或其他能够创建项目文件的生成工具。使用前替换 `[TEST_ID]`、`[TEST_NUMBER]`、`[TARGET_SCORE]`，并把需要学习的 50、100 或其他数量的新单词粘贴到 `[VOCABULARY_LIST]`。建议每次使用新的 Test ID，已经发布的 ID 不要重复使用。
 
 ```text
-请为当前 toeic-markdown-online-mock-test 项目生成一套完整、原创、可直接运行的 TOEIC-style Listening & Reading 模拟考试题库。
+请为当前 https://github.com/seki999/toeic-markdown-online-mock-test 项目生成一套完整、原创、可直接运行的 TOEIC-style Listening & Reading 模拟考试题库。
 
 变量：
 - TEST_ID: [TEST_ID]，例如 test-new
