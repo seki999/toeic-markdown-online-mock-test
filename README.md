@@ -87,50 +87,197 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 
 ## 生成完整题库的提示词
 
-下面的提示词可以直接交给 ChatGPT、Codex 或其他能够创建项目文件的生成工具。使用前替换 `[TEST_ID]`、`[TEST_NUMBER]`、`[TARGET_SCORE]`，并把需要学习的 50、100 或其他数量的新单词粘贴到 `[VOCABULARY_LIST]`。建议每次使用新的 Test ID，已经发布的 ID 不要重复使用。
+下面的提示词可以直接交给 ChatGPT、Codex 或其他能够创建项目文件的生成工具。使用前替换 `[TEST_ID]`、`[TEST_NUMBER]`、`[TARGET_SCORE]`，并把需要学习的全部新单词粘贴到 `[VOCABULARY_LIST]`。
 
-```text
-请为当前 https://github.com/seki999/toeic-markdown-online-mock-test 项目生成一套完整、原创、可直接运行的 TOEIC-style Listening & Reading 模拟考试题库。
+本提示词支持大规模词表：50、100、200、500、1000 个或更多有效单词。无论词表多大，都不得默默截断、抽样或只挑“重要词”；必须以 100% 覆盖为验收条件。建议每次使用新的 Test ID，已经发布的 ID 不要重复使用。
+
+~~~text
+请为当前 https://github.com/seki999/toeic-markdown-online-mock-test 项目生成一套完整、原创、可直接加入 Repository 的 TOEIC-style Listening & Reading 模拟考试题库。
 
 变量：
-- TEST_ID: [TEST_ID]，例如 test-new
+- TEST_ID: [TEST_ID]，例如 test-003
 - TEST_NUMBER: [TEST_NUMBER]，例如 003
 - TARGET_SCORE: [TARGET_SCORE]，例如 600-850
-- VOCABULARY_LIST: 用户本次希望学习的新单词。可以每行一个、使用编号列表或使用逗号分隔，也可以在单词后附中文释义或英文释义。
+- VOCABULARY_LIST: 用户本次希望学习的新单词。可以每行一个、编号列表、逗号分隔，也可以带中文释义、英文释义或词性。
 
 用户输入的新单词：
 [VOCABULARY_LIST]
 
-一、基本要求
+一、最终目标
 
-1. 在 public/tests/[TEST_ID]/ 下创建完整题库，不要修改其他已经存在的题库。
-2. 只创建 Markdown 文件：metadata.md、part1.md、part2.md、part3.md、part4.md、part5.md、part6.md、part7.md、vocabulary-coverage.md。不要创建或修改 JavaScript、TypeScript、Vue、JSON、YAML、SVG、配置文件、脚本或测试文件。
-3. Part 1 直接使用项目已经提供的 6 张共享场景图，不要生成新的图片文件。可用路径是：images/toeic-scenes/office-meeting.svg、images/toeic-scenes/train-platform.svg、images/toeic-scenes/restaurant.svg、images/toeic-scenes/warehouse.svg、images/toeic-scenes/park.svg、images/toeic-scenes/construction.svg。
-4. 全套必须正好 200 题：Listening 100 题，Reading 100 题。
-5. 所有题目、选项、听力原文、答案和解析都使用自然、准确的英语。
-6. 内容必须原创，只能创作 TOEIC-style 模拟题，不得复制、改写或声称使用 ETS 的真实、泄露或非公开试题。不要使用 TOEIC 官方商标图形。
-7. 使用现实的职场和日常商务场景，例如办公室、会议、出差、酒店、餐厅、零售、运输、物流、招聘、设施维护、客户服务和活动安排。避免机械重复的题干与模板。
-8. 难度以 medium 为主，并与 [TARGET_SCORE] 相符。正确答案 A/B/C/D 应尽量均衡分布；Part 2 使用 A/B/C。错误选项必须合理但能由原文明确排除。
-9. 每个题号在整套题库中必须唯一且连续。不得缺题、重复题号、缺选项、缺答案或缺解析。
-10. 正式题库必须设置 demo: false。不要在题库标题、正文或 UI 文案中加入 DEMO。
-11. 严格遵守 docs/TOEIC-MD-SPEC.md 的 heading、Speaker、Answer、Explanation、Tags 和 Passage 语法。文件编码使用 UTF-8，不要加入 Parser 不支持的自定义 HTML。
-12. 不创建 MP3/WAV。Listening 由浏览器 TTS 朗读，题库 Audio 只使用 Narrator、Speaker 1、Speaker 2、Speaker 3 标签。
-13. 不要在 Markdown 中写计时命令、暂停标记、分页、Part 菜单或 Next 操作。考试模式由网站把 Part 1–7 分别显示为独立长页面，并自动提供顶部 Part 1–7 选择菜单；用户点击一次 Start 后，Part 1–4 自动连续播放并在 Part 边界自动换页。题号朗读、问题/选项朗读和作答间隔也由网站代码统一加入。
+1. 在 public/tests/[TEST_ID]/ 下创建一套正式 TOEIC-style 模拟考试题库。
+2. 全套严格 200 题：Listening 100 题，Reading 100 题。
+3. Part 1～Part 7 完整，metadata 中 demo: false。
+4. 所有 Questions、Options、Listening transcripts、Passages、Answers、Explanations 必须完整。
+5. 所有用户输入的有效目标词都必须进入真实考试内容。
+6. 无论输入 50、100、200、500、1000 个或更多有效单词，都不得主动截断为前 N 个，不得随机抽样，不得只选择其中一部分。
+7. 目标词很多时仍保持总题数严格为 200；不要采用“一词一题”的思路，而应让对话、讲话和阅读材料自然承载多个目标词。
+8. 最终必须创建 vocabulary-coverage.md，并满足：
+   - Vocabulary coverage: 100%
+   - Missing vocabulary: 0
 
-二、用户输入词表和覆盖规则
+二、文件边界
 
-1. 开始生成前，解析 [VOCABULARY_LIST]，去除空行，合并完全重复的单词，并统计有效单词数量。若词表为空、仍是占位符或无法辨认，先停止生成并请用户提供词表，不要自行虚构一份词表。
-2. 必须覆盖每一个有效输入单词。每个单词至少一次出现在真正的考试内容中，即 Audio、Passage、题干或选项；只出现在 Explanation、Tags、标题或覆盖报告中不算完成覆盖。
-3. 单词必须按照正确词义、词性和自然搭配进入真实的 TOEIC 商务语境。可以使用语法所需的复数、时态、比较级或其他自然词形，但不得为了保留原形而写出不自然的英语。
-4. 如果用户为单词提供了指定释义，必须按照该释义设计语境；没有提供释义时，选择常见且适合职场英语的词义。多义词不要在同一道题中制造无法判断的歧义。
-5. 把单词分散到 Part 1-7，并同时覆盖 Listening 与 Reading。Part 1 只使用能够从图片观察到或自然描述的词，不要为了平均分配而破坏图片与句子的对应关系。
-6. 一部分单词可以成为 Part 5/6 的词汇考点，其他单词应自然进入对话、讲话、邮件、通知、聊天、广告和文章。不要让所有输入单词都成为正确选项，也不要在同一句中生硬堆放多个新单词。
-7. 题目应该测试对语境和含义的理解，而不是简单地看到输入单词就能猜出答案。错误选项不能只靠拼写差异排除。
-8. 在 public/tests/[TEST_ID]/ 下额外创建 vocabulary-coverage.md。该文件不参与评分，用于审核词表覆盖情况，必须逐项记录：原始单词、实际使用词形、使用位置（Part 和题号或 Group）、使用句子/材料的简短定位、采用的词义。
-9. vocabulary-coverage.md 中的每个输入单词至少有一条有效位置记录。生成完成后重新扫描 part1.md 至 part7.md，确认记录的位置真实存在；不得伪造覆盖结果。
-10. 如果输入包含 50 个单词，应覆盖全部 50 个；输入包含 100 个单词，应覆盖全部 100 个。其他数量同样按实际去重后的有效词数全部覆盖，而不是只选择其中一部分。
+只允许在 public/tests/[TEST_ID]/ 下创建以下 Markdown 文件：
 
-三、Metadata
+- metadata.md
+- part1.md
+- part2.md
+- part3.md
+- part4.md
+- part5.md
+- part6.md
+- part7.md
+- vocabulary-coverage.md
+
+不要修改其他已经存在的题库。
+
+不要创建或修改：
+- JavaScript
+- TypeScript
+- Vue
+- JSON
+- YAML 配置文件
+- SVG
+- 图片
+- 配置文件
+- GitHub Actions
+- 脚本
+- 测试文件
+- public/tests/index.json
+
+三、大规模词表处理
+
+开始生成正式题库之前，先完整解析 [VOCABULARY_LIST]：
+
+1. 读取全部输入，不得只读取前面一部分。
+2. 去除空行、纯编号、无意义符号和无法识别的项目。
+3. 合并完全相同的重复词条。
+4. 如果相同拼写明确指定了不同词义或词性，可以作为不同学习项目保留。
+5. 统计：
+   - Raw vocabulary entries
+   - Invalid entries removed
+   - Duplicate entries merged
+   - Valid vocabulary items
+6. 为所有有效目标词建立内部 Coverage Plan，再开始正式生成 Part 1～7。
+7. Coverage Plan 至少为每个词规划：
+   - Part
+   - Question 或 Group
+   - Audio / Passage / Question / Option 中的真实承载位置
+8. Coverage Plan 只是规划，不能直接作为最终覆盖证明。完成全部题库后必须重新扫描最终 part1.md～part7.md，以最终文件中的实际内容为准。
+
+四、目标词的有效覆盖定义
+
+每个有效目标词至少一次出现在真实考试内容中。
+
+以下位置算有效覆盖：
+- Listening Audio
+- conversation transcript
+- talk transcript
+- Reading Passage
+- Email
+- Notice
+- Advertisement
+- Article
+- Chat
+- Schedule
+- Invoice
+- Web Page
+- Memo
+- Question stem
+- Answer option
+
+以下位置单独出现不算覆盖：
+- Explanation
+- Tags
+- Markdown heading
+- metadata.md
+- vocabulary-coverage.md
+
+不得在 vocabulary-coverage.md 中写一个不存在于实际正文的位置来伪造覆盖。
+
+五、大词表分配策略
+
+当有效目标词超过 200，特别是达到 500、1000 或更多时：
+
+1. 不增加题数，仍保持正式考试 200 题。
+2. 不要求每个目标词成为一道独立考题。
+3. 不要求每个目标词成为正确答案。
+4. 允许一个 conversation、talk 或 Passage 自然覆盖多个目标词。
+5. Part 3、Part 4、Part 6、Part 7 应承担大部分大规模词汇覆盖。
+6. Part 7 是大词表的主要承载区域，可以适当增加阅读材料长度，但不得增加 Question 数量。
+7. Part 6 的 Passage 可以适度丰富，以自然覆盖更多词汇。
+8. Part 1 只允许使用图片真实支持的目标词。
+9. Part 2 以自然口语为第一优先级，不能为了塞词破坏问答自然度。
+10. 普通短句原则上不要强行堆放多个生僻词；较长对话和文章可以自然使用多个目标词。
+11. 不得把剩余未覆盖词一次性堆进某一个 Passage。
+12. 不得写成“词汇清单式文章”。
+
+如果输入约 500 个词，可参考以下非硬性分配思路：
+- Part 1：0～10
+- Part 2：20～50
+- Part 3：80～130
+- Part 4：60～100
+- Part 5：50～100
+- Part 6：50～100
+- Part 7：150～250
+
+允许同一目标词在多个位置自然重复。唯一硬性要求是全部有效目标词至少有一次真实覆盖。
+
+六、词义和词形
+
+1. 单词必须按照正确词义、词性和自然搭配进入真实 TOEIC / 商务语境。
+2. 如果用户提供了指定释义，必须优先按指定释义设计语境。
+3. 没有提供释义时，选择常见且适合职场英语的词义。
+4. 多义词不要制造无法判断的歧义。
+5. 允许自然词形变化，例如：
+   - 单复数
+   - 过去式
+   - 过去分词
+   - 第三人称单数
+   - -ing
+   - 比较级 / 最高级
+6. 不能用完全不同的派生词冒充原词覆盖。例如输入 economy，仅出现 economic，默认不能算 economy 已覆盖，除非用户明确允许词族覆盖。
+7. vocabulary-coverage.md 必须同时记录 Original 和 Actual form。
+
+七、Vocabulary Coverage Report
+
+创建 public/tests/[TEST_ID]/vocabulary-coverage.md。
+
+至少使用以下字段：
+
+| No. | Original | Actual form | Part | Location | Context | Meaning |
+|---:|---|---|---|---|---|---|
+
+每一个有效目标词至少有一条真实记录。
+
+完成全部 Part 后，重新扫描 part1.md～part7.md，根据最终正文生成或修正该报告。
+
+报告底部必须统计：
+
+- Raw vocabulary entries:
+- Invalid entries removed:
+- Duplicate entries merged:
+- Valid vocabulary items:
+- Covered vocabulary items:
+- Missing vocabulary items:
+
+最终必须满足：
+
+Covered vocabulary items == Valid vocabulary items
+
+Missing vocabulary items == 0
+
+如果 Missing 不等于 0：
+1. 不要结束任务。
+2. 找到最自然的 Part / Group / Passage 补入遗漏词。
+3. 必要时重写对应句子、对话或材料。
+4. 再次扫描全部 Part。
+5. 持续修复直到 Missing = 0。
+
+不得以“词太多”为理由交付未覆盖词。
+
+八、Metadata
 
 public/tests/[TEST_ID]/metadata.md 必须包含：
 
@@ -147,9 +294,13 @@ demo: false
 
 # TOEIC Complete Mock Test [TEST_NUMBER]
 
-并加入一句简短声明，说明整套问题、transcripts、answers 和 explanations 均为本项目原创内容。
+加入一句简短声明，说明整套 Questions、Transcripts、Answers 和 Explanations 均为本项目原创 TOEIC-style 学习内容。
 
-四、题量和题号
+不得声称内容来自 ETS。
+
+九、题量和题号
+
+必须严格保持：
 
 - Part 1：Question 1-6，共 6 题。
 - Part 2：Question 7-31，共 25 题。
@@ -157,94 +308,405 @@ demo: false
 - Part 4：Question 71-100，共 30 题；10 个 talk group，每组 3 题。
 - Part 5：Question 101-130，共 30 题。
 - Part 6：Question 131-146，共 16 题；4 个 passage group，每组 4 题。
-- Part 7：Question 147-200，共 54 题；包含 single、double、triple passage groups，并保证题目总数正好为 54。为这个项目生成 18 个材料组：6 个 single、6 个 double、6 个 triple；合理分配每组题数，使总题数和连续题号严格正确。
+- Part 7：Question 147-200，共 54 题；18 个材料组：6 个 single、6 个 double、6 个 triple；合理分配每组题数，使总数严格为 54。
 
-五、各 Part 内容要求
+最终：
+- Listening = 100
+- Reading = 100
+- Total = 200
 
-Part 1：
-- 生成之前必须先读取 Repository 中除 [TEST_ID] 之外的所有 `public/tests/*/part1.md`。提取历史题库中的每一句 A-D、正确答案、Explanation、图片路径和图片对应的考查重点，建立“禁止重复清单”；不得只参考当前题库模板后直接改题号。
-- 每题包含 Image、Audio、Answer、Explanation、Tags。
-- 6 道题分别使用一张项目内置共享图，Image 必须填写 `images/toeic-scenes/` 下的完整路径；不要引用 [TEST_ID] 目录中的图片，也不要创建图片。
-- 先根据共享场景图设计 A-D 描述，正确答案必须与图中可观察内容一致。
-- Audio 包含 Speaker 1 朗读的 A-D 四个完整描述句。Explanation 必须说明图中哪个可见细节支持正确答案。
-- 不要在 Audio 中手工添加 `Question 1.`、`Question 2.` 等题号，也不要写暂停时间。考试模式会自动把对应题号与该题 A 选项合并为一个稳定的朗读单元，例如 `Question 2. A. ...`，避免浏览器跳过过短的独立题号；该题结束后自动留出5秒作答时间。手工添加题号会造成重复朗读。
-- 新 Part 1 的24个描述句必须与所有历史 Part 1 保持零完全重复；忽略大小写、标点、单复数和空白后仍不得重复。
-- 同义改写也视为重复。例如历史题是 `Several colleagues are gathered around a table.`，新题不能只改成 `Some coworkers are sitting around a table.`。必须更换真正的观察重点，而不是替换几个同义词。
-- 对重复使用的共享图片，优先改换可验证的观察重点，例如人物数量与位置、物品所在位置、可见动作、物体排列、场所结构或状态。新正确答案不得复用历史题库相同的“图片 + 核心事实”组合。
-- A-D 四个干扰项也必须全新。不得复制历史错误选项，不得只调换 A-D 顺序，不得沿用同一组动作、物体和地点后做轻微改写。
-- 六题应混合 present continuous、passive、stative/location 和 there-is/are 等自然描述结构，但语法变化不能代替内容变化。所有描述仍必须能仅凭图片判断。
-- 正确答案位置需要在 A-D 间合理平衡，并避免沿用已有题库相同的六题答案序列；不能通过旋转旧选项来伪造新题。
-- 输入词表中的单词只有在图片确实支持时才能用于 Part 1；不能为了覆盖新单词而虚构图片中不存在的物体或动作。
-- 如果共享图片已经无法支持六个与历史题库语义不同、且可以从图中确认的新正确描述，停止生成并明确报告需要增加新的共享场景图；不得输出重复题来凑足6题。
+Question ID 必须 1～200 连续、唯一、无缺号、无重复。
 
-Part 2：
-- 每题 Audio 先由 Speaker 1 朗读一个问题或陈述，再由 Speaker 2 依次朗读 A-C 三个回答。
-- 正确回答应包含直接回答、间接回答、请求回应、建议回应等多种类型，不能全部依赖关键词复述。
-- 每题必须包含 Answer、Explanation、Tags。
-- 不要写暂停标记；考试模式会在每题 Audio 结束后自动留出5秒作答时间。
+十、原创与质量要求
 
-Part 3：
-- 每组使用 ## Group N、### Questions、### Audio、3 个 ### Question、### Answers、### Explanation、### Tags。
-- Audio 首行由 Narrator 说明题号范围，之后使用 2-3 位 Speaker 展开自然商务对话。
-- 每组 3 题应混合主旨、细节、意图、推断和下一步行动。Explanation 下必须为每题分别建立 #### Question N。
-- Audio 只写 Narrator 引导和 conversation transcript，不要在 Audio 中再次复制三道题及选项。考试模式会在对话后自动读取各 Question 和 A-D，并在每题后留出8秒作答时间。
+1. 所有内容必须原创，只创作 TOEIC-style 模拟题。
+2. 不得复制、改写、引用或声称使用 ETS 的真实、泄露或非公开试题。
+3. 不使用 TOEIC 官方商标图形。
+4. 使用真实职场和日常商务场景，例如办公室、会议、出差、酒店、餐厅、零售、运输、物流、招聘、设施维护、客户服务、活动安排、技术支持、医疗福利、合规、采购、财务等。
+5. 所有英语必须自然、准确。
+6. 难度以 medium 为主，并与 [TARGET_SCORE] 相符。
+7. 正确答案位置要合理均衡，但不得制造机械 ABCD 循环。
+8. 错误选项必须合理，但可由原文明确排除。
+9. 不要把正确答案泄露在题干、Tags 或格式中。
+10. 不输出 TODO、placeholder、"same as above"、"其余略"、省略号代替内容或未完成段落。
+11. 不得为了减少输出量而跳过题目或文件。
 
-Part 4：
-- 结构与 Part 3 相同，但材料是 announcement、telephone message、advertisement、news report、tour information 或 workplace talk。
-- Audio 首行必须是 Narrator，正文通常由 Speaker 1 连续朗读。
-- 每组必须有完整 transcript、3 道题、答案映射和逐题解析。
-- Audio 不要重复 Question 和选项，也不要写暂停标记。考试模式会在 talk 后自动朗读各 Question 和 A-D，并在每题后留出8秒作答时间。
+十一、Markdown 与 Parser
 
-Part 5：
-- 每题包含一个自然的句子填空、A-D、Answer、Explanation、Tags，可选 Vocabulary。
-- 题目覆盖词性、时态、语态、主谓一致、介词、连词、关系从句、代词、比较结构和商务词汇。
-- Explanation 要解释具体语法或词义依据，不能只写正确字母。
+严格遵守 docs/TOEIC-MD-SPEC.md。
 
-Part 6：
-- 创建 4 个不同类型的 Passage Group，每组 4 题。
-- 材料可以是 email、notice、article、letter 或 memo。
-- 题型应混合词汇、语法、句子插入和阅读理解，并使用项目规范中的 _____ 与 **[1]** 标记。
-- 每题均包含 A-D、Answer、Explanation；材料必须连贯，插入句必须只有一个合理位置。
+包括：
+- Heading 层级
+- Speaker
+- Narrator
+- Choice
+- Answer / Answers
+- Explanation
+- Tags
+- Passage
 
-Part 7：
-- 使用 ## Passage Group N、### Type、### Passage 1/2/3、材料类型 heading、Questions、Answers 和 Explanations。
-- single 必须只有一份材料，double 必须有两份，triple 必须有三份。
-- 材料类型应多样，包括 Email、Notice、Advertisement、Article、Chat、Schedule、Invoice、Web Page 和 Memo；需要时使用标准 Markdown table。
-- double/triple 的部分问题必须要求交叉对照两份或三份材料，而不是所有答案都能从单一材料直接找到。
-- 题型覆盖主旨、事实细节、NOT/EXCEPT、词义、意图、推断、信息配对和文本插入。每题都必须有明确答案及证据充分的解析。
+文件编码 UTF-8。
 
-六、质量与格式要求
+不要使用 Parser 不支持的自定义 HTML。
 
-- 不要输出占位符、TODO、未完成段落、"其余题目同上" 或省略号代替内容。
-- 不要把正确答案直接泄露在题干、标签或格式中。
-- 同一组问题必须与对应 Audio/Passage 完全一致，姓名、日期、时间、价格、地点和数量不得前后矛盾。
-- Explanation 应简洁说明文本证据或语法原因；不能只重复选项。
-- Tags 使用简短、稳定、小写、连字符分隔的英文词。
-- Markdown heading 层级必须与 docs/TOEIC-MD-SPEC.md 完全一致。
-- Part 1/2 的听力内容和选项写入 Audio；Part 3/4 只把 Narrator 引导及 conversation/talk transcript 写入 Audio，三道 Question 和 choices 保持在规定的 Question sections 中，由网站自动接入播放队列。
-- Part 1 不得手工加入题号；Part 3/4 不得把已经存在的 Question/choices 再复制到 Audio。连续播放、Part 1 题号、Part 3/4 问题与选项、5秒/8秒作答间隔和 Part 切换缓冲均由网站自动生成。
-- 不得手工把题库内容写入 Vue、TypeScript、评分逻辑或 public/tests/index.json。
-- 不得遗漏用户输入词表中的任何有效单词，也不得只在 Explanation 或 vocabulary-coverage.md 中制造表面覆盖。
-- 对 Part 1 执行两级去重：先比较规范化文本以排除完全重复，再逐句比较语义、图片和核心事实以排除近义改写。任何一项重复都必须重写后再交付。
+Listening 不创建 MP3/WAV。
 
-七、交付边界和内容自检
+Audio 只允许：
+- Narrator
+- Speaker 1
+- Speaker 2
+- Speaker 3
 
-你的任务只生成 `public/tests/[TEST_ID]/` 中的 Markdown 文件，不要在本地安装依赖、启动服务器、运行 `npm run generate:index`、运行测试或执行构建。不要修改 `public/tests/index.json`；该文件会在题库文件夹被推送后由 GitHub Actions 自动生成。
+不要写：
+- pause
+- wait
+- sleep
+- timing
+- Next
+- page break
+- Part 菜单命令
 
-交付前直接检查所生成的 Markdown 内容，修复题数、题号、答案、选项、共享图片路径或 heading 格式错误。最后报告：
+这些由网站代码处理。
 
-- 实际创建的文件列表
-- Part 1-7 各自题数
-- Listening、Reading 和总题数
-- transcript、答案、解析和 Part 1 图片是否齐全
-- 用户输入词表的原始条目数、去重后的有效单词数、已覆盖数和未覆盖数
-- vocabulary-coverage.md 的路径，以及每个单词是否都能对应到真实的 Part/Question/Group
-- Part 1 历史去重报告：扫描过的已有 Test ID、历史描述句总数、新题完全重复数、近义重复数、六张图片各自采用的新观察重点，以及新旧答案序列对比。完全重复数和近义重复数都必须为0
-- 已确认只创建 Markdown 文件，未修改项目代码、配置或 `index.json`
-- 提醒用户把整个 `public/tests/[TEST_ID]/` 文件夹加入 Repository；后续发现、测试、构建和发布均由 GitHub Actions 自动完成
+十二、Part 1
 
-请直接创建全部 Markdown 文件，不要只提供计划或少量示例，也不要执行任何本地编译或运行命令。
-```
+生成前必须读取 Repository 中除 [TEST_ID] 外所有 public/tests/*/part1.md。
+
+提取并比较：
+- 所有历史 A-D 描述
+- 正确答案
+- Explanation
+- 图片路径
+- 图片核心观察事实
+- 历史六题答案序列
+
+使用项目已有 6 张共享图：
+- images/toeic-scenes/office-meeting.svg
+- images/toeic-scenes/train-platform.svg
+- images/toeic-scenes/restaurant.svg
+- images/toeic-scenes/warehouse.svg
+- images/toeic-scenes/park.svg
+- images/toeic-scenes/construction.svg
+
+每题包含：
+- Image
+- Audio
+- Answer
+- Explanation
+- Tags
+
+Audio 使用 Speaker 1 朗读 A-D 四个完整描述句。
+
+不要在 Audio 手工加入 Question 1. 等题号，也不要写暂停时间。
+
+新 Part 1 的 24 个描述句必须做到：
+- Exact duplicate = 0
+- Semantic / core-fact duplicate = 0
+
+不能只替换同义词制造新题。
+
+必须改变真正可观察的事实，例如：
+- 人物数量或位置
+- 动作
+- 物品位置
+- 物体排列
+- 场所结构
+- 状态
+- 前景 / 背景关系
+
+A-D 干扰项也必须原创。
+
+目标词只有图片确实支持时才能用于 Part 1，不能为了覆盖词汇虚构图片中不存在的物体或动作。
+
+如果现有 6 张共享图已经无法支持六个与历史题库真正不同且可验证的新正确描述，停止生成 Part 1 并明确报告需要新增共享场景图；不得用重复题凑数。
+
+十三、Part 2
+
+每题 Audio：
+- Speaker 1：一个问题或陈述
+- Speaker 2：依次朗读 A-C 三个回答
+
+正确回应混合：
+- 直接回答
+- 间接回答
+- 请求回应
+- 建议回应
+- 时间 / 地点回答
+- 委婉拒绝
+- 下一步安排
+
+每题必须包含 Answer、Explanation、Tags。
+
+不要写暂停标记。
+
+十四、Part 3
+
+每组使用：
+- ## Group N
+- ### Questions
+- ### Audio
+- 3 个 ### Question
+- ### Answers
+- ### Explanation
+- ### Tags
+
+Audio 首行由 Narrator 说明题号范围，之后使用 2～3 位 Speaker 展开自然商务对话。
+
+每组三题混合：
+- main idea
+- detail
+- intention
+- inference
+- next action
+
+Explanation 下必须分别建立 #### Question N。
+
+Audio 只写 Narrator + conversation transcript，不要复制 Question 和 Options；网站会自动加入问题、选项和答题间隔。
+
+十五、Part 4
+
+结构与 Part 3 相同，但材料为：
+- announcement
+- telephone message
+- advertisement
+- news report
+- tour information
+- workplace talk
+- training message
+- company update
+- travel information
+- product information
+
+Audio 首行必须是 Narrator，正文通常由 Speaker 1 连续朗读。
+
+每组 3 题，包含完整 transcript、Answers、逐题 Explanation 和 Tags。
+
+不要在 Audio 中复制 Question 和 Options。
+
+十六、Part 5
+
+每题一个自然句子填空，包含：
+- Question
+- A-D
+- Answer
+- Explanation
+- Tags
+- 可选 Vocabulary
+
+覆盖：
+- vocabulary
+- collocation
+- part of speech
+- tense
+- voice
+- subject-verb agreement
+- preposition
+- conjunction
+- relative clause
+- pronoun
+- comparison
+- business English
+
+目标词较多时，可以让题干、正确选项和干扰选项共同承担自然覆盖，但每题必须只有一个明确最佳答案。
+
+十七、Part 6
+
+创建 4 个 Passage Group，每组 4 题。
+
+材料可以是：
+- Email
+- Notice
+- Article
+- Letter
+- Memo
+
+题型混合：
+- Vocabulary
+- Grammar
+- Sentence insertion
+- Reading comprehension
+
+使用项目规范中的 _____ 与 **[1]**。
+
+每题包含 A-D、Answer、Explanation。
+
+当目标词很多时，可以适度增加 Passage 长度来承载更多词，但必须保持材料自然连贯。
+
+十八、Part 7
+
+使用：
+- ## Passage Group N
+- ### Type
+- ### Passage 1 / 2 / 3
+- Questions
+- Answers
+- Explanations
+
+Type 必须为：
+- single
+- double
+- triple
+
+材料类型多样化，包括：
+- Email
+- Notice
+- Advertisement
+- Article
+- Chat
+- Schedule
+- Invoice
+- Web Page
+- Memo
+- Internal announcement
+- Customer message
+- Company policy
+- Event information
+
+需要时使用标准 Markdown table。
+
+double / triple 中必须有一部分问题需要跨两份或三份材料整合信息。
+
+题型覆盖：
+- main idea
+- detail
+- NOT / EXCEPT
+- vocabulary in context
+- intention
+- inference
+- information matching
+- text insertion
+
+Part 7 是大规模目标词的主要承载区域。词表达到 500 个以上时，可以适当增加 Passage 长度，但不能增加题数，也不能把材料写成目标词堆砌作文。
+
+十九、内容一致性
+
+同一 Group 内的人名、公司名、日期、时间、地点、数量、价格、产品和行程必须前后一致。
+
+Question 必须能从对应 Audio / Passage 找到充分证据。
+
+Explanation 必须说明文本证据、推理、语法或词义依据，不能只写 “The answer is B.”
+
+二十、最终自检
+
+交付前必须执行静态内容检查。
+
+确认文件：
+- metadata.md
+- part1.md
+- part2.md
+- part3.md
+- part4.md
+- part5.md
+- part6.md
+- part7.md
+- vocabulary-coverage.md
+
+确认题数：
+- Part 1 = 6
+- Part 2 = 25
+- Part 3 = 39
+- Part 4 = 30
+- Part 5 = 30
+- Part 6 = 16
+- Part 7 = 54
+- Listening = 100
+- Reading = 100
+- Total = 200
+
+确认：
+- Question 1～200 连续、唯一
+- 所有题有选项
+- 所有题有 Answer
+- 所有题有 Explanation
+- 所有 Listening Group 有 transcript
+- 所有 Part 1 有图片
+- 所有 Part 3/4 Group 完整
+- 所有 Part 6/7 Passage 完整
+
+然后重新扫描最终 part1.md～part7.md，对每一个有效目标词检查真实覆盖。
+
+不得把 Explanation、Tags、metadata 或 vocabulary-coverage.md 中的出现算作正文覆盖。
+
+只要仍有遗漏词，就继续修复正文并重新扫描，不要交付。
+
+最终必须达到：
+- Vocabulary coverage: 100%
+- Missing vocabulary: 0
+
+二十一、Part 1 历史去重报告
+
+最终报告必须包含：
+- 扫描过的已有 Test ID
+- 历史 Part 1 描述总数
+- 新 Part 1 描述数
+- Exact duplicate 数
+- Semantic / core-fact duplicate 数
+- 六张图片分别采用的新观察重点
+- 当前六题答案序列
+- 与历史答案序列的比较
+
+必须：
+- Exact duplicate = 0
+- Semantic duplicate = 0
+
+二十二、交付报告
+
+完成后报告：
+1. 实际创建的文件列表
+2. TEST_ID
+3. Part 1～7 各自题数
+4. Listening、Reading、Total
+5. Transcript 是否完整
+6. Answer 是否完整
+7. Explanation 是否完整
+8. Part 1 图片是否完整
+9. Raw vocabulary entries
+10. Invalid entries removed
+11. Duplicate entries merged
+12. Valid vocabulary items
+13. Covered vocabulary items
+14. Missing vocabulary items
+15. vocabulary-coverage.md 路径
+16. 是否逐词验证真实 Part / Question / Group
+17. Part 1 历史去重结果
+18. 确认没有修改项目代码或配置
+19. 确认没有修改 public/tests/index.json
+
+明确输出：
+Vocabulary coverage: 100%
+Missing vocabulary: 0
+
+二十三、执行边界
+
+本任务只创建 public/tests/[TEST_ID]/ 中的 Markdown 文件。
+
+不要：
+- npm install
+- npm run dev
+- npm run build
+- npm test
+- npm run generate:index
+- 启动浏览器
+- 修改 public/tests/index.json
+- 修改项目代码
+
+用户把整个 public/tests/[TEST_ID]/ 文件夹加入 Repository 并推送后，由现有 GitHub Actions 负责后续自动发现、index 生成、测试、构建和 GitHub Pages 发布。
+
+二十四、最重要的执行要求
+
+不要只提供计划。
+不要只提供少量示例。
+不要询问“是否继续”。
+不要因为输出内容很多而主动停止。
+不要默默截断词表。
+不要只处理前 N 个。
+不要随机抽样。
+不要把剩余词只写进 Explanation 或 vocabulary-coverage.md 来伪造覆盖。
+
+直接创建完整 9 个 Markdown 文件。
+
+即使 [VOCABULARY_LIST] 包含 500、1000 个或更多有效目标词，也必须完整处理整个词表，并保证全部有效目标词真实存在于 Part 1～7 的考试正文中。
+~~~
 
 ## Markdown 与 Speaker
 
