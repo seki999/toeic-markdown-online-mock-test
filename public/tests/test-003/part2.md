@@ -8,21 +8,21 @@ Speaker 1:
 Did the finance team finish the monetary review?
 
 Speaker 2:
-A. Yes, the revised figures are on your desk.
+A. Not until the auditors approve the figures.
 
 Speaker 2:
-B. No, the train leaves at six.
+B. The review is scheduled for next Tuesday.
 
 Speaker 2:
-C. I bought it last weekend.
+C. Yes, the revised figures are on your desk.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -38,21 +38,21 @@ Speaker 1:
 When is the inaugural customer forum?
 
 Speaker 2:
-A. The courier delivered it.
+A. In the main auditorium on Thursday.
 
 Speaker 2:
-B. In the main auditorium on Thursday.
+B. It's the first forum we've hosted.
 
 Speaker 2:
-C. Because the printer jammed.
+C. The invitations were sent this morning.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -68,21 +68,21 @@ Speaker 1:
 Could you check whether this voucher is still valid?
 
 Speaker 2:
-A. It was a very long itinerary.
+A. I checked the wrong voucher yesterday.
 
 Speaker 2:
-B. No, the ventilation is upstairs.
+B. Certainly, I'll scan it at the register.
 
 Speaker 2:
-C. Certainly, I'll scan it at the register.
+C. The register will be available after lunch.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -98,21 +98,21 @@ Speaker 1:
 Why was the municipal office closed?
 
 Speaker 2:
-A. For a statutory inspection.
+A. I believe it reopens on Monday.
 
 Speaker 2:
-B. At the nearest ferry terminal.
+B. They moved to the north building last year.
 
 Speaker 2:
-C. Two copies should be enough.
+C. For a statutory inspection.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -128,21 +128,21 @@ Speaker 1:
 Who will spearhead the new campaign?
 
 Speaker 2:
-A. About three kilometers away.
+A. Ms. Rivera from marketing.
 
 Speaker 2:
-B. Ms. Rivera from marketing.
+B. We haven't selected a project leader yet.
 
 Speaker 2:
-C. The fare has already been paid.
+C. The launch is scheduled for mid-May.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -158,21 +158,21 @@ Speaker 1:
 Has the congestion near the station improved?
 
 Speaker 2:
-A. The suite has two bedrooms.
+A. Traffic is still heavy around eight.
 
 Speaker 2:
-B. Please sign the receipt.
+B. A little, since the new lane opened.
 
 Speaker 2:
-C. A little, since the new lane opened.
+C. The roadworks are due to finish next week.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -188,21 +188,21 @@ Speaker 1:
 Can we procure the replacement parts locally?
 
 Speaker 2:
-A. I'll ask our regional supplier.
+A. The last supplier was overseas.
 
 Speaker 2:
-B. The dividend was announced yesterday.
+B. I need to check our inventory first.
 
 Speaker 2:
-C. At the rear entrance.
+C. I'll ask our regional supplier.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -218,21 +218,21 @@ Speaker 1:
 Did the board ratify the revised policy?
 
 Speaker 2:
-A. The bouquet arrived early.
+A. Yes, by a large majority.
 
 Speaker 2:
-B. Yes, by a large majority.
+B. They'll vote on it at the next meeting.
 
 Speaker 2:
-C. It is made of alloy.
+C. The previous policy is still in effect.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -248,21 +248,21 @@ Speaker 1:
 Why did sales surge last month?
 
 Speaker 2:
-A. The dormitory closes at ten.
+A. The sales report isn't ready yet.
 
 Speaker 2:
-B. I prefer the blue one.
+B. The holiday promotion was unusually successful.
 
 Speaker 2:
-C. The holiday promotion was unusually successful.
+C. Our advertising budget was unchanged.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -278,21 +278,21 @@ Speaker 1:
 Will the subsidiary join the trade fair?
 
 Speaker 2:
-A. Yes, it reserved a booth.
+A. They haven't confirmed their attendance.
 
 Speaker 2:
-B. The thermometer is broken.
+B. The booth costs more than last year.
 
 Speaker 2:
-C. Please use the side stairs.
+C. Yes, it reserved a booth.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -308,21 +308,21 @@ Speaker 1:
 Is the ventilation system being repaired?
 
 Speaker 2:
-A. It is a contemporary design.
+A. The contractor started this morning.
 
 Speaker 2:
-B. The contractor started this morning.
+B. A technician is arriving this afternoon.
 
 Speaker 2:
-C. I mailed the leaflet.
+C. The filters were replaced last week.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -338,21 +338,21 @@ Speaker 1:
 Who handles correspondence with the overseas office?
 
 Speaker 2:
-A. The buffet starts at noon.
+A. The overseas team usually writes first.
 
 Speaker 2:
-B. It was very humid.
+B. Our legal bureau does.
 
 Speaker 2:
-C. Our legal bureau does.
+C. That responsibility was transferred last month.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -368,21 +368,21 @@ Speaker 1:
 Can I change my ferry reservation?
 
 Speaker 2:
-A. Yes, but there may be a small fare difference.
+A. The departure is in two hours.
 
 Speaker 2:
-B. The ornament is on the shelf.
+B. Changes may incur a fee.
 
 Speaker 2:
-C. I already swept the floor.
+C. Yes, but there may be a small fare difference.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -398,21 +398,21 @@ Speaker 1:
 When will the courier collect the samples?
 
 Speaker 2:
-A. The recital was superb.
+A. Just after three o'clock.
 
 Speaker 2:
-B. Just after three o'clock.
+B. The samples need to be packed first.
 
 Speaker 2:
-C. No, the hood is locked.
+C. The driver called about the address.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -428,21 +428,21 @@ Speaker 1:
 Should we postpone the excursion because of the blizzard?
 
 Speaker 2:
-A. It is in the company prospectus.
+A. The route is being inspected this morning.
 
 Speaker 2:
-B. The napkins are on the table.
+B. Yes, the forecast is getting worse.
 
 Speaker 2:
-C. Yes, the forecast is getting worse.
+C. The weather forecast could still change.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -458,21 +458,21 @@ Speaker 1:
 Did you confirm the hotel suite?
 
 Speaker 2:
-A. Yes, and breakfast is included.
+A. The room hasn't been assigned yet.
 
 Speaker 2:
-B. The bourse closed early.
+B. Your confirmation email should arrive soon.
 
 Speaker 2:
-C. Please dilute the solution.
+C. Yes, and breakfast is included.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -488,21 +488,21 @@ Speaker 1:
 Why is the shipment under embargo?
 
 Speaker 2:
-A. The ballet begins at seven.
+A. Customs is reviewing the documents.
 
 Speaker 2:
-B. Customs is reviewing the documents.
+B. Customs has asked for more documents.
 
 Speaker 2:
-C. I left it on the porch.
+C. The goods reached the port yesterday.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -518,21 +518,21 @@ Speaker 1:
 How close is the new residence to the office?
 
 Speaker 2:
-A. The psychiatrist called earlier.
+A. I haven't visited the apartment yet.
 
 Speaker 2:
-B. The buffet was quite bland.
+B. It's within walking distance.
 
 Speaker 2:
-C. It's within walking distance.
+C. The office is on the same bus route.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -548,21 +548,21 @@ Speaker 1:
 Can the company compensate passengers for the delay?
 
 Speaker 2:
-A. Customer service is reviewing each claim.
+A. The airline is reviewing claims individually.
 
 Speaker 2:
-B. The tournament ended yesterday.
+B. Passengers can submit receipts online.
 
 Speaker 2:
-C. I need a larger vest.
+C. Customer service is reviewing each claim.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -578,21 +578,21 @@ Speaker 1:
 Did the insurance policy cover the mishap?
 
 Speaker 2:
-A. The cuisine is very piquant.
+A. Yes, after the deductible.
 
 Speaker 2:
-B. Yes, after the deductible.
+B. The policy was renewed last month.
 
 Speaker 2:
-C. Please tune the radio.
+C. The insurer hasn't completed its review.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -608,21 +608,21 @@ Speaker 1:
 Who approved the provisional budget?
 
 Speaker 2:
-A. The suburb has a new park.
+A. Finance has not announced a decision.
 
 Speaker 2:
-B. It is made of unleaded fuel.
+B. The finance director did.
 
 Speaker 2:
-C. The finance director did.
+C. The revised budget is due on Friday.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -638,21 +638,21 @@ Speaker 1:
 Will the retirement seminar be held here?
 
 Speaker 2:
-A. No, it moved to Conference Room B.
+A. They may use a larger conference room.
 
 Speaker 2:
-B. The avenue is under repair.
+B. The speaker is arriving early.
 
 Speaker 2:
-C. I bought a trendy jacket.
+C. No, it moved to Conference Room B.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -668,21 +668,21 @@ Speaker 1:
 Why was the old equipment declared obsolete?
 
 Speaker 2:
-A. The convoy arrives tomorrow.
+A. Replacement parts are no longer available.
 
 Speaker 2:
-B. Replacement parts are no longer available.
+B. It was still working last week.
 
 Speaker 2:
-C. The recipe uses fresh herbs.
+C. We haven't ordered replacements yet.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -698,21 +698,21 @@ Speaker 1:
 Can we substitute a digital copy for the original?
 
 Speaker 2:
-A. The tornado moved east.
+A. The archive contains a scanned version.
 
 Speaker 2:
-B. The groom is waiting outside.
+B. Yes, if it has a verified signature.
 
 Speaker 2:
-C. Yes, if it has a verified signature.
+C. Some agencies require paper originals.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
@@ -728,21 +728,21 @@ Speaker 1:
 Has the dividend payment been deposited?
 
 Speaker 2:
-A. Yes, it appeared in my account today.
+A. The payment date was moved to Friday.
 
 Speaker 2:
-B. The sailing lesson was canceled.
+B. I'll check the bank statement.
 
 Speaker 2:
-C. Please close the hood.
+C. Yes, it appeared in my account today.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The correct response directly and naturally addresses the speaker's question; the other choices are unrelated to the requested information.
+The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
 
 ### Tags
 
