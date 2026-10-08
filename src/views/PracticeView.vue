@@ -111,12 +111,12 @@ function audioLines(group: QuestionGroup) {
 
           <div class="questions-stack">
             <QuestionCard
-              v-for="(question, questionIndex) in group.questions"
+              v-for="question in group.questions"
               :key="question.id"
               :question="question"
               :model-value="store.answers[testId]?.[question.id]"
               :reveal="Boolean(revealedGroups[group.id])"
-              :show-transcript="Boolean(visibleTranscripts[group.id]) && questionIndex === 0"
+              :show-transcript="Boolean(visibleTranscripts[group.id])"
               :hide-passages="group.part >= 6 && questionIndex > 0"
               @update:model-value="choose(question.id, $event)"
             />
