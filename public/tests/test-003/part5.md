@@ -2,12 +2,12 @@
 
 ## Question 101
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **inaugural** as the approved term. Which option matches the master card?
+The company's president delivered an ______ address at the opening ceremony for the new headquarters.
 
-- A. abstain
+- A. monetary
 - B. inaugural
 - C. ornament
-- D. monetary
+- D. abstain
 
 ### Answer
 
@@ -15,45 +15,22 @@ B
 
 ### Explanation
 
-The master card identifies “inaugural” as the approved term, so option B is the exact match.
+Inaugural describes an event marking the beginning of an institution or activity. 'Inaugural address' fits the opening ceremony.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 102
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **premiere** as the approved term. Which option matches the master card?
+The award-winning documentary will have its international ______ at the film festival next month.
 
-- A. simultaneously
+- A. recuperate
 - B. counterfeit
-- C. premiere
-- D. recuperate
-
-### Answer
-
-C
-
-### Explanation
-
-The master card identifies “premiere” as the approved term, so option C is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 103
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **paparazzo** as the approved term. Which option matches the master card?
-
-- A. gape
-- B. fugitive
-- C. ferment
-- D. paparazzo
+- C. simultaneously
+- D. premiere
 
 ### Answer
 
@@ -61,22 +38,22 @@ D
 
 ### Explanation
 
-The master card identifies “paparazzo” as the approved term, so option D is the exact match.
+A premiere is the first public showing of a film or performance; 'international premiere' is the natural collocation.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 104
+## Question 103
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **jurisdiction** as the approved term. Which option matches the master card?
+A ______ was removed from the private event after taking photographs without permission.
 
-- A. jurisdiction
-- B. morbid
-- C. moribund
-- D. hedonistic
+- A. paparazzo
+- B. fugitive
+- C. ferment
+- D. gape
 
 ### Answer
 
@@ -84,22 +61,45 @@ A
 
 ### Explanation
 
-The master card identifies “jurisdiction” as the approved term, so option A is the exact match.
+A paparazzo is a photographer who pursues celebrities, fitting the photography and privacy context.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
+
+## Question 104
+
+The contract specifies that any legal dispute will fall under the ______ of the courts in Singapore.
+
+- A. hedonistic
+- B. moribund
+- C. jurisdiction
+- D. morbid
+
+### Answer
+
+C
+
+### Explanation
+
+Jurisdiction means the legal authority of a court to hear a case.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
 
 ## Question 105
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **segregate** as the approved term. Which option matches the master card?
+The company has introduced separate storage areas to ______ hazardous materials from ordinary supplies.
 
 - A. insinuate
 - B. segregate
-- C. statutory
-- D. stampede
+- C. stampede
+- D. statutory
 
 ### Answer
 
@@ -107,45 +107,22 @@ B
 
 ### Explanation
 
-The master card identifies “segregate” as the approved term, so option B is the exact match.
+Segregate means to keep things separate; the sentence calls for a base-form verb after 'to'.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 106
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **throng** as the approved term. Which option matches the master card?
+A large ______ of commuters gathered outside the station after train services were suspended.
 
-- A. truculent
+- A. tarnish
 - B. spearhead
-- C. throng
-- D. tarnish
-
-### Answer
-
-C
-
-### Explanation
-
-The master card identifies “throng” as the approved term, so option C is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 107
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **obfuscate** as the approved term. Which option matches the master card?
-
-- A. plague
-- B. sociologist
-- C. psychiatrist
-- D. obfuscate
+- C. truculent
+- D. throng
 
 ### Answer
 
@@ -153,22 +130,22 @@ D
 
 ### Explanation
 
-The master card identifies “obfuscate” as the approved term, so option D is the exact match.
+Throng means a large, densely packed crowd, fitting the commuters outside the station.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 108
+## Question 107
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **vindicate** as the approved term. Which option matches the master card?
+The revised terms were written so vaguely that they seemed to ______ the supplier's actual obligations.
 
-- A. vindicate
-- B. repent
-- C. reconciliation
-- D. plagiarize
+- A. obfuscate
+- B. sociologist
+- C. plague
+- D. psychiatrist
 
 ### Answer
 
@@ -176,114 +153,137 @@ A
 
 ### Explanation
 
-The master card identifies “vindicate” as the approved term, so option A is the exact match.
+Obfuscate means to make something unclear or difficult to understand.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
+
+## Question 108
+
+The independent investigation helped ______ the manager, who had been wrongly accused of altering the records.
+
+- A. plagiarize
+- B. reconciliation
+- C. repent
+- D. vindicate
+
+### Answer
+
+D
+
+### Explanation
+
+Vindicate means to clear someone of blame or suspicion by establishing that they were right or innocent.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
 
 ## Question 109
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **punctuality** as the approved term. Which option matches the master card?
+Because departures are tightly scheduled, ______ is essential for all members of the airport ground crew.
 
 - A. ordain
-- B. punctuality
-- C. facile
+- B. facile
+- C. punctuality
 - D. designate
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The master card identifies “punctuality” as the approved term, so option B is the exact match.
+Punctuality is the quality of being on time; a noun is needed as the subject of the sentence.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 110
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **tout** as the approved term. Which option matches the master card?
+The manufacturer plans to ______ the energy efficiency of its new equipment in next month's advertising campaign.
 
 - A. altruism
-- B. jersey
-- C. tout
+- B. tout
+- C. jersey
 - D. intrinsic
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The master card identifies “tout” as the approved term, so option C is the exact match.
+Tout means to promote or praise something publicly, which fits an advertising campaign.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 111
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **allude** as the approved term. Which option matches the master card?
+During the earnings call, the director appeared to ______ to possible expansion plans without announcing any details.
 
-- A. candid
+- A. allude
 - B. capitulate
 - C. beguile
-- D. allude
+- D. candid
 
 ### Answer
 
-D
+A
 
 ### Explanation
 
-The master card identifies “allude” as the approved term, so option D is the exact match.
+Allude to means to refer to something indirectly; the preposition 'to' is part of the expression.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 112
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **blemish** as the approved term. Which option matches the master card?
+The quality inspector found a small ______ on the surface of the display and rejected the unit.
 
-- A. blemish
-- B. congenital
-- C. congestion
-- D. solicit
+- A. solicit
+- B. congestion
+- C. congenital
+- D. blemish
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-The master card identifies “blemish” as the approved term, so option A is the exact match.
+A blemish is a small mark or imperfection that spoils an object's appearance.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 113
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **sewage** as the approved term. Which option matches the master card?
+The city council approved funding to replace damaged ______ pipes near the industrial park.
 
-- A. debut
+- A. deprive
 - B. sewage
-- C. inflict
-- D. deprive
+- C. debut
+- D. inflict
 
 ### Answer
 
@@ -291,22 +291,22 @@ B
 
 ### Explanation
 
-The master card identifies “sewage” as the approved term, so option B is the exact match.
+Sewage pipes carry wastewater and waste; the other choices do not form a suitable noun modifier.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 114
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **oblivious** as the approved term. Which option matches the master card?
+Several employees were completely ______ to the schedule change because the notice had been sent to an outdated mailing list.
 
-- A. exquisite
-- B. ingenious
+- A. ingenious
+- B. versatile
 - C. oblivious
-- D. versatile
+- D. exquisite
 
 ### Answer
 
@@ -314,45 +314,22 @@ C
 
 ### Explanation
 
-The master card identifies “oblivious” as the approved term, so option C is the exact match.
+Oblivious to means unaware of something; the preposition 'to' helps identify the correct adjective.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 115
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **peripheral** as the approved term. Which option matches the master card?
+The technician determined that the printer malfunction was caused by a damaged ______ cable rather than the main processing unit.
 
-- A. municipal
-- B. ventilation
+- A. peripheral
+- B. municipal
 - C. subsidiary
-- D. peripheral
-
-### Answer
-
-D
-
-### Explanation
-
-The master card identifies “peripheral” as the approved term, so option D is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 116
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **compensate** as the approved term. Which option matches the master card?
-
-- A. compensate
-- B. immune
-- C. distinguished
-- D. campaign
+- D. ventilation
 
 ### Answer
 
@@ -360,45 +337,22 @@ A
 
 ### Explanation
 
-The master card identifies “compensate” as the approved term, so option A is the exact match.
+Peripheral can describe equipment or components connected to, but not central to, a computer system.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 117
+## Question 116
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **forfeit** as the approved term. Which option matches the master card?
+The airline agreed to ______ passengers for reasonable accommodation costs caused by the canceled flight.
 
-- A. prevalent
-- B. forfeit
-- C. confiscate
-- D. default
-
-### Answer
-
-B
-
-### Explanation
-
-The master card identifies “forfeit” as the approved term, so option B is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 118
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **deter** as the approved term. Which option matches the master card?
-
-- A. implicit
-- B. substitute
-- C. deter
-- D. incur
+- A. campaign
+- B. immune
+- C. compensate
+- D. distinguished
 
 ### Answer
 
@@ -406,22 +360,22 @@ C
 
 ### Explanation
 
-The master card identifies “deter” as the approved term, so option C is the exact match.
+Compensate someone for something means to pay them for loss or inconvenience.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 119
+## Question 117
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **ratify** as the approved term. Which option matches the master card?
+Contestants who fail to appear by the registration deadline may ______ their right to compete.
 
-- A. tumultuous
-- B. vicinity
-- C. surge
-- D. ratify
+- A. confiscate
+- B. prevalent
+- C. default
+- D. forfeit
 
 ### Answer
 
@@ -429,137 +383,160 @@ D
 
 ### Explanation
 
-The master card identifies “ratify” as the approved term, so option D is the exact match.
+Forfeit means to lose a right or privilege as a consequence of failing to meet a requirement.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
+
+## Question 118
+
+The updated security policy is intended to ______ unauthorized access to confidential customer records.
+
+- A. incur
+- B. deter
+- C. substitute
+- D. implicit
+
+### Answer
+
+B
+
+### Explanation
+
+Deter means to discourage or prevent an action, often through rules or consequences.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
+
+## Question 119
+
+The proposed partnership cannot take effect until both companies' boards formally ______ the agreement.
+
+- A. ratify
+- B. vicinity
+- C. tumultuous
+- D. surge
+
+### Answer
+
+A
+
+### Explanation
+
+Ratify means to give formal approval to an agreement; plural 'boards' takes the base verb.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
 
 ## Question 120
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **patronage** as the approved term. Which option matches the master card?
+The museum's annual exhibition relies heavily on the ______ of local businesses to cover operating expenses.
 
-- A. patronage
-- B. subsidy
-- C. reprieve
+- A. subsidy
+- B. reprieve
+- C. patronage
 - D. penetrate
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The master card identifies “patronage” as the approved term, so option A is the exact match.
+Patronage refers to support given to an organization, particularly by patrons or sponsors.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 121
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **proliferate** as the approved term. Which option matches the master card?
+Without stronger controls, misleading advertisements could ______ rapidly across multiple online platforms.
 
-- A. ubiquitous
-- B. proliferate
+- A. inevitable
+- B. ubiquitous
 - C. densely
-- D. inevitable
+- D. proliferate
 
 ### Answer
 
-B
+D
 
 ### Explanation
 
-The master card identifies “proliferate” as the approved term, so option B is the exact match.
+Proliferate means to increase or spread rapidly; a base-form verb follows 'could'.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 122
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **terminology** as the approved term. Which option matches the master card?
+To avoid misunderstandings, the project manager distributed a glossary explaining the technical ______ used in the proposal.
 
-- A. arouse
-- B. inoculate
-- C. terminology
+- A. terminology
+- B. arouse
+- C. inoculate
 - D. upsurge
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The master card identifies “terminology” as the approved term, so option C is the exact match.
+Terminology means the specialized vocabulary used in a particular field.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 123
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **mishap** as the approved term. Which option matches the master card?
+The shipment arrived on time despite a minor ______ at the distribution center that briefly delayed loading.
 
-- A. handicap
-- B. consolation
-- C. vicious
-- D. mishap
+- A. consolation
+- B. handicap
+- C. mishap
+- D. vicious
 
 ### Answer
 
-D
+C
 
 ### Explanation
 
-The master card identifies “mishap” as the approved term, so option D is the exact match.
+Mishap means a small accident or unlucky incident, matching the brief disruption.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
 ## Question 124
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **eradication** as the approved term. Which option matches the master card?
+The organization's long-term plan focuses on the complete ______ of preventable workplace hazards.
 
-- A. eradication
-- B. facade
-- C. decoy
-- D. convoy
-
-### Answer
-
-A
-
-### Explanation
-
-The master card identifies “eradication” as the approved term, so option A is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 125
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **lessen** as the approved term. Which option matches the master card?
-
-- A. culminate
-- B. lessen
-- C. imperative
-- D. obscure
+- A. facade
+- B. eradication
+- C. convoy
+- D. decoy
 
 ### Answer
 
@@ -567,45 +544,45 @@ B
 
 ### Explanation
 
-The master card identifies “lessen” as the approved term, so option B is the exact match.
+Eradication means the complete removal or elimination of something harmful.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 126
+## Question 125
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **superb** as the approved term. Which option matches the master card?
+Installing motion-sensitive lighting helped ______ electricity consumption in the warehouse.
 
-- A. tangible
-- B. testimonial
-- C. superb
-- D. elicit
+- A. lessen
+- B. obscure
+- C. imperative
+- D. culminate
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The master card identifies “superb” as the approved term, so option C is the exact match.
+Lessen means to reduce the amount or degree of something; 'helped' can be followed by the base verb.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 127
+## Question 126
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **provisional** as the approved term. Which option matches the master card?
+Customer surveys gave the hotel a ______ rating for the professionalism of its front-desk staff.
 
-- A. voucher
-- B. fare
-- C. harbinger
-- D. provisional
+- A. testimonial
+- B. tangible
+- C. elicit
+- D. superb
 
 ### Answer
 
@@ -613,68 +590,22 @@ D
 
 ### Explanation
 
-The master card identifies “provisional” as the approved term, so option D is the exact match.
+Superb means excellent or of very high quality and naturally modifies 'rating'.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
 
-## Question 128
+## Question 127
 
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **resurrect** as the approved term. Which option matches the master card?
+The finance department issued a ______ budget while waiting for the final figures to be approved.
 
-- A. resurrect
-- B. holistic
-- C. contemporary
-- D. bouquet
-
-### Answer
-
-A
-
-### Explanation
-
-The master card identifies “resurrect” as the approved term, so option A is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 129
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **hustle-bustle** as the approved term. Which option matches the master card?
-
-- A. casino
-- B. hustle-bustle
-- C. manifold
-- D. ebullient
-
-### Answer
-
-B
-
-### Explanation
-
-The master card identifies “hustle-bustle” as the approved term, so option B is the exact match.
-
-### Tags
-
-- vocabulary
-- workplace-training
-- proofreading
-
-## Question 130
-
-The internal communication workshop assigns four vocabulary choices to this item. The facilitator's master card marks **plausible** as the approved term. Which option matches the master card?
-
-- A. enervate
-- B. remiss
-- C. plausible
-- D. auspicious
+- A. fare
+- B. voucher
+- C. provisional
+- D. harbinger
 
 ### Answer
 
@@ -682,11 +613,80 @@ C
 
 ### Explanation
 
-The master card identifies “plausible” as the approved term, so option C is the exact match.
+Provisional means temporary or subject to later confirmation, as with a preliminary budget.
 
 ### Tags
 
 - vocabulary
-- workplace-training
-- proofreading
+- incomplete-sentence
+- business-context
+
+## Question 128
+
+Management hopes the product redesign will ______ interest in a brand whose sales have declined for several years.
+
+- A. holistic
+- B. resurrect
+- C. bouquet
+- D. contemporary
+
+### Answer
+
+B
+
+### Explanation
+
+Resurrect can mean to bring something back into use or popularity, such as renewed interest in a brand.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
+
+## Question 129
+
+To escape the ______ of the downtown business district, the team held its planning retreat in a quiet rural hotel.
+
+- A. hustle-bustle
+- B. manifold
+- C. ebullient
+- D. casino
+
+### Answer
+
+A
+
+### Explanation
+
+Hustle-bustle refers to noisy, busy activity; the contrast with a quiet rural hotel signals its meaning.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
+
+## Question 130
+
+The auditor requested additional evidence because the contractor's explanation did not seem ______.
+
+- A. auspicious
+- B. enervate
+- C. remiss
+- D. plausible
+
+### Answer
+
+D
+
+### Explanation
+
+Plausible means reasonable or believable; 'seem' requires an adjective complement.
+
+### Tags
+
+- vocabulary
+- incomplete-sentence
+- business-context
 
