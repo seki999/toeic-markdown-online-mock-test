@@ -4,6 +4,7 @@ import { useRoute } from 'vue-router'
 import LoadingState from '../components/LoadingState.vue'
 import QuestionCard from '../components/QuestionCard.vue'
 import TtsControls from '../components/TtsControls.vue'
+import { buildContinuousListeningSequence } from '../services/listeningSequence'
 import { getTtsEngine } from '../services/ttsEngine'
 import { useExamStore } from '../stores/exam'
 import type { ChoiceLabel, PartNumber, QuestionGroup, ToeicTest } from '../types/exam'
@@ -50,6 +51,7 @@ function choose(questionId: number, value: ChoiceLabel) {
 }
 
 function audioLines(group: QuestionGroup) {
+  if (group.part === 3 || group.part === 4) return buildContinuousListeningSequence([group])
   return group.speech.length ? group.speech : group.questions.flatMap((question) => question.speech)
 }
 
