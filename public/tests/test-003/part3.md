@@ -12,63 +12,63 @@ Narrator:
 Questions 32 through 34 refer to the following conversation.
 
 Speaker 1:
-We need to finish the launch planning work today. The team specifically mentioned inaugural campaign, and the venue contract is still unresolved.
+The venue contract for our inaugural customer forum still hasn't been signed. The hotel wants the final guest count before it confirms the ballroom.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we confirm the final guest count, we should be ready for tomorrow's meeting.
+Registration closes on Wednesday. Could we give them a provisional figure of 120 and update it afterward?
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+I'll ask whether that's acceptable. Meanwhile, please check if the smaller rooms are available for workshops.
 
 ### Question 32
 
-What are the speakers mainly discussing?
+What are the speakers organizing?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A training visit
+- B. A customer forum
+- C. A product return
+- D. A charity auction
 
 ### Question 33
 
-What problem is mentioned?
+Why has the contract not been finalized?
 
-- A. A missing passport.
-- B. The venue contract.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. The venue needs attendance information
+- B. The hotel is being renovated
+- C. The speaker has missed a payment
+- D. The program has been canceled
 
 ### Question 34
 
-What does Speaker 2 suggest?
+What does the man ask the woman to check?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Confirm the final guest count.
-- D. Hiring a new receptionist.
+- A. Catering options
+- B. Staff parking
+- C. Availability of smaller rooms
+- D. The list of invited journalists
 
 ### Answers
 
-32: A
-33: B
+32: B
+33: A
 34: C
 
 ### Explanation
 
 #### Question 32
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 33
-Speaker 1 identifies the venue contract as the unresolved problem.
+undefined
 
 #### Question 34
-Speaker 2 proposes that they confirm the final guest count.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 2
 
@@ -82,63 +82,63 @@ Narrator:
 Questions 35 through 37 refer to the following conversation.
 
 Speaker 1:
-We need to finish the bank compliance work today. The team specifically mentioned counterfeit payments, and a revised verification rule is still unresolved.
+Our bank's fraud team stopped the transfer to Parkline Supplies. The account number on the invoice differs from the one we used last month.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we train cashiers before Friday, we should be ready for tomorrow's meeting.
+The supplier claims it changed banks, but I haven't verified that yet.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Don't use the phone number printed on the new invoice. Call our usual contact directly and ask for written confirmation.
 
 ### Question 35
 
-What are the speakers mainly discussing?
+Why was a transfer stopped?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. The purchase was canceled
+- B. It exceeded a spending limit
+- C. The recipient's account details changed
+- D. The supplier did not deliver
 
 ### Question 36
 
-What problem is mentioned?
+What has not been confirmed?
 
-- A. A missing passport.
-- B. A revised verification rule.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. The payment due date
+- B. A change of bank accounts
+- C. The order quantity
+- D. The warehouse address
 
 ### Question 37
 
-What does Speaker 2 suggest?
+What does the speaker recommend?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Train cashiers before Friday.
-- D. Hiring a new receptionist.
+- A. Contacting an established supplier representative
+- B. Paying the invoice in cash
+- C. Issuing a new purchase order
+- D. Transferring the funds immediately
 
 ### Answers
 
-35: A
+35: C
 36: B
-37: C
+37: A
 
 ### Explanation
 
 #### Question 35
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 36
-Speaker 1 identifies a revised verification rule as the unresolved problem.
+undefined
 
 #### Question 37
-Speaker 2 proposes that they train cashiers before Friday.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 3
 
@@ -152,63 +152,63 @@ Narrator:
 Questions 38 through 40 refer to the following conversation.
 
 Speaker 1:
-We need to finish the publishing work today. The team specifically mentioned plagiarize, and the legal review is still unresolved.
+The article for Friday's issue contains several sentences that seem to have been copied from another publication.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we replace the disputed paragraph, we should be ready for tomorrow's meeting.
+The author says she only consulted that report for data, but the wording is almost identical.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+We should rewrite that section and cite the original source. I'll have Legal check the revised copy before printing.
 
 ### Question 38
 
-What are the speakers mainly discussing?
+What problem have the speakers identified?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A missed interview
+- B. Possible plagiarism
+- C. Missing photographs
+- D. An incorrect printing date
 
 ### Question 39
 
-What problem is mentioned?
+What does the speaker suggest?
 
-- A. A missing passport.
-- B. The legal review.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. Canceling the issue
+- B. Hiring a new editor
+- C. Rewriting and citing part of the article
+- D. Changing the cover design
 
 ### Question 40
 
-What does Speaker 2 suggest?
+Who will review the revision?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Replace the disputed paragraph.
-- D. Hiring a new receptionist.
+- A. A legal representative
+- B. The advertising manager
+- C. A printing technician
+- D. The original interviewee
 
 ### Answers
 
-38: A
-39: B
-40: C
+38: B
+39: C
+40: A
 
 ### Explanation
 
 #### Question 38
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 39
-Speaker 1 identifies the legal review as the unresolved problem.
+undefined
 
 #### Question 40
-Speaker 2 proposes that they replace the disputed paragraph.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 4
 
@@ -222,40 +222,40 @@ Narrator:
 Questions 41 through 43 refer to the following conversation.
 
 Speaker 1:
-We need to finish the public works work today. The team specifically mentioned municipal congestion, and the traffic study is still unresolved.
+The museum's premiere exhibition opens tomorrow, but the main sculpture still hasn't arrived.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we move deliveries to off-peak hours, we should be ready for tomorrow's meeting.
+The courier says the delivery truck broke down. The artwork should reach us by noon, but we'll need extra people to install it.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+I'll arrange for two technicians to stay late. Let's prepare the smaller displays first.
 
 ### Question 41
 
-What are the speakers mainly discussing?
+What event is being prepared?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A museum exhibition
+- B. A sales presentation
+- C. A board meeting
+- D. A film screening
 
 ### Question 42
 
-What problem is mentioned?
+Why has the main sculpture been delayed?
 
-- A. A missing passport.
-- B. The traffic study.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. It was damaged
+- B. A vehicle broke down
+- C. It was sent to another country
+- D. A permit was rejected
 
 ### Question 43
 
-What does Speaker 2 suggest?
+What will the speakers do first?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Move deliveries to off-peak hours.
-- D. Hiring a new receptionist.
+- A. Cancel the exhibition
+- B. Request a refund
+- C. Set up smaller displays
+- D. Contact local newspapers
 
 ### Answers
 
@@ -266,19 +266,19 @@ What does Speaker 2 suggest?
 ### Explanation
 
 #### Question 41
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 42
-Speaker 1 identifies the traffic study as the unresolved problem.
+undefined
 
 #### Question 43
-Speaker 2 proposes that they move deliveries to off-peak hours.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 5
 
@@ -292,40 +292,40 @@ Narrator:
 Questions 44 through 46 refer to the following conversation.
 
 Speaker 1:
-We need to finish the health program work today. The team specifically mentioned inoculate staff, and the clinic schedule is still unresolved.
+Customer inquiries about our courier tracking service have surged this week.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we send appointment reminders, we should be ready for tomorrow's meeting.
+I noticed. Packages are moving normally, but the status information doesn't update until the following morning.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Let's put a notice on the website. I'll ask our systems team whether the data feed can be refreshed more frequently.
 
 ### Question 44
 
-What are the speakers mainly discussing?
+What has increased?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. Customer inquiries
+- B. Delivery fees
+- C. Staff vacancies
+- D. Orders from overseas
 
 ### Question 45
 
-What problem is mentioned?
+What problem is described?
 
-- A. A missing passport.
-- B. The clinic schedule.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. Orders cannot be placed
+- B. Tracking information is delayed
+- C. Couriers have gone on strike
+- D. Invoices are incorrect
 
 ### Question 46
 
-What does Speaker 2 suggest?
+Who will investigate the issue?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Send appointment reminders.
-- D. Hiring a new receptionist.
+- A. The finance office
+- B. The marketing agency
+- C. The systems team
+- D. The local council
 
 ### Answers
 
@@ -336,19 +336,19 @@ What does Speaker 2 suggest?
 ### Explanation
 
 #### Question 44
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 45
-Speaker 1 identifies the clinic schedule as the unresolved problem.
+undefined
 
 #### Question 46
-Speaker 2 proposes that they send appointment reminders.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 6
 
@@ -362,63 +362,63 @@ Narrator:
 Questions 47 through 49 refer to the following conversation.
 
 Speaker 1:
-We need to finish the logistics work today. The team specifically mentioned convoy, and the customs window is still unresolved.
+The guest speaker's train is delayed, so she won't reach the training center before ten.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we depart before noon, we should be ready for tomorrow's meeting.
+We could begin with the safety demonstration instead. That session doesn't require her.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Good idea. Please ask Facilities to prepare Room B now. I'll send an updated schedule to participants.
 
 ### Question 47
 
-What are the speakers mainly discussing?
+Why must the schedule change?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. An instructor is running late
+- B. The building is closed
+- C. Attendance is too low
+- D. A workshop was canceled
 
 ### Question 48
 
-What problem is mentioned?
+What is suggested?
 
-- A. A missing passport.
-- B. The customs window.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. Ending the event early
+- B. Changing the order of sessions
+- C. Moving the event online
+- D. Hiring another instructor
 
 ### Question 49
 
-What does Speaker 2 suggest?
+What will Facilities be asked to do?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Depart before noon.
-- D. Hiring a new receptionist.
+- A. Prepare a meeting room
+- B. Print certificates
+- C. Arrange transportation
+- D. Order lunch
 
 ### Answers
 
 47: A
 48: B
-49: C
+49: A
 
 ### Explanation
 
 #### Question 47
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 48
-Speaker 1 identifies the customs window as the unresolved problem.
+undefined
 
 #### Question 49
-Speaker 2 proposes that they depart before noon.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 7
 
@@ -432,40 +432,40 @@ Narrator:
 Questions 50 through 52 refer to the following conversation.
 
 Speaker 1:
-We need to finish the hotel operations work today. The team specifically mentioned ventilation, and guest complaints is still unresolved.
+Can you cover the reception desk Friday morning? Lena is attending a regional training event.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we inspect the east wing, we should be ready for tomorrow's meeting.
+I can help until one o'clock, but I have an appointment after lunch.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+That works. I'll ask Marco to take the afternoon shift. I'll also send you the instructions for the new visitor registration system.
 
 ### Question 50
 
-What are the speakers mainly discussing?
+Why does reception need temporary coverage?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A staff member is attending training
+- B. The front desk is moving
+- C. The system has failed
+- D. A visitor event was canceled
 
 ### Question 51
 
-What problem is mentioned?
+When is the second speaker available?
 
-- A. A missing passport.
-- B. Guest complaints.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. After three
+- B. Before one
+- C. All afternoon
+- D. Only on Thursday
 
 ### Question 52
 
-What does Speaker 2 suggest?
+What will the first speaker send?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Inspect the east wing.
-- D. Hiring a new receptionist.
+- A. A training certificate
+- B. A parking permit
+- C. System instructions
+- D. A list of job applicants
 
 ### Answers
 
@@ -476,19 +476,19 @@ What does Speaker 2 suggest?
 ### Explanation
 
 #### Question 50
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 51
-Speaker 1 identifies guest complaints as the unresolved problem.
+undefined
 
 #### Question 52
-Speaker 2 proposes that they inspect the east wing.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 8
 
@@ -502,63 +502,63 @@ Narrator:
 Questions 53 through 55 refer to the following conversation.
 
 Speaker 1:
-We need to finish the travel planning work today. The team specifically mentioned itinerary, and a ferry connection is still unresolved.
+The hotel has a ballroom large enough for our annual conference, but all its small meeting rooms are booked.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we reserve an earlier departure, we should be ready for tomorrow's meeting.
+Could we divide the ballroom with portable partitions for the breakout sessions?
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Yes, though that will add eight hundred dollars. Let's obtain Finance's approval before paying the deposit.
 
 ### Question 53
 
-What are the speakers mainly discussing?
+What is unavailable?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. Parking spaces
+- B. Small meeting rooms
+- C. Guest rooms
+- D. Projectors
 
 ### Question 54
 
-What problem is mentioned?
+What would cause additional expense?
 
-- A. A missing passport.
-- B. A ferry connection.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. Extra room dividers
+- B. A longer conference
+- C. A new registration service
+- D. Airport transportation
 
 ### Question 55
 
-What does Speaker 2 suggest?
+What will be done before a deposit is paid?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Reserve an earlier departure.
-- D. Hiring a new receptionist.
+- A. Guests will receive invitations
+- B. A brochure will be printed
+- C. Approval will be requested from Finance
+- D. The venue will be inspected
 
 ### Answers
 
-53: A
-54: B
+53: B
+54: A
 55: C
 
 ### Explanation
 
 #### Question 53
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 54
-Speaker 1 identifies a ferry connection as the unresolved problem.
+undefined
 
 #### Question 55
-Speaker 2 proposes that they reserve an earlier departure.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 9
 
@@ -572,40 +572,43 @@ Narrator:
 Questions 56 through 58 refer to the following conversation.
 
 Speaker 1:
-We need to finish the procurement work today. The team specifically mentioned procure components, and a supplier delay is still unresolved.
+The replacement handheld scanner still won't connect to the warehouse network.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we use the backup vendor, we should be ready for tomorrow's meeting.
+Did you install the latest firmware? The new model uses a different wireless setting.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Not yet. I'll do that now. If it doesn't work, could you arrange a call with technical support?
+
+Speaker 2:
+Of course. They're available until six this evening.
 
 ### Question 56
 
-What are the speakers mainly discussing?
+Where do the speakers most likely work?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A warehouse
+- B. A museum
+- C. A bank
+- D. A restaurant
 
 ### Question 57
 
-What problem is mentioned?
+What hasn't been done?
 
-- A. A missing passport.
-- B. A supplier delay.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. Charging a battery
+- B. Updating the scanner software
+- C. Changing the delivery address
+- D. Replacing the network router
 
 ### Question 58
 
-What does Speaker 2 suggest?
+What may be arranged?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Use the backup vendor.
-- D. Hiring a new receptionist.
+- A. A product demonstration
+- B. A site inspection
+- C. A technical support call
+- D. A staff meeting
 
 ### Answers
 
@@ -616,19 +619,19 @@ What does Speaker 2 suggest?
 ### Explanation
 
 #### Question 56
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 57
-Speaker 1 identifies a supplier delay as the unresolved problem.
+undefined
 
 #### Question 58
-Speaker 2 proposes that they use the backup vendor.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 10
 
@@ -642,63 +645,66 @@ Narrator:
 Questions 59 through 61 refer to the following conversation.
 
 Speaker 1:
-We need to finish the finance work today. The team specifically mentioned overdraft fees, and the monthly statement is still unresolved.
+The annual report for our overseas subsidiary has inconsistent currency figures.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we call the bank representative, we should be ready for tomorrow's meeting.
+I used the exchange rate from the last day of June. Was that wrong?
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+For this section we need the monthly average. Can you recalculate those amounts?
+
+Speaker 2:
+Certainly. I'll email the corrected figures before three.
 
 ### Question 59
 
-What are the speakers mainly discussing?
+What are the speakers reviewing?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A staff rota
+- B. A training manual
+- C. An annual report
+- D. A purchase order
 
 ### Question 60
 
-What problem is mentioned?
+What caused the discrepancy?
 
-- A. A missing passport.
-- B. The monthly statement.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. An incorrect exchange-rate method
+- B. A missing invoice
+- C. A canceled contract
+- D. A late payment
 
 ### Question 61
 
-What does Speaker 2 suggest?
+What will the second speaker send?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Call the bank representative.
-- D. Hiring a new receptionist.
+- A. A new invoice
+- B. Revised figures
+- C. Travel arrangements
+- D. A meeting invitation
 
 ### Answers
 
-59: A
-60: B
-61: C
+59: C
+60: A
+61: B
 
 ### Explanation
 
 #### Question 59
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 60
-Speaker 1 identifies the monthly statement as the unresolved problem.
+undefined
 
 #### Question 61
-Speaker 2 proposes that they call the bank representative.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 11
 
@@ -712,40 +718,43 @@ Narrator:
 Questions 62 through 64 refer to the following conversation.
 
 Speaker 1:
-We need to finish the food service work today. The team specifically mentioned gourmet buffet, and a dietary request is still unresolved.
+The premiere of the documentary has almost sold out. Could we offer another screening?
 
 Speaker 2:
-I reviewed the latest notes this morning. If we label every ingredient, we should be ready for tomorrow's meeting.
+Possibly, but the director can only attend the discussion after the first screening.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Let's advertise a second showing without the discussion. I'll see whether the smaller theater is available.
+
+Speaker 2:
+Great. I'll update the ticketing page once you confirm.
 
 ### Question 62
 
-What are the speakers mainly discussing?
+What are the speakers considering?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. An additional film screening
+- B. A new advertising agency
+- C. A theater renovation
+- D. A different documentary
 
 ### Question 63
 
-What problem is mentioned?
+Why won't the director attend the second screening?
 
-- A. A missing passport.
-- B. A dietary request.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. She must travel abroad
+- B. Her availability is limited
+- C. She has declined the invitation
+- D. The venue has no seating
 
 ### Question 64
 
-What does Speaker 2 suggest?
+What will be checked?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Label every ingredient.
-- D. Hiring a new receptionist.
+- A. Ticket prices
+- B. The film's runtime
+- C. Availability of another room
+- D. The publicity budget
 
 ### Answers
 
@@ -756,19 +765,19 @@ What does Speaker 2 suggest?
 ### Explanation
 
 #### Question 62
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 63
-Speaker 1 identifies a dietary request as the unresolved problem.
+undefined
 
 #### Question 64
-Speaker 2 proposes that they label every ingredient.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 12
 
@@ -782,40 +791,43 @@ Narrator:
 Questions 65 through 67 refer to the following conversation.
 
 Speaker 1:
-We need to finish the retirement planning work today. The team specifically mentioned legacy benefits, and the seminar materials is still unresolved.
+A client claims we charged twice for his consultation. Could you look at the statement?
 
 Speaker 2:
-I reviewed the latest notes this morning. If we invite the pension adviser, we should be ready for tomorrow's meeting.
+One entry is a completed payment; the other is a temporary authorization. It should disappear automatically.
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+So there's no need to issue a refund?
+
+Speaker 2:
+Not yet. I'll explain it to him and ask him to call if the pending entry remains after five business days.
 
 ### Question 65
 
-What are the speakers mainly discussing?
+Why did the client complain?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A fee appears twice
+- B. An appointment was canceled
+- C. His account was closed
+- D. A promised discount was missing
 
 ### Question 66
 
-What problem is mentioned?
+What is one of the transactions?
 
-- A. A missing passport.
-- B. The seminar materials.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. A refund
+- B. A temporary authorization
+- C. A monthly membership charge
+- D. An overdue payment
 
 ### Question 67
 
-What does Speaker 2 suggest?
+What will the employee do?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Invite the pension adviser.
-- D. Hiring a new receptionist.
+- A. Cancel the invoice
+- B. Call the bank
+- C. Contact the client with an explanation
+- D. Schedule a new consultation
 
 ### Answers
 
@@ -826,19 +838,19 @@ What does Speaker 2 suggest?
 ### Explanation
 
 #### Question 65
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 66
-Speaker 1 identifies the seminar materials as the unresolved problem.
+undefined
 
 #### Question 67
-Speaker 2 proposes that they invite the pension adviser.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
 ## Group 13
 
@@ -852,61 +864,67 @@ Narrator:
 Questions 68 through 70 refer to the following conversation.
 
 Speaker 1:
-We need to finish the software rollout work today. The team specifically mentioned obsolete devices, and the migration list is still unresolved.
+The city finally approved funding for the cycle path along Harbor Avenue.
 
 Speaker 2:
-I reviewed the latest notes this morning. If we replace unsupported terminals, we should be ready for tomorrow's meeting.
+Can construction start next week?
 
 Speaker 1:
-Good. I'll update the manager and send the revised schedule before lunch.
+Not until the utility company relocates the underground cables. That could take another six weeks.
+
+Speaker 2:
+Will the weekend market be affected?
+
+Speaker 1:
+Only its parking entrance. The market will remain open, and drivers will be directed to the north lot.
 
 ### Question 68
 
-What are the speakers mainly discussing?
+What has the city approved?
 
-- A. A current work task that needs to be completed.
-- B. A personal vacation plan.
-- C. A restaurant reservation.
-- D. A residential lease.
+- A. A new bus route
+- B. A cycle path project
+- C. A shopping complex
+- D. A parking fee increase
 
 ### Question 69
 
-What problem is mentioned?
+What must happen before construction?
 
-- A. A missing passport.
-- B. The migration list.
-- C. A broken elevator.
-- D. A canceled concert.
+- A. Utility cables must be moved
+- B. A market must close
+- C. A permit must be renewed
+- D. An additional survey must be held
 
 ### Question 70
 
-What does Speaker 2 suggest?
+What will change for market visitors?
 
-- A. Waiting until next month.
-- B. Canceling the project.
-- C. Replace unsupported terminals.
-- D. Hiring a new receptionist.
+- A. Opening hours
+- B. The number of stalls
+- C. The parking entrance
+- D. The ticket price
 
 ### Answers
 
-68: A
-69: B
+68: B
+69: A
 70: C
 
 ### Explanation
 
 #### Question 68
-The conversation concerns an active workplace task.
+undefined
 
 #### Question 69
-Speaker 1 identifies the migration list as the unresolved problem.
+undefined
 
 #### Question 70
-Speaker 2 proposes that they replace unsupported terminals.
+undefined
 
 ### Tags
 
+- listening
 - conversation
 - workplace
-- planning
 
