@@ -44,6 +44,21 @@ describe('continuous Listening sequence', () => {
     ])
   })
 
+  it('continues from question 71 to 72 and 73 after a Part 4 passage', () => {
+    const sample = group(4, 71)
+    sample.questions.push(
+      { ...sample.questions[0], id: 72, text: 'Question 72?' },
+      { ...sample.questions[0], id: 73, text: 'Question 73?' },
+    )
+    const lines = buildContinuousListeningSequence([sample])
+    expect(lines.map((line) => line.text).filter((text) => /^Question 7[123]\\?$/.test(text))).toEqual([
+      'Question 71?',
+      'Question 72?',
+      'Question 73?',
+    ])
+    expect(lines.filter((line) => line.pauseAfterMs === LISTENING_INTERVALS.part3And4AnswerMs)).toHaveLength(3)
+  })
+
   it('reads Part 3 questions and choices, then pauses for each answer', () => {
     const lines = buildContinuousListeningSequence([group(3, 32)])
 
