@@ -111,7 +111,7 @@ function audioLines(group: QuestionGroup) {
 
           <div class="questions-stack">
             <QuestionCard
-              v-for="question in group.questions"
+              v-for="(question, questionIndex) in group.questions"
               :key="question.id"
               :question="question"
               :model-value="store.answers[testId]?.[question.id]"
