@@ -8,29 +8,31 @@ Email
 
 ### Passage
 
-**To:** All Regional Sales Representatives
-**From:** Melissa Grant, Training Coordinator
-**Subject:** Updated Product Training Schedule
+**To:** Regional Office Managers
+**From:** Olivia Reed, Events Team
+**Subject:** Revised Arrangements for the Regional Conference
 
 Dear colleagues,
 
-Our quarterly product-training session, originally scheduled for Tuesday, has been **[131]** to Thursday, October 22, because the demonstration equipment will arrive later than expected. The session will begin at 9:30 a.m. in Conference Room B and will include an overview of the new inventory-management system.
+We are looking forward to welcoming your teams to the annual regional conference on November 18. Due to unexpectedly high registration numbers, the opening presentation has been moved from the Oak Room to the larger Grand Hall. The conference program remains **[131]** unchanged, including the panel discussion scheduled for 2:00 p.m.
 
-Please review the attached installation guide **[132]** the session so that we can spend more time on practical exercises. [133] ______
+If your office has already reserved hotel rooms through our travel desk, no further action is required. However, managers **[132]** teams will arrive by coach should send the vehicle's registration number to the events team by Friday. Security personnel need this information to issue access permits for the loading area.
 
-Employees who work remotely may join through the meeting link in their calendars. A recording will also be available to those **[134]** schedules prevent them from attending live.
+**[133]** ______ This change affects only the location of the registration desk; attendees should still collect their badges before entering the Grand Hall.
+
+An updated floor plan is attached. Please **[134]** it to everyone attending from your office so that they can find the new registration area without delay.
 
 Best regards,
-Melissa Grant
+Olivia Reed
 
 ### Question 131
 
-131. Select the best word for blank [131].
+Choose the best word for [131].
 
-- A. postponed
-- B. expanded
-- C. delivered
-- D. approved
+- A. largely
+- B. large
+- C. largeness
+- D. enlarge
 
 ### Answer
 
@@ -38,33 +40,16 @@ A
 
 ### Explanation
 
-Because the equipment will arrive late, the session has been postponed (moved to a later date).
+The adverb 'largely' modifies 'unchanged': most of the program remains the same, apart from the venue adjustment.
 
 ### Question 132
 
-132. Select the best word for blank [132].
+Choose the best word for [132].
 
-- A. unless
-- B. before
-- C. despite
-- D. throughout
-
-### Answer
-
-B
-
-### Explanation
-
-'Before the session' expresses when staff should read the guide, in advance of the practical exercises.
-
-### Question 133
-
-133. Which sentence best fits in blank [133]?
-
-- A. The cafeteria will be closed for renovation next week.
-- B. Orders placed online are eligible for an additional discount.
-- C. Participants are encouraged to bring their laptops to follow the demonstration.
-- D. The annual report has already been sent to shareholders.
+- A. who
+- B. which
+- C. whose
+- D. whom
 
 ### Answer
 
@@ -72,111 +57,75 @@ C
 
 ### Explanation
 
-Bringing laptops supports the practical software-training exercises mentioned immediately before the blank.
+'Whose' connects the managers to their teams as a possessive relative determiner.
 
-### Question 134
+### Question 133
 
-134. Select the best word for blank [134].
+Choose the best sentence for [133].
 
-- A. who
-- B. which
-- C. them
-- D. whose
+- A. The catering company has increased the price of its lunch packages.
+- B. Because the foyer is being repainted, check-in will take place beside the east entrance.
+- C. Several speakers will join the panel discussion remotely.
+- D. The travel desk has canceled all individual hotel reservations.
 
 ### Answer
 
-D
+B
 
 ### Explanation
 
-'Whose' is the relative determiner that connects employees to their schedules.
+The next sentence refers to the changed location of the registration desk, making the east entrance announcement the necessary antecedent.
+
+### Question 134
+
+Choose the best word for [134].
+
+- A. distribute
+- B. distributed
+- C. distribution
+- D. distributing
+
+### Answer
+
+A
+
+### Explanation
+
+'Please' takes the base form of the verb in an imperative request: 'Please distribute it...'.
 
 ### Tags
 
 - text-completion
-- business-communication
-- grammar-and-context
+- business-context
+- grammar-and-cohesion
 
 ## Passage Group 2
 
 ### Type
 
-Notice
+Advertisement
 
 ### Passage
 
-**NOTICE TO BUILDING OCCUPANTS**
-**Elevator Maintenance — West Tower**
+**RIVERTON WORKSPACE**
+**More Room for Your Next Big Idea**
 
-The west tower's two passenger elevators will be unavailable from 7:00 a.m. on Saturday, November 7, until approximately 6:00 p.m. on Sunday. Engineers will replace aging control panels and conduct **[135]** tests before the elevators reopen.
+Finding professional space for a growing company does not have to involve a long-term lease. At Riverton Workspace, businesses can rent furnished offices, meeting rooms, and shared desks by the day or by the month. Our flexible plans are designed to accommodate teams of **[135]** sizes, from independent consultants to firms with twenty employees.
 
-During this period, visitors and employees should use the elevators in the east tower. Accessible access between the buildings will remain **[136]** through the ground-floor corridor.
+Next Thursday, we are holding an open house from 11 a.m. to 3 p.m. Visitors will be able to tour recently renovated offices and speak with our on-site support staff. **[136]** ______
 
-[137] ______ Please contact the facilities desk no later than Thursday afternoon if your team expects a delivery requiring elevator access over the weekend.
+Anyone who signs a six-month agreement during the event will receive a 20 percent **[137]** on the first month's rent. This offer applies only to private offices; meeting-room bookings are not included.
 
-We apologize for any inconvenience and appreciate your **[138]** while this essential work is completed.
-
-Facilities Management
+Space on the guided tours is limited, so we encourage visitors to register **[138]** using the link on our website. Walk-in guests are welcome, but tour places cannot be guaranteed.
 
 ### Question 135
 
-135. Select the best word for blank [135].
+Choose the best word for [135].
 
-- A. complimentary
-- B. comprehensive
-- C. competitive
-- D. confidential
-
-### Answer
-
-B
-
-### Explanation
-
-Comprehensive tests are thorough inspections performed before equipment returns to service.
-
-### Question 136
-
-136. Select the best word for blank [136].
-
-- A. availability
-- B. availably
-- C. available
-- D. avail
-
-### Answer
-
-C
-
-### Explanation
-
-After 'remain', an adjective such as 'available' is required.
-
-### Question 137
-
-137. Which sentence best fits in blank [137]?
-
-- A. Large deliveries should be scheduled for a different day whenever possible.
-- B. The company picnic will take place beside the parking garage.
-- C. Employees may reserve meeting rooms using the online calendar.
-- D. All staff members have received their updated insurance cards.
-
-### Answer
-
-A
-
-### Explanation
-
-The following sentence asks about deliveries requiring elevator access, so rescheduling large deliveries is the logical lead-in.
-
-### Question 138
-
-138. Select the best word for blank [138].
-
-- A. permission
-- B. attendance
-- C. promotion
-- D. patience
+- A. vary
+- B. variously
+- C. variation
+- D. varying
 
 ### Answer
 
@@ -184,13 +133,64 @@ D
 
 ### Explanation
 
-'Appreciate your patience' is the natural expression used to acknowledge disruption.
+'Varying sizes' is a natural adjective phrase meaning different sizes.
+
+### Question 136
+
+Choose the best sentence for [136].
+
+- A. The building's former owner worked in the shipping industry.
+- B. Customers who reserve a room must bring their own office furniture.
+- C. Short demonstrations of the video-conferencing equipment will also be offered.
+- D. Monthly invoices are normally issued on the final business day.
+
+### Answer
+
+C
+
+### Explanation
+
+The sentence adds another activity available at the open house and fits the surrounding tour description.
+
+### Question 137
+
+Choose the best word for [137].
+
+- A. discount
+- B. expense
+- C. deposit
+- D. estimate
+
+### Answer
+
+A
+
+### Explanation
+
+A 20 percent discount is a reduction in the first month's rental price.
+
+### Question 138
+
+Choose the best word for [138].
+
+- A. formerly
+- B. in advance
+- C. afterward
+- D. eventually
+
+### Answer
+
+B
+
+### Explanation
+
+Registering 'in advance' makes sense because guided-tour places are limited; later walk-ins are not guaranteed a place.
 
 ### Tags
 
 - text-completion
-- business-communication
-- grammar-and-context
+- business-context
+- grammar-and-cohesion
 
 ## Passage Group 3
 
@@ -200,24 +200,25 @@ Article
 
 ### Passage
 
-**Local Coffee Roaster Opens Second Production Site**
+**Neighborhood Grocer Tries a New Delivery Model**
+*By Jamie Cole, City Business Weekly*
 
-Harbor Bean, a family-owned coffee company, opened a second roasting facility in Millbrook on Monday. The company says the additional space will allow it to **[139]** production without compromising the quality of its beans.
+Westbrook Market, an independent grocery retailer with four neighborhood stores, has begun testing bicycle deliveries for online orders within three kilometers of its downtown branch. The retailer previously relied on vans for all deliveries, but traffic congestion made short journeys increasingly **[139]**.
 
-For the past two years, Harbor Bean has struggled to meet growing demand from restaurants and independent grocery stores. The new site has twice the capacity of its original facility and is located near a major distribution hub, **[140]** will reduce shipping times for customers in the north.
+The pilot program started in September with three cargo bicycles. Orders placed before noon are typically delivered the same afternoon, provided all items are in stock. According to operations manager Daniel Price, bicycles have reduced travel time on some routes, although the retailer is still collecting data to determine **[140]** the service can be expanded.
 
-[141] ______ In addition to expanding its workforce, the company plans to offer public tours starting in January.
+**[141]** ______ The bicycles cannot accommodate large quantities of refrigerated products, so customers ordering those items are still offered van delivery.
 
-According to operations director Nina Walsh, visitors will be able to observe the roasting process and learn how beans are selected. Tour reservations will be accepted **[142]** the company's website beginning next month.
+The retailer plans to publish the pilot's results in December. If customer satisfaction remains high and operating costs meet expectations, the company will consider **[142]** the service to its other branches early next year.
 
 ### Question 139
 
-139. Select the best word for blank [139].
+Choose the best word for [139].
 
-- A. inspect
-- B. prevent
-- C. increase
-- D. borrow
+- A. efficient
+- B. efficiency
+- C. inefficient
+- D. efficiently
 
 ### Answer
 
@@ -225,16 +226,16 @@ C
 
 ### Explanation
 
-The new production space enables the company to increase output.
+Traffic congestion makes van journeys less effective, so the adjective 'inefficient' is required after 'increasingly'.
 
 ### Question 140
 
-140. Select the best word for blank [140].
+Choose the best word for [140].
 
-- A. which
-- B. whose
-- C. where
-- D. what
+- A. whether
+- B. despite
+- C. unless
+- D. throughout
 
 ### Answer
 
@@ -242,33 +243,16 @@ A
 
 ### Explanation
 
-'Which' introduces a nonrestrictive relative clause referring to the facility's location near the hub.
+'Determine whether' introduces an indirect yes/no question about possible expansion.
 
 ### Question 141
 
-141. Which sentence best fits in blank [141]?
+Choose the best sentence for [141].
 
-- A. The original store will close permanently at the end of the week.
-- B. The expansion is expected to create approximately 25 new jobs.
-- C. Several airlines have introduced new baggage policies.
-- D. The mayor has proposed a change to local traffic regulations.
-
-### Answer
-
-B
-
-### Explanation
-
-New jobs logically explain the following phrase 'In addition to expanding its workforce'.
-
-### Question 142
-
-142. Select the best word for blank [142].
-
-- A. among
-- B. beyond
-- C. beside
-- D. through
+- A. Customers may also use loyalty points to purchase household products.
+- B. The city has recently approved construction of a new parking garage.
+- C. The retailer plans to extend its opening hours on weekends.
+- D. The trial nevertheless has some practical limitations.
 
 ### Answer
 
@@ -276,45 +260,61 @@ D
 
 ### Explanation
 
-Reservations can be accepted through a website, meaning via that channel.
+The following sentence identifies one limitation—refrigerated goods—so the transition signals contrast with the benefits.
+
+### Question 142
+
+Choose the best word for [142].
+
+- A. expand
+- B. expanding
+- C. expanded
+- D. expansion
+
+### Answer
+
+B
+
+### Explanation
+
+'Consider' is followed by a gerund (-ing form), so 'consider expanding' is grammatically correct.
 
 ### Tags
 
 - text-completion
-- business-communication
-- grammar-and-context
+- business-context
+- grammar-and-cohesion
 
 ## Passage Group 4
 
 ### Type
 
-Memo
+Internal memo
 
 ### Passage
 
 **MEMORANDUM**
-**To:** Department Managers
-**From:** Purchasing Office
-**Subject:** Supplier Evaluation Procedure
+**To:** Department Supervisors
+**From:** Information Governance Office
+**Date:** October 6
+**Subject:** Changes to Archive Access
 
-Beginning December 1, all departments must use the revised supplier evaluation form when requesting purchases above $5,000. The change is intended to make purchasing decisions more **[143]** and ensure that each vendor is assessed using the same standards.
+As part of our records-management review, the shared archive will be moved to a new document platform on October 30. Files will remain searchable during the transition, but editing permissions will be temporarily **[143]** between 7 p.m. Friday and 9 a.m. Monday to protect document integrity.
 
-Completed forms should be submitted to the Purchasing Office together with at least two written quotations. Managers are responsible for verifying that the information provided by suppliers is **[144]** before approving a request.
+Supervisors should check that their teams have assigned an owner to each active project folder. Folders without an identified owner will be marked for follow-up rather than deleted. **[144]** ______
 
-[145] ______ This will help the finance team identify any unusual differences in pricing or delivery terms.
+After the migration, staff may continue using their existing employee credentials. They will, however, be required to complete a brief security tutorial before **[145]** access to restricted records.
 
-Requests lacking the required documentation will be returned to the originating department and may experience processing **[146]**.
-
-Please direct questions about the new procedure to purchasing@company.example.
+The Information Governance Office will send a confirmation notice once the move is complete. If a file appears to be missing, employees should report the issue through the service portal, **[146]** will create a tracking number for the request. Please do not upload duplicate copies while the investigation is underway.
 
 ### Question 143
 
-143. Select the best word for blank [143].
+Choose the best word for [143].
 
-- A. consistent
-- B. consistently
-- C. consistency
-- D. consist
+- A. restricted
+- B. restricting
+- C. restriction
+- D. restrictive
 
 ### Answer
 
@@ -322,33 +322,33 @@ A
 
 ### Explanation
 
-The comparative adjective 'more consistent' describes purchasing decisions; using the same standards supports consistency.
+The passive phrase 'will be temporarily restricted' explains a temporary limit on editing permissions.
 
 ### Question 144
 
-144. Select the best word for blank [144].
+Choose the best sentence for [144].
 
-- A. accuracy
-- B. accurate
-- C. accurately
-- D. accurateness
+- A. Each department must also submit a list of folders requiring restricted access by October 20.
+- B. The company's annual celebration will be held in the main auditorium.
+- C. Staff members can reserve parking spaces through the travel portal.
+- D. All project owners will receive a new laptop after the migration.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-'Is accurate' requires an adjective complement after the linking verb 'is'.
+The memo requests preparation for access control; submitting restricted-folder lists extends that instruction logically.
 
 ### Question 145
 
-145. Which sentence best fits in blank [145]?
+Choose the best word for [145].
 
-- A. The customer service team will introduce longer opening hours.
-- B. New uniforms will be delivered to all staff next month.
-- C. Each quotation must clearly itemize shipping fees and expected delivery dates.
-- D. Employees can register for a language course through the training portal.
+- A. grant
+- B. granted
+- C. gaining
+- D. gain
 
 ### Answer
 
@@ -356,28 +356,28 @@ C
 
 ### Explanation
 
-The next sentence refers to pricing and delivery terms, so itemized quotations provide the necessary link.
+The preposition 'before' is followed by the gerund 'gaining' when describing the process of obtaining access.
 
 ### Question 146
 
-146. Select the best word for blank [146].
+Choose the best word for [146].
 
-- A. delaying
-- B. delayed
-- C. delay
-- D. delays
+- A. who
+- B. which
+- C. where
+- D. whose
 
 ### Answer
 
-D
+B
 
 ### Explanation
 
-'Experience processing delays' takes a plural noun as the object of 'experience'.
+'Which' introduces a nonrestrictive relative clause referring to the service portal, which generates a tracking number.
 
 ### Tags
 
 - text-completion
-- business-communication
-- grammar-and-context
+- business-context
+- grammar-and-cohesion
 
