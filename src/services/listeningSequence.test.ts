@@ -51,7 +51,7 @@ describe('continuous Listening sequence', () => {
       { ...sample.questions[0], id: 73, text: 'Question 73?' },
     )
     const lines = buildContinuousListeningSequence([sample])
-    expect(lines.map((line) => line.text).filter((text) => /^Question 7[123]\\?$/.test(text))).toEqual([
+    expect(lines.map((line) => line.text).filter((text) => /^Question 7[123]\?$/.test(text))).toEqual([
       'Question 71?',
       'Question 72?',
       'Question 73?',
