@@ -16,6 +16,8 @@ single
 
 Because our online store will launch in Canada on Monday, we expect a greater number of customer inquiries next week. Two employees from the Vancouver office will assist remotely from 9 a.m. to 1 p.m. on Saturday. Regular staff do not need to come in, but anyone willing to help should contact Marta by Thursday. Training materials about Canadian shipping fees are available on the staff portal.
 
+The training portal also has a provisional weekend rota, which will be ratified once volunteers respond. Because demand may surge after the inaugural launch, the team will monitor unresolved inquiries rather than assume existing staffing is sufficient.
+
 ### Question 147
 
 Why is additional support being arranged?
@@ -52,20 +54,20 @@ Two employees from Vancouver will assist remotely.
 
 ### Question 149
 
-What should employees do if they want to help?
+What is implied about the weekend staffing plan?
 
-- A. Complete a new application
-- B. Visit the Vancouver branch
-- C. Reply before Thursday
-- D. Attend a Friday meeting
+- A. The plan cannot be finalized until volunteers respond.
+- B. It has already been approved without changes.
+- C. All support employees will work on Saturday.
+- D. The Canadian store launch has been postponed.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-Marta asks volunteers to contact her by Thursday.
+The rota is described as provisional and awaiting responses before ratification.
 
 ### Tags
 
@@ -86,6 +88,8 @@ single
 **RIVERFRONT LIBRARY — TEMPORARY ENTRANCE**
 
 The main entrance will be closed from June 5 to June 12 while automatic doors are installed. Visitors should enter through the side gate on Willow Street, which is accessible to wheelchairs and strollers. Book returns remain available at the outdoor drop box, and the reading rooms will maintain their usual hours. The library café, however, will close at 3 p.m. on weekdays during construction. Please allow extra time to enter the building.
+
+Facilities will post a legible map at both gates and designate an attendant to guide visitors. The municipal inspection is unrelated to the door replacement; it will take place later in the month.
 
 ### Question 150
 
@@ -123,12 +127,12 @@ The notice specifically says the reading rooms maintain their usual hours.
 
 ### Question 152
 
-What will close earlier than usual?
+In the notice, the word 'designate' is closest in meaning to
 
-- A. The outdoor drop box
-- B. The library café
-- C. The main reading room
-- D. The side gate
+- A. remove
+- B. appoint
+- C. replace
+- D. question
 
 ### Answer
 
@@ -136,7 +140,7 @@ B
 
 ### Explanation
 
-The café will close at 3 p.m. on weekdays.
+Designate means to appoint or assign a person to a particular role.
 
 ### Tags
 
@@ -157,6 +161,8 @@ single
 **Baylight Business Hotel — Meeting Packages**
 
 Half-day: $180, includes projector and water service. Full-day: $310, includes projector, lunch and coffee breaks. Packages are available for groups of up to 24. Larger gatherings require a separate quotation. Reservations made at least 30 days ahead receive a 10% discount on room rental only. Changes are free until seven days before an event; later changes are subject to a $40 administration fee. For accessibility requirements, contact our events team before booking.
+
+Corporate clients may request an itemized quotation rather than the default package. The discount does not apply to catering, equipment hired separately, or any statutory taxes.
 
 ### Question 153
 
@@ -194,20 +200,20 @@ The discount requires reservations at least 30 days ahead.
 
 ### Question 155
 
-What may result in an additional fee?
+Which expense would NOT be reduced by the advance-booking discount?
 
-- A. Requesting accessibility assistance
-- B. Booking a meeting for 20 people
-- C. Ordering a projector
-- D. Changing plans five days before the event
+- A. The standard room rental charge
+- B. The half-day room rental charge
+- C. An additional equipment rental charge
+- D. The published full-day room price
 
 ### Answer
 
-D
+C
 
 ### Explanation
 
-Changes within seven days incur a $40 administration fee.
+The notice expressly excludes equipment rented separately from the advance-booking discount.
 
 ### Tags
 
@@ -228,6 +234,8 @@ single
 **Neighborhood Bakery Reduces Food Waste**
 
 The Maple Street Bakery has started selling discounted surprise boxes containing unsold bread after 5 p.m. Rather than choosing individual items, customers purchase a box online and collect it before the shop closes. Owner Rosa Bennett says the program has cut the amount of bread discarded each evening by nearly half. A portion of the proceeds will fund baking classes at a nearby community center. The bakery plans to add pastries to the boxes next month if the initial trial continues to attract customers.
+
+The program initially drew a modest response, but favorable testimonials have helped it blossom. Bennett hopes the arrangement will lessen waste without depriving local charities of their usual donations.
 
 ### Question 156
 
@@ -265,20 +273,20 @@ The amount of discarded bread has been reduced by nearly half.
 
 ### Question 158
 
-What is planned for next month?
+What can be inferred about the bakery's initiative?
 
-- A. Including pastries in the boxes
-- B. Extending opening hours to midnight
-- C. Closing the retail counter
-- D. Replacing online ordering with telephone orders
+- A. It has eliminated the need for charities.
+- B. It requires every customer to buy pastries.
+- C. It is available only to restaurants.
+- D. It has attracted more interest since its introduction.
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-The bakery intends to add pastries if the trial continues to succeed.
+The initial response was modest, but testimonials later helped it gain support.
 
 ### Tags
 
@@ -303,6 +311,9 @@ single
 9:08 Nora: Can the design team replace that paragraph today?
 9:12 Emilio: Yes, but the photographs are already approved. I'll send you a new PDF by 3 p.m.
 9:14 Nora: Great. I'll review the changes before sending the final file tomorrow morning.
+
+9:16 Nora: Please make sure the new wording does not insinuate that the battery is guaranteed to last for a particular number of hours.
+9:18 Emilio: Understood. I'll ask Legal to ratify the revised sentence before I finalize the document.
 
 ### Question 159
 
@@ -340,20 +351,20 @@ He says the photographs are already approved.
 
 ### Question 161
 
-What will Nora most likely do tomorrow morning?
+Why does Nora want Legal to review the revised sentence?
 
-- A. Attend legal training
-- B. Order new batteries
-- C. Submit the final brochure
-- D. Send the photographs to Emilio
+- A. To prevent an unsupported product guarantee
+- B. To approve new product photographs
+- C. To negotiate a printing discount
+- D. To arrange a later meeting
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-Nora plans to review edits before sending the final file the next morning.
+She wants to avoid suggesting a guaranteed battery-life figure.
 
 ### Tags
 
@@ -381,6 +392,8 @@ single
 2:45–3:30 Closing Discussion — Room C
 
 Sessions are open to registered participants. The Data Visualization session requires a laptop. Printed handouts for other sessions can be collected at the registration desk.
+
+**Note:** The conference organizer will issue a certificate only to participants who attend at least three sessions. The closing discussion is optional and does not count toward this criterion.
 
 ### Question 162
 
@@ -418,20 +431,20 @@ The note states that the Data Visualization session requires a laptop.
 
 ### Question 164
 
-Which session begins immediately after lunch?
+Which participant would qualify for a certificate?
 
-- A. Customer Research
-- B. Closing Discussion
-- C. Managing Hybrid Teams
-- D. Data Visualization
+- A. Someone attending only the closing discussion
+- B. Someone attending Customer Research and lunch
+- C. Someone attending three listed sessions
+- D. Someone attending only Data Visualization
 
 ### Answer
 
-D
+C
 
 ### Explanation
 
-Lunch ends at 1:15 and Data Visualization begins at 1:30.
+The note requires attendance at at least three sessions; the closing discussion does not count.
 
 ### Tags
 
@@ -454,6 +467,8 @@ single
 **Subject:** Replacement filter request
 
 Thank you for contacting us about your air purifier. Your model uses filter type N-440, which is currently out of stock. We expect more units on the 19th. You can keep your current order and receive free express shipping when the filter arrives, or cancel it for a full refund. The older N-400 filter does not fit your device. Please respond within five business days; otherwise, your order will remain active.
+
+The company cannot substitute the N-400 cartridge, irrespective of the customer's willingness to pay extra. The replacement N-440 will be dispatched by courier when stock becomes available.
 
 ### Question 165
 
@@ -491,20 +506,20 @@ The message offers free express shipping once inventory arrives.
 
 ### Question 167
 
-What will happen if she does not respond?
+In the email, 'irrespective of' is closest in meaning to
 
-- A. The existing order will remain open
-- B. A refund will be issued automatically
-- C. The older filter will be shipped
-- D. A service visit will be arranged
+- A. in addition to
+- B. regardless of
+- C. on behalf of
+- D. in exchange for
 
 ### Answer
 
-A
+B
 
 ### Explanation
 
-The email says the order remains active without a reply.
+'Irrespective of' means regardless of the customer's willingness to pay more.
 
 ### Tags
 
@@ -525,6 +540,8 @@ single
 **Greenway Apartment Building — Water Service**
 
 The municipal utility will inspect pipes on Wednesday, August 14. Water pressure may be low between 10 a.m. and 2 p.m., particularly on upper floors. Residents are advised to avoid running washing machines during that period. The fitness room will stay open, but its showers will be unavailable. Anyone noticing discolored water after service is restored should run a cold tap for several minutes. For urgent plumbing problems, contact the building manager, not the municipal inspector.
+
+The building manager will arrange a further inspection if complaints persist. Residents should avoid circulating unverified claims of widespread contamination; the municipality has not reported any such issue.
 
 ### Question 168
 
@@ -562,20 +579,20 @@ Washing machines should not be run during the low-pressure period.
 
 ### Question 170
 
-What will be unavailable in the fitness room?
+What is suggested about the reported water problem?
 
-- A. The exercise equipment
-- B. The lockers
-- C. The showers
-- D. The entrance
+- A. An official contamination warning has been issued.
+- B. The utility has stopped all inspections.
+- C. The building's pipes are beyond repair.
+- D. Some claims circulating among residents may not be verified.
 
 ### Answer
 
-C
+D
 
 ### Explanation
 
-The fitness room remains open, but its showers are unavailable.
+The notice warns residents against unverified claims about contamination.
 
 ### Tags
 
@@ -596,6 +613,8 @@ single
 **BrightPath Language Services**
 
 Presenting to international clients? BrightPath offers one-to-one business presentation coaching online. Each four-week course includes an initial skills review, weekly 45-minute meetings, and a recorded practice presentation with feedback. Participants choose either morning or evening appointments. Enrollment closes on March 20, and the next course begins April 1. Corporate groups of five or more receive customized pricing. Translation services are not included in the coaching fee.
+
+Coaches help participants articulate recommendations clearly rather than memorize a speech. Their feedback is deliberately candid, and clients receive a recording to review at their own pace.
 
 ### Question 171
 
@@ -633,20 +652,20 @@ A recorded practice presentation with feedback is included.
 
 ### Question 173
 
-Who may receive customized pricing?
+What is implied about the coaches' approach?
 
-- A. Early applicants
-- B. Evening-only participants
-- C. Customers paying in cash
-- D. Companies enrolling at least five people
+- A. They emphasize memorizing identical presentations.
+- B. They avoid commenting on performance.
+- C. They give direct feedback to help clients communicate.
+- D. They provide translation as part of every lesson.
 
 ### Answer
 
-D
+C
 
 ### Explanation
 
-Corporate groups of five or more qualify.
+The text emphasizes articulating recommendations and receiving candid feedback.
 
 ### Tags
 
@@ -667,6 +686,8 @@ single
 **Old Station Becomes Startup Hub**
 
 A disused railway station in Fairmont has reopened as an office center for small technology firms. The city funded major repairs, while a local nonprofit purchased desks and networking equipment. Twelve startups have rented space for the first year. Instead of charging market-rate rent, the center asks tenants to lead at least one free public workshop each quarter. City officials hope the arrangement will help residents learn digital skills and encourage new businesses to stay in the area.
+
+The facility's inaugural workshop will focus on preparing a simple business prospectus. Organizers expect participants to have different levels of experience, so advanced financial terminology will be explained.
 
 ### Question 174
 
@@ -704,12 +725,12 @@ It bought desks and networking equipment.
 
 ### Question 176
 
-What are tenant companies required to do?
+What will workshop organizers most likely explain?
 
-- A. Publish financial statements
-- B. Hold free public workshops
-- C. Employ only local residents
-- D. Open on weekends
+- A. How to buy railway tickets
+- B. Specialized terms used in business proposals
+- C. How to restore the railway tracks
+- D. A legal dispute involving the city
 
 ### Answer
 
@@ -717,7 +738,7 @@ B
 
 ### Explanation
 
-Tenants are asked to lead at least one free workshop per quarter.
+The workshop covers a business prospectus and promises to explain advanced terminology.
 
 ### Tags
 
@@ -740,6 +761,8 @@ double
 **Subject:** Catalog order
 
 Please print 500 copies of our 24-page catalog with a matte cover. We need them for our exhibition on May 20. Our budget is $1,200, including delivery to 88 King Street. If we approve the proof on May 9, can you deliver by May 17?
+
+Jenna also mentioned that the exhibition organizers may request an additional 100 catalogs, but this remains provisional. The printer said any increase would require a separate quotation and a revised production schedule.
 
 ### Passage 2
 
@@ -786,12 +809,12 @@ The printer requires approval by May 8 rather than May 9.
 
 ### Question 179
 
-Which option would exceed Jenna's stated budget?
+What is implied about ordering 100 additional catalogs?
 
-- A. Standard paper with local delivery
-- B. Matte cover with standard paper
-- C. The initial quote without changes
-- D. Using the requested recycled interior paper
+- A. It would automatically be free of charge.
+- B. It would not affect the production timetable.
+- C. It is already included in the quote.
+- D. It would require a new cost estimate.
 
 ### Answer
 
@@ -799,7 +822,7 @@ D
 
 ### Explanation
 
-The $1,080 quote plus $160 for recycled paper totals $1,240, above the $1,200 budget.
+The supplier says increasing the order requires a separate quotation.
 
 ### Tags
 
@@ -823,6 +846,8 @@ June 8: Intro to Digital Photography, 10 a.m.–noon, $35; bring a camera.
 June 15: Repairing Old Photographs, 1–3 p.m., $45; computers provided.
 June 22: Family Portraits, 10 a.m.–1 p.m., $30; children welcome.
 Full refunds are available for cancellations at least five days before a workshop.
+
+The museum recommends that participants keep original photographs at home: digital copies are sufficient for the restoration class. Staff cannot guarantee individual technical advice outside scheduled class hours.
 
 ### Passage 2
 
@@ -870,20 +895,20 @@ His June 11 message is four days before June 15, within the five-day cutoff.
 
 ### Question 182
 
-Which advertised activity is appropriate for Liam and his daughter?
+What should participants bring to the restoration course?
 
-- A. The June 8 course
-- B. The June 15 course
-- C. All photography workshops
-- D. The June 22 workshop
+- A. Digital copies of the photographs
+- B. A new camera bought at the museum
+- C. Their original framed photographs
+- D. A printed ticket from the previous course
 
 ### Answer
 
-D
+A
 
 ### Explanation
 
-The Family Portraits workshop on June 22 explicitly welcomes children.
+The notice says digital copies are sufficient and recommends leaving originals at home.
 
 ### Tags
 
@@ -905,6 +930,8 @@ double
 **Subject:** Vehicle charging stations
 
 Four chargers will be installed at the east parking lot on July 3. They will be available only to employees holding a parking permit. The two chargers in the west lot will remain available throughout installation. After July 3, users must reserve a charging slot using the new staff portal.
+
+Online reservations normally become visible immediately after a permit is verified. The current system problem affects everyone, not only drivers who recently renewed their permits.
 
 ### Passage 2
 
@@ -949,20 +976,20 @@ The chat says online booking activation was delayed until July 8.
 
 ### Question 185
 
-How can Priya reserve a slot for July 5?
+What does the conversation imply about Priya's booking difficulty?
 
-- A. Ask at the reception desk
-- B. Apply for another parking permit
-- C. Wait until July 8 to charge
-- D. Call an external charging company
+- A. Priya's permit has been confiscated.
+- B. The portal has a systemwide delay.
+- C. The chargers have all been removed.
+- D. She missed a mandatory training session
 
 ### Answer
 
-A
+B
 
 ### Explanation
 
-For dates before activation, Martin directs users to reception.
+The added note makes clear that the issue affects everyone.
 
 ### Tags
 
@@ -983,6 +1010,8 @@ double
 **New Farmers' Market Site Announced**
 
 The weekend farmers' market will move from Hill Square to the covered depot on Harbor Road next month. The depot offers shelter during heavy rain and is closer to the tram stop. The market will operate Sundays, 8 a.m.–1 p.m. Vendors must confirm their stall requirements with the organizer before the 25th.
+
+The organizer explained that the new depot's proximity to public transit may attract a larger throng of customers. Vendors requiring electricity must submit a separate request; supplying outlets is not implicit in a standard stall agreement.
 
 ### Passage 2
 
@@ -1029,12 +1058,12 @@ She asks about an electrical outlet for her refrigerated display.
 
 ### Question 188
 
-What does Nadia intend to do?
+What does Nadia need to confirm before renewing?
 
-- A. Change her product to baked goods
-- B. Stop participating in the market
-- C. Continue participating if her needs can be met
-- D. Move the market back to Hill Square
+- A. Whether the market will remain outdoors
+- B. Whether public transit operates on Sundays
+- C. Whether a power connection can be arranged
+- D. Whether she can change her products
 
 ### Answer
 
@@ -1042,7 +1071,7 @@ C
 
 ### Explanation
 
-She wants to continue selling vegetables and is checking a needed condition.
+Nadia needs electricity for her refrigerated display; it is not guaranteed under the standard agreement.
 
 ### Tags
 
@@ -1063,6 +1092,8 @@ triple
 **Horizon Tech Expo — Visitor Information**
 
 Expo dates: September 12–13. Doors open at 9 a.m. Standard admission is $25 per day. A two-day pass is $40. The 'Smart Offices' demonstration on September 13 begins at 11 a.m. and has limited seating; an event reservation is required in addition to an admission pass.
+
+The organizer also noted that exhibition badges are issued at a desk near the north entrance. Booking a talk does not confer early entry to the main exhibition.
 
 ### Passage 2
 
@@ -1117,12 +1148,12 @@ The organizer clarifies that the link was temporarily disabled for maintenance.
 
 ### Question 191
 
-What should Eva do to attend the Smart Offices event?
+What is suggested about Eva's admission pass?
 
-- A. Reserve a seat when booking reopens
-- B. Purchase another two-day pass
-- C. Arrive before the expo opens
-- D. Ask the train station for a ticket
+- A. It does not guarantee a place at the demonstration.
+- B. It allows entry before the expo opens.
+- C. It permits unlimited guests to join her.
+- D. It includes a reserved seat automatically.
 
 ### Answer
 
@@ -1130,7 +1161,7 @@ A
 
 ### Explanation
 
-She still needs to reserve a session seat once reservations reopen.
+A pass and a separate talk booking are required.
 
 ### Tags
 
@@ -1151,6 +1182,8 @@ triple
 **Staff Wellness Reimbursement Policy**
 
 Starting January 1, permanent employees may claim up to $180 per calendar year for approved fitness memberships. Claims require a dated receipt showing the employee's name. Reimbursements are processed on the last Friday of each month. Personal training sessions are not eligible.
+
+HR clarified in a subsequent notice that unused allowances cannot be carried into the following year. The policy is intended to compensate eligible staff for membership fees, not to subsidize private coaching.
 
 ### Passage 2
 
@@ -1205,20 +1238,20 @@ Private training is explicitly excluded.
 
 ### Question 194
 
-What is Carlos advised to do before the 20th?
+Which expense would NOT qualify for reimbursement?
 
-- A. Submit his membership receipt online
-- B. Cancel his gym membership
-- C. Contact the gym for a new plan
-- D. Pay an additional fee
+- A. A standard fitness membership
+- B. Approved annual gym fees
+- C. A membership with a dated receipt
+- D. Individual personal-training sessions
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-HR asks him to upload the receipt through the employee portal before the 20th.
+Personal training is excluded, even when purchased alongside a qualifying membership.
 
 ### Tags
 
@@ -1244,6 +1277,8 @@ triple
 2:00 – Promotional posters, Dock 1
 
 Cold-storage staff must be present when refrigerated goods arrive.
+
+After the updated schedule was circulated, Renee confirmed that the temperature-controlled samples must be checked before their booth display can be assembled. The technician will oversee this inspection.
 
 ### Passage 2
 
@@ -1296,20 +1331,20 @@ The chat revises the stands' delivery from 9:30 to 12:30.
 
 ### Question 197
 
-Which delivery remains scheduled for 2 p.m.?
+Why must the refrigerated samples be inspected before display assembly?
 
-- A. Refrigerated samples
-- B. Display stands
-- C. Promotional posters
-- D. Packaging supplies
+- A. They will be delivered after the exhibition opens.
+- B. The technician must oversee the condition check.
+- C. The display stands are being canceled.
+- D. Their delivery dock has closed permanently.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The posters remain unchanged from the 2 p.m. schedule.
+The updated instructions require the technician to check temperature-controlled items before booth setup.
 
 ### Tags
 
@@ -1330,6 +1365,8 @@ triple
 **Oakridge Community Center — Volunteer Fair**
 
 Volunteer Fair: April 21, 10 a.m.–3 p.m. Exhibitors may set up booths from 8:30 a.m. Limited free parking is available behind the building. Organizations must submit a final list of representatives by April 15. Lunch is provided only for registered booth representatives.
+
+The coordinator added that the number of parking spaces is limited, even for volunteers. A registered representative who arrives after the event begins may still collect a badge at the desk.
 
 ### Passage 2
 
@@ -1384,20 +1421,20 @@ Lunch is provided to registered booth representatives and she must be named by A
 
 ### Question 200
 
-What does the coordinator recommend?
+Which statement about badges is supported by the documents?
 
-- A. Arranging individual parking reservations
-- B. Using public transportation
-- C. Reducing the number of volunteers to two
-- D. Collecting badges after the event
+- A. Only morning volunteers receive them.
+- B. Badges are mailed to exhibitors in advance.
+- C. Registered representatives can collect them after the event begins.
+- D. They are provided at the parking garage.
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-Parking spaces cannot be reserved, so public transport is recommended.
+A later note says registered representatives can still obtain badges at the registration desk after the fair has started.
 
 ### Tags
 
