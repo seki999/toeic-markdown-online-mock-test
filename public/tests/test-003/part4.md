@@ -34,18 +34,18 @@ What will be delivered tomorrow?
 
 ### Question 73
 
-What does the caller ask Ms. Chen to do?
+What does the speaker imply when he says, "we'll hold the order"?
 
-- A. Inspect a shipment
-- B. Visit a showroom
-- C. Contact the manufacturer
-- D. Choose an option before 4 p.m.
+- A. The supplier will cancel all pending deliveries.
+- B. The ordered chairs will not be substituted without approval.
+- C. The desks will also be delayed until next week.
+- D. The manufacturer will stop producing gray chairs.
 
 ### Answers
 
 71: B
 72: A
-73: D
+73: B
 
 ### Explanation
 
@@ -56,7 +56,7 @@ The gray chairs are temporarily unavailable, so the caller offers alternatives.
 The caller says the desks will arrive tomorrow as planned.
 
 #### Question 73
-She must call by four to select the substitute or delayed delivery.
+Holding the order means the seller will wait rather than ship a replacement without customer approval.
 
 ### Tags
 
@@ -162,12 +162,12 @@ What should employees leave on their desks?
 
 ### Question 79
 
-When will visitors be welcomed at the new reception area?
+Why does the speaker say the department will handle inquiries remotely on Monday morning?
 
-- A. Monday at noon
-- B. Tuesday morning
-- C. Sunday evening
-- D. Monday at eight
+- A. To explain how service will continue during the relocation
+- B. To announce that all visitors must work from home
+- C. To introduce a new permanent work policy
+- D. To ask customers to postpone their requests
 
 ### Answers
 
@@ -184,7 +184,7 @@ The remodeled floor offers more meeting rooms and an online training space.
 IT staff, not employees, will move and reconnect the equipment.
 
 #### Question 79
-The announcement says the new reception opens to visitors at noon on Monday.
+The temporary remote arrangement allows customer support to continue before reception opens.
 
 ### Tags
 
@@ -290,18 +290,18 @@ What does the mobile application allow users to do?
 
 ### Question 85
 
-What is offered to customers who register before the deadline?
+What does the speaker mean when she says, "spend less time on paperwork"?
 
-- A. A free laptop
-- B. A one-year subscription
-- C. No setup fee
-- D. An additional company account
+- A. The service will reduce administrative work.
+- B. Customers must stop using paper receipts.
+- C. The company will no longer accept monthly payments.
+- D. Accountants will no longer be needed.
 
 ### Answers
 
 83: B
 84: A
-85: C
+85: A
 
 ### Explanation
 
@@ -312,7 +312,7 @@ The product is introduced as a tool for managing small business expenses.
 Users can photograph receipts and have their information recorded.
 
 #### Question 85
-The advertisement promises to waive the setup fee before the end of September.
+The expression advertises automatic receipt processing and expense summaries as a time saver.
 
 ### Tags
 
@@ -418,12 +418,12 @@ What is one expected benefit of the investment?
 
 ### Question 91
 
-Why were quarterly profits lower?
+What can be inferred about Northstar Foods' recent performance?
 
-- A. Weak consumer demand
-- B. Unexpected construction expenses
-- C. Higher packaging expenses
-- D. A decline in the company's revenue
+- A. Revenue declined because of transport costs.
+- B. Its shares stopped trading.
+- C. Sales increased, but higher expenses affected earnings.
+- D. The company has already completed construction.
 
 ### Answers
 
@@ -440,7 +440,7 @@ The report describes plans for a distribution facility outside Portland.
 Keeping products closer to customers should shorten delivery times.
 
 #### Question 91
-The news report attributes lower profits to packaging costs despite higher revenue.
+Revenue increased while profits fell as packaging costs rose.
 
 ### Tags
 
@@ -482,18 +482,18 @@ What facility will be unavailable during his stay?
 
 ### Question 94
 
-What should Mr. Alvarez do to request airport transportation?
+Why does the speaker ask for an email at least two days before arrival?
 
-- A. Call after checking in
-- B. Reply to an email before his arrival
-- C. Visit the partner hotel
-- D. Speak directly to the driver
+- A. To change the hotel room
+- B. To reserve a place in the fitness center
+- C. To obtain confirmation of the booking
+- D. To allow time to arrange an airport pickup
 
 ### Answers
 
 92: A
 93: D
-94: B
+94: D
 
 ### Explanation
 
@@ -504,7 +504,7 @@ The caller states that she is confirming a three-night reservation.
 The hotel's fitness center will be closed for maintenance.
 
 #### Question 94
-Guests must reply to the confirmation email at least two days ahead.
+The requested advance email is needed for optional airport transportation.
 
 ### Tags
 
