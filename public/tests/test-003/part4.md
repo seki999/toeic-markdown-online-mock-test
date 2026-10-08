@@ -9,60 +9,60 @@
 ### Audio
 
 Narrator:
-Questions 71 through 73 refer to the following company announcement.
+Questions 71 through 73 refer to the following telephone message.
 
 Speaker 1:
-This is an important update regarding a surge in customer demand. Staff and visitors should follow the posted instructions and extend support hours through Friday. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Hello, Ms. Chen. This is Daniel from Harbor Office Supplies. I'm calling about the twenty ergonomic chairs your company ordered on Monday. The gray model is temporarily unavailable because our manufacturer is replacing a defective component. We can deliver the blue model at the same price this Thursday, or wait until next Wednesday for the gray chairs. Your new desks will still arrive tomorrow, as scheduled. Please call me by four this afternoon to let me know which chair option you prefer. If I don't hear from you, we'll hold the order rather than send a substitute.
 
 ### Question 71
 
-What is the purpose of the message?
+Why is the caller contacting Ms. Chen?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. To confirm a payment
+- B. To discuss a product availability issue
+- C. To request a new office address
+- D. To arrange an equipment demonstration
 
 ### Question 72
 
-What topic is specifically mentioned?
+What will be delivered tomorrow?
 
-- A. Office furniture.
-- B. A surge in customer demand.
-- C. A theater audition.
-- D. A school examination.
+- A. Office desks
+- B. Gray chairs
+- C. Blue chairs
+- D. Replacement components
 
 ### Question 73
 
-What are listeners advised to do?
+What does the caller ask Ms. Chen to do?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Extend support hours through Friday.
-- D. Call an unrelated supplier.
+- A. Inspect a shipment
+- B. Visit a showroom
+- C. Contact the manufacturer
+- D. Choose an option before 4 p.m.
 
 ### Answers
 
-71: A
-72: B
-73: C
+71: B
+72: A
+73: D
 
 ### Explanation
 
 #### Question 71
-The speaker is delivering a practical operational update.
+The gray chairs are temporarily unavailable, so the caller offers alternatives.
 
 #### Question 72
-The message explicitly mentions a surge in customer demand.
+The caller says the desks will arrive tomorrow as planned.
 
 #### Question 73
-Listeners are directly advised to extend support hours through Friday.
+She must call by four to select the substitute or delayed delivery.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 2
 
@@ -73,60 +73,60 @@ Listeners are directly advised to extend support hours through Friday.
 ### Audio
 
 Narrator:
-Questions 74 through 76 refer to the following telephone message.
+Questions 74 through 76 refer to the following radio traffic report.
 
 Speaker 1:
-This is an important update regarding a courier delay. Staff and visitors should follow the posted instructions and collect the urgent package at reception. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Good morning. Here's your traffic update for the western suburbs. Construction crews have closed two lanes of the Pine River Bridge, and delays are currently running about twenty-five minutes on Route 18 toward the city. Drivers heading to the airport should use the Lakeside Expressway instead. The bridge restrictions are expected to remain in place until Friday evening. Local buses on Route 18 are operating, but the transit authority says some arrivals may be late. We'll bring you another update at the bottom of the hour, and you can check live travel times on our station's website.
 
 ### Question 74
 
-What is the purpose of the message?
+What is causing delays on Route 18?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. An accident involving a bus
+- B. A sports event
+- C. Bridge construction
+- D. Severe flooding
 
 ### Question 75
 
-What topic is specifically mentioned?
+Who is advised to take the Lakeside Expressway?
 
-- A. Office furniture.
-- B. A courier delay.
-- C. A theater audition.
-- D. A school examination.
+- A. Drivers going to the airport
+- B. People attending a concert
+- C. Delivery trucks leaving the city
+- D. Bus passengers on Route 18
 
 ### Question 76
 
-What are listeners advised to do?
+When will another update be provided?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Collect the urgent package at reception.
-- D. Call an unrelated supplier.
+- A. Tomorrow morning
+- B. At the bottom of the hour
+- C. Friday evening
+- D. After the weather forecast
 
 ### Answers
 
-74: A
-75: B
-76: C
+74: C
+75: A
+76: B
 
 ### Explanation
 
 #### Question 74
-The speaker is delivering a practical operational update.
+Lane closures on Pine River Bridge are caused by construction.
 
 #### Question 75
-The message explicitly mentions a courier delay.
+The announcer recommends that alternate road specifically for airport-bound drivers.
 
 #### Question 76
-Listeners are directly advised to collect the urgent package at reception.
+The announcer promises an update at the bottom of the hour.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 3
 
@@ -137,60 +137,60 @@ Listeners are directly advised to collect the urgent package at reception.
 ### Audio
 
 Narrator:
-Questions 77 through 79 refer to the following travel update.
+Questions 77 through 79 refer to the following company announcement.
 
 Speaker 1:
-This is an important update regarding heavy precipitation and sleet. Staff and visitors should follow the posted instructions and check the revised ferry schedule. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+May I have your attention, everyone? Beginning next month, our customer service department will move from the fourth floor to the renovated second floor. The relocation will give the team more meeting rooms and a dedicated space for online training. Please pack personal belongings into the labeled boxes that Facilities will distribute on Tuesday. Computers and telephones should be left on the desks; our IT team will disconnect and reconnect them over the weekend. The department will continue handling customer inquiries remotely on Monday morning, and the new reception area will open to visitors at noon. We appreciate your flexibility during this transition.
 
 ### Question 77
 
-What is the purpose of the message?
+Why is the department relocating?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. Its current lease is ending
+- B. To create additional workspace facilities
+- C. The building is being sold
+- D. To reduce the number of employees
 
 ### Question 78
 
-What topic is specifically mentioned?
+What should employees leave on their desks?
 
-- A. Office furniture.
-- B. Heavy precipitation and sleet.
-- C. A theater audition.
-- D. A school examination.
+- A. Personal photographs
+- B. Labeled moving boxes
+- C. Office documents
+- D. Computers and telephones
 
 ### Question 79
 
-What are listeners advised to do?
+When will visitors be welcomed at the new reception area?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Check the revised ferry schedule.
-- D. Call an unrelated supplier.
+- A. Monday at noon
+- B. Tuesday morning
+- C. Sunday evening
+- D. Monday at eight
 
 ### Answers
 
-77: A
-78: B
-79: C
+77: B
+78: D
+79: A
 
 ### Explanation
 
 #### Question 77
-The speaker is delivering a practical operational update.
+The remodeled floor offers more meeting rooms and an online training space.
 
 #### Question 78
-The message explicitly mentions heavy precipitation and sleet.
+IT staff, not employees, will move and reconnect the equipment.
 
 #### Question 79
-Listeners are directly advised to check the revised ferry schedule.
+The announcement says the new reception opens to visitors at noon on Monday.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 4
 
@@ -201,60 +201,60 @@ Listeners are directly advised to check the revised ferry schedule.
 ### Audio
 
 Narrator:
-Questions 80 through 82 refer to the following health briefing.
+Questions 80 through 82 refer to the following museum tour introduction.
 
 Speaker 1:
-This is an important update regarding pneumonia prevention. Staff and visitors should follow the posted instructions and use the on-site vaccination clinic. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Welcome to the Riverside Design Museum. I'm Elena, and I'll be leading today's tour of our exhibition on furniture made from recycled materials. We'll start with a short film in Gallery A before looking at pieces by designers from six countries. Please don't use flash photography; the light can damage some of the older fabrics on display. At the end of the tour, you'll have twenty minutes to explore the gallery on your own. If you'd like to attend our furniture-repair workshop next Saturday, you can register at the information desk near the exit. The workshop is free, but seating is limited.
 
 ### Question 80
 
-What is the purpose of the message?
+What is the exhibition mainly about?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. Traditional paintings
+- B. Historic city maps
+- C. Furniture made from recycled materials
+- D. Modern transportation
 
 ### Question 81
 
-What topic is specifically mentioned?
+Why is flash photography prohibited?
 
-- A. Office furniture.
-- B. Pneumonia prevention.
-- C. A theater audition.
-- D. A school examination.
+- A. It can harm certain exhibits
+- B. It distracts workshop instructors
+- C. It interferes with a film projector
+- D. It is restricted by local law
 
 ### Question 82
 
-What are listeners advised to do?
+How can visitors join next Saturday's workshop?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Use the on-site vaccination clinic.
-- D. Call an unrelated supplier.
+- A. By buying tickets online
+- B. By emailing a designer
+- C. By calling the museum director
+- D. By signing up at the information desk
 
 ### Answers
 
-80: A
-81: B
-82: C
+80: C
+81: A
+82: D
 
 ### Explanation
 
 #### Question 80
-The speaker is delivering a practical operational update.
+The guide identifies the exhibition's focus in her opening remarks.
 
 #### Question 81
-The message explicitly mentions pneumonia prevention.
+The guide says light could damage older fabrics.
 
 #### Question 82
-Listeners are directly advised to use the on-site vaccination clinic.
+Visitors are instructed to register at the desk near the exit.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 5
 
@@ -265,60 +265,60 @@ Listeners are directly advised to use the on-site vaccination clinic.
 ### Audio
 
 Narrator:
-Questions 83 through 85 refer to the following restaurant notice.
+Questions 83 through 85 refer to the following advertisement.
 
 Speaker 1:
-This is an important update regarding a new gourmet menu. Staff and visitors should follow the posted instructions and mention allergies when booking. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Looking for a better way to manage your small business expenses? Try ClearLedger, an online tool that automatically organizes receipts and prepares monthly spending summaries. With the mobile app, you can photograph a receipt as soon as you make a purchase, and the information is added to your account. New customers can try the service free for thirty days. After that, plans start at twelve dollars a month. Visit clearledger.example to compare plans and watch a short demonstration. Sign up before the end of September and we'll waive the usual setup fee. ClearLedger: spend less time on paperwork and more time growing your business.
 
 ### Question 83
 
-What is the purpose of the message?
+Who is the advertisement primarily aimed at?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. Travel agents
+- B. Small business owners
+- C. University students
+- D. Computer repair technicians
 
 ### Question 84
 
-What topic is specifically mentioned?
+What does the mobile application allow users to do?
 
-- A. Office furniture.
-- B. A new gourmet menu.
-- C. A theater audition.
-- D. A school examination.
+- A. Take pictures of receipts
+- B. Schedule staff shifts
+- C. Transfer money overseas
+- D. Order new office furniture
 
 ### Question 85
 
-What are listeners advised to do?
+What is offered to customers who register before the deadline?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Mention allergies when booking.
-- D. Call an unrelated supplier.
+- A. A free laptop
+- B. A one-year subscription
+- C. No setup fee
+- D. An additional company account
 
 ### Answers
 
-83: A
-84: B
+83: B
+84: A
 85: C
 
 ### Explanation
 
 #### Question 83
-The speaker is delivering a practical operational update.
+The product is introduced as a tool for managing small business expenses.
 
 #### Question 84
-The message explicitly mentions a new gourmet menu.
+Users can photograph receipts and have their information recorded.
 
 #### Question 85
-Listeners are directly advised to mention allergies when booking.
+The advertisement promises to waive the setup fee before the end of September.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 6
 
@@ -329,60 +329,60 @@ Listeners are directly advised to mention allergies when booking.
 ### Audio
 
 Narrator:
-Questions 86 through 88 refer to the following city bulletin.
+Questions 86 through 88 refer to the following recorded train-station announcement.
 
 Speaker 1:
-This is an important update regarding road congestion in the vicinity. Staff and visitors should follow the posted instructions and use the eastern avenue. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Attention, passengers traveling on the 6:40 service to Brighton. Because of a mechanical inspection, your train will now depart from Platform 9 instead of Platform 6. Departure has been delayed by approximately fifteen minutes. Passengers with connections at Brighton should speak to a station employee at the information counter if they need assistance arranging another service. We apologize for the inconvenience. Please keep your tickets available for inspection, and check the departure boards for any further changes. The 6:25 local train to Fairview is not affected and will leave from Platform 4 on time.
 
 ### Question 86
 
-What is the purpose of the message?
+What change is announced for the Brighton train?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. Its destination has changed
+- B. It will not run today
+- C. It will arrive earlier
+- D. It will use a different platform
 
 ### Question 87
 
-What topic is specifically mentioned?
+What should passengers with onward connections do?
 
-- A. Office furniture.
-- B. Road congestion in the vicinity.
-- C. A theater audition.
-- D. A school examination.
+- A. Ask an employee at the information counter
+- B. Purchase new tickets immediately
+- C. Wait beside Platform 6
+- D. Board the Fairview service
 
 ### Question 88
 
-What are listeners advised to do?
+What is mentioned about the Fairview train?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Use the eastern avenue.
-- D. Call an unrelated supplier.
+- A. It is delayed fifteen minutes
+- B. It has been canceled
+- C. It is expected to depart on schedule
+- D. It will leave from Platform 9
 
 ### Answers
 
-86: A
-87: B
+86: D
+87: A
 88: C
 
 ### Explanation
 
 #### Question 86
-The speaker is delivering a practical operational update.
+The train has moved from Platform 6 to Platform 9.
 
 #### Question 87
-The message explicitly mentions road congestion in the vicinity.
+Passengers needing help with connections are directed to the information counter.
 
 #### Question 88
-Listeners are directly advised to use the eastern avenue.
+The Fairview train is not affected and will leave on time.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 7
 
@@ -393,60 +393,60 @@ Listeners are directly advised to use the eastern avenue.
 ### Audio
 
 Narrator:
-Questions 89 through 91 refer to the following investment update.
+Questions 89 through 91 refer to the following financial news report.
 
 Speaker 1:
-This is an important update regarding a dividend declaration. Staff and visitors should follow the posted instructions and review the prospectus online. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+In today's business news, Northstar Foods announced plans to open a new distribution center outside Portland early next year. The facility will serve stores across the northwest and is expected to create around one hundred and fifty jobs. Company officials say the investment will shorten delivery times and reduce transportation costs by keeping products closer to customers. Construction is scheduled to begin in November, following final approval from local planning authorities. Northstar reported a modest increase in quarterly revenue yesterday, although profits were lower because of higher packaging costs. Shares rose slightly in morning trading following the distribution-center announcement.
 
 ### Question 89
 
-What is the purpose of the message?
+What does Northstar Foods plan to open?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. A research laboratory
+- B. A distribution center
+- C. A restaurant chain
+- D. A packaging factory
 
 ### Question 90
 
-What topic is specifically mentioned?
+What is one expected benefit of the investment?
 
-- A. Office furniture.
-- B. A dividend declaration.
-- C. A theater audition.
-- D. A school examination.
+- A. Reduced delivery times
+- B. Lower food prices at every store
+- C. An immediate increase in profits
+- D. An expansion into international markets
 
 ### Question 91
 
-What are listeners advised to do?
+Why were quarterly profits lower?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Review the prospectus online.
-- D. Call an unrelated supplier.
+- A. Weak consumer demand
+- B. Unexpected construction expenses
+- C. Higher packaging expenses
+- D. A decline in the company's revenue
 
 ### Answers
 
-89: A
-90: B
+89: B
+90: A
 91: C
 
 ### Explanation
 
 #### Question 89
-The speaker is delivering a practical operational update.
+The report describes plans for a distribution facility outside Portland.
 
 #### Question 90
-The message explicitly mentions a dividend declaration.
+Keeping products closer to customers should shorten delivery times.
 
 #### Question 91
-Listeners are directly advised to review the prospectus online.
+The news report attributes lower profits to packaging costs despite higher revenue.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 8
 
@@ -457,60 +457,60 @@ Listeners are directly advised to review the prospectus online.
 ### Audio
 
 Narrator:
-Questions 92 through 94 refer to the following museum announcement.
+Questions 92 through 94 refer to the following hotel voicemail message.
 
 Speaker 1:
-This is an important update regarding a renaissance exhibition. Staff and visitors should follow the posted instructions and reserve timed-entry tickets. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Hello, Mr. Alvarez. This is Priya at the Maple Hotel, calling to confirm your reservation for three nights starting October twelfth. You requested a room away from the elevators, and we've noted that preference. I also wanted to let you know that our fitness center will be closed for maintenance during your stay. Guests are welcome to use the facilities at our partner hotel, which is a five-minute walk away. We can provide a complimentary pass at the front desk. If you'd like us to arrange transportation from the airport, please reply to the confirmation email at least two days before your arrival. We look forward to welcoming you.
 
 ### Question 92
 
-What is the purpose of the message?
+Why is Priya calling Mr. Alvarez?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. To confirm his hotel booking
+- B. To change his departure date
+- C. To collect an unpaid restaurant bill
+- D. To offer a job interview
 
 ### Question 93
 
-What topic is specifically mentioned?
+What facility will be unavailable during his stay?
 
-- A. Office furniture.
-- B. A renaissance exhibition.
-- C. A theater audition.
-- D. A school examination.
+- A. The hotel restaurant
+- B. The parking garage
+- C. The swimming pool
+- D. The fitness center
 
 ### Question 94
 
-What are listeners advised to do?
+What should Mr. Alvarez do to request airport transportation?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Reserve timed-entry tickets.
-- D. Call an unrelated supplier.
+- A. Call after checking in
+- B. Reply to an email before his arrival
+- C. Visit the partner hotel
+- D. Speak directly to the driver
 
 ### Answers
 
 92: A
-93: B
-94: C
+93: D
+94: B
 
 ### Explanation
 
 #### Question 92
-The speaker is delivering a practical operational update.
+The caller states that she is confirming a three-night reservation.
 
 #### Question 93
-The message explicitly mentions a renaissance exhibition.
+The hotel's fitness center will be closed for maintenance.
 
 #### Question 94
-Listeners are directly advised to reserve timed-entry tickets.
+Guests must reply to the confirmation email at least two days ahead.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 9
 
@@ -521,60 +521,60 @@ Listeners are directly advised to reserve timed-entry tickets.
 ### Audio
 
 Narrator:
-Questions 95 through 97 refer to the following warehouse briefing.
+Questions 95 through 97 refer to the following workplace safety briefing.
 
 Speaker 1:
-This is an important update regarding a counterfeit shipment. Staff and visitors should follow the posted instructions and leave the affected pallets untouched. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Before we begin today's warehouse shift, I have two safety reminders. First, the loading area near Door 3 is temporarily closed while a contractor repairs a damaged overhead light. Please use Door 5 for all outgoing shipments until the maintenance team removes the warning signs. Second, our new handheld scanners are available at the equipment desk. Everyone who handles inventory must attend a fifteen-minute demonstration before using them. Training sessions will run every half hour until eleven this morning. If you notice any equipment malfunction, report it to your supervisor immediately rather than attempting to fix it yourself.
 
 ### Question 95
 
-What is the purpose of the message?
+Why is the area near Door 3 closed?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. A truck is being unloaded
+- B. The floor is being cleaned
+- C. A light fixture is being repaired
+- D. A shipment is missing
 
 ### Question 96
 
-What topic is specifically mentioned?
+What must inventory employees do before using the new scanners?
 
-- A. Office furniture.
-- B. A counterfeit shipment.
-- C. A theater audition.
-- D. A school examination.
+- A. Attend a short demonstration
+- B. Complete an online survey
+- C. Get written approval from customers
+- D. Replace the scanner batteries
 
 ### Question 97
 
-What are listeners advised to do?
+How often will the training sessions be held?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Leave the affected pallets untouched.
-- D. Call an unrelated supplier.
+- A. Every fifteen minutes
+- B. Once per day
+- C. Every two hours
+- D. Every thirty minutes
 
 ### Answers
 
-95: A
-96: B
-97: C
+95: C
+96: A
+97: D
 
 ### Explanation
 
 #### Question 95
-The speaker is delivering a practical operational update.
+A contractor is fixing an overhead light near Door 3.
 
 #### Question 96
-The message explicitly mentions a counterfeit shipment.
+Employees must attend a 15-minute demonstration before using the devices.
 
 #### Question 97
-Listeners are directly advised to leave the affected pallets untouched.
+The announcement says sessions take place every half hour until eleven.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
 ## Group 10
 
@@ -585,58 +585,58 @@ Listeners are directly advised to leave the affected pallets untouched.
 ### Audio
 
 Narrator:
-Questions 98 through 100 refer to the following community message.
+Questions 98 through 100 refer to the following community event announcement.
 
 Speaker 1:
-This is an important update regarding a volunteer cleanup campaign. Staff and visitors should follow the posted instructions and bring gloves and arrive by eight. Additional information will be available from the service desk this afternoon. Thank you for your cooperation.
+Thank you for joining us at the neighborhood business association's annual meeting. Before our guest speaker begins, I'd like to share details about next month's weekend street market. The event will take place in Central Square on Saturday the seventeenth, from ten in the morning until four in the afternoon. Local shops can apply for stalls using the registration form on our website. The application deadline is this Friday, and the organizers will email successful applicants early next week. Because parking is limited, vendors are encouraged to unload their goods before nine o'clock and use the public garage on Oak Street. Now, please welcome our speaker.
 
 ### Question 98
 
-What is the purpose of the message?
+What is the speaker announcing?
 
-- A. To provide an operational update.
-- B. To advertise a private apartment.
-- C. To announce a sports score.
-- D. To request a bank loan.
+- A. An office relocation
+- B. A business conference abroad
+- C. A new parking regulation
+- D. A neighborhood street market
 
 ### Question 99
 
-What topic is specifically mentioned?
+When must shop owners submit their applications?
 
-- A. Office furniture.
-- B. A volunteer cleanup campaign.
-- C. A theater audition.
-- D. A school examination.
+- A. Before this Friday
+- B. On Saturday the seventeenth
+- C. Early next week
+- D. After the annual meeting
 
 ### Question 100
 
-What are listeners advised to do?
+Why are vendors advised to use the Oak Street garage?
 
-- A. Ignore the posted information.
-- B. Leave immediately.
-- C. Bring gloves and arrive by eight.
-- D. Call an unrelated supplier.
+- A. The square is closed to pedestrians
+- B. Parking near the event is limited
+- C. The garage offers free repairs
+- D. Their stalls are located inside it
 
 ### Answers
 
-98: A
-99: B
-100: C
+98: D
+99: A
+100: B
 
 ### Explanation
 
 #### Question 98
-The speaker is delivering a practical operational update.
+The speaker gives details of next month's weekend market.
 
 #### Question 99
-The message explicitly mentions a volunteer cleanup campaign.
+The deadline for stall applications is this Friday.
 
 #### Question 100
-Listeners are directly advised to bring gloves and arrive by eight.
+Limited parking prompts the recommendation to use a nearby public garage.
 
 ### Tags
 
-- talk
-- announcement
-- workplace
+- listening
+- monologue
+- business-context
 
