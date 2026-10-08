@@ -10,54 +10,20 @@ single
 
 #### Email
 
-**Subject: Communication Skills Module 1**
+**To:** Customer Support Team
+**From:** Marta Lee, Operations
+**Subject:** Saturday coverage
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 147, whose approved term is **humidity**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-The same document identifies item 148 as **wanton** and item 149 as **malnutrition**. The proofreader will compare both entries with the master list before publication.
+Because our online store will launch in Canada on Monday, we expect a greater number of customer inquiries next week. Two employees from the Vancouver office will assist remotely from 9 a.m. to 1 p.m. on Saturday. Regular staff do not need to come in, but anyone willing to help should contact Marta by Thursday. Training materials about Canadian shipping fees are available on the staff portal.
 
 ### Question 147
 
-Which term is associated with item 147 in the material?
+Why is additional support being arranged?
 
-- A. breeze
-- B. tornado
-- C. thermometer
-- D. humidity
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 147 with “humidity.”
-
-### Question 148
-
-Which term is associated with item 148 in the material?
-
-- A. wanton
-- B. atmospheric
-- C. optics
-- D. avalanche
-
-### Answer
-
-A
-
-### Explanation
-
-The material explicitly associates item 148 with “wanton.”
-
-### Question 149
-
-Which term is associated with item 149 in the material?
-
-- A. goad
-- B. malnutrition
-- C. panacea
-- D. mellow
+- A. The company is moving its office
+- B. A new market launch may increase inquiries
+- C. A telephone system is being replaced
+- D. A manager is going on leave
 
 ### Answer
 
@@ -65,13 +31,47 @@ B
 
 ### Explanation
 
-The material explicitly associates item 149 with “malnutrition.”
+The Canadian launch is expected to increase customer inquiries.
+
+### Question 148
+
+Who is expected to work remotely on Saturday?
+
+- A. Two Vancouver employees
+- B. All regular support staff
+- C. Newly recruited sales representatives
+- D. The operations manager alone
+
+### Answer
+
+A
+
+### Explanation
+
+Two employees from Vancouver will assist remotely.
+
+### Question 149
+
+What should employees do if they want to help?
+
+- A. Complete a new application
+- B. Visit the Vancouver branch
+- C. Reply before Thursday
+- D. Attend a Friday meeting
+
+### Answer
+
+C
+
+### Explanation
+
+Marta asks volunteers to contact her by Thursday.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 2
 
@@ -83,54 +83,18 @@ single
 
 #### Notice
 
-**Subject: Communication Skills Module 2**
+**RIVERFRONT LIBRARY — TEMPORARY ENTRANCE**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 150, whose approved term is **pneumonia**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-The same document identifies item 151 as **obese** and item 152 as **contamination**. The proofreader will compare both entries with the master list before publication.
+The main entrance will be closed from June 5 to June 12 while automatic doors are installed. Visitors should enter through the side gate on Willow Street, which is accessible to wheelchairs and strollers. Book returns remain available at the outdoor drop box, and the reading rooms will maintain their usual hours. The library café, however, will close at 3 p.m. on weekdays during construction. Please allow extra time to enter the building.
 
 ### Question 150
 
-Which term is associated with item 150 in the material?
+What is the main purpose of the notice?
 
-- A. penurious
-- B. diabetes
-- C. pneumonia
-- D. seasonings
-
-### Answer
-
-C
-
-### Explanation
-
-The material explicitly associates item 150 with “pneumonia.”
-
-### Question 151
-
-Which term is associated with item 151 in the material?
-
-- A. nutrition
-- B. purification
-- C. gourmet
-- D. obese
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 151 with “obese.”
-
-### Question 152
-
-Which term is associated with item 152 in the material?
-
-- A. contamination
-- B. recital
-- C. appetite
-- D. cordially
+- A. To announce a temporary access change
+- B. To introduce a library membership fee
+- C. To advertise a new café menu
+- D. To explain how to reserve books
 
 ### Answer
 
@@ -138,13 +102,47 @@ A
 
 ### Explanation
 
-The material explicitly associates item 152 with “contamination.”
+The notice provides entry arrangements during door installation.
+
+### Question 151
+
+What is indicated about the reading rooms?
+
+- A. They will close for a week
+- B. They will require reservations
+- C. They will be moved to Willow Street
+- D. Their hours will not change
+
+### Answer
+
+D
+
+### Explanation
+
+The notice specifically says the reading rooms maintain their usual hours.
+
+### Question 152
+
+What will close earlier than usual?
+
+- A. The outdoor drop box
+- B. The library café
+- C. The main reading room
+- D. The side gate
+
+### Answer
+
+B
+
+### Explanation
+
+The café will close at 3 p.m. on weekdays.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 3
 
@@ -154,39 +152,20 @@ single
 
 ### Passage 1
 
-#### Memo
+#### Web Page
 
-**Subject: Communication Skills Module 3**
+**Baylight Business Hotel — Meeting Packages**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 153, whose approved term is **delicacy**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-The same document identifies item 154 as **buffet** and item 155 as **recipe**. The proofreader will compare both entries with the master list before publication.
+Half-day: $180, includes projector and water service. Full-day: $310, includes projector, lunch and coffee breaks. Packages are available for groups of up to 24. Larger gatherings require a separate quotation. Reservations made at least 30 days ahead receive a 10% discount on room rental only. Changes are free until seven days before an event; later changes are subject to a $40 administration fee. For accessibility requirements, contact our events team before booking.
 
 ### Question 153
 
-Which term is associated with item 153 in the material?
+Which service is included only in the full-day package?
 
-- A. bland
-- B. delicacy
-- C. fragrant
-- D. ingredient
-
-### Answer
-
-B
-
-### Explanation
-
-The material explicitly associates item 153 with “delicacy.”
-
-### Question 154
-
-Which term is associated with item 154 in the material?
-
-- A. palatable
-- B. ravenous
-- C. buffet
-- D. cuisine
+- A. A projector
+- B. Room rental
+- C. Lunch
+- D. Water service
 
 ### Answer
 
@@ -194,16 +173,33 @@ C
 
 ### Explanation
 
-The material explicitly associates item 154 with “buffet.”
+The full-day package includes lunch, whereas the half-day one does not.
+
+### Question 154
+
+Which booking qualifies for the advance-booking discount?
+
+- A. A reservation made 35 days before the event
+- B. A reservation made 14 days before the event
+- C. Any booking for more than 24 participants
+- D. Any booking changed within a week
+
+### Answer
+
+A
+
+### Explanation
+
+The discount requires reservations at least 30 days ahead.
 
 ### Question 155
 
-Which term is associated with item 155 in the material?
+What may result in an additional fee?
 
-- A. entree
-- B. napkin
-- C. preservative
-- D. recipe
+- A. Requesting accessibility assistance
+- B. Booking a meeting for 20 people
+- C. Ordering a projector
+- D. Changing plans five days before the event
 
 ### Answer
 
@@ -211,13 +207,13 @@ D
 
 ### Explanation
 
-The material explicitly associates item 155 with “recipe.”
+Changes within seven days incur a $40 administration fee.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 4
 
@@ -227,39 +223,20 @@ single
 
 ### Passage 1
 
-#### Email
+#### Article
 
-**Subject: Communication Skills Module 4**
+**Neighborhood Bakery Reduces Food Waste**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 156, whose approved term is **edible**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-The same document identifies item 157 as **prospectus** and item 158 as **invincible**. The proofreader will compare both entries with the master list before publication.
+The Maple Street Bakery has started selling discounted surprise boxes containing unsold bread after 5 p.m. Rather than choosing individual items, customers purchase a box online and collect it before the shop closes. Owner Rosa Bennett says the program has cut the amount of bread discarded each evening by nearly half. A portion of the proceeds will fund baking classes at a nearby community center. The bakery plans to add pastries to the boxes next month if the initial trial continues to attract customers.
 
 ### Question 156
 
-Which term is associated with item 156 in the material?
+How does the new program work?
 
-- A. edible
-- B. dilute
-- C. piquant
-- D. obnoxious
-
-### Answer
-
-A
-
-### Explanation
-
-The material explicitly associates item 156 with “edible.”
-
-### Question 157
-
-Which term is associated with item 157 in the material?
-
-- A. deteriorate
-- B. prospectus
-- C. dietitian
-- D. whisk
+- A. Customers subscribe to daily deliveries
+- B. Customers order discounted boxes for collection
+- C. Customers exchange unsold bread for vouchers
+- D. Customers select pastries before noon
 
 ### Answer
 
@@ -267,16 +244,16 @@ B
 
 ### Explanation
 
-The material explicitly associates item 157 with “prospectus.”
+Customers order surprise boxes online and collect them in the evening.
 
-### Question 158
+### Question 157
 
-Which term is associated with item 158 in the material?
+What result has the program produced?
 
-- A. cordial
-- B. insanitary
-- C. invincible
-- D. disinfect
+- A. The bakery has opened another branch
+- B. Bread prices have doubled
+- C. Less bread is being thrown away
+- D. The bakery has stopped taking orders
 
 ### Answer
 
@@ -284,13 +261,30 @@ C
 
 ### Explanation
 
-The material explicitly associates item 158 with “invincible.”
+The amount of discarded bread has been reduced by nearly half.
+
+### Question 158
+
+What is planned for next month?
+
+- A. Including pastries in the boxes
+- B. Extending opening hours to midnight
+- C. Closing the retail counter
+- D. Replacing online ordering with telephone orders
+
+### Answer
+
+A
+
+### Explanation
+
+The bakery intends to add pastries if the trial continues to succeed.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 5
 
@@ -300,22 +294,24 @@ single
 
 ### Passage 1
 
-#### Notice
+#### Chat
 
-**Subject: Communication Skills Module 5**
+**Project Chat — Tuesday**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 159, whose approved term is **renaissance**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-The same document identifies item 160 as **splendid** and item 161 as **courier**. The proofreader will compare both entries with the master list before publication.
+9:05 Nora: Has the revised product brochure been sent to the printer?
+9:07 Emilio: Not yet. Legal asked us to remove the claim about battery life.
+9:08 Nora: Can the design team replace that paragraph today?
+9:12 Emilio: Yes, but the photographs are already approved. I'll send you a new PDF by 3 p.m.
+9:14 Nora: Great. I'll review the changes before sending the final file tomorrow morning.
 
 ### Question 159
 
-Which term is associated with item 159 in the material?
+Why has printing been delayed?
 
-- A. cater
-- B. pacify
-- C. mourn
-- D. renaissance
+- A. The photographs are missing
+- B. The printer has run out of paper
+- C. The design team is on vacation
+- D. A product claim needs to be removed
 
 ### Answer
 
@@ -323,16 +319,16 @@ D
 
 ### Explanation
 
-The material explicitly associates item 159 with “renaissance.”
+Legal requested removal of a battery-life claim.
 
 ### Question 160
 
-Which term is associated with item 160 in the material?
+What does Emilio say about the photographs?
 
-- A. splendid
-- B. attire
-- C. neon
-- D. trendy
+- A. They have been approved
+- B. They need another photo shoot
+- C. They were sent to the wrong office
+- D. They must be removed
 
 ### Answer
 
@@ -340,30 +336,30 @@ A
 
 ### Explanation
 
-The material explicitly associates item 160 with “splendid.”
+He says the photographs are already approved.
 
 ### Question 161
 
-Which term is associated with item 161 in the material?
+What will Nora most likely do tomorrow morning?
 
-- A. volunteer
-- B. courier
-- C. wreak
-- D. embark
+- A. Attend legal training
+- B. Order new batteries
+- C. Submit the final brochure
+- D. Send the photographs to Emilio
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The material explicitly associates item 161 with “courier.”
+Nora plans to review edits before sending the final file the next morning.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 6
 
@@ -373,56 +369,44 @@ single
 
 ### Passage 1
 
-#### Memo
+#### Schedule
 
-**Subject: Communication Skills Module 6**
+**Cedar Conference Center — Friday Sessions**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 162, whose approved term is **vacillate**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+9:00–9:45 Customer Research — Room A
+10:00–11:15 Managing Hybrid Teams — Room C
+11:30–12:15 Workplace Cybersecurity — Room B
+12:15–1:15 Lunch (Atrium)
+1:30–2:30 Data Visualization — Room A
+2:45–3:30 Closing Discussion — Room C
 
-The same document identifies item 163 as **scapegoat** and item 164 as **untied**. The proofreader will compare both entries with the master list before publication.
+Sessions are open to registered participants. The Data Visualization session requires a laptop. Printed handouts for other sessions can be collected at the registration desk.
 
 ### Question 162
 
-Which term is associated with item 162 in the material?
+Where will the cybersecurity session be held?
 
-- A. verdict
-- B. zenith
-- C. vacillate
-- D. apparel
+- A. Room A
+- B. Room B
+- C. Room C
+- D. The Atrium
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The material explicitly associates item 162 with “vacillate.”
+The schedule assigns Workplace Cybersecurity to Room B.
 
 ### Question 163
 
-Which term is associated with item 163 in the material?
+What should participants bring to the Data Visualization session?
 
-- A. vend
-- B. suite
-- C. hike
-- D. scapegoat
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 163 with “scapegoat.”
-
-### Question 164
-
-Which term is associated with item 164 in the material?
-
-- A. untied
-- B. denounce
-- C. bureau
-- D. proximity
+- A. A laptop
+- B. A printed ticket
+- C. A tablet provided by staff
+- D. A company ID card
 
 ### Answer
 
@@ -430,63 +414,55 @@ A
 
 ### Explanation
 
-The material explicitly associates item 164 with “untied.”
+The note states that the Data Visualization session requires a laptop.
+
+### Question 164
+
+Which session begins immediately after lunch?
+
+- A. Customer Research
+- B. Closing Discussion
+- C. Managing Hybrid Teams
+- D. Data Visualization
+
+### Answer
+
+D
+
+### Explanation
+
+Lunch ends at 1:15 and Data Visualization begins at 1:30.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 7
 
 ### Type
 
-double
+single
 
 ### Passage 1
 
 #### Email
 
-**Subject: Communication Skills Module 7**
+**To:** Ms. Park
+**From:** Support, Northstar Appliances
+**Subject:** Replacement filter request
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 165, whose approved term is **punk**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-### Passage 2
-
-#### Web Page
-
-**Module 7 Afternoon Review**
-
-Item 166 is **vogue**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-The schedule also notes that item 167 is **stroll**, which will be reviewed at the end of the session.
+Thank you for contacting us about your air purifier. Your model uses filter type N-440, which is currently out of stock. We expect more units on the 19th. You can keep your current order and receive free express shipping when the filter arrives, or cancel it for a full refund. The older N-400 filter does not fit your device. Please respond within five business days; otherwise, your order will remain active.
 
 ### Question 165
 
-Which term is associated with item 165 in the material?
+What problem does the customer face?
 
-- A. blossom
-- B. punk
-- C. excel
-- D. abortion
-
-### Answer
-
-B
-
-### Explanation
-
-The material explicitly associates item 165 with “punk.”
-
-### Question 166
-
-Which term is associated with item 166 in the material?
-
-- A. demote
-- B. obsolete
-- C. vogue
-- D. stow
+- A. A purifier has stopped working
+- B. Her payment was rejected
+- C. A replacement filter is unavailable
+- D. Her address is incomplete
 
 ### Answer
 
@@ -494,63 +470,87 @@ C
 
 ### Explanation
 
-The material explicitly associates item 166 with “vogue.”
+The N-440 filter is out of stock.
 
-### Question 167
+### Question 166
 
-Which term is associated with item 167 in the material?
+What is offered if the customer keeps her order?
 
-- A. ballet
-- B. cue
-- C. counsel
-- D. stroll
+- A. A discounted purifier
+- B. Complimentary express shipping
+- C. A second filter at no cost
+- D. Free installation
 
 ### Answer
 
-D
+B
 
 ### Explanation
 
-The material explicitly associates item 167 with “stroll.”
+The message offers free express shipping once inventory arrives.
+
+### Question 167
+
+What will happen if she does not respond?
+
+- A. The existing order will remain open
+- B. A refund will be issued automatically
+- C. The older filter will be shipped
+- D. A service visit will be arranged
+
+### Answer
+
+A
+
+### Explanation
+
+The email says the order remains active without a reply.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 8
 
 ### Type
 
-double
+single
 
 ### Passage 1
 
 #### Notice
 
-**Subject: Communication Skills Module 8**
+**Greenway Apartment Building — Water Service**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 168, whose approved term is **messy**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-### Passage 2
-
-#### Schedule
-
-**Module 8 Afternoon Review**
-
-Item 169 is **dividend**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-The schedule also notes that item 170 is **freebie**, which will be reviewed at the end of the session.
+The municipal utility will inspect pipes on Wednesday, August 14. Water pressure may be low between 10 a.m. and 2 p.m., particularly on upper floors. Residents are advised to avoid running washing machines during that period. The fitness room will stay open, but its showers will be unavailable. Anyone noticing discolored water after service is restored should run a cold tap for several minutes. For urgent plumbing problems, contact the building manager, not the municipal inspector.
 
 ### Question 168
 
-Which term is associated with item 168 in the material?
+Who is conducting the inspection?
 
-- A. messy
-- B. porch
-- C. overdraft
-- D. vice
+- A. The building's cleaning contractor
+- B. The fitness room operator
+- C. A private appliance supplier
+- D. The municipal utility
+
+### Answer
+
+D
+
+### Explanation
+
+The notice attributes the pipe inspection to the municipal utility.
+
+### Question 169
+
+What are residents advised not to do?
+
+- A. Use washing machines during the inspection
+- B. Enter the fitness room after noon
+- C. Run cold water after the inspection
+- D. Call the building manager
 
 ### Answer
 
@@ -558,33 +558,16 @@ A
 
 ### Explanation
 
-The material explicitly associates item 168 with “messy.”
-
-### Question 169
-
-Which term is associated with item 169 in the material?
-
-- A. bourse
-- B. dividend
-- C. avenue
-- D. avid
-
-### Answer
-
-B
-
-### Explanation
-
-The material explicitly associates item 169 with “dividend.”
+Washing machines should not be run during the low-pressure period.
 
 ### Question 170
 
-Which term is associated with item 170 in the material?
+What will be unavailable in the fitness room?
 
-- A. maturity
-- B. hip
-- C. freebie
-- D. horn
+- A. The exercise equipment
+- B. The lockers
+- C. The showers
+- D. The entrance
 
 ### Answer
 
@@ -592,80 +575,36 @@ C
 
 ### Explanation
 
-The material explicitly associates item 170 with “freebie.”
+The fitness room remains open, but its showers are unavailable.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 9
 
 ### Type
 
-double
+single
 
 ### Passage 1
 
-#### Memo
+#### Advertisement
 
-**Subject: Communication Skills Module 9**
+**BrightPath Language Services**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 171, whose approved term is **delude**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-### Passage 2
-
-#### Web Page
-
-**Module 9 Afternoon Review**
-
-Item 172 is **prolific**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-The schedule also notes that item 173 is **covert**, which will be reviewed at the end of the session.
+Presenting to international clients? BrightPath offers one-to-one business presentation coaching online. Each four-week course includes an initial skills review, weekly 45-minute meetings, and a recorded practice presentation with feedback. Participants choose either morning or evening appointments. Enrollment closes on March 20, and the next course begins April 1. Corporate groups of five or more receive customized pricing. Translation services are not included in the coaching fee.
 
 ### Question 171
 
-Which term is associated with item 171 in the material?
+What is BrightPath advertising?
 
-- A. skid
-- B. vest
-- C. monolithic
-- D. delude
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 171 with “delude.”
-
-### Question 172
-
-Which term is associated with item 172 in the material?
-
-- A. prolific
-- B. exhale
-- C. irresistible
-- D. irrespective
-
-### Answer
-
-A
-
-### Explanation
-
-The material explicitly associates item 172 with “prolific.”
-
-### Question 173
-
-Which term is associated with item 173 in the material?
-
-- A. pie
-- B. covert
-- C. overt
-- D. probe
+- A. Document translation
+- B. Presentation coaching
+- C. Overseas university admission
+- D. Public speaking competitions
 
 ### Answer
 
@@ -673,80 +612,16 @@ B
 
 ### Explanation
 
-The material explicitly associates item 173 with “covert.”
+The advertisement offers business presentation coaching.
 
-### Tags
+### Question 172
 
-- reading
-- business-communication
-- vocabulary
+What is included in the course?
 
-## Passage Group 10
-
-### Type
-
-double
-
-### Passage 1
-
-#### Email
-
-**Subject: Communication Skills Module 10**
-
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 174, whose approved term is **distiller**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-### Passage 2
-
-#### Schedule
-
-**Module 10 Afternoon Review**
-
-Item 175 is **spurt**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-The schedule also notes that item 176 is **precocious**, which will be reviewed at the end of the session.
-
-### Question 174
-
-Which term is associated with item 174 in the material?
-
-- A. fondness
-- B. nasty
-- C. distiller
-- D. gadget
-
-### Answer
-
-C
-
-### Explanation
-
-The material explicitly associates item 174 with “distiller.”
-
-### Question 175
-
-Which term is associated with item 175 in the material?
-
-- A. rotation
-- B. procure
-- C. conscience
-- D. spurt
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 175 with “spurt.”
-
-### Question 176
-
-Which term is associated with item 176 in the material?
-
-- A. precocious
-- B. crackdown
-- C. upbraid
-- D. sweep
+- A. Recorded practice with feedback
+- B. Unlimited translation service
+- C. In-person office visits
+- D. Daily two-hour lessons
 
 ### Answer
 
@@ -754,13 +629,101 @@ A
 
 ### Explanation
 
-The material explicitly associates item 176 with “precocious.”
+A recorded practice presentation with feedback is included.
+
+### Question 173
+
+Who may receive customized pricing?
+
+- A. Early applicants
+- B. Evening-only participants
+- C. Customers paying in cash
+- D. Companies enrolling at least five people
+
+### Answer
+
+D
+
+### Explanation
+
+Corporate groups of five or more qualify.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
+
+## Passage Group 10
+
+### Type
+
+single
+
+### Passage 1
+
+#### Article
+
+**Old Station Becomes Startup Hub**
+
+A disused railway station in Fairmont has reopened as an office center for small technology firms. The city funded major repairs, while a local nonprofit purchased desks and networking equipment. Twelve startups have rented space for the first year. Instead of charging market-rate rent, the center asks tenants to lead at least one free public workshop each quarter. City officials hope the arrangement will help residents learn digital skills and encourage new businesses to stay in the area.
+
+### Question 174
+
+What was the building previously used for?
+
+- A. A railway station
+- B. A technology school
+- C. A public library
+- D. A conference hotel
+
+### Answer
+
+A
+
+### Explanation
+
+The article identifies the building as a former railway station.
+
+### Question 175
+
+How did the nonprofit contribute?
+
+- A. By hiring all tenant employees
+- B. By funding the city's repairs
+- C. By supplying office equipment
+- D. By providing free rent
+
+### Answer
+
+C
+
+### Explanation
+
+It bought desks and networking equipment.
+
+### Question 176
+
+What are tenant companies required to do?
+
+- A. Publish financial statements
+- B. Hold free public workshops
+- C. Employ only local residents
+- D. Open on weekends
+
+### Answer
+
+B
+
+### Explanation
+
+Tenants are asked to lead at least one free workshop per quarter.
+
+### Tags
+
+- reading
+- business-context
+- comprehension
 
 ## Passage Group 11
 
@@ -770,30 +733,31 @@ double
 
 ### Passage 1
 
-#### Notice
+#### Email
 
-**Subject: Communication Skills Module 11**
+**From:** Jenna, Alder Design
+**To:** Sunrise Printing
+**Subject:** Catalog order
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 177, whose approved term is **voyage**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+Please print 500 copies of our 24-page catalog with a matte cover. We need them for our exhibition on May 20. Our budget is $1,200, including delivery to 88 King Street. If we approve the proof on May 9, can you deliver by May 17?
 
 ### Passage 2
 
-#### Web Page
+#### Reply
 
-**Module 11 Afternoon Review**
+**From:** Sunrise Printing
+**To:** Jenna
 
-Item 178 is **compliment**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-The schedule also notes that item 179 is **charter**, which will be reviewed at the end of the session.
+Thank you. The quoted price is $1,080 including local delivery. To meet your deadline, please approve the digital proof by noon on May 8. Matte covers are available, but the recycled-paper interior you requested would add $160. Our standard paper is included in the quote.
 
 ### Question 177
 
-Which term is associated with item 177 in the material?
+What is Jenna preparing for?
 
-- A. leaflet
-- B. voyage
-- C. brag
-- D. disgust
+- A. A staff training event
+- B. A product exhibition
+- C. An annual budget review
+- D. A store relocation
 
 ### Answer
 
@@ -801,33 +765,33 @@ B
 
 ### Explanation
 
-The material explicitly associates item 177 with “voyage.”
+She needs the catalogs for an exhibition on May 20.
 
 ### Question 178
 
-Which term is associated with item 178 in the material?
+What must Jenna do to receive the catalogs on time?
 
-- A. mad
-- B. offensive
-- C. compliment
-- D. eloquent
+- A. Approve the proof one day earlier than proposed
+- B. Increase the order to 600 copies
+- C. Arrange delivery herself
+- D. Switch to glossy covers
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The material explicitly associates item 178 with “compliment.”
+The printer requires approval by May 8 rather than May 9.
 
 ### Question 179
 
-Which term is associated with item 179 in the material?
+Which option would exceed Jenna's stated budget?
 
-- A. sailing
-- B. sledding
-- C. bewildering
-- D. charter
+- A. Standard paper with local delivery
+- B. Matte cover with standard paper
+- C. The initial quote without changes
+- D. Using the requested recycled interior paper
 
 ### Answer
 
@@ -835,13 +799,13 @@ D
 
 ### Explanation
 
-The material explicitly associates item 179 with “charter.”
+The $1,080 quote plus $160 for recycled paper totals $1,240, above the $1,200 budget.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 12
 
@@ -851,64 +815,33 @@ double
 
 ### Passage 1
 
-#### Memo
+#### Web Page
 
-**Subject: Communication Skills Module 12**
+**City Museum Workshops — June**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 180, whose approved term is **sequel**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+June 8: Intro to Digital Photography, 10 a.m.–noon, $35; bring a camera.
+June 15: Repairing Old Photographs, 1–3 p.m., $45; computers provided.
+June 22: Family Portraits, 10 a.m.–1 p.m., $30; children welcome.
+Full refunds are available for cancellations at least five days before a workshop.
 
 ### Passage 2
 
-#### Schedule
+#### Email
 
-**Module 12 Afternoon Review**
+**From:** Liam
+**To:** museum@city.example
+**Sent:** June 11
 
-Item 181 is **dope**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-The schedule also notes that item 182 is **stick**, which will be reviewed at the end of the session.
+I enrolled in Repairing Old Photographs but can no longer attend on June 15. My colleague is interested in taking my place. Is it possible to transfer my registration rather than cancel? I also want to attend the Family Portraits workshop with my daughter.
 
 ### Question 180
 
-Which term is associated with item 180 in the material?
+Which workshop did Liam originally book?
 
-- A. sequel
-- B. envoy
-- C. ethnic
-- D. minority
-
-### Answer
-
-A
-
-### Explanation
-
-The material explicitly associates item 180 with “sequel.”
-
-### Question 181
-
-Which term is associated with item 181 in the material?
-
-- A. ulcer
-- B. dope
-- C. strand
-- D. vein
-
-### Answer
-
-B
-
-### Explanation
-
-The material explicitly associates item 181 with “dope.”
-
-### Question 182
-
-Which term is associated with item 182 in the material?
-
-- A. tumor
-- B. tangle
-- C. stick
-- D. derelict
+- A. Intro to Digital Photography
+- B. Family Portraits
+- C. Repairing Old Photographs
+- D. A computer programming class
 
 ### Answer
 
@@ -916,85 +849,78 @@ C
 
 ### Explanation
 
-The material explicitly associates item 182 with “stick.”
+He says he enrolled in Repairing Old Photographs.
+
+### Question 181
+
+Why may Liam not qualify for a full cancellation refund?
+
+- A. The cancellation request comes less than five days before the event
+- B. The course includes computer equipment
+- C. He has already attended a previous workshop
+- D. He registered as a family
+
+### Answer
+
+A
+
+### Explanation
+
+His June 11 message is four days before June 15, within the five-day cutoff.
+
+### Question 182
+
+Which advertised activity is appropriate for Liam and his daughter?
+
+- A. The June 8 course
+- B. The June 15 course
+- C. All photography workshops
+- D. The June 22 workshop
+
+### Answer
+
+D
+
+### Explanation
+
+The Family Portraits workshop on June 22 explicitly welcomes children.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 13
 
 ### Type
 
-triple
+double
 
 ### Passage 1
 
-#### Email
+#### Memo
 
-**Subject: Communication Skills Module 13**
+**From:** Facilities Team
+**Subject:** Vehicle charging stations
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 183, whose approved term is **shrug**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+Four chargers will be installed at the east parking lot on July 3. They will be available only to employees holding a parking permit. The two chargers in the west lot will remain available throughout installation. After July 3, users must reserve a charging slot using the new staff portal.
 
 ### Passage 2
 
-#### Web Page
-
-**Module 13 Afternoon Review**
-
-Item 184 is **rhetoric**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-### Passage 3
-
 #### Chat
 
-**Mina 3:10 PM** — I checked the final card in Module 13. Item 185 is **pill**.
-**Leo 3:12 PM** — Thanks. I'll add it to the final packet and send the proof to the trainer.
+**Monday 2:10 p.m. — Priya:** I tried booking a charger for July 5, but the portal shows no options.
+**2:14 p.m. — Martin (IT):** Facilities postponed activation of online booking until July 8. The chargers are working, though. Until then, request a slot at the reception desk. Your parking permit is already valid.
 
 ### Question 183
 
-Which term is associated with item 183 in the material?
+Which chargers will continue operating during construction?
 
-- A. tune
-- B. skull
-- C. legendary
-- D. shrug
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 183 with “shrug.”
-
-### Question 184
-
-Which term is associated with item 184 in the material?
-
-- A. rhetoric
-- B. prejudice
-- C. plea
-- D. soil
-
-### Answer
-
-A
-
-### Explanation
-
-The material explicitly associates item 184 with “rhetoric.”
-
-### Question 185
-
-Which term is associated with item 185 in the material?
-
-- A. turbid
-- B. pill
-- C. alloy
-- D. paltry
+- A. The new east-lot chargers
+- B. The existing west-lot chargers
+- C. Chargers at the reception desk
+- D. All chargers will be closed
 
 ### Answer
 
@@ -1002,51 +928,16 @@ B
 
 ### Explanation
 
-The material explicitly associates item 185 with “pill.”
+The memo says the two west-lot chargers remain available.
 
-### Tags
+### Question 184
 
-- reading
-- business-communication
-- vocabulary
+Why can Priya not make a portal reservation?
 
-## Passage Group 14
-
-### Type
-
-triple
-
-### Passage 1
-
-#### Notice
-
-**Subject: Communication Skills Module 14**
-
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 186, whose approved term is **mogul**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
-
-### Passage 2
-
-#### Schedule
-
-**Module 14 Afternoon Review**
-
-Item 187 is **meeting**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
-
-### Passage 3
-
-#### Chat
-
-**Mina 3:10 PM** — I checked the final card in Module 14. Item 188 is **schedule**.
-**Leo 3:12 PM** — Thanks. I'll add it to the final packet and send the proof to the trainer.
-
-### Question 186
-
-Which term is associated with item 186 in the material?
-
-- A. mystify
-- B. piracy
-- C. mogul
-- D. meeting
+- A. Her permit has expired
+- B. Her parking lot is closed
+- C. The booking feature is not active yet
+- D. The chargers need repairs
 
 ### Answer
 
@@ -1054,33 +945,16 @@ C
 
 ### Explanation
 
-The material explicitly associates item 186 with “mogul.”
+The chat says online booking activation was delayed until July 8.
 
-### Question 187
+### Question 185
 
-Which term is associated with item 187 in the material?
+How can Priya reserve a slot for July 5?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 187 with “meeting.”
-
-### Question 188
-
-Which term is associated with item 188 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. Ask at the reception desk
+- B. Apply for another parking permit
+- C. Wait until July 8 to charge
+- D. Call an external charging company
 
 ### Answer
 
@@ -1088,13 +962,93 @@ A
 
 ### Explanation
 
-The material explicitly associates item 188 with “schedule.”
+For dates before activation, Martin directs users to reception.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
+
+## Passage Group 14
+
+### Type
+
+double
+
+### Passage 1
+
+#### Article
+
+**New Farmers' Market Site Announced**
+
+The weekend farmers' market will move from Hill Square to the covered depot on Harbor Road next month. The depot offers shelter during heavy rain and is closer to the tram stop. The market will operate Sundays, 8 a.m.–1 p.m. Vendors must confirm their stall requirements with the organizer before the 25th.
+
+### Passage 2
+
+#### Email
+
+**From:** Nadia, Spring Farm
+**To:** Market Organizer
+
+I'd like to continue selling vegetables when the market moves. At Hill Square I used an outdoor stall measuring three meters across. At the new site I will need access to electricity for a small refrigerated display. Could you confirm whether electrical outlets are available before I renew my stall agreement?
+
+### Question 186
+
+What advantage does the new market site offer visitors?
+
+- A. Free parking for all drivers
+- B. Longer shopping hours
+- C. Indoor restaurant seating
+- D. Protection from bad weather
+
+### Answer
+
+D
+
+### Explanation
+
+The covered depot provides shelter during heavy rain.
+
+### Question 187
+
+What concern does Nadia raise?
+
+- A. Whether she can get power for equipment
+- B. Whether vegetables are permitted
+- C. Whether the tram stop will close
+- D. Whether stall rent must be paid in cash
+
+### Answer
+
+A
+
+### Explanation
+
+She asks about an electrical outlet for her refrigerated display.
+
+### Question 188
+
+What does Nadia intend to do?
+
+- A. Change her product to baked goods
+- B. Stop participating in the market
+- C. Continue participating if her needs can be met
+- D. Move the market back to Hill Square
+
+### Answer
+
+C
+
+### Explanation
+
+She wants to continue selling vegetables and is checking a needed condition.
+
+### Tags
+
+- reading
+- business-context
+- comprehension
 
 ## Passage Group 15
 
@@ -1104,35 +1058,37 @@ triple
 
 ### Passage 1
 
-#### Memo
+#### Web Page
 
-**Subject: Communication Skills Module 15**
+**Horizon Tech Expo — Visitor Information**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 189, whose approved term is **invoice**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+Expo dates: September 12–13. Doors open at 9 a.m. Standard admission is $25 per day. A two-day pass is $40. The 'Smart Offices' demonstration on September 13 begins at 11 a.m. and has limited seating; an event reservation is required in addition to an admission pass.
 
 ### Passage 2
 
-#### Web Page
+#### Email
 
-**Module 15 Afternoon Review**
+**From:** Eva
+**To:** Event Registration
 
-Item 190 is **shipment**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
+I bought a two-day pass yesterday. I'd like to attend the Smart Offices session on the second day, but when I clicked the session reservation link, it was unavailable. Could you confirm whether the demonstration has sold out? I will be traveling to the expo by train.
 
 ### Passage 3
 
-#### Chat
+#### Reply
 
-**Mina 3:10 PM** — I checked the final card in Module 15. Item 191 is **meeting**.
-**Leo 3:12 PM** — Thanks. I'll add it to the final packet and send the proof to the trainer.
+**From:** Event Registration
+
+Hello Eva, the reservation link was temporarily disabled for maintenance. It will reopen at 6 p.m. today, and seats are still available. Your two-day pass remains valid, but it does not automatically reserve a demonstration seat. The venue is a five-minute walk from Central Station.
 
 ### Question 189
 
-Which term is associated with item 189 in the material?
+How much is Eva's admission pass?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. $25
+- B. $40
+- C. $50
+- D. $65
 
 ### Answer
 
@@ -1140,33 +1096,16 @@ B
 
 ### Explanation
 
-The material explicitly associates item 189 with “invoice.”
+Eva bought the two-day pass priced at $40.
 
 ### Question 190
 
-Which term is associated with item 190 in the material?
+Why was Eva unable to book the demonstration?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-C
-
-### Explanation
-
-The material explicitly associates item 190 with “shipment.”
-
-### Question 191
-
-Which term is associated with item 191 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. It was canceled
+- B. Her admission pass had expired
+- C. All seats were taken
+- D. The reservation system was under maintenance
 
 ### Answer
 
@@ -1174,13 +1113,30 @@ D
 
 ### Explanation
 
-The material explicitly associates item 191 with “meeting.”
+The organizer clarifies that the link was temporarily disabled for maintenance.
+
+### Question 191
+
+What should Eva do to attend the Smart Offices event?
+
+- A. Reserve a seat when booking reopens
+- B. Purchase another two-day pass
+- C. Arrive before the expo opens
+- D. Ask the train station for a ticket
+
+### Answer
+
+A
+
+### Explanation
+
+She still needs to reserve a session seat once reservations reopen.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 16
 
@@ -1190,69 +1146,54 @@ triple
 
 ### Passage 1
 
-#### Email
+#### Memo
 
-**Subject: Communication Skills Module 16**
+**Staff Wellness Reimbursement Policy**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 192, whose approved term is **schedule**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+Starting January 1, permanent employees may claim up to $180 per calendar year for approved fitness memberships. Claims require a dated receipt showing the employee's name. Reimbursements are processed on the last Friday of each month. Personal training sessions are not eligible.
 
 ### Passage 2
 
-#### Schedule
+#### Email
 
-**Module 16 Afternoon Review**
+**From:** Carlos
+**To:** HR Benefits
 
-Item 193 is **invoice**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
+I joined Westside Gym in February and paid $210 for a three-month membership. The receipt lists my name and payment date. I also bought two private training sessions for $50 each. Can I include everything when I submit my claim?
 
 ### Passage 3
 
-#### Chat
+#### Reply
 
-**Mina 3:10 PM** — I checked the final card in Module 16. Item 194 is **shipment**.
-**Leo 3:12 PM** — Thanks. I'll add it to the final packet and send the proof to the trainer.
+**From:** HR Benefits
+
+Your membership qualifies, but reimbursement is capped at $180 for the year. Private training sessions are excluded under the policy. Please upload the membership receipt through the employee portal before the 20th if you want your request included in this month's processing.
 
 ### Question 192
 
-Which term is associated with item 192 in the material?
+What is the annual reimbursement limit?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. $100
+- B. $150
+- C. $210
+- D. $180
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-The material explicitly associates item 192 with “schedule.”
+The memo states a cap of $180 per calendar year.
 
 ### Question 193
 
-Which term is associated with item 193 in the material?
+Which of Carlos's purchases is not eligible?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-B
-
-### Explanation
-
-The material explicitly associates item 193 with “invoice.”
-
-### Question 194
-
-Which term is associated with item 194 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. His gym membership
+- B. The membership registration fee
+- C. His private training sessions
+- D. His three-month subscription
 
 ### Answer
 
@@ -1260,13 +1201,30 @@ C
 
 ### Explanation
 
-The material explicitly associates item 194 with “shipment.”
+Private training is explicitly excluded.
+
+### Question 194
+
+What is Carlos advised to do before the 20th?
+
+- A. Submit his membership receipt online
+- B. Cancel his gym membership
+- C. Contact the gym for a new plan
+- D. Pay an additional fee
+
+### Answer
+
+A
+
+### Explanation
+
+HR asks him to upload the receipt through the employee portal before the 20th.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 17
 
@@ -1276,69 +1234,40 @@ triple
 
 ### Passage 1
 
-#### Notice
+#### Schedule
 
-**Subject: Communication Skills Module 17**
+**Delivery Schedule — Friday**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 195, whose approved term is **meeting**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+8:00 – Packaging supplies, Dock 1
+9:30 – Display stands, Dock 2
+11:00 – Refrigerated samples, Dock 3
+2:00 – Promotional posters, Dock 1
+
+Cold-storage staff must be present when refrigerated goods arrive.
 
 ### Passage 2
 
-#### Web Page
+#### Email
 
-**Module 17 Afternoon Review**
+**From:** Renee, Events
+**To:** Logistics
 
-Item 196 is **schedule**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
+The food exhibition opens Saturday, so please confirm Friday's deliveries. Our refrigeration technician can work only until 10 a.m. Friday. The display stands can be assembled after lunch, and I can handle the poster delivery myself.
 
 ### Passage 3
 
 #### Chat
 
-**Mina 3:10 PM** — I checked the final card in Module 17. Item 197 is **invoice**.
-**Leo 3:12 PM** — Thanks. I'll add it to the final packet and send the proof to the trainer.
+**Logistics 4:15 p.m.:** We moved the refrigerated samples to 9 a.m., keeping Dock 3. Packaging supplies and posters are unchanged. The display stands will now arrive at 12:30 p.m. because the supplier's vehicle is booked in the morning. Please tell your technician about the new sample arrival time.
 
 ### Question 195
 
-Which term is associated with item 195 in the material?
+Why was the refrigerated-sample delivery rescheduled?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 195 with “meeting.”
-
-### Question 196
-
-Which term is associated with item 196 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-A
-
-### Explanation
-
-The material explicitly associates item 196 with “schedule.”
-
-### Question 197
-
-Which term is associated with item 197 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. The supplier had no inventory
+- B. The refrigeration technician was available only in the morning
+- C. The exhibition was canceled
+- D. Dock 3 was under repair
 
 ### Answer
 
@@ -1346,13 +1275,47 @@ B
 
 ### Explanation
 
-The material explicitly associates item 197 with “invoice.”
+Renee said the refrigeration technician could work only until 10 a.m.
+
+### Question 196
+
+When are the display stands now expected?
+
+- A. 8 a.m.
+- B. 9 a.m.
+- C. 11 a.m.
+- D. 12:30 p.m.
+
+### Answer
+
+D
+
+### Explanation
+
+The chat revises the stands' delivery from 9:30 to 12:30.
+
+### Question 197
+
+Which delivery remains scheduled for 2 p.m.?
+
+- A. Refrigerated samples
+- B. Display stands
+- C. Promotional posters
+- D. Packaging supplies
+
+### Answer
+
+C
+
+### Explanation
+
+The posters remain unchanged from the 2 p.m. schedule.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
 ## Passage Group 18
 
@@ -1362,69 +1325,37 @@ triple
 
 ### Passage 1
 
-#### Memo
+#### Notice
 
-**Subject: Communication Skills Module 18**
+**Oakridge Community Center — Volunteer Fair**
 
-The training office is finalizing a vocabulary reference packet for a multinational customer-service program. The first card in this module is item 198, whose approved term is **shipment**. Editors should verify spelling carefully before the packet is printed. The session also includes workplace examples, pronunciation practice, and a short review exercise.
+Volunteer Fair: April 21, 10 a.m.–3 p.m. Exhibitors may set up booths from 8:30 a.m. Limited free parking is available behind the building. Organizations must submit a final list of representatives by April 15. Lunch is provided only for registered booth representatives.
 
 ### Passage 2
 
-#### Schedule
+#### Email
 
-**Module 18 Afternoon Review**
+**From:** Theo, City Green Team
+**To:** Event Coordinator
 
-Item 199 is **meeting**. It will be checked immediately after the customer-email exercise. Participants should bring the printed worksheet and mark any wording that needs clarification.
+Our group registered a booth for the fair. Two members, Rina and Jorge, will attend in the morning, but Jorge must leave by noon. Another volunteer, Mika, can replace him for the afternoon. Will Mika still receive lunch if we add her name now?
 
 ### Passage 3
 
-#### Chat
+#### Reply
 
-**Mina 3:10 PM** — I checked the final card in Module 18. Item 200 is **schedule**.
-**Leo 3:12 PM** — Thanks. I'll add it to the final packet and send the proof to the trainer.
+**From:** Coordinator
+
+Yes, as long as Mika is on your final representative list by April 15, she'll be eligible for lunch. Please note that every representative must collect a badge at the registration desk. We cannot reserve parking places for individual exhibitors, so encourage your team to use public transportation.
 
 ### Question 198
 
-Which term is associated with item 198 in the material?
+What must exhibitors provide by April 15?
 
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-C
-
-### Explanation
-
-The material explicitly associates item 198 with “shipment.”
-
-### Question 199
-
-Which term is associated with item 199 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
-
-### Answer
-
-D
-
-### Explanation
-
-The material explicitly associates item 199 with “meeting.”
-
-### Question 200
-
-Which term is associated with item 200 in the material?
-
-- A. schedule
-- B. invoice
-- C. shipment
-- D. meeting
+- A. A final list of representatives
+- B. An estimate of booth sales
+- C. A parking reservation request
+- D. Photographs of their booth
 
 ### Answer
 
@@ -1432,11 +1363,45 @@ A
 
 ### Explanation
 
-The material explicitly associates item 200 with “schedule.”
+Organizations must submit final representative names by April 15.
+
+### Question 199
+
+Under what condition will Mika receive lunch?
+
+- A. If she arrives before 8:30 a.m.
+- B. If she remains until the fair closes
+- C. If she is listed as a representative by the deadline
+- D. If Jorge gives her his meal voucher
+
+### Answer
+
+C
+
+### Explanation
+
+Lunch is provided to registered booth representatives and she must be named by April 15.
+
+### Question 200
+
+What does the coordinator recommend?
+
+- A. Arranging individual parking reservations
+- B. Using public transportation
+- C. Reducing the number of volunteers to two
+- D. Collecting badges after the event
+
+### Answer
+
+B
+
+### Explanation
+
+Parking spaces cannot be reserved, so public transport is recommended.
 
 ### Tags
 
 - reading
-- business-communication
-- vocabulary
+- business-context
+- comprehension
 
