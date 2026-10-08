@@ -53,9 +53,6 @@ function audioLines(group: QuestionGroup) {
   return group.speech.length ? group.speech : group.questions.flatMap((question) => question.speech)
 }
 
-function groupAnswered(group: QuestionGroup) {
-  return group.questions.every((question) => Boolean(store.answers[testId]?.[question.id]))
-}
 </script>
 
 <template>
@@ -105,7 +102,6 @@ function groupAnswered(group: QuestionGroup) {
               <button
                 class="primary"
                 type="button"
-                :disabled="!groupAnswered(group)"
                 @click="revealedGroups[group.id] = true"
               >
                 Check answers
