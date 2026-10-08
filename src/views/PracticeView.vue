@@ -111,6 +111,16 @@ function audioLines(group: QuestionGroup) {
             </div>
           </header>
 
+          <div
+            v-if="(group.part === 3 || group.part === 4) && visibleTranscripts[group.id]"
+            class="group-transcript"
+          >
+            <h3>Transcript</h3>
+            <p v-for="(line, index) in (group.speech.length ? group.speech : group.questions.flatMap(question => question.speech))" :key="index">
+              <strong>{{ line.speaker }}:</strong> {{ line.text }}
+            </p>
+          </div>
+
           <div class="questions-stack">
             <QuestionCard
               v-for="(question, questionIndex) in group.questions"
@@ -118,7 +128,7 @@ function audioLines(group: QuestionGroup) {
               :question="question"
               :model-value="store.answers[testId]?.[question.id]"
               :reveal="Boolean(revealedGroups[group.id])"
-              :show-transcript="Boolean(visibleTranscripts[group.id])"
+              :show-transcript="group.part !== 3 && group.part !== 4 && Boolean(visibleTranscripts[group.id])"
               :hide-passages="group.part >= 6 && questionIndex > 0"
               @update:model-value="choose(question.id, $event)"
             />
@@ -135,6 +145,24 @@ function audioLines(group: QuestionGroup) {
 </template>
 
 <style scoped>
+.group-transcript {
+  margin-bottom: 1rem;
+  padding: 1.25rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--mint);
+}
+
+.group-transcript h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+}
+
+.group-transcript p {
+  margin: 0.5rem 0;
+  line-height: 1.65;
+}
+
 .part-summary {
   margin: 0.7rem 0 0;
   font-size: 1rem;
