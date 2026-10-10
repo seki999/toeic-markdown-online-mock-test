@@ -12,61 +12,66 @@ Narrator:
 Questions 32 through 34 refer to the following conversation.
 
 Speaker 1:
-The venue contract for our inaugural customer forum still hasn't been signed. The hotel wants the final guest count before it confirms the ballroom.
+Our new subsidiary needs a versatile reception system. The sales representative keeps trying to tout the premium package, but most of its features are peripheral to what we need.
 
 Speaker 2:
-Registration closes on Wednesday. Could we give them a provisional figure of 120 and update it afterward?
+Agreed. Ease of use should be the main criterion. The basic package lets visitors register and prints badges without extra equipment.
 
 Speaker 1:
-I'll ask whether that's acceptable. Meanwhile, please check if the smaller rooms are available for workshops.
+It also costs less. Still, I do not want to incur an installation fee we have overlooked.
+
+Speaker 2:
+I will request a written quotation that includes setup and training. Then we can compare the total costs before signing anything.
 
 ### Question 32
 
-What are the speakers organizing?
+What are the speakers choosing?
 
-- A. A training visit
-- B. A customer forum
-- C. A product return
-- D. A charity auction
+- A. A delivery vehicle
+- B. A reception system
+- C. An advertising agency
+- D. A conference speaker
 
 ### Question 33
 
-Why has the contract not been finalized?
+What feature do the speakers consider most important?
 
-- A. The venue needs attendance information
-- B. The hotel is being renovated
-- C. The speaker has missed a payment
-- D. The program has been canceled
+- A. Access from overseas
+- B. A long warranty
+- C. A colorful display
+- D. Ease of operation
 
 ### Question 34
 
-What does the man ask the woman to check?
+What will the second speaker do next?
 
-- A. Catering options
-- B. Staff parking
-- C. Availability of smaller rooms
-- D. The list of invited journalists
+- A. Hire a receptionist
+- B. Cancel a training class
+- C. Obtain a comprehensive quotation
+- D. Arrange an immediate installation
 
 ### Answers
 
 32: B
-33: A
+33: D
 34: C
 
 ### Explanation
 
 #### Question 32
-undefined
+
+Visitor registration and badge printing identify a reception system; none of the other purchases is discussed.
 
 #### Question 33
-undefined
+
+Ease of use is explicitly the main criterion. Color, warranty, and overseas access are not given as priorities.
 
 #### Question 34
-undefined
+
+The second speaker will request setup and training costs in writing. Installation is not yet approved, and no cancellation or hiring is planned.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -82,61 +87,69 @@ Narrator:
 Questions 35 through 37 refer to the following conversation.
 
 Speaker 1:
-Our bank's fraud team stopped the transfer to Parkline Supplies. The account number on the invoice differs from the one we used last month.
+Marta, a small blemish on the metal panel has led to a customer complaint. I was about to compensate the buyer, but the quality team wants to probe the cause first.
 
 Speaker 2:
-The supplier claims it changed banks, but I haven't verified that yet.
+I have a photograph. The alloy itself looks fine; the protective coating seems to have failed during transport.
 
 Speaker 1:
-Don't use the phone number printed on the new invoice. Call our usual contact directly and ask for written confirmation.
+Could rough handling tarnish the surface that quickly?
+
+Speaker 2:
+Possibly. Let us keep the damaged panel here and send a replacement now. We can ask the courier for its handling records while the laboratory examines the coating.
+
+Speaker 1:
+That sounds fair. I will call the buyer and explain the plan.
 
 ### Question 35
 
-Why was a transfer stopped?
+What problem is being discussed?
 
-- A. The purchase was canceled
-- B. It exceeded a spending limit
-- C. The recipient's account details changed
-- D. The supplier did not deliver
+- A. Damage to a product surface
+- B. A missing payment
+- C. A shortage of raw metal
+- D. An incorrect order quantity
 
 ### Question 36
 
-What has not been confirmed?
+What does the second speaker recommend?
 
-- A. The payment due date
-- B. A change of bank accounts
-- C. The order quantity
-- D. The warehouse address
+- A. Stopping all shipments
+- B. Providing a replacement before the inquiry is finished
+- C. Discarding the damaged panel
+- D. Refunding every recent order
 
 ### Question 37
 
-What does the speaker recommend?
+Why will the first speaker contact the buyer?
 
-- A. Contacting an established supplier representative
-- B. Paying the invoice in cash
-- C. Issuing a new purchase order
-- D. Transferring the funds immediately
+- A. To explain how the complaint will be handled
+- B. To change the delivery address
+- C. To solicit a new order
+- D. To request a laboratory job application
 
 ### Answers
 
-35: C
+35: A
 36: B
 37: A
 
 ### Explanation
 
 #### Question 35
-undefined
+
+The complaint concerns a blemish on a panel. Payment, quantity, and metal supply are not identified as problems.
 
 #### Question 36
-undefined
+
+A replacement will be sent now while records and coating are examined. The damaged panel will be retained, and a blanket refund or shipment halt is not proposed.
 
 #### Question 37
-undefined
+
+The first speaker explicitly plans to explain the replacement and inquiry. The call is not for sales, address changes, or recruitment.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -152,61 +165,69 @@ Narrator:
 Questions 38 through 40 refer to the following conversation.
 
 Speaker 1:
-The article for Friday's issue contains several sentences that seem to have been copied from another publication.
+The ventilation contractor says the new filters are ready, but dust will still penetrate the room unless we replace the seal around the door.
 
 Speaker 2:
-The author says she only consulted that report for data, but the wording is almost identical.
+Then ordering the filters alone would be a facile solution. We should address the whole problem.
+
+Speaker 3:
+The laboratory staff agree. They say it is imperative to finish before Friday, when the testing equipment arrives.
 
 Speaker 1:
-We should rewrite that section and cite the original source. I'll have Legal check the revised copy before printing.
+The contractor can replace the seal Wednesday morning. We need to designate someone to unlock the building at seven.
+
+Speaker 2:
+I live nearby. I can do that, and I will warn the staff that the room will be unavailable until noon.
 
 ### Question 38
 
-What problem have the speakers identified?
+Where most likely do the speakers work?
 
-- A. A missed interview
-- B. Possible plagiarism
-- C. Missing photographs
-- D. An incorrect printing date
+- A. At a laboratory
+- B. At a theater
+- C. At an apparel shop
+- D. At a ferry terminal
 
 ### Question 39
 
-What does the speaker suggest?
+Why does the work need to be completed this week?
 
-- A. Canceling the issue
-- B. Hiring a new editor
-- C. Rewriting and citing part of the article
-- D. Changing the cover design
+- A. Equipment is due to arrive
+- B. An inspection was canceled
+- C. A technician is retiring
+- D. A lease will expire
 
 ### Question 40
 
-Who will review the revision?
+What does the second speaker offer to do?
 
-- A. A legal representative
-- B. The advertising manager
-- C. A printing technician
-- D. The original interviewee
+- A. Collect the filters from a factory
+- B. Repair the door personally
+- C. Give the contractor access to the building
+- D. Transport the testing equipment
 
 ### Answers
 
-38: B
-39: C
-40: A
+38: A
+39: A
+40: C
 
 ### Explanation
 
 #### Question 38
-undefined
+
+Testing equipment and laboratory staff establish the setting. Travel, clothing sales, and performance facilities are not discussed.
 
 #### Question 39
-undefined
+
+Equipment arrives Friday. No canceled inspection, lease deadline, or retirement explains the urgency.
 
 #### Question 40
-undefined
+
+Living nearby enables the speaker to unlock the building at seven. The contractor, not this speaker, will do the repair.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -222,40 +243,46 @@ Narrator:
 Questions 41 through 43 refer to the following conversation.
 
 Speaker 1:
-The museum's premiere exhibition opens tomorrow, but the main sculpture still hasn't arrived.
+Our debut cooking class is full. The instructor wants a piquant soup as the first recipe, but several guests have requested a less spicy entree.
 
 Speaker 2:
-The courier says the delivery truck broke down. The artwork should reach us by noon, but we'll need extra people to install it.
+We can cater to both groups. Prepare a mild base and put the seasonings on a separate tray. Everyone can choose their own level of heat.
 
 Speaker 1:
-I'll arrange for two technicians to stay late. Let's prepare the smaller displays first.
+Good idea. That should make the soup palatable without changing the lesson.
+
+Speaker 2:
+Also, the ingredient list on the booking page omits sesame oil. It is important for guests with allergies.
+
+Speaker 1:
+I will update the page and email the list to everyone this afternoon. Could you buy the extra bowls?
 
 ### Question 41
 
-What event is being prepared?
+What are the speakers preparing for?
 
-- A. A museum exhibition
-- B. A sales presentation
-- C. A board meeting
-- D. A film screening
+- A. A cooking class
+- B. A grocery delivery
+- C. A staff interview
+- D. A restaurant inspection
 
 ### Question 42
 
-Why has the main sculpture been delayed?
+How will different preferences be accommodated?
 
-- A. It was damaged
-- B. A vehicle broke down
-- C. It was sent to another country
-- D. A permit was rejected
+- A. By lowering the admission price
+- B. By serving seasonings separately
+- C. By canceling the soup lesson
+- D. By offering only dessert
 
 ### Question 43
 
-What will the speakers do first?
+What will the first speaker do this afternoon?
 
-- A. Cancel the exhibition
-- B. Request a refund
-- C. Set up smaller displays
-- D. Contact local newspapers
+- A. Meet an allergy specialist
+- B. Purchase the bowls
+- C. Send an updated ingredient list
+- D. Test a new oven
 
 ### Answers
 
@@ -266,17 +293,19 @@ What will the speakers do first?
 ### Explanation
 
 #### Question 41
-undefined
+
+The first speaker identifies a debut cooking class. Inspection, delivery, and recruitment are not the event.
 
 #### Question 42
-undefined
+
+Guests will season a mild base individually. The lesson continues, and dessert or discounts are not suggested.
 
 #### Question 43
-undefined
+
+Updating the page and emailing the list are assigned to the first speaker. Bowl purchasing is requested of the other speaker; oven testing and a specialist are not mentioned.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -292,61 +321,69 @@ Narrator:
 Questions 44 through 46 refer to the following conversation.
 
 Speaker 1:
-Customer inquiries about our courier tracking service have surged this week.
+The municipal office approved our outdoor premiere, but a throng could block the emergency exit. We must not let an upsurge in ticket sales put anyone in jeopardy.
 
 Speaker 2:
-I noticed. Packages are moving normally, but the status information doesn't update until the following morning.
+We can segregate the entry queue from the exit route with temporary barriers. The statutory occupancy limit still applies even outdoors.
 
 Speaker 1:
-Let's put a notice on the website. I'll ask our systems team whether the data feed can be refreshed more frequently.
+Would that deter people from arriving early?
+
+Speaker 2:
+No. It simply keeps a clear path. We should explain the arrangement in the confirmation email instead of adding it at the last minute.
+
+Speaker 1:
+I will draft that now. Please ask the site manager where the barriers can be stored overnight.
 
 ### Question 44
 
-What has increased?
+What concern does the first speaker raise?
 
-- A. Customer inquiries
-- B. Delivery fees
-- C. Staff vacancies
-- D. Orders from overseas
+- A. The performers lack permits
+- B. The performance might be too short
+- C. Ticket prices are too high
+- D. An emergency route could become blocked
 
 ### Question 45
 
-What problem is described?
+What is suggested to improve safety?
 
-- A. Orders cannot be placed
-- B. Tracking information is delayed
-- C. Couriers have gone on strike
-- D. Invoices are incorrect
+- A. Canceling advance ticket sales
+- B. Removing the capacity limit
+- C. Separating the queue from the exit
+- D. Delaying every admission
 
 ### Question 46
 
-Who will investigate the issue?
+What will the second speaker be asked to find out?
 
-- A. The finance office
-- B. The marketing agency
-- C. The systems team
-- D. The local council
+- A. Who will perform first
+- B. Where equipment can be stored
+- C. Whether a script is finished
+- D. How much the tickets cost
 
 ### Answers
 
-44: A
-45: B
-46: C
+44: D
+45: C
+46: B
 
 ### Explanation
 
 #### Question 44
-undefined
+
+The concern is a crowd obstructing an exit. Approval has already been obtained, and duration or price is not questioned.
 
 #### Question 45
-undefined
+
+Temporary barriers separate entry and exit. The statutory limit remains, and neither universal delay nor canceled sales is proposed.
 
 #### Question 46
-undefined
+
+The requested task is to ask about overnight barrier storage. Script, performance order, and price are not the inquiry.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -362,61 +399,69 @@ Narrator:
 Questions 47 through 49 refer to the following conversation.
 
 Speaker 1:
-The guest speaker's train is delayed, so she won't reach the training center before ten.
+I am worried the new gadget will become obsolete within a year. The distributor calls it an ingenious design, but there is no spare battery.
 
 Speaker 2:
-We could begin with the safety demonstration instead. That session doesn't require her.
+That is a valid concern. A glowing testimonial cannot substitute for a reliable maintenance plan.
 
 Speaker 1:
-Good idea. Please ask Facilities to prepare Room B now. I'll send an updated schedule to participants.
+Our current device still works, though its software is bewildering. Would a training session be enough?
+
+Speaker 2:
+Possibly. Before we procure replacements, let us ask support to demonstrate the functions we actually use.
+
+Speaker 1:
+I will arrange a demonstration for Tuesday. If that solves the problem, we can postpone the purchase.
 
 ### Question 47
 
-Why must the schedule change?
+Why is the first speaker hesitant about a product?
 
-- A. An instructor is running late
-- B. The building is closed
-- C. Attendance is too low
-- D. A workshop was canceled
+- A. It cannot connect to the internet
+- B. The distributor has closed
+- C. Its color is unpopular
+- D. A replacement battery is unavailable
 
 ### Question 48
 
-What is suggested?
+What does the second speaker imply about testimonials?
 
-- A. Ending the event early
-- B. Changing the order of sessions
-- C. Moving the event online
-- D. Hiring another instructor
+- A. They always contain false claims
+- B. They determine a product warranty
+- C. They replace the need for training
+- D. They are insufficient to establish long-term support
 
 ### Question 49
 
-What will Facilities be asked to do?
+What will the speakers do before purchasing devices?
 
-- A. Prepare a meeting room
-- B. Print certificates
-- C. Arrange transportation
-- D. Order lunch
+- A. Ask customers to return devices
+- B. Replace every battery
+- C. Evaluate a demonstration of their current equipment
+- D. Advertise the new model
 
 ### Answers
 
-47: A
-48: B
-49: A
+47: D
+48: D
+49: C
 
 ### Explanation
 
 #### Question 47
-undefined
+
+The missing spare battery is the stated concern. Color, connectivity, and distributor closure are not given.
 
 #### Question 48
-undefined
+
+The speaker says praise cannot replace a maintenance plan. This does not mean all praise is false or that reviews set warranties.
 
 #### Question 49
-undefined
+
+Support will demonstrate existing functions; a successful demonstration could postpone buying. No advertising or customer return is planned.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -432,61 +477,69 @@ Narrator:
 Questions 50 through 52 refer to the following conversation.
 
 Speaker 1:
-Can you cover the reception desk Friday morning? Lena is attending a regional training event.
+The distinguished pianist has agreed to play at our retirement dinner. Her recital fee is reasonable, but she needs a quiet room to warm up.
 
 Speaker 2:
-I can help until one o'clock, but I have an appointment after lunch.
+The hotel has a small suite beside the ballroom. It would give her some tranquility away from the hustle-bustle in the lobby.
 
 Speaker 1:
-That works. I'll ask Marco to take the afternoon shift. I'll also send you the instructions for the new visitor registration system.
+Excellent. We also need to check whether formal attire is required. The invitation says elegant, which is rather obscure.
+
+Speaker 2:
+I will call the organizer and ask for precise wording. Then we can send a clarification with the revised itinerary.
+
+Speaker 1:
+Please also confirm whether the pianist needs transport from the station.
 
 ### Question 50
 
-Why does reception need temporary coverage?
+What event are the speakers organizing?
 
-- A. A staff member is attending training
-- B. The front desk is moving
-- C. The system has failed
-- D. A visitor event was canceled
+- A. A piano competition
+- B. A retirement dinner
+- C. An inaugural lecture
+- D. A hotel opening
 
 ### Question 51
 
-When is the second speaker available?
+Why is a separate room suggested?
 
-- A. After three
-- B. Before one
-- C. All afternoon
-- D. Only on Thursday
+- A. To serve a buffet
+- B. To display gifts
+- C. To provide a quiet practice space
+- D. To conduct interviews
 
 ### Question 52
 
-What will the first speaker send?
+What information will the second speaker clarify?
 
-- A. A training certificate
-- B. A parking permit
-- C. System instructions
-- D. A list of job applicants
+- A. The age of the hotel
+- B. The dress requirements
+- C. The number of music awards
+- D. The price of a piano
 
 ### Answers
 
-50: A
-51: B
-52: C
+50: B
+51: C
+52: B
 
 ### Explanation
 
 #### Question 50
-undefined
+
+The event is explicitly a retirement dinner. A lecture, competition, and hotel opening are not described.
 
 #### Question 51
-undefined
+
+The pianist needs to warm up away from lobby noise. The room is not requested for gifts, food, or interviews.
 
 #### Question 52
-undefined
+
+The word elegant is unclear, so the organizer will be asked about attire. Piano prices, hotel age, and awards are unrelated.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -502,61 +555,69 @@ Narrator:
 Questions 53 through 55 refer to the following conversation.
 
 Speaker 1:
-The hotel has a ballroom large enough for our annual conference, but all its small meeting rooms are booked.
+A counterfeit ticket appeared at the tournament yesterday. Security wants us to confiscate suspicious tickets, but I do not want volunteers to upbraid innocent visitors.
 
 Speaker 2:
-Could we divide the ballroom with portable partitions for the breakout sessions?
+They should stay cordial and refer cases to a supervisor. A nasty accusation could cause a bigger problem than the ticket.
+
+Speaker 3:
+We can also use the scanner to check the serial number before making a decision.
 
 Speaker 1:
-Yes, though that will add eight hundred dollars. Let's obtain Finance's approval before paying the deposit.
+Good. Please put that process in a leaflet for the morning briefing.
+
+Speaker 2:
+I will. We should keep one entrance available for people who need assistance, so a disputed ticket does not delay everyone else.
 
 ### Question 53
 
-What is unavailable?
+What prompted the discussion?
 
-- A. Parking spaces
-- B. Small meeting rooms
-- C. Guest rooms
-- D. Projectors
+- A. The loss of a trophy
+- B. The discovery of a false ticket
+- C. An unpaid volunteer fee
+- D. A change in tournament rules
 
 ### Question 54
 
-What would cause additional expense?
+How should volunteers handle questionable tickets?
 
-- A. Extra room dividers
-- B. A longer conference
-- C. A new registration service
-- D. Airport transportation
+- A. Discard them without checking
+- B. Accuse visitors publicly
+- C. Close all entrances
+- D. Ask a supervisor to review them
 
 ### Question 55
 
-What will be done before a deposit is paid?
+What will the second speaker prepare?
 
-- A. Guests will receive invitations
-- B. A brochure will be printed
-- C. Approval will be requested from Finance
-- D. The venue will be inspected
+- A. An apology to a coach
+- B. Written guidance for a briefing
+- C. A new scoring system
+- D. A list of tournament winners
 
 ### Answers
 
 53: B
-54: A
-55: C
+54: D
+55: B
 
 ### Explanation
 
 #### Question 53
-undefined
+
+A counterfeit ticket was found yesterday. No trophy loss, rule change, or volunteer charge prompted the discussion.
 
 #### Question 54
-undefined
+
+The second speaker recommends courteous referral, and a serial-number check is suggested. Public accusations, disposal, and closure contradict this approach.
 
 #### Question 55
-undefined
+
+The speaker agrees to put the process in a leaflet. Scoring, coaching apologies, and winners are not assigned.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -572,64 +633,69 @@ Narrator:
 Questions 56 through 58 refer to the following conversation.
 
 Speaker 1:
-The replacement handheld scanner still won't connect to the warehouse network.
+The finance team is not immune to a surge in travel costs. We may default on our hotel deposit if the reimbursement arrives late.
 
 Speaker 2:
-Did you install the latest firmware? The new model uses a different wireless setting.
+Could we use the provisional budget approval? It gives us a small reprieve until the final figures are confirmed.
 
 Speaker 1:
-Not yet. I'll do that now. If it doesn't work, could you arrange a call with technical support?
+Only with the director's signature. I do not want to obfuscate the situation by calling the deposit an equipment expense.
 
 Speaker 2:
-Of course. They're available until six this evening.
+Of course. I will prepare a candid note explaining the cash-flow gap. We can ask for the signature before lunch.
+
+Speaker 1:
+Thank you. That will also leave an accurate record for the audit.
 
 ### Question 56
 
-Where do the speakers most likely work?
+What difficulty do the speakers face?
 
-- A. A warehouse
-- B. A museum
-- C. A bank
-- D. A restaurant
+- A. A payment may be late
+- B. An audit report is missing
+- C. A hotel has lost a reservation
+- D. An equipment order was canceled
 
 ### Question 57
 
-What hasn't been done?
+What is required to use provisional funding?
 
-- A. Charging a battery
-- B. Updating the scanner software
-- C. Changing the delivery address
-- D. Replacing the network router
+- A. The trip must be postponed
+- B. The hotel must lower its price
+- C. The audit must be canceled
+- D. The director must sign
 
 ### Question 58
 
-What may be arranged?
+Why does the first speaker reject a proposed accounting label?
 
-- A. A product demonstration
-- B. A site inspection
-- C. A technical support call
-- D. A staff meeting
+- A. It would require new software
+- B. It would reveal a trade secret
+- C. It would misrepresent the expense
+- D. It would increase the room rate
 
 ### Answers
 
 56: A
-57: B
+57: D
 58: C
 
 ### Explanation
 
 #### Question 56
-undefined
+
+Delayed reimbursement could prevent payment of the deposit. A lost booking, missing audit, and canceled order are not mentioned.
 
 #### Question 57
-undefined
+
+The first speaker explicitly requires a director signature. Price reductions, audit cancellation, and postponement are not conditions.
 
 #### Question 58
-undefined
+
+Calling a hotel deposit an equipment expense would obscure the situation. Neither secrecy, software, nor room pricing explains the objection.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -645,64 +711,69 @@ Narrator:
 Questions 59 through 61 refer to the following conversation.
 
 Speaker 1:
-The annual report for our overseas subsidiary has inconsistent currency figures.
+I have to recuperate after my operation, so I cannot guide next week's excursion. Would you take my group?
 
 Speaker 2:
-I used the exchange rate from the last day of June. Was that wrong?
+Of course. Does the itinerary involve a strenuous trek? I have only led the urban walking tour before.
 
 Speaker 1:
-For this section we need the monthly average. Can you recalculate those amounts?
+No. It is a short stroll through the suburb and a visit to the botanical garden. The visitors are interested in exotic plants, not climbing.
 
 Speaker 2:
-Certainly. I'll email the corrected figures before three.
+Then I can manage it. Send me the route and the contact details for the lodge.
+
+Speaker 1:
+I will email them tonight. Please remind everyone to bring water, since the forecast is muggy.
 
 ### Question 59
 
-What are the speakers reviewing?
+Why does the first speaker need help?
 
-- A. A staff rota
-- B. A training manual
-- C. An annual report
-- D. A purchase order
+- A. To attend a tournament
+- B. To repair a vehicle
+- C. To recover from surgery
+- D. To move to another city
 
 ### Question 60
 
-What caused the discrepancy?
+What will the group do?
 
-- A. An incorrect exchange-rate method
-- B. A missing invoice
-- C. A canceled contract
-- D. A late payment
+- A. Inspect a factory
+- B. Climb a mountain
+- C. Take an overnight voyage
+- D. Visit a botanical garden
 
 ### Question 61
 
-What will the second speaker send?
+What will be sent to the second speaker?
 
-- A. A new invoice
-- B. Revised figures
-- C. Travel arrangements
-- D. A meeting invitation
+- A. Plant seeds
+- B. A new uniform
+- C. Route and lodging information
+- D. A medical bill
 
 ### Answers
 
 59: C
-60: A
-61: B
+60: D
+61: C
 
 ### Explanation
 
 #### Question 59
-undefined
+
+Recovery from an operation prevents guiding. Sport, vehicle work, and moving are not the reason.
 
 #### Question 60
-undefined
+
+The excursion includes a garden and a short walk. The first speaker explicitly excludes a strenuous climb; factory and overnight travel are absent.
 
 #### Question 61
-undefined
+
+The first speaker promises the route and lodge contacts. A bill, seeds, and a uniform are not requested.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -718,43 +789,46 @@ Narrator:
 Questions 62 through 64 refer to the following conversation.
 
 Speaker 1:
-The premiere of the documentary has almost sold out. Could we offer another screening?
+Our brewery tour visitors keep asking why we ferment this batch longer. Could you articulate the reason without too much technical terminology?
 
 Speaker 2:
-Possibly, but the director can only attend the discussion after the first screening.
+Certainly. Extra time gives the drink a mellow flavor. I can compare it with the sharper batch we made last month.
 
 Speaker 1:
-Let's advertise a second showing without the discussion. I'll see whether the smaller theater is available.
+That will help. The brochure is a little vapid; it talks about excellence without explaining anything.
 
 Speaker 2:
-Great. I'll update the ticketing page once you confirm.
+I will add a short paragraph and avoid claims that might delude readers. The distiller next door has a good plain-language guide; perhaps they will show us their approach.
+
+Speaker 1:
+Let us ask, but make sure we do not plagiarize their text.
 
 ### Question 62
 
-What are the speakers considering?
+What is the first speaker requesting?
 
-- A. An additional film screening
-- B. A new advertising agency
-- C. A theater renovation
-- D. A different documentary
+- A. A clear explanation for tour visitors
+- B. A discount on raw materials
+- C. A longer opening schedule
+- D. A change in factory ownership
 
 ### Question 63
 
-Why won't the director attend the second screening?
+What benefit of extra time is mentioned?
 
-- A. She must travel abroad
-- B. Her availability is limited
-- C. She has declined the invitation
-- D. The venue has no seating
+- A. A lower ticket price
+- B. A milder flavor
+- C. A brighter bottle color
+- D. A larger container
 
 ### Question 64
 
-What will be checked?
+What does the first speaker caution against?
 
-- A. Ticket prices
-- B. The film's runtime
-- C. Availability of another room
-- D. The publicity budget
+- A. Inviting visitors into the brewery
+- B. Providing printed information
+- C. Copying another business's wording
+- D. Comparing two batches
 
 ### Answers
 
@@ -765,17 +839,19 @@ What will be checked?
 ### Explanation
 
 #### Question 62
-undefined
+
+The request is to explain fermentation clearly. Ownership, discounts, and opening hours are not under discussion.
 
 #### Question 63
-undefined
+
+The extra time creates a mellow flavor. Packaging and ticket price are unrelated to fermentation.
 
 #### Question 64
-undefined
+
+The warning is not to plagiarize the neighboring guide. Comparison and brochure improvement are accepted, and the tour itself is not prohibited.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -791,64 +867,69 @@ Narrator:
 Questions 65 through 67 refer to the following conversation.
 
 Speaker 1:
-A client claims we charged twice for his consultation. Could you look at the statement?
+The recreation center has received a donation for aerobics equipment. We could use part of it for the marathon training group as well.
 
 Speaker 2:
-One entry is a completed payment; the other is a temporary authorization. It should disappear automatically.
+The donor's implicit expectation was broader access, not a private program. We should avoid letting our fondness for running influence the decision.
+
+Speaker 3:
+What about a rotation of classes? Beginners could use the room on Mondays, and runners on Wednesdays.
 
 Speaker 1:
-So there's no need to issue a refund?
+That seems fair. We should also consult the dietitian about a nutrition workshop.
 
 Speaker 2:
-Not yet. I'll explain it to him and ask him to call if the pending entry remains after five business days.
+I will invite her to next week's planning meeting. She may have suggestions for people who are returning to exercise after an injury.
 
 ### Question 65
 
-Why did the client complain?
+What are the speakers discussing?
 
-- A. A fee appears twice
-- B. An appointment was canceled
-- C. His account was closed
-- D. A promised discount was missing
+- A. How to use donated resources
+- B. How to appoint a new donor
+- C. How to sell a sports center
+- D. How to choose a race winner
 
 ### Question 66
 
-What is one of the transactions?
+What does the second speaker want to ensure?
 
-- A. A refund
-- B. A temporary authorization
-- C. A monthly membership charge
-- D. An overdue payment
+- A. Several groups can benefit
+- B. Every class has a competition
+- C. The equipment is sold immediately
+- D. Only runners can enter
 
 ### Question 67
 
-What will the employee do?
+Who will be invited to a meeting?
 
-- A. Cancel the invoice
-- B. Call the bank
-- C. Contact the client with an explanation
-- D. Schedule a new consultation
+- A. A construction inspector
+- B. A travel agent
+- C. A nutrition professional
+- D. A financial auditor
 
 ### Answers
 
 65: A
-66: B
+66: A
 67: C
 
 ### Explanation
 
 #### Question 65
-undefined
+
+They consider allocating donated equipment and room access. Sale, winners, and donor appointment are not discussed.
 
 #### Question 66
-undefined
+
+The donor expects broader access. Exclusive running access and sale contradict that goal, while competition is not proposed.
 
 #### Question 67
-undefined
+
+A dietitian is the invited professional. The other occupations do not match the stated invitation.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
 
@@ -864,67 +945,68 @@ Narrator:
 Questions 68 through 70 refer to the following conversation.
 
 Speaker 1:
-The city finally approved funding for the cycle path along Harbor Avenue.
+The customer asked for a holistic review of the service problem. An apology alone will not vindicate our handling of the case.
 
 Speaker 2:
-Can construction start next week?
+We need tangible improvements. The missed appointment was a mishap, but our repeated failure to reply made it worse.
 
 Speaker 1:
-Not until the utility company relocates the underground cables. That could take another six weeks.
+I agree. It would be remiss to blame a junior employee as a scapegoat when our notification system failed.
 
 Speaker 2:
-Will the weekend market be affected?
+I have already arranged a replacement appointment for Friday. I will also test the reminder system today and give the customer my direct number.
 
 Speaker 1:
-Only its parking entrance. The market will remain open, and drivers will be directed to the north lot.
+Thank you. Please include those steps in the reconciliation meeting notes.
 
 ### Question 68
 
-What has the city approved?
+What is the main purpose of the conversation?
 
-- A. A new bus route
-- B. A cycle path project
-- C. A shopping complex
-- D. A parking fee increase
+- A. To plan a retirement party
+- B. To improve the response to a service complaint
+- C. To introduce a new product
+- D. To choose an accounting firm
 
 ### Question 69
 
-What must happen before construction?
+What does the first speaker oppose?
 
-- A. Utility cables must be moved
-- B. A market must close
-- C. A permit must be renewed
-- D. An additional survey must be held
+- A. Testing reminders
+- B. Offering a new appointment
+- C. Giving a direct telephone number
+- D. Blaming one employee for a system failure
 
 ### Question 70
 
-What will change for market visitors?
+What has already been arranged?
 
-- A. Opening hours
-- B. The number of stalls
-- C. The parking entrance
-- D. The ticket price
+- A. A customer survey
+- B. A software purchase
+- C. A staff dismissal
+- D. A replacement appointment
 
 ### Answers
 
 68: B
-69: A
-70: C
+69: D
+70: D
 
 ### Explanation
 
 #### Question 68
-undefined
+
+The speakers discuss missed service, replies, and corrective action. A launch, party, and firm selection are not the topic.
 
 #### Question 69
-undefined
+
+The first speaker calls scapegoating inappropriate. The other steps are part of the accepted remedy.
 
 #### Question 70
-undefined
+
+Friday's replacement appointment is already scheduled. Reminder testing is still forthcoming; no dismissal, survey, or purchase is reported.
 
 ### Tags
 
-- listening
 - conversation
 - workplace
-

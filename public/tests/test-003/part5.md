@@ -2,58 +2,54 @@
 
 ## Question 101
 
-The company's president delivered an ______ address at the opening ceremony for the new headquarters.
+The monetary award will be divided _____ among the three winning teams.
 
-- A. monetary
-- B. inaugural
-- C. ornament
-- D. abstain
+- A. equality
+- B. equalize
+- C. equal
+- D. equally
 
 ### Answer
 
-B
+D
 
 ### Explanation
 
-Inaugural describes an event marking the beginning of an institution or activity. 'Inaugural address' fits the opening ceremony.
+The verb phrase will be divided requires an adverb of manner; equally fits. Equal is an adjective, equality a noun, and equalize a verb.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 102
 
-The award-winning documentary will have its international ______ at the film festival next month.
+The consultant, _____ specializes in airport operations, will inspect the site tomorrow.
 
-- A. recuperate
-- B. counterfeit
-- C. simultaneously
-- D. premiere
+- A. whose
+- B. whom
+- C. who
+- D. which
 
 ### Answer
 
-D
+C
 
 ### Explanation
 
-A premiere is the first public showing of a film or performance; 'international premiere' is the natural collocation.
+Who is the subject of specializes and refers to a person. Whose requires a following noun; whom is an object form; which is not appropriate for the person here.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 103
 
-A ______ was removed from the private event after taking photographs without permission.
+An ornament attached to the door must not _____ the emergency sign.
 
-- A. paparazzo
-- B. fugitive
-- C. ferment
-- D. gape
+- A. obscure
+- B. recuperate
+- C. repent
+- D. ordain
 
 ### Answer
 
@@ -61,137 +57,125 @@ A
 
 ### Explanation
 
-A paparazzo is a photographer who pursues celebrities, fitting the photography and privacy context.
+Obscure means make difficult to see and takes the sign as its object. The other verbs do not describe covering a sign.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 104
 
-The contract specifies that any legal dispute will fall under the ______ of the courts in Singapore.
+The brochure is more _____ than the version distributed last spring.
 
-- A. hedonistic
-- B. moribund
-- C. jurisdiction
-- D. morbid
+- A. informative
+- B. inform
+- C. informatively
+- D. information
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-Jurisdiction means the legal authority of a court to hear a case.
+More requires an adjective describing the brochure. Informative is that adjective; the other forms cannot complete this predicative comparison.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 105
 
-The company has introduced separate storage areas to ______ hazardous materials from ordinary supplies.
+The manager asked the photographer not to _____ that the guest had endorsed the product.
 
 - A. insinuate
-- B. segregate
-- C. stampede
-- D. statutory
+- B. sewage
+- C. exterminate
+- D. tarnish
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-Segregate means to keep things separate; the sentence calls for a base-form verb after 'to'.
+Insinuate can take a that-clause meaning suggest indirectly. Exterminate and tarnish require suitable objects, while sewage is a noun.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 106
 
-A large ______ of commuters gathered outside the station after train services were suspended.
+All trainees must complete the safety course _____ they operate the machine.
 
-- A. tarnish
-- B. spearhead
-- C. truculent
-- D. throng
+- A. during
+- B. despite
+- C. before
+- D. unless
 
 ### Answer
 
-D
+C
 
 ### Explanation
 
-Throng means a large, densely packed crowd, fitting the commuters outside the station.
+Before introduces the required sequence. During and despite cannot directly introduce this finite clause; unless would make the requirement conditional in the wrong way.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 107
 
-The revised terms were written so vaguely that they seemed to ______ the supplier's actual obligations.
+The museum _____ by a private foundation since 2018.
 
-- A. obfuscate
-- B. sociologist
-- C. plague
-- D. psychiatrist
+- A. supports
+- B. supporting
+- C. will support
+- D. has been supported
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-Obfuscate means to make something unclear or difficult to understand.
+Since 2018 calls for a present-perfect construction, and the museum receives support. The other forms lack the needed passive and time relationship.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 108
 
-The independent investigation helped ______ the manager, who had been wrongly accused of altering the records.
+Please send the supplier a copy of _____ signed contract.
 
-- A. plagiarize
-- B. reconciliation
-- C. repent
-- D. vindicate
+- A. yours
+- B. your
+- C. yourself
+- D. you
 
 ### Answer
 
-D
+B
 
 ### Explanation
 
-Vindicate means to clear someone of blame or suspicion by establishing that they were right or innocent.
+A possessive determiner is needed before signed contract. Yours is a standalone pronoun, while you and yourself are not determiners.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 109
 
-Because departures are tightly scheduled, ______ is essential for all members of the airport ground crew.
+The auditors found no evidence of _____ activity in the account.
 
-- A. ordain
-- B. facile
-- C. punctuality
-- D. designate
+- A. covertness
+- B. covertly
+- C. covert
+- D. cover
 
 ### Answer
 
@@ -199,22 +183,20 @@ C
 
 ### Explanation
 
-Punctuality is the quality of being on time; a noun is needed as the subject of the sentence.
+An adjective modifies activity. Covert means hidden; covertly is an adverb, covertness a noun, and cover is not the intended adjective.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 110
 
-The manufacturer plans to ______ the energy efficiency of its new equipment in next month's advertising campaign.
+The terms must be reviewed _____ the application is submitted.
 
-- A. altruism
-- B. tout
-- C. jersey
-- D. intrinsic
+- A. because of
+- B. before
+- C. during
+- D. instead of
 
 ### Answer
 
@@ -222,22 +204,20 @@ B
 
 ### Explanation
 
-Tout means to promote or praise something publicly, which fits an advertising campaign.
+Before introduces the finite clause. The other expressions require noun phrases or gerunds rather than the application is submitted.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 111
 
-During the earnings call, the director appeared to ______ to possible expansion plans without announcing any details.
+A provisional permit does not _____ entry to restricted areas.
 
-- A. allude
-- B. capitulate
-- C. beguile
-- D. candid
+- A. authorize
+- B. authorized
+- C. authoritative
+- D. authorization
 
 ### Answer
 
@@ -245,91 +225,83 @@ A
 
 ### Explanation
 
-Allude to means to refer to something indirectly; the preposition 'to' is part of the expression.
+Does not requires a base verb, authorize. The other choices are a noun, participle, and adjective.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 112
 
-The quality inspector found a small ______ on the surface of the display and rejected the unit.
+The company will _____ employees for approved relocation expenses.
 
-- A. solicit
-- B. congestion
-- C. congenital
-- D. blemish
+- A. compensate
+- B. arouse
+- C. deprive
+- D. confiscate
 
 ### Answer
 
-D
+A
 
 ### Explanation
 
-A blemish is a small mark or imperfection that spoils an object's appearance.
+Compensate someone for expenses is the correct reimbursement collocation. Confiscate takes property, arouse concerns feelings, and deprive requires of for the intended construction.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 113
 
-The city council approved funding to replace damaged ______ pipes near the industrial park.
+The report contains _____ references to the earlier investigation.
 
-- A. deprive
-- B. sewage
-- C. debut
-- D. inflict
+- A. every
+- B. much
+- C. several
+- D. another
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-Sewage pipes carry wastewater and waste; the other choices do not form a suitable noun modifier.
+Plural count noun references takes several. Much is for uncountable quantities; every and another require a singular noun.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 114
 
-Several employees were completely ______ to the schedule change because the notice had been sent to an outdated mailing list.
+The shipping embargo has made it difficult _____ replacement parts.
 
-- A. ingenious
-- B. versatile
-- C. oblivious
-- D. exquisite
+- A. obtains
+- B. to obtain
+- C. obtained
+- D. obtain
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-Oblivious to means unaware of something; the preposition 'to' helps identify the correct adjective.
+Difficult takes a to-infinitive in this construction. The base verb and finite or past forms cannot serve as its complement here.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 115
 
-The technician determined that the printer malfunction was caused by a damaged ______ cable rather than the main processing unit.
+The firm's popularity is due _____ its reliable after-sales service.
 
-- A. peripheral
-- B. municipal
-- C. subsidiary
-- D. ventilation
+- A. to
+- B. at
+- C. with
+- D. on
 
 ### Answer
 
@@ -337,68 +309,62 @@ A
 
 ### Explanation
 
-Peripheral can describe equipment or components connected to, but not central to, a computer system.
+Due to is the fixed phrase for cause. The other prepositions do not complete it.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 116
 
-The airline agreed to ______ passengers for reasonable accommodation costs caused by the canceled flight.
+If the payment is late, the client may _____ the discount.
 
-- A. campaign
-- B. immune
-- C. compensate
-- D. distinguished
+- A. forfeit
+- B. vindicate
+- C. ferment
+- D. inoculate
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-Compensate someone for something means to pay them for loss or inconvenience.
+Forfeit means lose an entitlement. The other verbs cannot naturally take discount with this meaning.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 117
 
-Contestants who fail to appear by the registration deadline may ______ their right to compete.
+The exhibit opens Monday, _____ installation must finish this weekend.
 
-- A. confiscate
-- B. prevalent
-- C. default
-- D. forfeit
+- A. so
+- B. although
+- C. whereas
+- D. unless
 
 ### Answer
 
-D
+A
 
 ### Explanation
 
-Forfeit means to lose a right or privilege as a consequence of failing to meet a requirement.
+So expresses the consequence of the opening date. Although and whereas mark contrast, while unless introduces a condition not supported here.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 118
 
-The updated security policy is intended to ______ unauthorized access to confidential customer records.
+The architect offered a _____ explanation of the structural changes.
 
-- A. incur
-- B. deter
-- C. substitute
-- D. implicit
+- A. plausibility
+- B. plausible
+- C. plausibilities
+- D. plausibly
 
 ### Answer
 
@@ -406,22 +372,20 @@ B
 
 ### Explanation
 
-Deter means to discourage or prevent an action, often through rules or consequences.
+The noun explanation requires an adjective. Plausible means believable; the other forms are adverbial or nominal.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 119
 
-The proposed partnership cannot take effect until both companies' boards formally ______ the agreement.
+Neither of the two proposals _____ the statutory requirements.
 
-- A. ratify
-- B. vicinity
-- C. tumultuous
-- D. surge
+- A. meets
+- B. meet
+- C. have met
+- D. meeting
 
 ### Answer
 
@@ -429,137 +393,104 @@ A
 
 ### Explanation
 
-Ratify means to give formal approval to an agreement; plural 'boards' takes the base verb.
+Neither is the singular subject, so meets agrees with it. Meet and have met are plural forms; meeting lacks a finite verb.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 120
 
-The museum's annual exhibition relies heavily on the ______ of local businesses to cover operating expenses.
+The franchise agreement permits the retailer to _____ branded apparel only at approved locations.
 
-- A. subsidy
-- B. reprieve
-- C. patronage
-- D. penetrate
+- A. capitulate
+- B. beguile
+- C. gape
+- D. vend
 
 ### Answer
 
-C
+D
 
 ### Explanation
 
-Patronage refers to support given to an organization, particularly by patrons or sponsors.
+Vend means sell and takes merchandise as its object. The other verbs concern attraction, surrender, or staring and do not express retail sales.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 121
 
-Without stronger controls, misleading advertisements could ______ rapidly across multiple online platforms.
+The training materials were revised _____ employees could understand the terminology.
 
-- A. inevitable
-- B. ubiquitous
-- C. densely
-- D. proliferate
+- A. according to
+- B. so that
+- C. as well as
+- D. in spite of
 
 ### Answer
 
-D
+B
 
 ### Explanation
 
-Proliferate means to increase or spread rapidly; a base-form verb follows 'could'.
+So that introduces a purpose clause. The other expressions do not introduce the stated finite clause appropriately.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 122
 
-To avoid misunderstandings, the project manager distributed a glossary explaining the technical ______ used in the proposal.
+Each entry must be judged on _____ own merits.
 
-- A. terminology
-- B. arouse
-- C. inoculate
-- D. upsurge
+- A. itself
+- B. it
+- C. their
+- D. its
 
 ### Answer
 
-A
+D
 
 ### Explanation
 
-Terminology means the specialized vocabulary used in a particular field.
+Each entry is singular, and a possessive determiner is needed before own merits. Its fits; their is plural and the other forms are not possessive determiners.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 123
 
-The shipment arrived on time despite a minor ______ at the distribution center that briefly delayed loading.
+The city council will _____ the new recycling ordinance next month.
 
-- A. consolation
-- B. handicap
-- C. mishap
-- D. vicious
+- A. enact
+- B. enervate
+- C. collide
+- D. groom
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-Mishap means a small accident or unlucky incident, matching the brief disruption.
+Enact an ordinance means make it law. The other verbs do not describe adoption of legislation.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
 ## Question 124
 
-The organization's long-term plan focuses on the complete ______ of preventable workplace hazards.
+The full prospectus is available _____ request.
 
-- A. facade
-- B. eradication
-- C. convoy
-- D. decoy
-
-### Answer
-
-B
-
-### Explanation
-
-Eradication means the complete removal or elimination of something harmful.
-
-### Tags
-
-- vocabulary
-- incomplete-sentence
-- business-context
-
-## Question 125
-
-Installing motion-sensitive lighting helped ______ electricity consumption in the warehouse.
-
-- A. lessen
-- B. obscure
-- C. imperative
-- D. culminate
+- A. on
+- B. in
+- C. by
+- D. for
 
 ### Answer
 
@@ -567,22 +498,20 @@ A
 
 ### Explanation
 
-Lessen means to reduce the amount or degree of something; 'helped' can be followed by the base verb.
+On request means when requested. The other prepositions do not form that conventional expression.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
-## Question 126
+## Question 125
 
-Customer surveys gave the hotel a ______ rating for the professionalism of its front-desk staff.
+The maintenance team has _____ the faulty sensor.
 
-- A. testimonial
-- B. tangible
-- C. elicit
-- D. superb
+- A. replacing
+- B. replace
+- C. replacement
+- D. replaced
 
 ### Answer
 
@@ -590,22 +519,20 @@ D
 
 ### Explanation
 
-Superb means excellent or of very high quality and naturally modifies 'rating'.
+Has requires a past participle in the present perfect; replaced is correct. The noun, ing form, and base form do not fit.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
-## Question 127
+## Question 126
 
-The finance department issued a ______ budget while waiting for the final figures to be approved.
+The successful campaign will _____ in a public awards ceremony.
 
-- A. fare
-- B. voucher
-- C. provisional
-- D. harbinger
+- A. plagiarize
+- B. confiscate
+- C. culminate
+- D. obfuscate
 
 ### Answer
 
@@ -613,45 +540,20 @@ C
 
 ### Explanation
 
-Provisional means temporary or subject to later confirmation, as with a preliminary budget.
+Culminate in means reach a final stage. The other verbs do not naturally use in to describe an event's conclusion.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
-## Question 128
+## Question 127
 
-Management hopes the product redesign will ______ interest in a brand whose sales have declined for several years.
+The new scanner processes invoices _____ than the old model.
 
-- A. holistic
-- B. resurrect
-- C. bouquet
-- D. contemporary
-
-### Answer
-
-B
-
-### Explanation
-
-Resurrect can mean to bring something back into use or popularity, such as renewed interest in a brand.
-
-### Tags
-
-- vocabulary
-- incomplete-sentence
-- business-context
-
-## Question 129
-
-To escape the ______ of the downtown business district, the team held its planning retreat in a quiet rural hotel.
-
-- A. hustle-bustle
-- B. manifold
-- C. ebullient
-- D. casino
+- A. more quickly
+- B. most quickly
+- C. quickness
+- D. quick
 
 ### Answer
 
@@ -659,22 +561,41 @@ A
 
 ### Explanation
 
-Hustle-bustle refers to noisy, busy activity; the contrast with a quiet rural hotel signals its meaning.
+Than requires a comparative form, and processes needs an adverb. More quickly supplies both; the other forms do not.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
-## Question 130
+## Question 128
 
-The auditor requested additional evidence because the contractor's explanation did not seem ______.
+Staff should _____ the small conference room for interviews.
 
-- A. auspicious
-- B. enervate
-- C. remiss
-- D. plausible
+- A. reserved
+- B. reserving
+- C. reserve
+- D. reservation
+
+### Answer
+
+C
+
+### Explanation
+
+Should takes a base verb, reserve. The other grammatical forms do not fit after the modal.
+
+### Tags
+
+- grammar-vocabulary
+
+## Question 129
+
+The charity maintains political _____ when evaluating applications.
+
+- A. neutrally
+- B. neutralize
+- C. neutral
+- D. neutrality
 
 ### Answer
 
@@ -682,11 +603,29 @@ D
 
 ### Explanation
 
-Plausible means reasonable or believable; 'seem' requires an adjective complement.
+Maintains takes a noun object, neutrality. The other choices are adjective, adverb, and verb.
 
 ### Tags
 
-- vocabulary
-- incomplete-sentence
-- business-context
+- grammar-vocabulary
 
+## Question 130
+
+The award recognizes altruism _____ personal financial gain.
+
+- A. as soon as
+- B. even though
+- C. rather than
+- D. so that
+
+### Answer
+
+C
+
+### Explanation
+
+Rather than contrasts motives. The other choices introduce timing, concession, or purpose clauses and do not connect the noun phrases correctly.
+
+### Tags
+
+- grammar-vocabulary

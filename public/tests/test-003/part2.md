@@ -5,226 +5,212 @@
 ### Audio
 
 Speaker 1:
-Did the finance team finish the monetary review?
+Who will spearhead the charity campaign?
 
 Speaker 2:
-A. Not until the auditors approve the figures.
+A. Lena offered to lead it.
 
 Speaker 2:
-B. The review is scheduled for next Tuesday.
+B. Beside the poster stand.
 
 Speaker 2:
-C. Yes, the revised figures are on your desk.
+C. It has a bright spear-shaped logo.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The question asks for a leader; Lena is identified as that person. The location and logo do not answer who.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 8
 
 ### Audio
 
 Speaker 1:
-When is the inaugural customer forum?
+Could you designate a substitute for Friday?
 
 Speaker 2:
-A. In the main auditorium on Thursday.
+A. Friday was a holiday last year.
 
 Speaker 2:
-B. It's the first forum we've hosted.
+B. The design has already been approved.
 
 Speaker 2:
-C. The invitations were sent this morning.
+C. I will ask Ravi to cover my shift.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+Asking Ravi to cover the shift responds to the request. The other replies address a date or a design.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 9
 
 ### Audio
 
 Speaker 1:
-Could you check whether this voucher is still valid?
+When does the inaugural ferry service depart?
 
 Speaker 2:
-A. I checked the wrong voucher yesterday.
+A. At seven tomorrow morning.
 
 Speaker 2:
-B. Certainly, I'll scan it at the register.
+B. It carries bicycles, too.
 
 Speaker 2:
-C. The register will be available after lunch.
+C. A fairly small suitcase.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+A departure-time question requires the stated time. Capacity and a similar-sounding word are irrelevant.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 10
 
 ### Audio
 
 Speaker 1:
-Why was the municipal office closed?
+The courier has not arrived yet.
 
 Speaker 2:
-A. I believe it reopens on Monday.
+A. I will call the delivery office.
 
 Speaker 2:
-B. They moved to the north building last year.
+B. Yes, the corridor is narrow.
 
 Speaker 2:
-C. For a statutory inspection.
+C. It is a very legible signature.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+Calling the delivery office naturally addresses the delay. The other comments concern unrelated objects.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 11
 
 ### Audio
 
 Speaker 1:
-Who will spearhead the new campaign?
+Where should I stow these sample boxes?
 
 Speaker 2:
-A. Ms. Rivera from marketing.
+A. Three boxes were damaged.
 
 Speaker 2:
-B. We haven't selected a project leader yet.
+B. Under the counter, please.
 
 Speaker 2:
-C. The launch is scheduled for mid-May.
+C. They are selling well.
 
 ### Answer
 
-A
+B
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The reply gives a storage location. Sales performance and a damage count do not answer where.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 12
 
 ### Audio
 
 Speaker 1:
-Has the congestion near the station improved?
+Would you prefer a suite or two separate rooms?
 
 Speaker 2:
-A. Traffic is still heavy around eight.
+A. Which arrangement costs less?
 
 Speaker 2:
-B. A little, since the new lane opened.
+B. The meeting starts at ten.
 
 Speaker 2:
-C. The roadworks are due to finish next week.
+C. Yes, I enjoyed the sweet dessert.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The speaker asks for a comparison before choosing lodging. Dessert and meeting time do not address the alternatives.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 13
 
 ### Audio
 
 Speaker 1:
-Can we procure the replacement parts locally?
+Is the itinerary final?
 
 Speaker 2:
-A. The last supplier was overseas.
+A. I brought a spare tire.
 
 Speaker 2:
-B. I need to check our inventory first.
+B. We are still waiting for the airline to confirm.
 
 Speaker 2:
-C. I'll ask our regional supplier.
+C. At the front entrance.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+Pending confirmation implies the itinerary is not final. The tire and entrance are unrelated.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 14
 
 ### Audio
 
 Speaker 1:
-Did the board ratify the revised policy?
+You will volunteer at the recital, will you not?
 
 Speaker 2:
-A. Yes, by a large majority.
+A. Actually, I have to work that evening.
 
 Speaker 2:
-B. They'll vote on it at the next meeting.
+B. The violin sounds superb.
 
 Speaker 2:
-C. The previous policy is still in effect.
+C. I recycled the leaflet.
 
 ### Answer
 
@@ -232,89 +218,83 @@ A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The speaker declines because of work. Neither instrument quality nor recycling confirms availability.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 15
 
 ### Audio
 
 Speaker 1:
-Why did sales surge last month?
+Why is there so much congestion near the bureau?
 
 Speaker 2:
-A. The sales report isn't ready yet.
+A. One lane has been closed for repairs.
 
 Speaker 2:
-B. The holiday promotion was unusually successful.
+B. I filled out the form neatly.
 
 Speaker 2:
-C. Our advertising budget was unchanged.
+C. The desk has four drawers.
 
 ### Answer
 
-B
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+A lane closure explains traffic congestion. Form writing and furniture do not explain road conditions.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 16
 
 ### Audio
 
 Speaker 1:
-Will the subsidiary join the trade fair?
+Can you procure another microphone?
 
 Speaker 2:
-A. They haven't confirmed their attendance.
+A. I will borrow one from the next room.
 
 Speaker 2:
-B. The booth costs more than last year.
+B. The announcement was eloquent.
 
 Speaker 2:
-C. Yes, it reserved a booth.
+C. No, the room is on the second floor.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+Borrowing a microphone fulfills the request. The other replies evaluate speech or identify a floor.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 17
 
 ### Audio
 
 Speaker 1:
-Is the ventilation system being repaired?
+Has the museum received the subsidy?
 
 Speaker 2:
-A. The contractor started this morning.
+A. Finance says the funds will arrive Monday.
 
 Speaker 2:
-B. A technician is arriving this afternoon.
+B. The exhibit is downstairs.
 
 Speaker 2:
-C. The filters were replaced last week.
+C. I prefer the contemporary paintings.
 
 ### Answer
 
@@ -322,119 +302,111 @@ A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The finance update answers whether the funding has arrived. Exhibit location and artistic preference are unrelated.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 18
 
 ### Audio
 
 Speaker 1:
-Who handles correspondence with the overseas office?
+Do we need to ratify the pact today?
 
 Speaker 2:
-A. The overseas team usually writes first.
+A. The packing tape is in the drawer.
 
 Speaker 2:
-B. Our legal bureau does.
+B. It is a tangible object.
 
 Speaker 2:
-C. That responsibility was transferred last month.
+C. The vote has been moved to next week.
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+A postponed vote means ratification will not occur today. Packing tape and physical properties do not address approval.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 19
 
 ### Audio
 
 Speaker 1:
-Can I change my ferry reservation?
+Why did the driver sound the horn?
 
 Speaker 2:
-A. The departure is in two hours.
+A. A pedestrian stepped into the road.
 
 Speaker 2:
-B. Changes may incur a fee.
+B. Two liters of unleaded fuel.
 
 Speaker 2:
-C. Yes, but there may be a small fare difference.
+C. The hood was blue.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The pedestrian supplies a reason for the warning. Vehicle color and fuel quantity do not.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 20
 
 ### Audio
 
 Speaker 1:
-When will the courier collect the samples?
+The brochure is rather bland.
 
 Speaker 2:
-A. Just after three o'clock.
+A. About twenty centimeters wide.
 
 Speaker 2:
-B. The samples need to be packed first.
+B. I had soup for lunch.
 
 Speaker 2:
-C. The driver called about the address.
+C. Perhaps a more colorful cover would help.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+A design suggestion responds to a dull brochure. Lunch and dimensions do not address its appeal.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 21
 
 ### Audio
 
 Speaker 1:
-Should we postpone the excursion because of the blizzard?
+Could you make this correspondence more cordial?
 
 Speaker 2:
-A. The route is being inspected this morning.
+A. There are three envelopes.
 
 Speaker 2:
-B. Yes, the forecast is getting worse.
+B. I will add a warmer opening.
 
 Speaker 2:
-C. The weather forecast could still change.
+C. The cord is too short.
 
 ### Answer
 
@@ -442,179 +414,167 @@ B
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+A warmer greeting improves tone. Envelope count and a similar-sounding cord are irrelevant.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 22
 
 ### Audio
 
 Speaker 1:
-Did you confirm the hotel suite?
+Who should receive this voucher?
 
 Speaker 2:
-A. The room hasn't been assigned yet.
+A. The fare rose last month.
 
 Speaker 2:
-B. Your confirmation email should arrive soon.
+B. Anyone whose train was canceled.
 
 Speaker 2:
-C. Yes, and breakfast is included.
+C. At the ticket machine.
 
 ### Answer
 
-C
+B
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The answer identifies eligible recipients. A price change and a location do not specify who.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 23
 
 ### Audio
 
 Speaker 1:
-Why is the shipment under embargo?
+Are you going to hike or stroll around the lake?
 
 Speaker 2:
-A. Customs is reviewing the documents.
+A. I left it on the porch.
 
 Speaker 2:
-B. Customs has asked for more documents.
+B. The fare is very reasonable.
 
 Speaker 2:
-C. The goods reached the port yesterday.
+C. Just a short walk this time.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+A short walk chooses the stroll. Price and storage location do not answer the choice question.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 24
 
 ### Audio
 
 Speaker 1:
-How close is the new residence to the office?
+You seem weary after the voyage.
 
 Speaker 2:
-A. I haven't visited the apartment yet.
+A. The boat is sixty meters long.
 
 Speaker 2:
-B. It's within walking distance.
+B. Yes, it has a new sail.
 
 Speaker 2:
-C. The office is on the same bus route.
+C. I would appreciate a break.
 
 ### Answer
 
-B
+C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+Requesting rest responds naturally to fatigue. Boat length and equipment do not address the observation.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 25
 
 ### Audio
 
 Speaker 1:
-Can the company compensate passengers for the delay?
+When will the dividend be announced?
 
 Speaker 2:
-A. The airline is reviewing claims individually.
+A. After the board meeting on Thursday.
 
 Speaker 2:
-B. Passengers can submit receipts online.
+B. It is divisible by four.
 
 Speaker 2:
-C. Customer service is reviewing each claim.
+C. In a savings account.
 
 ### Answer
 
-C
+A
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The board meeting supplies a time. The other answers concern location and a near-sounding mathematical term.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 26
 
 ### Audio
 
 Speaker 1:
-Did the insurance policy cover the mishap?
+Should we solicit a testimonial from the client?
 
 Speaker 2:
-A. Yes, after the deductible.
+A. Those tiles are exquisite.
 
 Speaker 2:
-B. The policy was renewed last month.
+B. The test takes fifteen minutes.
 
 Speaker 2:
-C. The insurer hasn't completed its review.
+C. Let us wait until the installation is complete.
 
 ### Answer
 
-A
+C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The response recommends when to request feedback. A test duration and tile appearance are unrelated.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 27
 
 ### Audio
 
 Speaker 1:
-Who approved the provisional budget?
+Is this garment made of jersey?
 
 Speaker 2:
-A. Finance has not announced a decision.
+A. The tournament was televised.
 
 Speaker 2:
-B. The finance director did.
+B. Let me check the fabric label.
 
 Speaker 2:
-C. The revised budget is due on Friday.
+C. No, the airport is crowded.
 
 ### Answer
 
@@ -622,89 +582,27 @@ B
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+Checking the label is a reasonable way to establish the material. Sport and airport remarks do not identify the fabric.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
 ## Question 28
 
 ### Audio
 
 Speaker 1:
-Will the retirement seminar be held here?
+I cannot untangle this cable.
 
 Speaker 2:
-A. They may use a larger conference room.
+A. It is an avid reader.
 
 Speaker 2:
-B. The speaker is arriving early.
+B. Try unplugging it before you start.
 
 Speaker 2:
-C. No, it moved to Conference Room B.
-
-### Answer
-
-C
-
-### Explanation
-
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
-
-### Tags
-
-- listening
-- response
-- business
-
-## Question 29
-
-### Audio
-
-Speaker 1:
-Why was the old equipment declared obsolete?
-
-Speaker 2:
-A. Replacement parts are no longer available.
-
-Speaker 2:
-B. It was still working last week.
-
-Speaker 2:
-C. We haven't ordered replacements yet.
-
-### Answer
-
-A
-
-### Explanation
-
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
-
-### Tags
-
-- listening
-- response
-- business
-
-## Question 30
-
-### Audio
-
-Speaker 1:
-Can we substitute a digital copy for the original?
-
-Speaker 2:
-A. The archive contains a scanned version.
-
-Speaker 2:
-B. Yes, if it has a verified signature.
-
-Speaker 2:
-C. Some agencies require paper originals.
+C. The account has reached maturity.
 
 ### Answer
 
@@ -712,29 +610,55 @@ B
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+The advice addresses the tangled cable. Financial maturity and reading enthusiasm are unrelated.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
-## Question 31
+## Question 29
 
 ### Audio
 
 Speaker 1:
-Has the dividend payment been deposited?
+Where can I lodge a complaint about the overdraft fee?
 
 Speaker 2:
-A. The payment date was moved to Friday.
+A. We have a double room available.
 
 Speaker 2:
-B. I'll check the bank statement.
+B. Customer service can handle that.
 
 Speaker 2:
-C. Yes, it appeared in my account today.
+C. A paltry amount of rainfall.
+
+### Answer
+
+B
+
+### Explanation
+
+Customer service is the appropriate place for a banking complaint. Hotel lodging is a different sense of lodge; rainfall is unrelated.
+
+### Tags
+
+- question-response
+
+## Question 30
+
+### Audio
+
+Speaker 1:
+Would you mind giving me a candid assessment?
+
+Speaker 2:
+A. The camera is behind you.
+
+Speaker 2:
+B. It will be assessed tomorrow at noon.
+
+Speaker 2:
+C. I think the proposal still needs work.
 
 ### Answer
 
@@ -742,11 +666,36 @@ C
 
 ### Explanation
 
-The selected response is the most appropriate reply in the conversational context; the distractors sound related but do not answer the speaker as directly.
+An honest evaluation answers the request. A camera location and a future appointment do not provide the assessment.
 
 ### Tags
 
-- listening
-- response
-- business
+- question-response
 
+## Question 31
+
+### Audio
+
+Speaker 1:
+Could the team meet simultaneously in both offices?
+
+Speaker 2:
+A. They are in the vicinity.
+
+Speaker 2:
+B. There is one office chair left.
+
+Speaker 2:
+C. A video conference would make that possible.
+
+### Answer
+
+C
+
+### Explanation
+
+Video conferencing enables a joint meeting at the same time. Proximity and chair inventory do not explain how to do it.
+
+### Tags
+
+- question-response

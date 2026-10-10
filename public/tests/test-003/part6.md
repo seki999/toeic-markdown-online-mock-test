@@ -8,31 +8,46 @@ Email
 
 ### Passage
 
-**To:** Regional Office Managers
-**From:** Olivia Reed, Events Team
-**Subject:** Revised Arrangements for the Regional Conference
+To: exhibition@lantern.example
+From: Mira Chen, Visitor Services
+Date: September 8
+Subject: Opening preparations
 
-Dear colleagues,
+Dear team,
 
-We are looking forward to welcoming your teams to the annual regional conference on November 18. Due to unexpectedly high registration numbers, the opening presentation has been moved from the Oak Room to the larger Grand Hall. The conference program remains **[131]** unchanged, including the panel discussion scheduled for 2:00 p.m.
+Our inaugural design exhibition opens next Friday. The entrance facade has been restored, and a local artisan has donated an exquisite ornament for the reception desk. The display will remain in place _____ (131) the end of the month. Please do not attach labels directly to its surface, as adhesive can inflict permanent damage.
 
-If your office has already reserved hotel rooms through our travel desk, no further action is required. However, managers **[132]** teams will arrive by coach should send the vehicle's registration number to the events team by Friday. Security personnel need this information to issue access permits for the loading area.
+A distinguished designer will give a short talk. To avoid a stampede when the doors open, we will admit visitors in small groups. Tickets _____ (132) at the east entrance by two volunteers. **[1]** (133) Guests waiting outside can then move indoors without blocking the main doorway.
 
-**[133]** ______ This change affects only the location of the registration desk; attendees should still collect their badges before entering the Grand Hall.
+Please _____ (134) any access problems by Wednesday. We want an auspicious opening, but punctuality must not come at the expense of visitor safety.
 
-An updated floor plan is attached. Please **[134]** it to everyone attending from your office so that they can find the new registration area without delay.
-
-Best regards,
-Olivia Reed
+Mira
 
 ### Question 131
 
-Choose the best word for [131].
+Which word best completes blank 131?
 
-- A. largely
-- B. large
-- C. largeness
-- D. enlarge
+- A. except
+- B. among
+- C. until
+- D. onto
+
+### Answer
+
+C
+
+### Explanation
+
+Until expresses the end of the display period. The other prepositions do not specify a time endpoint.
+
+### Question 132
+
+Which phrase best completes blank 132?
+
+- A. will be checked
+- B. have checking
+- C. checking
+- D. will check
 
 ### Answer
 
@@ -40,15 +55,293 @@ A
 
 ### Explanation
 
-The adverb 'largely' modifies 'unchanged': most of the program remains the same, apart from the venue adjustment.
+Tickets receive the action, so a future passive is needed. The other forms lack the appropriate passive or are ungrammatical.
 
-### Question 132
+### Question 133
 
-Choose the best word for [132].
+Which sentence belongs at [1]?
 
-- A. who
-- B. which
-- C. whose
+- A. All tickets will be sold after the display closes.
+- B. The donated ornament will be returned yesterday.
+- C. The exhibition was canceled last winter.
+- D. A separate waiting area will be available beside that entrance.
+
+### Answer
+
+D
+
+### Explanation
+
+The waiting area explains how waiting guests can move indoors without blocking the door. Cancellation and later sales conflict with preparations; yesterday is inconsistent with future return.
+
+### Question 134
+
+Which word best completes blank 134?
+
+- A. reported
+- B. reporting
+- C. reports
+- D. report
+
+### Answer
+
+D
+
+### Explanation
+
+Please introduces an imperative requiring the base verb report. The other inflections do not fit.
+
+## Passage Group 2
+
+### Type
+
+Notice
+
+### Passage
+
+Westbank Meal Service: Kitchen Procedures
+
+The kitchen review identified several insanitary storage practices. These findings do not justify blaming one employee; the old procedure was unclear, and the company accepts responsibility. Staff must disinfect preparation surfaces before work and separate raw ingredients from edible food that is ready to serve.
+
+Store every ingredient in a _____ (135) container. A fastidious approach to labeling will help prevent contamination. A label must identify both the product and its opening date. **[1]** (136) An unreadable label cannot be relied upon when deciding whether an item is safe to use.
+
+The supervisor will demonstrate how to whisk the sauce without adding excess air and how to dilute the cleaning solution _____ (137) the supplier's instructions. Staff should not improvise chemical proportions.
+
+We have ordered a replacement refrigerator. _____ (138), use the unit in the adjoining kitchen. Report any temperature alarm immediately; do not simply switch it off.
+
+### Question 135
+
+Which word best completes blank 135?
+
+- A. sealed
+- B. seals
+- C. sealing
+- D. seal
+
+### Answer
+
+A
+
+### Explanation
+
+A sealed container is a container that has been closed. The other forms do not supply the appropriate result-state adjective here.
+
+### Question 136
+
+Which sentence belongs at [1]?
+
+- A. The new menu will be advertised next year.
+- B. Guests can pay for meals at reception.
+- C. Write this information in clear, legible lettering.
+- D. Everyone should skip the labeling step.
+
+### Answer
+
+C
+
+### Explanation
+
+Clear lettering follows the labeling requirement and leads naturally into the warning about unreadable labels. The other sentences are unrelated or contradict the rule.
+
+### Question 137
+
+Which phrase best completes blank 137?
+
+- A. instead of
+- B. in spite of
+- C. according to
+- D. apart from
+
+### Answer
+
+C
+
+### Explanation
+
+According to specifies compliance with instructions. The other phrases suggest substitution, exclusion, or disregard.
+
+### Question 138
+
+Which word best completes blank 138?
+
+- A. Otherwise
+- B. Previously
+- C. Consequently
+- D. Meanwhile
+
+### Answer
+
+D
+
+### Explanation
+
+Meanwhile introduces the temporary arrangement pending replacement. Consequently would not clearly establish an interim period, otherwise introduces an alternative condition, and previously conflicts with the instruction for present use.
+
+## Passage Group 3
+
+### Type
+
+Memo
+
+### Passage
+
+To: Department Heads
+From: People and Culture Office
+Date: October 3
+Subject: Respectful performance reviews
+
+An overt accusation can tarnish trust as much as a covert insult. Managers must not insinuate that an employee is dishonest merely because a deadline was missed. Review the facts before making a judgment, and avoid _____ (139) language that may arouse resentment.
+
+If the record is incomplete, give the employee an opportunity to explain. **[1]** (140) This sequence protects both the employee and the organization from decisions based on rumor. Do not try to elicit a confession or goad someone into an angry reply.
+
+A supervisor who is oblivious _____ (141) a workload problem should consult the scheduling team. A temporary adjustment may be more useful than a warning.
+
+Written records _____ (142) securely for twelve months. The employee relations office can provide counsel on difficult cases. Fair procedures will not eliminate every disagreement, but they make reconciliation more likely.
+
+### Question 139
+
+Which word best completes blank 139?
+
+- A. offensively
+- B. offend
+- C. offense
+- D. offensive
+
+### Answer
+
+D
+
+### Explanation
+
+Language is modified by the adjective offensive. The adverb, verb, and noun cannot occupy this adjective position.
+
+### Question 140
+
+Which sentence belongs at [1]?
+
+- A. The employee must resign immediately.
+- B. Only then should you decide whether corrective action is necessary.
+- C. Submit the warning before reviewing any evidence.
+- D. All records should be discarded after the interview.
+
+### Answer
+
+B
+
+### Explanation
+
+Only then establishes explanation before judgment, matching This sequence. The other sentences undermine the stated fair process.
+
+### Question 141
+
+Which preposition best completes blank 141?
+
+- A. upon
+- B. to
+- C. for
+- D. by
+
+### Answer
+
+B
+
+### Explanation
+
+Oblivious to is the standard collocation for being unaware of something. The other prepositions do not complete it here.
+
+### Question 142
+
+Which phrase best completes blank 142?
+
+- A. must be stored
+- B. must storing
+- C. must been stored
+- D. must store
+
+### Answer
+
+A
+
+### Explanation
+
+Written records receive storage, requiring modal plus be plus past participle. The alternatives omit the passive or misuse the modal.
+
+## Passage Group 4
+
+### Type
+
+Article
+
+### Passage
+
+Riverbend Enterprise Review
+
+The town's craft economy experienced a renaissance after a group of retailers formed a purchasing pact. A once moribund workshop now supplies contemporary furniture to hotels in the vicinity. The workshop's intrinsic appeal lies in its careful workmanship, not in claims that it can _____ (143) every customer with advertising.
+
+The initiative received a modest subsidy. **[1]** (144) Instead, the owners used it to train apprentices and improve ventilation. Those changes produced tangible benefits, including fewer defects and lower staff turnover.
+
+The municipal bureau has _____ (145) the project a model for other small businesses. However, the owners reject the idea that a single grant is a panacea. They attribute their progress to sustained collaboration and the willingness to articulate problems clearly.
+
+Applications for the next grant round close on May 16. Businesses _____ (146) wish to apply should request the prospectus and prepare a realistic budget. The review panel will publish its criterion for scoring proposals before the deadline.
+
+### Question 143
+
+Which verb best completes blank 143?
+
+- A. recuperate
+- B. beguile
+- C. repent
+- D. gape
+
+### Answer
+
+B
+
+### Explanation
+
+Beguile can take a customer as its object and means charm or entice. The other choices are intransitive in these intended senses and do not express advertising appeal.
+
+### Question 144
+
+Which sentence belongs at [1]?
+
+- A. The workshop stopped making furniture.
+- B. The money was not spent on a promotional campaign.
+- C. All apprentices were dismissed immediately.
+- D. The grant was used entirely to purchase advertisements.
+
+### Answer
+
+B
+
+### Explanation
+
+Instead contrasts training and ventilation with not spending on promotion. Advertising expenditure contradicts that contrast; dismissals and stopped production conflict with the account.
+
+### Question 145
+
+Which verb best completes blank 145?
+
+- A. designated
+- B. designating
+- C. designates
+- D. designation
+
+### Answer
+
+A
+
+### Explanation
+
+Has requires the past participle designated. The ing form, noun, and present singular verb do not fit.
+
+### Question 146
+
+Which word best completes blank 146?
+
+- A. what
+- B. whose
+- C. that
 - D. whom
 
 ### Answer
@@ -57,327 +350,4 @@ C
 
 ### Explanation
 
-'Whose' connects the managers to their teams as a possessive relative determiner.
-
-### Question 133
-
-Choose the best sentence for [133].
-
-- A. The catering company has increased the price of its lunch packages.
-- B. Because the foyer is being repainted, check-in will take place beside the east entrance.
-- C. Several speakers will join the panel discussion remotely.
-- D. The travel desk has canceled all individual hotel reservations.
-
-### Answer
-
-B
-
-### Explanation
-
-The next sentence refers to the changed location of the registration desk, making the east entrance announcement the necessary antecedent.
-
-### Question 134
-
-Choose the best word for [134].
-
-- A. distribute
-- B. distributed
-- C. distribution
-- D. distributing
-
-### Answer
-
-A
-
-### Explanation
-
-'Please' takes the base form of the verb in an imperative request: 'Please distribute it...'.
-
-### Tags
-
-- text-completion
-- business-context
-- grammar-and-cohesion
-
-## Passage Group 2
-
-### Type
-
-Advertisement
-
-### Passage
-
-**RIVERTON WORKSPACE**
-**More Room for Your Next Big Idea**
-
-Finding professional space for a growing company does not have to involve a long-term lease. At Riverton Workspace, businesses can rent furnished offices, meeting rooms, and shared desks by the day or by the month. Our flexible plans are designed to accommodate teams of **[135]** sizes, from independent consultants to firms with twenty employees.
-
-Next Thursday, we are holding an open house from 11 a.m. to 3 p.m. Visitors will be able to tour recently renovated offices and speak with our on-site support staff. **[136]** ______
-
-Anyone who signs a six-month agreement during the event will receive a 20 percent **[137]** on the first month's rent. This offer applies only to private offices; meeting-room bookings are not included.
-
-Space on the guided tours is limited, so we encourage visitors to register **[138]** using the link on our website. Walk-in guests are welcome, but tour places cannot be guaranteed.
-
-### Question 135
-
-Choose the best word for [135].
-
-- A. vary
-- B. variously
-- C. variation
-- D. varying
-
-### Answer
-
-D
-
-### Explanation
-
-'Varying sizes' is a natural adjective phrase meaning different sizes.
-
-### Question 136
-
-Choose the best sentence for [136].
-
-- A. The building's former owner worked in the shipping industry.
-- B. Customers who reserve a room must bring their own office furniture.
-- C. Short demonstrations of the video-conferencing equipment will also be offered.
-- D. Monthly invoices are normally issued on the final business day.
-
-### Answer
-
-C
-
-### Explanation
-
-The sentence adds another activity available at the open house and fits the surrounding tour description.
-
-### Question 137
-
-Choose the best word for [137].
-
-- A. discount
-- B. expense
-- C. deposit
-- D. estimate
-
-### Answer
-
-A
-
-### Explanation
-
-A 20 percent discount is a reduction in the first month's rental price.
-
-### Question 138
-
-Choose the best word for [138].
-
-- A. formerly
-- B. in advance
-- C. afterward
-- D. eventually
-
-### Answer
-
-B
-
-### Explanation
-
-Registering 'in advance' makes sense because guided-tour places are limited; later walk-ins are not guaranteed a place.
-
-### Tags
-
-- text-completion
-- business-context
-- grammar-and-cohesion
-
-## Passage Group 3
-
-### Type
-
-Article
-
-### Passage
-
-**Neighborhood Grocer Tries a New Delivery Model**
-*By Jamie Cole, City Business Weekly*
-
-Westbrook Market, an independent grocery retailer with four neighborhood stores, has begun testing bicycle deliveries for online orders within three kilometers of its downtown branch. The retailer previously relied on vans for all deliveries, but traffic congestion made short journeys increasingly **[139]**.
-
-The pilot program started in September with three cargo bicycles. Orders placed before noon are typically delivered the same afternoon, provided all items are in stock. According to operations manager Daniel Price, bicycles have reduced travel time on some routes, although the retailer is still collecting data to determine **[140]** the service can be expanded.
-
-**[141]** ______ The bicycles cannot accommodate large quantities of refrigerated products, so customers ordering those items are still offered van delivery.
-
-The retailer plans to publish the pilot's results in December. If customer satisfaction remains high and operating costs meet expectations, the company will consider **[142]** the service to its other branches early next year.
-
-### Question 139
-
-Choose the best word for [139].
-
-- A. efficient
-- B. efficiency
-- C. inefficient
-- D. efficiently
-
-### Answer
-
-C
-
-### Explanation
-
-Traffic congestion makes van journeys less effective, so the adjective 'inefficient' is required after 'increasingly'.
-
-### Question 140
-
-Choose the best word for [140].
-
-- A. whether
-- B. despite
-- C. unless
-- D. throughout
-
-### Answer
-
-A
-
-### Explanation
-
-'Determine whether' introduces an indirect yes/no question about possible expansion.
-
-### Question 141
-
-Choose the best sentence for [141].
-
-- A. Customers may also use loyalty points to purchase household products.
-- B. The city has recently approved construction of a new parking garage.
-- C. The retailer plans to extend its opening hours on weekends.
-- D. The trial nevertheless has some practical limitations.
-
-### Answer
-
-D
-
-### Explanation
-
-The following sentence identifies one limitation—refrigerated goods—so the transition signals contrast with the benefits.
-
-### Question 142
-
-Choose the best word for [142].
-
-- A. expand
-- B. expanding
-- C. expanded
-- D. expansion
-
-### Answer
-
-B
-
-### Explanation
-
-'Consider' is followed by a gerund (-ing form), so 'consider expanding' is grammatically correct.
-
-### Tags
-
-- text-completion
-- business-context
-- grammar-and-cohesion
-
-## Passage Group 4
-
-### Type
-
-Internal memo
-
-### Passage
-
-**MEMORANDUM**
-**To:** Department Supervisors
-**From:** Information Governance Office
-**Date:** October 6
-**Subject:** Changes to Archive Access
-
-As part of our records-management review, the shared archive will be moved to a new document platform on October 30. Files will remain searchable during the transition, but editing permissions will be temporarily **[143]** between 7 p.m. Friday and 9 a.m. Monday to protect document integrity.
-
-Supervisors should check that their teams have assigned an owner to each active project folder. Folders without an identified owner will be marked for follow-up rather than deleted. **[144]** ______
-
-After the migration, staff may continue using their existing employee credentials. They will, however, be required to complete a brief security tutorial before **[145]** access to restricted records.
-
-The Information Governance Office will send a confirmation notice once the move is complete. If a file appears to be missing, employees should report the issue through the service portal, **[146]** will create a tracking number for the request. Please do not upload duplicate copies while the investigation is underway.
-
-### Question 143
-
-Choose the best word for [143].
-
-- A. restricted
-- B. restricting
-- C. restriction
-- D. restrictive
-
-### Answer
-
-A
-
-### Explanation
-
-The passive phrase 'will be temporarily restricted' explains a temporary limit on editing permissions.
-
-### Question 144
-
-Choose the best sentence for [144].
-
-- A. Each department must also submit a list of folders requiring restricted access by October 20.
-- B. The company's annual celebration will be held in the main auditorium.
-- C. Staff members can reserve parking spaces through the travel portal.
-- D. All project owners will receive a new laptop after the migration.
-
-### Answer
-
-A
-
-### Explanation
-
-The memo requests preparation for access control; submitting restricted-folder lists extends that instruction logically.
-
-### Question 145
-
-Choose the best word for [145].
-
-- A. grant
-- B. granted
-- C. gaining
-- D. gain
-
-### Answer
-
-C
-
-### Explanation
-
-The preposition 'before' is followed by the gerund 'gaining' when describing the process of obtaining access.
-
-### Question 146
-
-Choose the best word for [146].
-
-- A. who
-- B. which
-- C. where
-- D. whose
-
-### Answer
-
-B
-
-### Explanation
-
-'Which' introduces a nonrestrictive relative clause referring to the service portal, which generates a tracking number.
-
-### Tags
-
-- text-completion
-- business-context
-- grammar-and-cohesion
-
+That introduces a restrictive relative clause and serves as the subject of wish. What lacks the appropriate antecedent structure, whose needs a noun, and whom is an object form.

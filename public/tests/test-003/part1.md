@@ -4,89 +4,21 @@
 
 ### Image
 
-images/toeic-scenes/office-meeting.svg
+images/test-003/8629107.jpg
 
 ### Audio
 
 Speaker 1:
-A. Papers have been spread across the conference table.
+A. The cook is slicing a pie on a board.
 
 Speaker 1:
-B. Three people are positioned behind a long rectangular table.
+B. Some plates are being dried with a cloth.
 
 Speaker 1:
-C. A projector screen is hanging behind the participants.
+C. Steam is rising from a pan on the stove.
 
 Speaker 1:
-D. One participant is walking toward the exit.
-
-### Answer
-
-B
-
-### Explanation
-
-The image shows three figures behind one long rectangular table. The tabletop is clear, and no projector screen, exit, or walking figure is visible.
-
-### Tags
-
-- photograph
-- office
-- layout
-
-## Question 2
-
-### Image
-
-images/toeic-scenes/train-platform.svg
-
-### Audio
-
-Speaker 1:
-A. A single standing figure is visible to the right of the train.
-
-Speaker 1:
-B. Several suitcases are lined up beside the train doors.
-
-Speaker 1:
-C. The platform is crowded with passengers boarding the train.
-
-Speaker 1:
-D. A bicycle has been parked against the station wall.
-
-### Answer
-
-A
-
-### Explanation
-
-A lone standing figure appears on the right side of the scene, separated from the train on the left. No suitcases, crowd, or bicycle is shown.
-
-### Tags
-
-- photograph
-- transportation
-- position
-
-## Question 3
-
-### Image
-
-images/toeic-scenes/restaurant.svg
-
-### Audio
-
-Speaker 1:
-A. Both diners are standing beside the table.
-
-Speaker 1:
-B. A server is carrying a tray above shoulder height.
-
-Speaker 1:
-C. One seated person is extending an arm toward the center of the table.
-
-Speaker 1:
-D. Several chairs are stacked against the wall.
+D. A whisk is being hung from a hook.
 
 ### Answer
 
@@ -94,33 +26,32 @@ C
 
 ### Explanation
 
-The taller seated figure has an arm extended diagonally toward the table's center. The diners are not standing, and no tray or stacked chairs are visible.
+Steam is visibly rising from the left-hand pan. No pie, plate drying, or hanging whisk is shown.
 
 ### Tags
 
 - photograph
-- restaurant
-- gesture
+- observable-detail
 
-## Question 4
+## Question 2
 
 ### Image
 
-images/toeic-scenes/warehouse.svg
+images/test-003/10810694.jpg
 
 ### Audio
 
 Speaker 1:
-A. The shelving is divided into several vertical sections by support posts.
+A. A bicycle is resting beside a closed wooden door.
 
 Speaker 1:
-B. Every shelf is completely filled with identical cartons.
+B. A rider is fastening a helmet under his chin.
 
 Speaker 1:
-C. Boxes are being loaded into a delivery van.
+C. A mechanic is inflating a detached tire.
 
 Speaker 1:
-D. A worker is pushing a hand truck down an aisle.
+D. A bicycle is suspended above a workbench.
 
 ### Answer
 
@@ -128,33 +59,65 @@ A
 
 ### Explanation
 
-Multiple vertical support posts divide the shelving into separate bays. The shelves are only partly filled, and no vehicle, worker, or hand truck appears.
+The bicycle stands next to the closed double door. There is no rider, mechanic, detached tire, or workbench.
 
 ### Tags
 
 - photograph
-- warehouse
-- shelving
+- observable-detail
 
-## Question 5
+## Question 3
 
 ### Image
 
-images/toeic-scenes/park.svg
+images/test-003/16236750.jpg
 
 ### Audio
 
 Speaker 1:
-A. A fountain is spraying water beside the path.
+A. The aircraft is flying over a terminal.
 
 Speaker 1:
-B. The walking path curves toward the upper-right area of the park.
+B. Travelers are descending an outdoor staircase.
 
 Speaker 1:
-C. A fence separates the trees from the walkway.
+C. A truck is parked directly beneath the tail.
 
 Speaker 1:
-D. Several people are resting on the grass.
+D. A boarding bridge is connected to the aircraft.
+
+### Answer
+
+D
+
+### Explanation
+
+The enclosed boarding bridge meets the side of the stationary aircraft. No flight or descending travelers are visible, and the truck is beside the wing rather than directly beneath the tail.
+
+### Tags
+
+- photograph
+- observable-detail
+
+## Question 4
+
+### Image
+
+images/test-003/4522917.jpg
+
+### Audio
+
+Speaker 1:
+A. A florist is wrapping stems in paper.
+
+Speaker 1:
+B. A bouquet is standing in a transparent vase.
+
+Speaker 1:
+C. Loose petals are floating in a basin.
+
+Speaker 1:
+D. A vase has been overturned on the floor.
 
 ### Answer
 
@@ -162,33 +125,65 @@ B
 
 ### Explanation
 
-The broad path visibly bends from the lower center toward the upper-right portion of the scene. No fountain, fence, or people are shown.
+The flower arrangement stands upright in a clear glass vase. No florist, wrapping paper, basin, or overturned vase is shown.
 
 ### Tags
 
 - photograph
-- park
-- path
+- observable-detail
+
+## Question 5
+
+### Image
+
+images/test-003/9289233.jpg
+
+### Audio
+
+Speaker 1:
+A. Passengers are climbing down a rope ladder.
+
+Speaker 1:
+B. A ferry is being lifted out of the water.
+
+Speaker 1:
+C. The vessel is fitted with a single round window.
+
+Speaker 1:
+D. Life rings are attached to the upper railing.
+
+### Answer
+
+D
+
+### Explanation
+
+Several life rings hang from the upper railing. No climbing passengers or lifting equipment appear, and the visible windows are rectangular and numerous.
+
+### Tags
+
+- photograph
+- observable-detail
 
 ## Question 6
 
 ### Image
 
-images/toeic-scenes/construction.svg
+images/test-003/14564807.jpg
 
 ### Audio
 
 Speaker 1:
-A. The worker is positioned behind a large plan board.
+A. Bundles of vegetables are piled beside some carrots.
 
 Speaker 1:
-B. Several bricks are stacked along the ground.
+B. A customer is weighing a gourd on a scale.
 
 Speaker 1:
-C. A truck is parked beside the work area.
+C. Produce has been sealed in identical cartons.
 
 Speaker 1:
-D. The construction site is covered by a temporary roof.
+D. A vendor is peeling potatoes with a knife.
 
 ### Answer
 
@@ -196,10 +191,9 @@ A
 
 ### Explanation
 
-The worker's upper body and helmet appear behind the large rectangular plan board. No bricks, truck, or temporary roof are visible.
+Bundles of leeks lie among carrots and beets. No customer, scale, sealed cartons, or vendor peeling potatoes is visible.
 
 ### Tags
 
 - photograph
-- construction
-- plan
+- observable-detail

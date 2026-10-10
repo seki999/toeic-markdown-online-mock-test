@@ -116,14 +116,14 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 3. 在正式生成前简要列出参考文件、实际覆盖的 Part、代表性页码，以及各 Part 的题型、设问方式、选项结构、场景、材料长度和信息密度特征。区分直接观察到的特点与生成时自行设定的参数。必须把听力题 PDF 的问题、选项、图片/图表与逐字稿按题号对照，分析 Part 1 的陈述、Part 2 的问句与三项应答，以及 Part 3～4 的轮次、材料词数、信息推进、话语意图、同义改写和答案证据。词数只统计材料正文，排除 Directions、页眉、题号和标签；跨页材料须合并。逐字稿不是录音，也不是官方答案表，不得声称已验证语速、口音或停顿；异常说话人标签须结合上下文核对，不能照搬。
 4. 难度必须以三份 PDF 为基准，再在该基准上结合 [TARGET_SCORE] 调整。综合校准词汇常见程度、句法复杂度、信息密度、同义改写、推断步骤及干扰项相似度，不得仅用 medium 标签代表难度。以常见职场和日常商务英语为主，适量加入语境推断和跨材料整合；不要依赖冷僻专业知识，也不要把所有题目简化为原文关键词匹配。未指定 [TARGET_SCORE] 时保持参考材料的整体难度。
 5. 各 Part 的形式参照要求：
-   - Part 1：参照图片描述的观察粒度、动作、状态及空间关系；四个陈述中仅一个与图像事实一致。实际出题仍使用本项目规定的六张共享图并遵守历史去重要求，不复制参考 PDF 的照片或原题。
+   - Part 1：参照图片描述的观察粒度、动作、状态及空间关系；四个陈述中仅一个与图像事实一致。每次出题必须获取六张新的真实摄影图片，逐张查看后编题，并遵守历史去重要求，不复制参考 PDF 的照片或原题。
    - Part 2：一个问句或陈述配三个应答，混合直接回答和自然的间接应答；干扰项可利用近音、关键词重复、答非所问等机制，但不得产生两个合理答案。以逐字稿第 2～5 页的真实应答机制校准：包括直接回答、否定/附加问句、选择问句、陈述回应和依赖语境的间接应答；新题须重新创作问句及全部选项。
    - Part 3～4：每组材料三题、每题四个选项，结合人物身份、地点、主旨、细节、原因、下一步行动及话语含义；参照 PDF 中的图表结合题设计信息整合，而非让三题都考相邻句子的字面复述。需要图表时仅使用 docs/TOEIC-MD-SPEC.md 和当前 Parser 已支持的呈现方式；无法呈现则改用兼容的信息整合题，并在交付报告说明，不得出现没有可见图表的“Look at the graphic”题。
    - Part 5：单句留空、四个选项，兼顾词性、词形、时态语态、代词、介词、连接词、词义及商务搭配；选项长度和句子复杂度参照 PDF，避免所有题都变为目标词释义测试。
    - Part 6：参照邮件、通知、产品说明和宣传材料等体裁，每组四题；同时覆盖语法/词汇、上下文衔接和整句填入，整句题须依赖段落逻辑，不能脱离全文作答。
    - Part 7：参照表单、收据、文章、邮件、网页、广告、聊天、日程及评论等多种材料；保留必要的日期、时间、金额、身份、邮件字段和表格关系。覆盖目的、细节、暗示、语境词义、话语意图、句子位置及跨材料推断；double/triple 必须有需要结合不同材料才能作答的题，不能只是把互不相关的文章拼在一起。
 6. 先理解参考材料的考查机制，再独立构思新场景与答案证据；结合输入词表建立逐词分配计划，目标词在听力 Transcript、阅读正文、题干或选项中自然出现，不能仅写在解析或覆盖报告中算作覆盖。听力题的正确答案必须有逐字稿（及实际可见图表，如适用）支持，Part 1 必须有图片事实支持；解析指出具体证据，并解释各干扰项为何不成立。参照的是题型、语言水平、材料组织和考查机制，所有人物、机构、情境、数据、正文、问题与选项必须重新原创；不得逐题换名、替换数字或近义改写参考试题，不得复制其中的商标、照片或受保护内容。
-7. 形式相似不等于复制 PDF 排版。输出必须遵守本项目的 Markdown/Parser 契约，以及下文明确规定的 200 题、题号、分组、共享图和文件边界；参考 PDF 的材料组数量或版式不覆盖这些要求。
+7. 形式相似不等于复制 PDF 排版。输出必须遵守本项目的 Markdown/Parser 契约，以及下文明确规定的 200 题、题号、分组、真实照片和文件边界；参考 PDF 的材料组数量或版式不覆盖这些要求。
 8. 大规模词表覆盖不得破坏参照难度：优先自然分配目标词到不同材料，保持同类参考材料的篇幅和信息密度，不得靠超长段落、重复堆词或生硬句法实现覆盖。若 200 题、全部词汇覆盖与参考难度无法同时满足，明确列出冲突并请求调整约束，不得伪报完成。
 
 一、最终目标
@@ -141,7 +141,7 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 
 二、文件边界
 
-只允许在 public/tests/[TEST_ID]/ 下创建以下 Markdown 文件：
+题库在 public/tests/[TEST_ID]/ 下创建以下 Markdown 文件；每次另外在 public/images/[TEST_ID]/ 保存六张真实摄影图片，并在 docs/[TEST_ID]-images.md 记录图片来源、作者、许可链接及查看日期：
 
 - metadata.md
 - part1.md
@@ -155,14 +155,14 @@ MyChatGPT → Generate Markdown folder → public/tests/test-xxx/
 
 不要修改其他已经存在的题库。
 
-不要创建或修改：
+除上述真实照片及来源记录外，不要创建或修改：
 - JavaScript
 - TypeScript
 - Vue
 - JSON
 - YAML 配置文件
 - SVG
-- 图片
+- 未经授权的图片
 - 配置文件
 - GitHub Actions
 - 脚本
@@ -403,13 +403,14 @@ Audio 只允许：
 - 图片核心观察事实
 - 历史六题答案序列
 
-使用项目已有 6 张共享图：
-- images/toeic-scenes/office-meeting.svg
-- images/toeic-scenes/train-platform.svg
-- images/toeic-scenes/restaurant.svg
-- images/toeic-scenes/warehouse.svg
-- images/toeic-scenes/park.svg
-- images/toeic-scenes/construction.svg
+每次生成新题库都必须为 Part 1 获取六张新的真实摄影图片：
+- 使用用户提供且获准使用的实拍照片，或从允许该用途的摄影图库获取真实照片；真实摄影不等于 AI 生成的仿真图片。
+- 不再默认复用 images/toeic-scenes/ 下的共享 SVG，不把截图、插画、SVG 或 AI 仿真图当作真实摄影。
+- 六张照片必须彼此不同，也不得重复使用其他题库已采用的照片。查询历史图片路径和来源，避免同一照片仅换文件名。
+- 将 JPG、PNG 或 WebP 保存到 public/images/[TEST_ID]/，MD 的 Image 写 images/[TEST_ID]/文件名，不写 public/ 前缀或外部热链。
+- 从真实画面先确定一个可观察且唯一成立的事实，再写四项描述、答案与解析；必须逐张实际查看，不能只凭图库标题或标签编题。
+- 选择主体清晰的日常/职场场景，保持比例，不做改变题目事实的编辑。记录原始页面、摄影师、许可、获取日期及题号到 docs/[TEST_ID]-images.md。
+- 如果无法取得六张可读、可用且来源明确的真实照片，应报告缺失并请求用户提供；不能用插画或 AI 图片默默替代。
 
 每题包含：
 - Image
@@ -441,7 +442,7 @@ A-D 干扰项也必须原创。
 
 目标词只有图片确实支持时才能用于 Part 1，不能为了覆盖词汇虚构图片中不存在的物体或动作。
 
-如果现有 6 张共享图已经无法支持六个与历史题库真正不同且可验证的新正确描述，停止生成 Part 1 并明确报告需要新增共享场景图；不得用重复题凑数。
+若某张照片不能支持唯一答案或与历史观察事实重复，换一张真实照片重新编题；不得用重复题凑数。
 
 十三、Part 2
 
@@ -664,7 +665,7 @@ Explanation 必须说明文本证据、推理、语法或词义依据，不能�
 - 新 Part 1 描述数
 - Exact duplicate 数
 - Semantic / core-fact duplicate 数
-- 六张图片分别采用的新观察重点
+- 六张真实照片的路径、来源、许可与分别采用的新观察重点
 - 当前六题答案序列
 - 与历史答案序列的比较
 
@@ -682,7 +683,7 @@ Explanation 必须说明文本证据、推理、语法或词义依据，不能�
 5. Transcript 是否完整
 6. Answer 是否完整
 7. Explanation 是否完整
-8. Part 1 图片是否完整
+8. Part 1 六张真实照片是否完整、逐张查看、来源许可是否记录
 9. Raw vocabulary entries
 10. Invalid entries removed
 11. Duplicate entries merged
@@ -703,7 +704,7 @@ Missing vocabulary: 0
 
 二十三、执行边界
 
-本任务只创建 public/tests/[TEST_ID]/ 中的 Markdown 文件。
+本任务创建 public/tests/[TEST_ID]/ 中的 Markdown、public/images/[TEST_ID]/ 中六张真实照片，以及 docs/[TEST_ID]-images.md 来源记录。
 
 不要：
 - npm install
@@ -715,7 +716,7 @@ Missing vocabulary: 0
 - 修改 public/tests/index.json
 - 修改项目代码
 
-用户把整个 public/tests/[TEST_ID]/ 文件夹加入 Repository 并推送后，由现有 GitHub Actions 负责后续自动发现、index 生成、测试、构建和 GitHub Pages 发布。
+用户把题库目录、对应照片目录和来源记录一起加入 Repository 并推送后，由现有 GitHub Actions 负责后续自动发现、index 生成、测试、构建和 GitHub Pages 发布。
 
 二十四、最重要的执行要求
 
@@ -728,7 +729,7 @@ Missing vocabulary: 0
 不要随机抽样。
 不要把剩余词只写进 Explanation 或 vocabulary-coverage.md 来伪造覆盖。
 
-直接创建完整 9 个 Markdown 文件。
+直接创建完整 9 个题库 Markdown 文件、六张真实照片和照片来源记录。
 
 即使 [VOCABULARY_LIST] 包含 500、1000 个或更多有效目标词，也必须完整处理整个词表，并保证全部有效目标词真实存在于 Part 1～7 的考试正文中。
 ~~~
@@ -780,7 +781,7 @@ Vite 使用 `base: './'`，Vue Router 使用 hash history，因此同时兼容 `
 - 显示 Raw Score，不伪造官方 scaled TOEIC score。
 - TTS 音质、voice 和 pause 行为取决于设备；未上传任何音频。
 - LocalStorage 不跨设备同步，也没有登录、云端历史或防作弊系统。
-- Part 1 可直接引用 `public/images/toeic-scenes/` 中的共享 SVG；因此新增题库可以只包含 Markdown 文件。
+- 每次新题库的 Part 1 使用六张新的真实照片，保存在 `public/images/[TEST_ID]/`，MD 引用 `images/[TEST_ID]/文件名`，并附来源记录；已有 SVG 题库继续兼容。
 - Exam Mode 提供合理的流程限制，但不尝试复制正式考场的全部计时与监管规则。
 
 ## 后续扩展
