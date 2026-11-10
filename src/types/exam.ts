@@ -40,12 +40,16 @@ export interface Question {
   explanation: string
   vocabulary?: string
   tags: string[]
+  practiceImage?: string
+  practiceImageAlt?: string
   image?: string
   speech: SpeechLine[]
   passages: Passage[]
 }
 
 export interface QuestionGroup {
+  practiceImage?: string
+  practiceImageAlt?: string
   id: string
   part: PartNumber
   questions: Question[]

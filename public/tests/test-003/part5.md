@@ -2,12 +2,22 @@
 
 ## Question 101
 
+
+
 The monetary award will be divided _____ among the three winning teams.
 
 - A. equality
 - B. equalize
 - C. equal
 - D. equally
+
+### Practice Image
+
+images/test-003/practice/part5/q101.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 101: equally
 
 ### Answer
 
@@ -23,12 +33,22 @@ The verb phrase will be divided requires an adverb of manner; equally fits. Equa
 
 ## Question 102
 
+
+
 The consultant, _____ specializes in airport operations, will inspect the site tomorrow.
 
 - A. whose
 - B. whom
 - C. who
 - D. which
+
+### Practice Image
+
+images/test-003/practice/part5/q102.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 102: who
 
 ### Answer
 
@@ -44,12 +64,22 @@ Who is the subject of specializes and refers to a person. Whose requires a follo
 
 ## Question 103
 
+
+
 An ornament attached to the door must not _____ the emergency sign.
 
 - A. obscure
 - B. recuperate
 - C. repent
 - D. ordain
+
+### Practice Image
+
+images/test-003/practice/part5/q103.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 103: obscure
 
 ### Answer
 
@@ -65,12 +95,22 @@ Obscure means make difficult to see and takes the sign as its object. The other 
 
 ## Question 104
 
+
+
 The brochure is more _____ than the version distributed last spring.
 
 - A. informative
 - B. inform
 - C. informatively
 - D. information
+
+### Practice Image
+
+images/test-003/practice/part5/q104.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 104: informative
 
 ### Answer
 
@@ -86,12 +126,22 @@ More requires an adjective describing the brochure. Informative is that adjectiv
 
 ## Question 105
 
+
+
 The manager asked the photographer not to _____ that the guest had endorsed the product.
 
 - A. insinuate
 - B. sewage
 - C. exterminate
 - D. tarnish
+
+### Practice Image
+
+images/test-003/practice/part5/q105.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 105: insinuate
 
 ### Answer
 
@@ -107,12 +157,22 @@ Insinuate can take a that-clause meaning suggest indirectly. Exterminate and tar
 
 ## Question 106
 
+
+
 All trainees must complete the safety course _____ they operate the machine.
 
 - A. during
 - B. despite
 - C. before
 - D. unless
+
+### Practice Image
+
+images/test-003/practice/part5/q106.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 106: before
 
 ### Answer
 
@@ -128,12 +188,22 @@ Before introduces the required sequence. During and despite cannot directly intr
 
 ## Question 107
 
+
+
 The museum _____ by a private foundation since 2018.
 
 - A. supports
 - B. supporting
 - C. will support
 - D. has been supported
+
+### Practice Image
+
+images/test-003/practice/part5/q107.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 107: has been supported
 
 ### Answer
 
@@ -149,12 +219,22 @@ Since 2018 calls for a present-perfect construction, and the museum receives sup
 
 ## Question 108
 
+
+
 Please send the supplier a copy of _____ signed contract.
 
 - A. yours
 - B. your
 - C. yourself
 - D. you
+
+### Practice Image
+
+images/test-003/practice/part5/q108.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 108: your
 
 ### Answer
 
@@ -170,12 +250,22 @@ A possessive determiner is needed before signed contract. Yours is a standalone 
 
 ## Question 109
 
+
+
 The auditors found no evidence of _____ activity in the account.
 
 - A. covertness
 - B. covertly
 - C. covert
 - D. cover
+
+### Practice Image
+
+images/test-003/practice/part5/q109.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 109: covert
 
 ### Answer
 
@@ -191,12 +281,22 @@ An adjective modifies activity. Covert means hidden; covertly is an adverb, cove
 
 ## Question 110
 
+
+
 The terms must be reviewed _____ the application is submitted.
 
 - A. because of
 - B. before
 - C. during
 - D. instead of
+
+### Practice Image
+
+images/test-003/practice/part5/q110.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 110: before
 
 ### Answer
 
@@ -212,12 +312,22 @@ Before introduces the finite clause. The other expressions require noun phrases 
 
 ## Question 111
 
+
+
 A provisional permit does not _____ entry to restricted areas.
 
 - A. authorize
 - B. authorized
 - C. authoritative
 - D. authorization
+
+### Practice Image
+
+images/test-003/practice/part5/q111.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 111: authorize
 
 ### Answer
 
@@ -233,12 +343,22 @@ Does not requires a base verb, authorize. The other choices are a noun, particip
 
 ## Question 112
 
+
+
 The company will _____ employees for approved relocation expenses.
 
 - A. compensate
 - B. arouse
 - C. deprive
 - D. confiscate
+
+### Practice Image
+
+images/test-003/practice/part5/q112.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 112: compensate
 
 ### Answer
 
@@ -254,12 +374,22 @@ Compensate someone for expenses is the correct reimbursement collocation. Confis
 
 ## Question 113
 
+
+
 The report contains _____ references to the earlier investigation.
 
 - A. every
 - B. much
 - C. several
 - D. another
+
+### Practice Image
+
+images/test-003/practice/part5/q113.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 113: several
 
 ### Answer
 
@@ -275,12 +405,22 @@ Plural count noun references takes several. Much is for uncountable quantities; 
 
 ## Question 114
 
+
+
 The shipping embargo has made it difficult _____ replacement parts.
 
 - A. obtains
 - B. to obtain
 - C. obtained
 - D. obtain
+
+### Practice Image
+
+images/test-003/practice/part5/q114.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 114: to obtain
 
 ### Answer
 
@@ -296,12 +436,22 @@ Difficult takes a to-infinitive in this construction. The base verb and finite o
 
 ## Question 115
 
+
+
 The firm's popularity is due _____ its reliable after-sales service.
 
 - A. to
 - B. at
 - C. with
 - D. on
+
+### Practice Image
+
+images/test-003/practice/part5/q115.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 115: to
 
 ### Answer
 
@@ -317,12 +467,22 @@ Due to is the fixed phrase for cause. The other prepositions do not complete it.
 
 ## Question 116
 
+
+
 If the payment is late, the client may _____ the discount.
 
 - A. forfeit
 - B. vindicate
 - C. ferment
 - D. inoculate
+
+### Practice Image
+
+images/test-003/practice/part5/q116.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 116: forfeit
 
 ### Answer
 
@@ -338,12 +498,22 @@ Forfeit means lose an entitlement. The other verbs cannot naturally take discoun
 
 ## Question 117
 
+
+
 The exhibit opens Monday, _____ installation must finish this weekend.
 
 - A. so
 - B. although
 - C. whereas
 - D. unless
+
+### Practice Image
+
+images/test-003/practice/part5/q117.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 117: so
 
 ### Answer
 
@@ -359,12 +529,22 @@ So expresses the consequence of the opening date. Although and whereas mark cont
 
 ## Question 118
 
+
+
 The architect offered a _____ explanation of the structural changes.
 
 - A. plausibility
 - B. plausible
 - C. plausibilities
 - D. plausibly
+
+### Practice Image
+
+images/test-003/practice/part5/q118.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 118: plausible
 
 ### Answer
 
@@ -380,12 +560,22 @@ The noun explanation requires an adjective. Plausible means believable; the othe
 
 ## Question 119
 
+
+
 Neither of the two proposals _____ the statutory requirements.
 
 - A. meets
 - B. meet
 - C. have met
 - D. meeting
+
+### Practice Image
+
+images/test-003/practice/part5/q119.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 119: meets
 
 ### Answer
 
@@ -401,12 +591,22 @@ Neither is the singular subject, so meets agrees with it. Meet and have met are 
 
 ## Question 120
 
+
+
 The franchise agreement permits the retailer to _____ branded apparel only at approved locations.
 
 - A. capitulate
 - B. beguile
 - C. gape
 - D. vend
+
+### Practice Image
+
+images/test-003/practice/part5/q120.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 120: vend
 
 ### Answer
 
@@ -422,12 +622,22 @@ Vend means sell and takes merchandise as its object. The other verbs concern att
 
 ## Question 121
 
+
+
 The training materials were revised _____ employees could understand the terminology.
 
 - A. according to
 - B. so that
 - C. as well as
 - D. in spite of
+
+### Practice Image
+
+images/test-003/practice/part5/q121.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 121: so that
 
 ### Answer
 
@@ -443,12 +653,22 @@ So that introduces a purpose clause. The other expressions do not introduce the 
 
 ## Question 122
 
+
+
 Each entry must be judged on _____ own merits.
 
 - A. itself
 - B. it
 - C. their
 - D. its
+
+### Practice Image
+
+images/test-003/practice/part5/q122.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 122: its
 
 ### Answer
 
@@ -464,12 +684,22 @@ Each entry is singular, and a possessive determiner is needed before own merits.
 
 ## Question 123
 
+
+
 The city council will _____ the new recycling ordinance next month.
 
 - A. enact
 - B. enervate
 - C. collide
 - D. groom
+
+### Practice Image
+
+images/test-003/practice/part5/q123.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 123: enact
 
 ### Answer
 
@@ -485,12 +715,22 @@ Enact an ordinance means make it law. The other verbs do not describe adoption o
 
 ## Question 124
 
+
+
 The full prospectus is available _____ request.
 
 - A. on
 - B. in
 - C. by
 - D. for
+
+### Practice Image
+
+images/test-003/practice/part5/q124.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 124: on
 
 ### Answer
 
@@ -506,12 +746,22 @@ On request means when requested. The other prepositions do not form that convent
 
 ## Question 125
 
+
+
 The maintenance team has _____ the faulty sensor.
 
 - A. replacing
 - B. replace
 - C. replacement
 - D. replaced
+
+### Practice Image
+
+images/test-003/practice/part5/q125.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 125: replaced
 
 ### Answer
 
@@ -527,12 +777,22 @@ Has requires a past participle in the present perfect; replaced is correct. The 
 
 ## Question 126
 
+
+
 The successful campaign will _____ in a public awards ceremony.
 
 - A. plagiarize
 - B. confiscate
 - C. culminate
 - D. obfuscate
+
+### Practice Image
+
+images/test-003/practice/part5/q126.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 126: culminate
 
 ### Answer
 
@@ -548,12 +808,22 @@ Culminate in means reach a final stage. The other verbs do not naturally use in 
 
 ## Question 127
 
+
+
 The new scanner processes invoices _____ than the old model.
 
 - A. more quickly
 - B. most quickly
 - C. quickness
 - D. quick
+
+### Practice Image
+
+images/test-003/practice/part5/q127.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 127: more quickly
 
 ### Answer
 
@@ -569,12 +839,22 @@ Than requires a comparative form, and processes needs an adverb. More quickly su
 
 ## Question 128
 
+
+
 Staff should _____ the small conference room for interviews.
 
 - A. reserved
 - B. reserving
 - C. reserve
 - D. reservation
+
+### Practice Image
+
+images/test-003/practice/part5/q128.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 128: reserve
 
 ### Answer
 
@@ -590,12 +870,22 @@ Should takes a base verb, reserve. The other grammatical forms do not fit after 
 
 ## Question 129
 
+
+
 The charity maintains political _____ when evaluating applications.
 
 - A. neutrally
 - B. neutralize
 - C. neutral
 - D. neutrality
+
+### Practice Image
+
+images/test-003/practice/part5/q129.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 129: neutrality
 
 ### Answer
 
@@ -611,12 +901,22 @@ Maintains takes a noun object, neutrality. The other choices are adjective, adve
 
 ## Question 130
 
+
+
 The award recognizes altruism _____ personal financial gain.
 
 - A. as soon as
 - B. even though
 - C. rather than
 - D. so that
+
+### Practice Image
+
+images/test-003/practice/part5/q130.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 5, questions 130: rather than
 
 ### Answer
 

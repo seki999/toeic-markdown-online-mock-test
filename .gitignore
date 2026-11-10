@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local visual QA artifacts
+tmp/
+test-results/
+playwright-report/

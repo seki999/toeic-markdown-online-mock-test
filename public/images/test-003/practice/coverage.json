@@ -1,0 +1,48 @@
+{
+  "testId": "test-003",
+  "expected": 88,
+  "generated": 88,
+  "approved": 88,
+  "missing": [],
+  "unreferenced": [],
+  "pendingReview": [],
+  "errors": [],
+  "parts": [
+    {
+      "part": 1,
+      "expected": 6,
+      "generated": 6,
+      "approved": 6
+    },
+    {
+      "part": 2,
+      "expected": 25,
+      "generated": 25,
+      "approved": 25
+    },
+    {
+      "part": 3,
+      "expected": 13,
+      "generated": 13,
+      "approved": 13
+    },
+    {
+      "part": 4,
+      "expected": 10,
+      "generated": 10,
+      "approved": 10
+    },
+    {
+      "part": 5,
+      "expected": 30,
+      "generated": 30,
+      "approved": 30
+    },
+    {
+      "part": 6,
+      "expected": 4,
+      "generated": 4,
+      "approved": 4
+    }
+  ]
+}

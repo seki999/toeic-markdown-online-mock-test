@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
+import PracticeIllustration from './PracticeIllustration.vue'
 import type { ChoiceLabel, Question } from '../types/exam'
 import { renderMarkdown } from '../services/markdownParser'
 
-const props = defineProps<{ question: Question; modelValue?: ChoiceLabel; reveal?: boolean; showTranscript?: boolean; exam?: boolean; hidePassages?: boolean }>()
+const props = defineProps<{ question: Question; modelValue?: ChoiceLabel; reveal?: boolean; showTranscript?: boolean; exam?: boolean; hidePassages?: boolean; showPracticeImage?: boolean; hideExplanation?: boolean }>()
 const emit = defineEmits<{ 'update:modelValue': [value: ChoiceLabel] }>()
 const correct = computed(() => props.modelValue === props.question.answer)
 const concealChoiceText = computed(() =>
@@ -25,7 +26,8 @@ const imageUrl = computed(() => `${import.meta.env.BASE_URL}${props.question.ima
       <div class="question-text markdown" v-html="renderMarkdown(question.text)" />
       <fieldset><legend class="sr-only">Choose an answer for question {{ question.id }}</legend><label v-for="choice in question.choices" :key="choice.label" class="choice" :class="{ selected: modelValue === choice.label, correct: reveal && choice.label === question.answer, incorrect: reveal && modelValue === choice.label && !correct }"><input type="radio" :name="`q-${question.id}`" :checked="modelValue === choice.label" @change="emit('update:modelValue', choice.label)"/><span class="choice-label">{{ choice.label }}</span><span>{{ concealChoiceText ? `Option ${choice.label}` : choice.text }}</span></label></fieldset>
       <div v-if="reveal" class="feedback" :class="correct ? 'success' : 'error'"><strong>{{ correct ? 'Correct' : modelValue ? 'Not quite' : 'Unanswered' }}</strong><span>Correct answer: {{ question.answer }}</span></div>
-      <details v-if="reveal && question.explanation" open><summary>Explanation</summary><div class="markdown" v-html="renderMarkdown(question.explanation)" /></details>
+      <PracticeIllustration v-if="showPracticeImage && !exam" :image="question.practiceImage" :alt="question.practiceImageAlt" />
+      <details v-if="reveal && question.explanation && !hideExplanation" open><summary>Explanation</summary><div class="markdown" v-html="renderMarkdown(question.explanation)" /></details>
       <details v-if="showTranscript && question.speech.length" open><summary>Transcript</summary><p v-for="(line, index) in question.speech" :key="index"><strong>{{ line.speaker }}:</strong> {{ line.text }}</p></details>
       <div v-if="reveal && question.tags.length" class="tags"><span v-for="tag in question.tags" :key="tag">{{ tag }}</span></div>
     </div>

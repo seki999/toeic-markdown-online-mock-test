@@ -2,6 +2,16 @@
 
 ## Question 1
 
+
+
+### Practice Image
+
+images/test-003/practice/part1/q001.webp
+
+### Practice Image Alt
+
+Four scenes labeled A, B, C and D illustrating the four statements in question 1.
+
 ### Image
 
 images/test-003/8629107.jpg
@@ -34,6 +44,16 @@ Steam is visibly rising from the left-hand pan. No pie, plate drying, or hanging
 - observable-detail
 
 ## Question 2
+
+
+
+### Practice Image
+
+images/test-003/practice/part1/q002.webp
+
+### Practice Image Alt
+
+Four scenes labeled A, B, C and D illustrating the four statements in question 2.
 
 ### Image
 
@@ -68,6 +88,16 @@ The bicycle stands next to the closed double door. There is no rider, mechanic, 
 
 ## Question 3
 
+
+
+### Practice Image
+
+images/test-003/practice/part1/q003.webp
+
+### Practice Image Alt
+
+Four scenes labeled A, B, C and D illustrating the four statements in question 3.
+
 ### Image
 
 images/test-003/16236750.jpg
@@ -100,6 +130,16 @@ The enclosed boarding bridge meets the side of the stationary aircraft. No fligh
 - observable-detail
 
 ## Question 4
+
+
+
+### Practice Image
+
+images/test-003/practice/part1/q004.webp
+
+### Practice Image Alt
+
+Four scenes labeled A, B, C and D illustrating the four statements in question 4.
 
 ### Image
 
@@ -134,6 +174,14 @@ The flower arrangement stands upright in a clear glass vase. No florist, wrappin
 
 ## Question 5
 
+### Practice Image
+
+images/test-003/practice/part1/q005.webp
+
+### Practice Image Alt
+
+Four scenes labeled A, B, C and D illustrating the four statements in question 5.
+
 ### Image
 
 images/test-003/9289233.jpg
@@ -166,6 +214,14 @@ Several life rings hang from the upper railing. No climbing passengers or liftin
 - observable-detail
 
 ## Question 6
+
+### Practice Image
+
+images/test-003/practice/part1/q006.webp
+
+### Practice Image Alt
+
+Four scenes labeled A, B, C and D illustrating the four statements in question 6.
 
 ### Image
 

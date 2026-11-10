@@ -2,6 +2,15 @@
 
 ## Group 1
 
+### Practice Image
+
+images/test-003/practice/part3/group-01.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 32, 33, 34: A reception system; Ease of operation; Obtain a comprehensive quotation
+
+
 ### Questions
 
 32-34
@@ -76,6 +85,15 @@ The second speaker will request setup and training costs in writing. Installatio
 - workplace
 
 ## Group 2
+
+### Practice Image
+
+images/test-003/practice/part3/group-02.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 35, 36, 37: Damage to a product surface; Providing a replacement before the inquiry is finished; To explain how the complaint will be handled
+
 
 ### Questions
 
@@ -155,6 +173,15 @@ The first speaker explicitly plans to explain the replacement and inquiry. The c
 
 ## Group 3
 
+### Practice Image
+
+images/test-003/practice/part3/group-03.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 38, 39, 40: At a laboratory; Equipment is due to arrive; Give the contractor access to the building
+
+
 ### Questions
 
 38-40
@@ -232,6 +259,15 @@ Living nearby enables the speaker to unlock the building at seven. The contracto
 - workplace
 
 ## Group 4
+
+### Practice Image
+
+images/test-003/practice/part3/group-04.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 41, 42, 43: A cooking class; By serving seasonings separately; Send an updated ingredient list
+
 
 ### Questions
 
@@ -311,6 +347,15 @@ Updating the page and emailing the list are assigned to the first speaker. Bowl 
 
 ## Group 5
 
+### Practice Image
+
+images/test-003/practice/part3/group-05.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 44, 45, 46: An emergency route could become blocked; Separating the queue from the exit; Where equipment can be stored
+
+
 ### Questions
 
 44-46
@@ -388,6 +433,15 @@ The requested task is to ask about overnight barrier storage. Script, performanc
 - workplace
 
 ## Group 6
+
+### Practice Image
+
+images/test-003/practice/part3/group-06.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 47, 48, 49: A replacement battery is unavailable; They are insufficient to establish long-term support; Evaluate a demonstration of their current equipment
+
 
 ### Questions
 
@@ -467,6 +521,15 @@ Support will demonstrate existing functions; a successful demonstration could po
 
 ## Group 7
 
+### Practice Image
+
+images/test-003/practice/part3/group-07.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 50, 51, 52: A retirement dinner; To provide a quiet practice space; The dress requirements
+
+
 ### Questions
 
 50-52
@@ -544,6 +607,15 @@ The word elegant is unclear, so the organizer will be asked about attire. Piano 
 - workplace
 
 ## Group 8
+
+### Practice Image
+
+images/test-003/practice/part3/group-08.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 53, 54, 55: The discovery of a false ticket; Ask a supervisor to review them; Written guidance for a briefing
+
 
 ### Questions
 
@@ -623,6 +695,15 @@ The speaker agrees to put the process in a leaflet. Scoring, coaching apologies,
 
 ## Group 9
 
+### Practice Image
+
+images/test-003/practice/part3/group-09.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 56, 57, 58: A payment may be late; The director must sign; It would misrepresent the expense
+
+
 ### Questions
 
 56-58
@@ -700,6 +781,15 @@ Calling a hotel deposit an equipment expense would obscure the situation. Neithe
 - workplace
 
 ## Group 10
+
+### Practice Image
+
+images/test-003/practice/part3/group-10.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 59, 60, 61: To recover from surgery; Visit a botanical garden; Route and lodging information
+
 
 ### Questions
 
@@ -779,6 +869,15 @@ The first speaker promises the route and lodge contacts. A bill, seeds, and a un
 
 ## Group 11
 
+### Practice Image
+
+images/test-003/practice/part3/group-11.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 62, 63, 64: A clear explanation for tour visitors; A milder flavor; Copying another business's wording
+
+
 ### Questions
 
 62-64
@@ -857,6 +956,15 @@ The warning is not to plagiarize the neighboring guide. Comparison and brochure 
 
 ## Group 12
 
+### Practice Image
+
+images/test-003/practice/part3/group-12.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 65, 66, 67: How to use donated resources; Several groups can benefit; A nutrition professional
+
+
 ### Questions
 
 65-67
@@ -934,6 +1042,15 @@ A dietitian is the invited professional. The other occupations do not match the 
 - workplace
 
 ## Group 13
+
+### Practice Image
+
+images/test-003/practice/part3/group-13.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 3, questions 68, 69, 70: To improve the response to a service complaint; Blaming one employee for a system failure; A replacement appointment
+
 
 ### Questions
 

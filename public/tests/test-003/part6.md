@@ -2,6 +2,15 @@
 
 ## Passage Group 1
 
+### Practice Image
+
+images/test-003/practice/part6/group-01.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 6, questions 131, 132, 133, 134: until; will be checked; A separate waiting area will be available beside that entrance.; report
+
+
 ### Type
 
 Email
@@ -93,6 +102,15 @@ Please introduces an imperative requiring the base verb report. The other inflec
 
 ## Passage Group 2
 
+### Practice Image
+
+images/test-003/practice/part6/group-02.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 6, questions 135, 136, 137, 138: sealed; Write this information in clear, legible lettering.; according to; Meanwhile
+
+
 ### Type
 
 Notice
@@ -178,6 +196,15 @@ D
 Meanwhile introduces the temporary arrangement pending replacement. Consequently would not clearly establish an interim period, otherwise introduces an alternative condition, and previously conflicts with the instruction for present use.
 
 ## Passage Group 3
+
+### Practice Image
+
+images/test-003/practice/part6/group-03.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 6, questions 139, 140, 141, 142: offensive; Only then should you decide whether corrective action is necessary.; to; must be stored
+
 
 ### Type
 
@@ -267,6 +294,15 @@ A
 Written records receive storage, requiring modal plus be plus past participle. The alternatives omit the passive or misuse the modal.
 
 ## Passage Group 4
+
+### Practice Image
+
+images/test-003/practice/part6/group-04.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 6, questions 143, 144, 145, 146: beguile; The money was not spent on a promotional campaign.; designated; that
+
 
 ### Type
 

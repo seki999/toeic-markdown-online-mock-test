@@ -67,3 +67,9 @@ stateDiagram-v2
 - Validation 的 warning 不阻止 demo；结构性 parser error 会阻止该测试加载。
 - 新 TTS 序列会先取消旧序列，并通过 generation token 阻止旧 async loop 继续。
 - 官方题量校验只在 `demo: false` 时启用；题号、答案和 choice 校验始终启用。
+
+## Practice visual learning
+
+Question and QuestionGroup carry optional practiceImage/practiceImageAlt fields. The parser keeps Group fields before its first Question separate from per-question siblings and passages. Practice owns reveal/toggle state; QuestionCard renders single aids only when explicitly enabled by Practice. Group aids are rendered once by Practice after the question stack. Wrong-answer filtering spreads the complete Group metadata. Exam/Review do not opt in. No scoring or TTS module reads these fields.
+
+Offline scripts use the same Markdown parser to derive a content-fingerprinted manifest and complete prompts, import local assets, record explicit review, link approved paths and audit references. Public assets never contain service credentials. See PRACTICE-VISUAL-LEARNING-SPEC.md for lifecycle.

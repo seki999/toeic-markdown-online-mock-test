@@ -2,6 +2,16 @@
 
 ## Question 7
 
+
+
+### Practice Image
+
+images/test-003/practice/part2/q007.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 7: Lena offered to lead it.
+
 ### Audio
 
 Speaker 1:
@@ -29,6 +39,16 @@ The question asks for a leader; Lena is identified as that person. The location 
 - question-response
 
 ## Question 8
+
+
+
+### Practice Image
+
+images/test-003/practice/part2/q008.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 8: I will ask Ravi to cover my shift.
 
 ### Audio
 
@@ -58,6 +78,16 @@ Asking Ravi to cover the shift responds to the request. The other replies addres
 
 ## Question 9
 
+
+
+### Practice Image
+
+images/test-003/practice/part2/q009.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 9: At seven tomorrow morning.
+
 ### Audio
 
 Speaker 1:
@@ -85,6 +115,16 @@ A departure-time question requires the stated time. Capacity and a similar-sound
 - question-response
 
 ## Question 10
+
+
+
+### Practice Image
+
+images/test-003/practice/part2/q010.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 10: I will call the delivery office.
 
 ### Audio
 
@@ -114,6 +154,16 @@ Calling the delivery office naturally addresses the delay. The other comments co
 
 ## Question 11
 
+
+
+### Practice Image
+
+images/test-003/practice/part2/q011.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 11: Under the counter, please.
+
 ### Audio
 
 Speaker 1:
@@ -141,6 +191,16 @@ The reply gives a storage location. Sales performance and a damage count do not 
 - question-response
 
 ## Question 12
+
+
+
+### Practice Image
+
+images/test-003/practice/part2/q012.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 12: Which arrangement costs less?
 
 ### Audio
 
@@ -170,6 +230,16 @@ The speaker asks for a comparison before choosing lodging. Dessert and meeting t
 
 ## Question 13
 
+
+
+### Practice Image
+
+images/test-003/practice/part2/q013.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 13: We are still waiting for the airline to confirm.
+
 ### Audio
 
 Speaker 1:
@@ -197,6 +267,16 @@ Pending confirmation implies the itinerary is not final. The tire and entrance a
 - question-response
 
 ## Question 14
+
+
+
+### Practice Image
+
+images/test-003/practice/part2/q014.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 14: Actually, I have to work that evening.
 
 ### Audio
 
@@ -226,6 +306,16 @@ The speaker declines because of work. Neither instrument quality nor recycling c
 
 ## Question 15
 
+
+
+### Practice Image
+
+images/test-003/practice/part2/q015.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 15: One lane has been closed for repairs.
+
 ### Audio
 
 Speaker 1:
@@ -253,6 +343,16 @@ A lane closure explains traffic congestion. Form writing and furniture do not ex
 - question-response
 
 ## Question 16
+
+
+
+### Practice Image
+
+images/test-003/practice/part2/q016.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 16: I will borrow one from the next room.
 
 ### Audio
 
@@ -282,6 +382,16 @@ Borrowing a microphone fulfills the request. The other replies evaluate speech o
 
 ## Question 17
 
+
+
+### Practice Image
+
+images/test-003/practice/part2/q017.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 17: Finance says the funds will arrive Monday.
+
 ### Audio
 
 Speaker 1:
@@ -309,6 +419,16 @@ The finance update answers whether the funding has arrived. Exhibit location and
 - question-response
 
 ## Question 18
+
+
+
+### Practice Image
+
+images/test-003/practice/part2/q018.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 18: The vote has been moved to next week.
 
 ### Audio
 
@@ -338,6 +458,14 @@ A postponed vote means ratification will not occur today. Packing tape and physi
 
 ## Question 19
 
+### Practice Image
+
+images/test-003/practice/part2/q019.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 19: A pedestrian stepped into the road.
+
 ### Audio
 
 Speaker 1:
@@ -365,6 +493,14 @@ The pedestrian supplies a reason for the warning. Vehicle color and fuel quantit
 - question-response
 
 ## Question 20
+
+### Practice Image
+
+images/test-003/practice/part2/q020.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 20: Perhaps a more colorful cover would help.
 
 ### Audio
 
@@ -394,6 +530,14 @@ A design suggestion responds to a dull brochure. Lunch and dimensions do not add
 
 ## Question 21
 
+### Practice Image
+
+images/test-003/practice/part2/q021.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 21: I will add a warmer opening.
+
 ### Audio
 
 Speaker 1:
@@ -421,6 +565,14 @@ A warmer greeting improves tone. Envelope count and a similar-sounding cord are 
 - question-response
 
 ## Question 22
+
+### Practice Image
+
+images/test-003/practice/part2/q022.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 22: Anyone whose train was canceled.
 
 ### Audio
 
@@ -450,6 +602,14 @@ The answer identifies eligible recipients. A price change and a location do not 
 
 ## Question 23
 
+### Practice Image
+
+images/test-003/practice/part2/q023.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 23: Just a short walk this time.
+
 ### Audio
 
 Speaker 1:
@@ -477,6 +637,14 @@ A short walk chooses the stroll. Price and storage location do not answer the ch
 - question-response
 
 ## Question 24
+
+### Practice Image
+
+images/test-003/practice/part2/q024.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 24: I would appreciate a break.
 
 ### Audio
 
@@ -506,6 +674,14 @@ Requesting rest responds naturally to fatigue. Boat length and equipment do not 
 
 ## Question 25
 
+### Practice Image
+
+images/test-003/practice/part2/q025.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 25: After the board meeting on Thursday.
+
 ### Audio
 
 Speaker 1:
@@ -533,6 +709,14 @@ The board meeting supplies a time. The other answers concern location and a near
 - question-response
 
 ## Question 26
+
+### Practice Image
+
+images/test-003/practice/part2/q026.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 26: Let us wait until the installation is complete.
 
 ### Audio
 
@@ -562,6 +746,14 @@ The response recommends when to request feedback. A test duration and tile appea
 
 ## Question 27
 
+### Practice Image
+
+images/test-003/practice/part2/q027.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 27: Let me check the fabric label.
+
 ### Audio
 
 Speaker 1:
@@ -589,6 +781,14 @@ Checking the label is a reasonable way to establish the material. Sport and airp
 - question-response
 
 ## Question 28
+
+### Practice Image
+
+images/test-003/practice/part2/q028.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 28: Try unplugging it before you start.
 
 ### Audio
 
@@ -618,6 +818,14 @@ The advice addresses the tangled cable. Financial maturity and reading enthusias
 
 ## Question 29
 
+### Practice Image
+
+images/test-003/practice/part2/q029.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 29: Customer service can handle that.
+
 ### Audio
 
 Speaker 1:
@@ -646,6 +854,14 @@ Customer service is the appropriate place for a banking complaint. Hotel lodging
 
 ## Question 30
 
+### Practice Image
+
+images/test-003/practice/part2/q030.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 30: I think the proposal still needs work.
+
 ### Audio
 
 Speaker 1:
@@ -673,6 +889,14 @@ An honest evaluation answers the request. A camera location and a future appoint
 - question-response
 
 ## Question 31
+
+### Practice Image
+
+images/test-003/practice/part2/q031.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 2, questions 31: A video conference would make that possible.
 
 ### Audio
 

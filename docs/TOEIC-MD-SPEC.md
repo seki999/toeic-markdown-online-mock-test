@@ -161,3 +161,9 @@ npm run build
 ```
 
 正式题库应为 Part 1–7 分别 6、25、39、30、30、16、54 题，总计 Listening 100 + Reading 100。Demo 可缩短题量，但仍必须满足结构、唯一 ID、答案和 choices 规则。
+
+## Optional Practice learning illustrations
+
+`### Practice Image` contains a public-root-relative local path; `### Practice Image Alt` contains a concise description. Single questions in Parts 1/2/5 own their field. In Parts 3/4/6 put the Group field immediately after `## Group N` / `## Passage Group N`, before the first `### Question N`. It remains Group metadata, not copied onto questions or passages. Missing fields preserve legacy behavior.
+
+Original `### Image` is independent and remains visible in Part 1 exams. Practice images may disclose answers and are never Exam material. Use images/<testId>/practice/partN/qNNN.webp or group-NN.webp (SVG permitted for deterministic grammar diagrams). Reject absolute/external URLs, backslashes, query strings and traversal. Refer to PRACTICE-VISUAL-LEARNING-SPEC.md for manifest and review requirements.

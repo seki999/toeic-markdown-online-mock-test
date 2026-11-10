@@ -16,6 +16,29 @@
 - 内容校验：检查正式考试题量、重复题号、答案与选择项数量；`demo: true` 允许缩短题量。
 - Responsive：Part 7 桌面双栏、移动端上下排列，触控按钮不小于 44px。
 
+## Visual Learning in Practice Mode
+
+Part 1–6 支持可选辅助学习图。原始 Part 1 真实照片始终保留；辅助图默认在 Check answers 后显示，也可以通过 Show learning illustrations 提前查看（可能包含答案线索）。单题图随题显示，Part 3/4/6 的 Group 图只出现一次，错题筛选仍保留 Group 图。点击图片可放大，Escape 关闭。Exam 和 Review 不显示辅助图。
+
+资源位于 `public/images/<testId>/practice/`，题库通过独立的 `### Practice Image` 引用。生成资料、状态、来源与审核记录保存在 manifest.json；缺失资源不会由占位图冒充。详细规范见 [Practice Visual Learning](docs/PRACTICE-VISUAL-LEARNING-SPEC.md)。新增 004/005 时先执行 `npm run prepare:practice-images -- test-004`，再生成/导入、审核并链接图片，最后执行 `npm run validate:practice-images -- test-004`。该开发流程可修改图片与元数据，优先于下文仅生成试题的执行边界。
+
+学习图工作流：
+
+```bash
+npm run prepare:practice-images -- test-004
+# 使用 manifest 中每条独立英文 prompt 生成对应图片，再导入：
+npm run import:practice-image -- test-004 test-004-part2-q007 /local/output.webp
+# 逐张对照原文、所有题目和答案检查后才审核：
+npm run review:practice-image -- test-004 test-004-part2-q007 "Visual and semantic review notes"
+npm run link:practice-images -- test-004
+npm run validate:practice-images -- test-004
+npm run report:practice-images -- test-004
+```
+
+Part 5 可使用可编辑 SVG 语法关系图；`node scripts/create-grammar-diagrams.mjs` 是 003 专用的语义蓝图，默认重建 21 张语法关系图；九张词义场景图通过 manifest Prompt 生成，不应直接套用到其他试题。003 的九张词义场景使用 `node scripts/compose-grammar-scenes.mjs` 叠加可控语法文字，原始画面与 SVG 图层保存在 `artwork/test-003/practice/part5/`；重新编译会重置审核状态。图片失败可用 `node scripts/practice-images.mjs fail <testId> <id> "reason"` 记录，重试不丢失成功项。未生成、未审核和错误路径会使正式检查失败。`--allow-pending` 仅用于分批进度审计。
+
+本地 UI 回归：启动 `npm run dev`，另一个终端运行 `npx playwright install chromium` 和 `npm run test:practice-ui`。测试覆盖桌面、390px 手机、显示时机、放大/Escape/焦点返回、Group 去重、错题筛选、网络失败和 Exam 隔离。截图写入忽略的 `tmp/practice-visuals/`。003 交付状态见 [图片覆盖报告](docs/TEST-003-PRACTICE-IMAGES.md)。
+
 ## 内置题库
 
 - `test-001`：完整原创英语模拟考试，Listening 100 + Reading 100，共 200 题；包含六张 Part 1 场景图、全部 Listening transcript、答案和逐题解析，`demo: false`。

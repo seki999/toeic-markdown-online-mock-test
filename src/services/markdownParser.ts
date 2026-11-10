@@ -104,6 +104,8 @@ function questionFromSection(all: Section[], index: number, part: PartNumber, de
     explanation: child('Explanation') ? clean(child('Explanation')!.lines) : (defaults.explanations?.get(id) ?? ''),
     vocabulary: child('Vocabulary') ? clean(child('Vocabulary')!.lines) : undefined,
     tags: child('Tags') ? tags(child('Tags')!.lines) : (defaults.tags ?? []),
+    practiceImage: child('Practice Image') ? clean(child('Practice Image')!.lines) : undefined,
+    practiceImageAlt: child('Practice Image Alt') ? clean(child('Practice Image Alt')!.lines) : undefined,
     image: child('Image') ? clean(child('Image')!.lines) : undefined,
     speech: audio,
     passages: defaults.passages ?? [],
@@ -115,6 +117,9 @@ function parseGroup(all: Section[], rootIndex: number, part: PartNumber): Questi
   const direct: Array<{ section: Section; index: number }> = []
   for (let i = rootIndex + 1; i < all.length && all[i].level > root.level; i += 1) if (all[i].level === root.level + 1) direct.push({ section: all[i], index: i })
   const find = (name: string) => direct.find(({ section }) => section.title.toLowerCase() === name.toLowerCase())?.section
+  // Direct Group sections stay Group metadata even after the final question.
+  const groupImage = find('Practice Image')
+  const groupImageAlt = find('Practice Image Alt')
   const audioSection = find('Audio')
   const groupSpeech = audioSection ? speech(audioSection.lines, audioSection.line + 1) : []
   const answers = new Map<number, ChoiceLabel>()
@@ -152,7 +157,7 @@ function parseGroup(all: Section[], rootIndex: number, part: PartNumber): Questi
     return questionFromSection(all, index, part, { speech: groupSpeech, passages, answers: localAnswers, explanations: localExplanations, tags: groupTags })
   })
   if (!questions.length) throw new ToeicMarkdownError(`${root.title} contains no questions`, root.line)
-  return { id: `${part}-${root.title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`, part, questions, speech: groupSpeech, passages, tags: groupTags }
+  return { id: `${part}-${root.title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`, part, questions, speech: groupSpeech, passages, tags: groupTags, practiceImage: groupImage ? clean(groupImage.lines) : undefined, practiceImageAlt: groupImageAlt ? clean(groupImageAlt.lines) : undefined }
 }
 
 export function parsePart(source: string, expectedPart?: PartNumber): TestPart {

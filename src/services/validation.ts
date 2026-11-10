@@ -1,5 +1,6 @@
 import type { ToeicTest, ValidationIssue } from '../types/exam'
 import { allQuestions } from './testLoader'
+import { practiceImageUrl } from './practiceImages'
 
 const officialCounts = [6, 25, 39, 30, 30, 16, 54]
 
@@ -7,6 +8,11 @@ export function validateTestContent(test: ToeicTest): ValidationIssue[] {
   const issues: ValidationIssue[] = []
   const seen = new Set<number>()
   test.parts.forEach((part) => {
+    part.groups.forEach(group => {
+      for (const image of [group.practiceImage, ...group.questions.map(question => question.practiceImage)]) {
+        if (image && !practiceImageUrl(image)) issues.push({ severity: 'error', part: part.number, message: `Invalid practice image path: ${image}` })
+      }
+    })
     const questions = part.groups.flatMap((group) => group.questions)
     if (!test.metadata.demo && questions.length !== officialCounts[part.number - 1]) issues.push({ severity: 'warning', part: part.number, message: `Part ${part.number} has ${questions.length}; expected ${officialCounts[part.number - 1]}.` })
     questions.forEach((question) => {

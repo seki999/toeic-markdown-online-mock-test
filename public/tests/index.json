@@ -7,5 +7,23 @@
     "targetScore": "600-850",
     "demo": false,
     "path": "tests/test-001/"
+  },
+  {
+    "id": "test-002",
+    "title": "TOEIC Complete Mock Test 002",
+    "version": "1.0",
+    "difficulty": "medium",
+    "targetScore": "600-850",
+    "demo": false,
+    "path": "tests/test-002/"
+  },
+  {
+    "id": "test-003",
+    "title": "TOEIC Complete Mock Test 003",
+    "version": "2.0",
+    "difficulty": "medium",
+    "targetScore": "600-850",
+    "demo": false,
+    "path": "tests/test-003/"
   }
 ]

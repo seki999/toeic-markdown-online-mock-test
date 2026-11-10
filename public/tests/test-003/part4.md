@@ -2,6 +2,15 @@
 
 ## Group 1
 
+### Practice Image
+
+images/test-003/practice/part4/group-01.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 71, 72, 73: Local arts; Write them on cards; A project-planning session
+
+
 ### Questions
 
 71-73
@@ -67,6 +76,15 @@ The planning session occurs at four. Introductions begin at two, and meals or in
 - workplace
 
 ## Group 2
+
+### Practice Image
+
+images/test-003/practice/part4/group-02.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 74, 75, 76: A pipe requires repair; Move vehicles from the lane; Transport to a bus stop
+
 
 ### Questions
 
@@ -134,6 +152,15 @@ A shuttle links the north entrance and bus stop. Accommodation, refunds, and pri
 
 ## Group 3
 
+### Practice Image
+
+images/test-003/practice/part4/group-03.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 77, 78, 79: To observe seabirds; The species and number of birds; Permission is needed to adjust it
+
+
 ### Questions
 
 77-79
@@ -199,6 +226,15 @@ Research equipment requires permission. Rental, lunchtime return, and ticket own
 - workplace
 
 ## Group 4
+
+### Practice Image
+
+images/test-003/practice/part4/group-04.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 80, 81, 82: Housing; The clock tower; Submit questions
+
 
 ### Questions
 
@@ -266,6 +302,15 @@ Questions should be sent in advance. Financial applications, reservations, and t
 
 ## Group 5
 
+### Practice Image
+
+images/test-003/practice/part4/group-05.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 83, 84, 85: The revival of a textile craft; Damage to fibers caused by moisture; A reduction in the shop price
+
+
 ### Questions
 
 83-85
@@ -331,6 +376,15 @@ Members receive ten percent off purchases. Touching remains prohibited, and park
 - workplace
 
 ## Group 6
+
+### Practice Image
+
+images/test-003/practice/part4/group-06.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 86, 87, 88: Handling workplace disagreements; A dispute with an external supplier; Read the guide's examples
+
 
 ### Questions
 
@@ -398,6 +452,15 @@ The guide will arrive this evening and examples must be read. Budgets, supplier 
 
 ## Group 7
 
+### Practice Image
+
+images/test-003/practice/part4/group-07.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 89, 90, 91: Sleet; Sledding; Check updated information
+
+
 ### Questions
 
 89-91
@@ -463,6 +526,15 @@ Visitors must consult the board. Unmarked or upper routes contradict the safety 
 - workplace
 
 ## Group 8
+
+### Practice Image
+
+images/test-003/practice/part4/group-08.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 92, 93, 94: Arrangements for a catered event; Thursday at five; An additional fruit tray
+
 
 ### Questions
 
@@ -530,6 +602,15 @@ Payment by Wednesday earns a fruit tray. Future discounts, training, and room up
 
 ## Group 9
 
+### Practice Image
+
+images/test-003/practice/part4/group-09.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 95, 96, 97: Water escaped suddenly; Only the lead technician; After supervisory clearance
+
+
 ### Questions
 
 95-97
@@ -595,6 +676,15 @@ Clearance is required. Nine is the inspection start, not automatic permission; s
 - workplace
 
 ## Group 10
+
+### Practice Image
+
+images/test-003/practice/part4/group-10.webp
+
+### Practice Image Alt
+
+Learning illustration for Part 4, questions 98, 99, 100: To provide wellness information; Discussing colleagues' medical histories; Monday at noon
+
 
 ### Questions
 

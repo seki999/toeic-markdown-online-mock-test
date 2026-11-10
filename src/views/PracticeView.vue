@@ -3,6 +3,8 @@ import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import LoadingState from '../components/LoadingState.vue'
 import QuestionCard from '../components/QuestionCard.vue'
+import PracticeIllustration from '../components/PracticeIllustration.vue'
+import { renderMarkdown } from '../services/markdownParser'
 import TtsControls from '../components/TtsControls.vue'
 import { buildContinuousListeningSequence } from '../services/listeningSequence'
 import { getTtsEngine } from '../services/ttsEngine'
@@ -15,6 +17,7 @@ const testId = String(route.params.testId)
 const test = ref<ToeicTest>()
 const part = ref<PartNumber>(Number(route.query.part || 1) as PartNumber)
 const revealedGroups = ref<Record<string, boolean>>({})
+const illustrationVisibility = ref<Record<string, boolean>>({})
 const visibleTranscripts = ref<Record<string, boolean>>({})
 
 onMounted(async () => {
@@ -30,6 +33,7 @@ onBeforeUnmount(() => getTtsEngine().cancelSpeech())
 watch(part, () => {
   revealedGroups.value = {}
   visibleTranscripts.value = {}
+  illustrationVisibility.value = {}
   getTtsEngine().cancelSpeech()
   window.scrollTo({ top: 0, behavior: 'smooth' })
 })
@@ -45,6 +49,13 @@ const groups = computed<QuestionGroup[]>(() => {
     .filter((group) => group.questions.length)
 })
 const questionCount = computed(() => groups.value.reduce((total, group) => total + group.questions.length, 0))
+
+function hasIllustration(group: QuestionGroup) {
+  return Boolean(group.practiceImage || group.questions.some(question => question.practiceImage))
+}
+function showIllustration(group: QuestionGroup) {
+  return illustrationVisibility.value[group.id] ?? Boolean(revealedGroups.value[group.id])
+}
 
 function choose(questionId: number, value: ChoiceLabel) {
   store.answer(testId, questionId, value)
@@ -101,6 +112,9 @@ function audioLines(group: QuestionGroup) {
               >
                 {{ visibleTranscripts[group.id] ? 'Hide' : 'Show' }} transcript
               </button>
+              <button v-if="hasIllustration(group)" type="button" :aria-pressed="showIllustration(group)" @click="illustrationVisibility[group.id] = !showIllustration(group)">
+                {{ showIllustration(group) ? 'Hide' : 'Show' }} learning illustrations
+              </button>
               <button
                 class="primary"
                 type="button"
@@ -121,6 +135,7 @@ function audioLines(group: QuestionGroup) {
             </p>
           </div>
 
+          <p v-if="hasIllustration(group) && !revealedGroups[group.id]" class="illustration-notice">Learning illustrations may contain answer clues. You can view them now or check your answers first.</p>
           <div class="questions-stack">
             <QuestionCard
               v-for="(question, questionIndex) in group.questions"
@@ -128,10 +143,19 @@ function audioLines(group: QuestionGroup) {
               :question="question"
               :model-value="store.answers[testId]?.[question.id]"
               :reveal="Boolean(revealedGroups[group.id])"
+              :show-practice-image="!group.practiceImage && showIllustration(group)"
+              :hide-explanation="Boolean(group.practiceImage)"
               :show-transcript="group.part !== 3 && group.part !== 4 && Boolean(visibleTranscripts[group.id])"
               :hide-passages="group.part >= 6 && questionIndex > 0"
               @update:model-value="choose(question.id, $event)"
             />
+          </div>
+          <PracticeIllustration v-if="showIllustration(group)" :image="group.practiceImage" :alt="group.practiceImageAlt" />
+          <div v-if="group.practiceImage && revealedGroups[group.id]" class="group-transcript">
+            <details v-for="question in group.questions" :key="question.id" open>
+              <summary>Question {{ question.id }} · Explanation</summary>
+              <div class="markdown" v-html="renderMarkdown(question.explanation)" />
+            </details>
           </div>
         </section>
       </div>
