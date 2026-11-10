@@ -73,3 +73,5 @@ stateDiagram-v2
 Question and QuestionGroup carry optional practiceImage/practiceImageAlt fields. The parser keeps Group fields before its first Question separate from per-question siblings and passages. Practice owns reveal/toggle state; QuestionCard renders single aids only when explicitly enabled by Practice. Group aids are rendered once by Practice after the question stack. Wrong-answer filtering spreads the complete Group metadata. Exam/Review do not opt in. No scoring or TTS module reads these fields.
 
 Offline scripts use the same Markdown parser to derive a content-fingerprinted manifest and complete prompts, import local assets, record explicit review, link approved paths and audit references. Public assets never contain service credentials. See PRACTICE-VISUAL-LEARNING-SPEC.md for lifecycle.
+
+Part 7 uses the same Group-level rendering contract for single/double/triple material. Preparation, linking and coverage validation enumerate all seven Parts; new tests must supply a reviewed reading evidence map for every Passage Group. Test 003 has 18 project-authored SVG maps generated from source-specific blueprints by scripts/create-reading-diagrams.mjs.

@@ -52,6 +52,23 @@ try {
     await page.locator('.practice-set').first().getByRole('button', { name: 'Check answers', exact: true }).click()
     await page.locator('.practice-illustration .image-button img').first().scrollIntoViewIfNeeded()
     await page.screenshot({ path: `tmp/practice-visuals/grammar-ui-${viewport.width}.png` })
+    await page.goto(`${base}#/test/test-003/practice?part=7`)
+    await page.reload()
+    await page.locator('.practice-set').nth(17).waitFor()
+    assert.equal(await page.locator('.practice-set').count(), 18)
+    for (const index of [0, 6, 12, 17]) {
+      const set = page.locator('.practice-set').nth(index)
+      assert.equal(await set.locator('.practice-illustration').count(), 0)
+      await set.getByRole('button', { name: 'Check answers', exact: true }).click()
+      assert.equal(await set.locator('.practice-illustration').count(), 1)
+      assert.equal(await set.locator('.question-card').count(), 3)
+      await set.locator('.image-button img').scrollIntoViewIfNeeded()
+      await set.locator('.image-button img').evaluate(img => img.decode())
+    }
+    await page.screenshot({ path: `tmp/practice-visuals/reading-ui-${viewport.width}.png` })
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth), true)
+    await page.goto(`${base}#/test/test-003/practice?part=5`)
+    await page.reload()
     // Simulate a real network failure, then ensure a usable explanation is retained.
     await page.route('**/images/test-003/practice/**', route => route.abort())
     await page.reload()
@@ -74,7 +91,7 @@ try {
         }
         return count
       }, base)
-      assert.equal(decoded, 88)
+      assert.equal(decoded, 106)
     }
     await page.goto(`${base}#/test/test-003/exam`)
     await page.getByRole('button', { name: 'Start test', exact: true }).click()

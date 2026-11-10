@@ -21,9 +21,13 @@ describe('offline image workflow', () => {
     for (let part = 1; part <= 7; part++) await writeFile(path.join(tests, `part${part}.md`), await readFile(`public/tests/test-003/part${part}.md`))
     cli('prepare', testId)
     const first = JSON.parse(await readFile(manifest, 'utf8'))
-    expect(first.entries).toHaveLength(88)
+    expect(first.entries).toHaveLength(106)
     const grouped = first.entries.find((entry: { part: number }) => entry.part === 6)
     for (const id of [131, 132, 133, 134]) expect(grouped.prompt).toContain(`"id": ${id}`)
+    const reading = first.entries.filter((entry: { part: number }) => entry.part === 7)
+    expect(reading).toHaveLength(18)
+    expect(reading.at(-1).questionIds).toEqual([198, 199, 200])
+    expect(reading.at(-1).prompt).toContain('No repairs begin without your approval')
     const id = `${testId}-part5-q101`
     const original = parsePart(await readFile(path.join(tests, 'part5.md'), 'utf8')).groups[0].questions[0]
     const fixture = path.join(tests, 'test-only.svg')

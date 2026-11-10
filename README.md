@@ -18,7 +18,9 @@
 
 ## Visual Learning in Practice Mode
 
-Part 1–6 支持可选辅助学习图。原始 Part 1 真实照片始终保留；辅助图默认在 Check answers 后显示，也可以通过 Show learning illustrations 提前查看（可能包含答案线索）。单题图随题显示，Part 3/4/6 的 Group 图只出现一次，错题筛选仍保留 Group 图。点击图片可放大，Escape 关闭。Exam 和 Review 不显示辅助图。
+Part 1–7 支持可选辅助学习图。原始 Part 1 真实照片始终保留；辅助图默认在 Check answers 后显示，也可以通过 Show learning illustrations 提前查看（可能包含答案线索）。单题图随题显示，Part 3/4/6/7 的 Group 图只出现一次，错题筛选仍保留 Group 图。点击图片可放大，Escape 关闭。Exam 和 Review 不显示辅助图。
+
+今后每次生成新试卷必须配齐 Part 1–7 学习图，尤其 Part 7 每个 single/double/triple Passage Group 一张。图中必须体现材料关系及全部问题的证据，不得遗漏。003 已有 106 张，其中 Part 7 为 18 张可编辑阅读关系图；`node scripts/create-reading-diagrams.mjs test-003` 只适用于 003，新试卷须依据自身材料重新设计。
 
 资源位于 `public/images/<testId>/practice/`，题库通过独立的 `### Practice Image` 引用。生成资料、状态、来源与审核记录保存在 manifest.json；缺失资源不会由占位图冒充。详细规范见 [Practice Visual Learning](docs/PRACTICE-VISUAL-LEARNING-SPEC.md)。新增 004/005 时先执行 `npm run prepare:practice-images -- test-004`，再生成/导入、审核并链接图片，最后执行 `npm run validate:practice-images -- test-004`。该开发流程可修改图片与元数据，优先于下文仅生成试题的执行边界。
 
@@ -581,6 +583,10 @@ Audio 首行必须是 Narrator，正文通常由 Speaker 1 连续朗读。
 
 十八、Part 7
 
+每次生成新试卷（包括 Test 004、005 及后续试卷），必须为 Part 7 的每个 Passage Group 制作一张真实存在的本地学习图，single、double、triple 均不得遗漏。使用可编辑 SVG 阅读关系图或清晰的信息图，标明各材料来源、人物/请求/回复关系、时间线、条件、金额计算和所有问题的答案证据；double/triple 必须画出跨材料连接，不能只把题目和解析截图当作配图。不要改变题目正文、答案及解析。
+
+配图保存于 public/images/[TEST_ID]/practice/part7/，使用 Group 级 Practice Image / Practice Image Alt 引用。辅助图只用于 Practice，默认 Check answers 后显示，不替代 Part 1 的真实照片，也不进入 Exam/Review。必须执行 prepare → 生成 → import → 逐张核对 → review → link → validate，记录来源、完整提示词、校验和与审核记录。固定本项目 18 组 Part 7 的试卷应有 18 张；整套学习图应有 106 张（6/25/13/10/30/4/18）。如分组不同，以实际解析结果为准，未全部生成和审核不能宣称完成。
+
 使用：
 - ## Passage Group N
 - ### Type
@@ -669,6 +675,7 @@ Explanation 必须说明文本证据、推理、语法或词义依据，不能�
 - 所有 Part 1 有图片
 - 所有 Part 3/4 Group 完整
 - 所有 Part 6/7 Passage 完整
+- Part 1–7 学习图全部生成、审核并引用；Part 7 每个 Passage Group 一张，single/double/triple 均覆盖
 
 然后重新扫描最终 part1.md～part7.md，对每一个有效目标词检查真实覆盖。
 

@@ -18,7 +18,7 @@ describe('practice image contract', () => {
     expect(original.groups[0].questions[0].practiceImage).toBeUndefined()
     expect(enhanced.groups[0].questions[0].answer).toBe(original.groups[0].questions[0].answer)
   })
-  for (const part of [3, 4, 6] as const) it(`owns Part ${part} group images without polluting questions or passages`, async () => {
+  for (const part of [3, 4, 6, 7] as const) it(`owns Part ${part} group images without polluting questions or passages`, async () => {
     const source = await readFile(`public/tests/test-001/part${part}.md`, 'utf8')
     const original = parsePart(source)
     const enhanced = parsePart(source.replace(/^(## (?:Group|Passage Group) 1)$/m, '$1\n\n### Practice Image\n\nimages/test-004/practice/group-01.webp\n\n### Practice Image Alt\n\nAn integrated scene.'))
@@ -30,7 +30,7 @@ describe('practice image contract', () => {
     const wrongOnly = { ...group, questions: group.questions.slice(-1) }
     expect(wrongOnly.practiceImage).toBe(group.practiceImage)
   })
-  for (const part of [3, 4, 6] as const) it(`keeps trailing Part ${part} metadata on its Group, not the last question`, async () => {
+  for (const part of [3, 4, 6, 7] as const) it(`keeps trailing Part ${part} metadata on its Group, not the last question`, async () => {
     const source = await readFile(`public/tests/test-001/part${part}.md`, 'utf8')
     const original = parsePart(source)
     const enhanced = parsePart(source + '\n### Practice Image\n\nimages/test-004/practice/final-group.webp\n')

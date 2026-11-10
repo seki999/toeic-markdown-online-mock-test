@@ -1,8 +1,8 @@
 {
   "testId": "test-003",
-  "expected": 88,
-  "generated": 88,
-  "approved": 88,
+  "expected": 106,
+  "generated": 106,
+  "approved": 106,
   "missing": [],
   "unreferenced": [],
   "pendingReview": [],
@@ -43,6 +43,12 @@
       "expected": 4,
       "generated": 4,
       "approved": 4
+    },
+    {
+      "part": 7,
+      "expected": 18,
+      "generated": 18,
+      "approved": 18
     }
   ]
 }

@@ -10,9 +10,10 @@ Status: **Complete**. This report is derived from the checked manifest and asset
 | 4 | 10 | 10 | 10 | 0 |
 | 5 | 30 | 30 | 30 | 0 |
 | 6 | 4 | 4 | 4 | 0 |
-| Total | 88 | 88 | 88 | 0 |
+| 7 | 18 | 18 | 18 | 0 |
+| Total | 106 | 106 | 106 | 0 |
 
-Part 1 original photographs and their [source credits](test-003-images.md) remain unchanged. New learning aids are separate assets; Parts 1/2/3/4/6 use original illustrations generated with the built-in image_gen tool. Part 5 combines 21 project-authored editable SVG grammar diagrams with 9 original AI scenes with deterministic SVG grammar overlays. Raw artwork and editable overlay layers are retained in artwork/test-003/practice/part5; only approved compiled composites are served. These are learning aids, not substitute photographs. No third-party scene photographs or API keys are added for learning aids.
+Part 1 original photographs and their [source credits](test-003-images.md) remain unchanged. New learning aids are separate assets; Parts 1/2/3/4/6 use original illustrations generated with the built-in image_gen tool. Part 5 combines 21 project-authored editable SVG grammar diagrams with 9 original AI scenes with deterministic SVG grammar overlays. Raw artwork and editable overlay layers are retained in artwork/test-003/practice/part5; only approved compiled composites are served. Part 7 adds 18 project-authored editable SVG reading evidence maps, with explicit source-document links and answer reasoning. These are learning aids, not substitute photographs. No third-party scene photographs or API keys are added for learning aids.
 
 ## Asset register
 
@@ -108,6 +109,24 @@ Part 1 original photographs and their [source credits](test-003-images.md) remai
 | test-003-part6-group-02 | 135, 136, 137, 138 | [group-02.webp](../public/images/test-003/practice/part6/group-02.webp) | approved | 1536 × 1024 |
 | test-003-part6-group-03 | 139, 140, 141, 142 | [group-03.webp](../public/images/test-003/practice/part6/group-03.webp) | approved | 1536 × 1024 |
 | test-003-part6-group-04 | 143, 144, 145, 146 | [group-04.webp](../public/images/test-003/practice/part6/group-04.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-01 | 147, 148, 149 | [group-01.svg](../public/images/test-003/practice/part7/group-01.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-02 | 150, 151, 152 | [group-02.svg](../public/images/test-003/practice/part7/group-02.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-03 | 153, 154, 155 | [group-03.svg](../public/images/test-003/practice/part7/group-03.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-04 | 156, 157, 158 | [group-04.svg](../public/images/test-003/practice/part7/group-04.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-05 | 159, 160, 161 | [group-05.svg](../public/images/test-003/practice/part7/group-05.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-06 | 162, 163, 164 | [group-06.svg](../public/images/test-003/practice/part7/group-06.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-07 | 165, 166, 167 | [group-07.svg](../public/images/test-003/practice/part7/group-07.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-08 | 168, 169, 170 | [group-08.svg](../public/images/test-003/practice/part7/group-08.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-09 | 171, 172, 173 | [group-09.svg](../public/images/test-003/practice/part7/group-09.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-10 | 174, 175, 176 | [group-10.svg](../public/images/test-003/practice/part7/group-10.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-11 | 177, 178, 179 | [group-11.svg](../public/images/test-003/practice/part7/group-11.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-12 | 180, 181, 182 | [group-12.svg](../public/images/test-003/practice/part7/group-12.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-13 | 183, 184, 185 | [group-13.svg](../public/images/test-003/practice/part7/group-13.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-14 | 186, 187, 188 | [group-14.svg](../public/images/test-003/practice/part7/group-14.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-15 | 189, 190, 191 | [group-15.svg](../public/images/test-003/practice/part7/group-15.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-16 | 192, 193, 194 | [group-16.svg](../public/images/test-003/practice/part7/group-16.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-17 | 195, 196, 197 | [group-17.svg](../public/images/test-003/practice/part7/group-17.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-18 | 198, 199, 200 | [group-18.svg](../public/images/test-003/practice/part7/group-18.svg) | approved | 1536 × 1450 |
 
 ## Verification
 
@@ -119,17 +138,12 @@ Part 1 original photographs and their [source credits](test-003-images.md) remai
 Run `npm run validate:practice-images -- test-003` after every content or image change. A changed source or image invalidates approval. Run `npm run prepare:practice-images -- test-004` for a new test, generate each pending image from its full prompt, import, inspect and approve it, link approved images, and validate. Pending work never becomes an approved reference automatically.
 
 
-## Acceptance results (2026-11-10)
+## Acceptance results (2026-11-10, including Part 7)
 
-- Implementation: optional Question/QuestionGroup metadata, parser and path validation, PracticeIllustration with lazy loading, zoom/Escape/focus restoration and failure fallback; Practice-only visibility and shared Group rendering. Exam/Review do not opt in.
-- All 88 images were visually checked against their complete source. The manifest records approval notes and provenance; no pending or missing assets remain.
-- `npm test`: 29 tests in 11 files passed, including parser compatibility, image workflow, component/view behavior, listening sequence, TTS engine and scoring.
-- `npm run build`: passed, including the index generation and TypeScript check.
-- `npm run validate:practice-images`: passed; 88 expected/generated/approved, zero missing, unreferenced, pending or invalid entries.
-- `npm run test:practice-ui`: passed against the production preview under `/toeic-markdown-online-mock-test/`, at 1440×1000 and 390×844. Verified reveal after Check answers, early toggle, modal zoom/Escape/focus, Group deduplication, wrong-only filtering, failure fallback, original photographs and Exam isolation. All 88 deployed image URLs decoded successfully in Chromium. Desktop/mobile screenshots were inspected.
-- Source comparison against the previous Git revision: all 200 questions, answers, explanations, passages and listening scripts are identical after removing the optional image metadata. Six original photographs are byte-identical.
-- Listening queue/TTS/scoring regression tests pass. Actual audible speech quality was not manually assessed; it remains dependent on device voices and the browser Web Speech API.
-
-## Future tests
-
-For Test 004/005, use the README generation prompt and generic prepare → generate → import → visually review → approve → link → validate workflow. Preparation reads each full source group, fingerprints it, preserves completed work and exposes pending items for retry. Images are linked only after approval; source changes require renewed review. The Test 003 grammar composition helper is deliberately limited to this test; create source-specific diagrams for new grammar questions.
+- All 106 images generated, visually reviewed and linked; no missing/unreferenced/pending assets or audit errors. Part 7 adds 18 editable SVG evidence maps, including six single, six double and six triple passage groups.
+- `npm test`: 31 tests in 11 files passed. Parser tests now cover Part 7 Group ownership and trailing metadata; workflow tests require 106 entries and complete Part 7 source prompts. Existing listening/TTS/scoring tests pass; audible voice quality was not manually assessed.
+- `npm run build`: passed (index generation, TypeScript and Vite).
+- `npm run validate:practice-images`: passed for all seven Parts.
+- `npm run test:practice-ui`: passed against the production preview under the repository URL prefix at desktop 1440×1000 and mobile 390×844. Checked Part 7 single/double/triple groups and final group, delayed reveal, one image per group, all 106 image decodes, zoom, wrong-only behavior, image failure and Exam isolation. Mobile/desktop screenshots inspected.
+- Parsed source comparison against the prior commit confirmed unchanged questions, choices, answers, explanations, transcripts and passages across all seven Parts. Original Part 1 photographs remain untouched.
+- README generation instructions now require Part 1–7 images for every future test. Generic prepare/import/review/link/validate/report commands enumerate all seven Parts automatically. Source-specific SVG blueprint scripts must be adapted to new material, rather than recycled as images for Test 004/005.

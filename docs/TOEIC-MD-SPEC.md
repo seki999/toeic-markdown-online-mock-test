@@ -164,6 +164,6 @@ npm run build
 
 ## Optional Practice learning illustrations
 
-`### Practice Image` contains a public-root-relative local path; `### Practice Image Alt` contains a concise description. Single questions in Parts 1/2/5 own their field. In Parts 3/4/6 put the Group field immediately after `## Group N` / `## Passage Group N`, before the first `### Question N`. It remains Group metadata, not copied onto questions or passages. Missing fields preserve legacy behavior.
+`### Practice Image` contains a public-root-relative local path; `### Practice Image Alt` contains a concise description. Single questions in Parts 1/2/5 own their field. In Parts 3/4/6/7 put the Group field immediately after `## Group N` / `## Passage Group N`, before the first `### Question N`. It remains Group metadata, not copied onto questions or passages. Missing fields preserve legacy behavior.
 
-Original `### Image` is independent and remains visible in Part 1 exams. Practice images may disclose answers and are never Exam material. Use images/<testId>/practice/partN/qNNN.webp or group-NN.webp (SVG permitted for deterministic grammar diagrams). Reject absolute/external URLs, backslashes, query strings and traversal. Refer to PRACTICE-VISUAL-LEARNING-SPEC.md for manifest and review requirements.
+Original `### Image` is independent and remains visible in Part 1 exams. Practice images may disclose answers and are never Exam material. Use images/<testId>/practice/partN/qNNN.webp or group-NN.webp (SVG permitted for deterministic grammar and reading evidence diagrams). Reject absolute/external URLs, backslashes, query strings and traversal. Refer to PRACTICE-VISUAL-LEARNING-SPEC.md for manifest and review requirements.

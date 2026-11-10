@@ -2,6 +2,15 @@
 
 ## Passage Group 1
 
+### Practice Image
+
+images/test-003/practice/part7/group-01.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 147, 148, 149: A discussion with the director; In the lobby; Its timing is still uncertain
+
+
 ### Type
 
 single
@@ -68,6 +77,15 @@ A
 No release date has been announced. Prior screening, giveaways, and cancellation are not stated.
 
 ## Passage Group 2
+
+### Practice Image
+
+images/test-003/practice/part7/group-02.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 150, 151, 152: Access to public-service information; Attendance at a practice session; [1]
+
 
 ### Type
 
@@ -141,6 +159,15 @@ At [1] it introduces all the interview rules. Later positions interrupt the rule
 
 ## Passage Group 3
 
+### Practice Image
+
+images/test-003/practice/part7/group-03.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 153, 154, 155: A review identified crowd-safety problems; Credit for a later visit; Request it when reserving
+
+
 ### Type
 
 single
@@ -210,6 +237,15 @@ Seats require advance assignment. Arrival bookings are unavailable; street selle
 
 ## Passage Group 4
 
+### Practice Image
+
+images/test-003/practice/part7/group-04.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 156, 157, 158: Rapid changes could damage the environment; Studying birds' responses; By comparing bird counts over time
+
+
 ### Type
 
 single
@@ -278,6 +314,15 @@ C
 Bird counts are compared with earlier surveys. Donations and guide appeal are not success measures; photographs alone are insufficient.
 
 ## Passage Group 5
+
+### Practice Image
+
+images/test-003/practice/part7/group-05.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 159, 160, 161: Report it and request a different vehicle; Mechanics; An alternative task can be requested
+
 
 ### Type
 
@@ -351,6 +396,15 @@ A ground-level alternative is available. Mandatory climbing, on-site diagnosis, 
 
 ## Passage Group 6
 
+### Practice Image
+
+images/test-003/practice/part7/group-06.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 162, 163, 164: It contributes part of Sunday sales; Eight guests; Mention it when booking
+
+
 ### Type
 
 single
@@ -419,6 +473,15 @@ D
 The page asks for access needs during booking. Parking cannot be reserved and later arrival does not arrange access.
 
 ## Passage Group 7
+
+### Practice Image
+
+images/test-003/practice/part7/group-07.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 165, 166, 167: One; 5 p.m.; Behind number 18
+
 
 ### Type
 
@@ -494,6 +557,15 @@ B
 The photography workshop uses that courtyard. Pass collection and performance venues do not change the instruction location.
 
 ## Passage Group 8
+
+### Practice Image
+
+images/test-003/practice/part7/group-08.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 168, 169, 170: A document was missing; Escalate with the claim number; Restricting access to medical information
+
 
 ### Type
 
@@ -572,6 +644,15 @@ The policy and chat protect confidential information. The other practices contra
 
 ## Passage Group 9
 
+### Practice Image
+
+images/test-003/practice/part7/group-09.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 171, 172, 173: Recommending specific investments; She registers before the deadline; She will collect a printed copy
+
+
 ### Type
 
 double
@@ -647,6 +728,15 @@ The email specifies printed collection as the alternative. The other actions are
 
 ## Passage Group 10
 
+### Practice Image
+
+images/test-003/practice/part7/group-10.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 174, 175, 176: Water samples; $25; The service is temporarily unavailable
+
+
 ### Type
 
 double
@@ -720,6 +810,15 @@ C
 The notice identifies an online outage. No sellout or membership restriction is established.
 
 ## Passage Group 11
+
+### Practice Image
+
+images/test-003/practice/part7/group-11.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 177, 178, 179: A written tribute; One hour; She can help before the opening
+
 
 ### Type
 
@@ -796,6 +895,15 @@ She arrives before the ten-o'clock cue and offers badge assistance. She asks to 
 
 ## Passage Group 12
 
+### Practice Image
+
+images/test-003/practice/part7/group-12.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 180, 181, 182: She is under eighteen; 3:30 p.m.; Leaving the backdrop at home
+
+
 ### Type
 
 double
@@ -868,6 +976,15 @@ B
 The message drops the elaborate backdrop in response to prop guidance. The other changes are not stated.
 
 ## Passage Group 13
+
+### Practice Image
+
+images/test-003/practice/part7/group-13.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 183, 184, 185: Saturday's meadow walk; Ground-floor location; Two adult weekend packages
+
 
 ### Type
 
@@ -950,6 +1067,15 @@ D
 Two adults at $220 total $440. The other items are excluded or have the wrong duration.
 
 ## Passage Group 14
+
+### Practice Image
+
+images/test-003/practice/part7/group-14.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 186, 187, 188: 14:15; Yes, shortly after his arrival; School screening permission
+
 
 ### Type
 
@@ -1038,6 +1164,15 @@ He asks about screening rights and explicitly excludes verdict advice. Other sub
 
 ## Passage Group 15
 
+### Practice Image
+
+images/test-003/practice/part7/group-15.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 189, 190, 191: April 10 desk roster; Interviewing staff before discipline; The accommodation reservation
+
+
 ### Type
 
 triple
@@ -1122,6 +1257,15 @@ D
 Both guest and manager request unchanged lodging. A replacement meal and investigation are new arrangements; no apology is scheduled.
 
 ## Passage Group 16
+
+### Practice Image
+
+images/test-003/practice/part7/group-16.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 192, 193, 194: The partner reduction was applied; A supplier-list review; The seminar only
+
 
 ### Type
 
@@ -1212,6 +1356,15 @@ Both invoice and advertisement exclude equipment, and the venue is not the facto
 
 ## Passage Group 17
 
+### Practice Image
+
+images/test-003/practice/part7/group-17.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 195, 196, 197: The evening before the original outing; Automatic transfer to May 12; It avoids unnecessary risk
+
+
 ### Type
 
 triple
@@ -1293,6 +1446,15 @@ B
 The refusal of an improvised crossing follows the safety principle. Neither a total guarantee nor risky behavior is promised.
 
 ## Passage Group 18
+
+### Practice Image
+
+images/test-003/practice/part7/group-18.svg
+
+### Practice Image Alt
+
+Learning illustration for Part 7, questions 198, 199, 200: Assessment and possible repair; $90; The client's approval
+
 
 ### Type
 

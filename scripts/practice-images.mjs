@@ -30,13 +30,14 @@ const strategies = {
   3: 'Draw one coherent scene or three-step storyboard for the COMPLETE conversation. Show place, participants, problem, decision and next action, including evidence for ALL THREE correct answers. Do not invent facts.',
   4: 'Draw one coherent event/process or storyboard for the COMPLETE talk. Include setting, important times, people, actions and evidence for ALL THREE answers; not just its first sentence.',
   5: 'Create a precise educational diagram combining sentence meaning with the grammatical relationship. Use a timeline for tense, agent-to-recipient arrows for passive voice, modifier arrows for word class, relative-clause links for pronouns, spatial/temporal links for prepositions/conjunctions. Explain why alternatives do not fit. Do not merely typeset the question.',
+  7: 'Create a reading evidence map for the complete passage group. Distinguish each source document, connect people, dates, requests and replies, and show the reasoning for every correct answer. For multiple passages explicitly connect evidence across documents. Preserve uncertainty, conditions, and exact arithmetic. Use a timeline or relationship diagram; do not merely reproduce questions.',
   6: 'Draw one unified process/scene for the entire passage with a small grammatical relationship layer for ALL FOUR blanks. Incorporate chronology, people, setting, actions and logical connections. Not four unrelated scenes.',
 }
 
 export async function entriesFor(test) {
   const entries = []
   const questionIds = new Set()
-  for (let part = 1; part <= 6; part++) {
+  for (let part = 1; part <= 7; part++) {
     const parsed = parsePart(await readFile(`public/tests/${test}/part${part}.md`, 'utf8'), part)
     parsed.groups.forEach((group, index) => {
       for (const q of group.questions) {
@@ -45,7 +46,7 @@ export async function entriesFor(test) {
         if (q.choices.length !== (part === 2 ? 3 : 4) || !q.choices.some(c => c.label === q.answer) || !q.explanation.trim()) throw Error(`Incomplete source question ${q.id}`)
         if (part <= 4 && !q.speech.length) throw Error(`Missing transcript for question ${q.id}`)
       }
-      const grouped = [3, 4, 6].includes(part)
+      const grouped = [3, 4, 6, 7].includes(part)
       const token = grouped ? `group-${String(index + 1).padStart(2, '0')}` : `q${String(group.questions[0].id).padStart(3, '0')}`
       const source = {
         speech: group.speech,
@@ -146,7 +147,7 @@ if (command === 'prepare') {
     if (typeof entry.alt !== 'string' || /[\r\n]/.test(entry.alt)) throw Error(`Alt text must be one line: ${entry.id}`)
     if (!safe(entry.imagePath) || current.find(e => e.id === entry.id)?.sourceHash !== entry.sourceHash || (await inspect(path.join(root, entry.imagePath))).checksum !== entry.checksum) throw Error(`Stale approved image: ${entry.id}`)
   }
-  for (let part = 1; part <= 6; part++) {
+  for (let part = 1; part <= 7; part++) {
     const filename = `public/tests/${testId}/part${part}.md`
     let source = await readFile(filename, 'utf8')
     // Sections have one-line values. Never consume a question body while removing metadata.
@@ -158,7 +159,7 @@ if (command === 'prepare') {
       const entry = entries[index++]
       if (entry?.status !== 'approved') return block
       const fields = `### Practice Image\n\n${entry.imagePath}\n\n### Practice Image Alt\n\n${entry.alt}\n\n`
-      if ([3, 4, 6].includes(part)) return block.replace(/^(## [^\n]+\n)(?:[ \t]*\n)*/, `$1\n${fields}`)
+      if ([3, 4, 6, 7].includes(part)) return block.replace(/^(## [^\n]+\n)(?:[ \t]*\n)*/, `$1\n${fields}`)
       const position = block.search(/^### /m)
       if (position < 0) throw Error(`Question has no child sections in ${filename}`)
       return block.slice(0, position) + fields + block.slice(position)
@@ -191,7 +192,7 @@ if (command === 'prepare') {
     if (/\.(webp|png|jpg|svg)$/.test(file) && !declared.has(relative)) unreferenced.push(relative)
   }
   const report = { testId, expected: expected.length, generated, approved, missing, unreferenced, pendingReview, errors,
-    parts: Array.from({ length: 6 }, (_, i) => ({ part: i + 1, expected: expected.filter(e => e.part === i + 1).length, generated: manifest.entries.filter(e => e.part === i + 1 && !missing.includes(e.id)).length, approved: manifest.entries.filter(e => e.part === i + 1 && e.status === 'approved' && !missing.includes(e.id) && !pendingReview.includes(e.id)).length })) }
+    parts: Array.from({ length: 7 }, (_, i) => ({ part: i + 1, expected: expected.filter(e => e.part === i + 1).length, generated: manifest.entries.filter(e => e.part === i + 1 && !missing.includes(e.id)).length, approved: manifest.entries.filter(e => e.part === i + 1 && e.status === 'approved' && !missing.includes(e.id) && !pendingReview.includes(e.id)).length })) }
   await writeFile(path.join(directory, 'coverage.json'), JSON.stringify(report, null, 2) + '\n')
   console.log(JSON.stringify(report, null, 2))
   if (errors.length || (!process.argv.includes('--allow-pending') && (missing.length || unreferenced.length || pendingReview.length || approved !== expected.length))) process.exitCode = 1
