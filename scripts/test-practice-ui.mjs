@@ -80,6 +80,8 @@ try {
     if (viewport.width === 1440) {
       const decoded = await page.evaluate(async root => {
         const manifest = await fetch(new URL('images/test-003/practice/manifest.json', root)).then(r => r.json())
+        const reading = manifest.entries.filter(entry => entry.part === 7)
+        if (reading.length !== 18 || reading.some(entry => !entry.imagePath.endsWith('.webp'))) throw Error('Part 7 must contain eighteen raster scene illustrations')
         let count = 0
         for (const entry of manifest.entries) {
           if (entry.status !== 'approved') throw Error(`Unapproved asset: ${entry.id}`)

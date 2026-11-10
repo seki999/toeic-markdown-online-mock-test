@@ -13,7 +13,7 @@ Status: **Complete**. This report is derived from the checked manifest and asset
 | 7 | 18 | 18 | 18 | 0 |
 | Total | 106 | 106 | 106 | 0 |
 
-Part 1 original photographs and their [source credits](test-003-images.md) remain unchanged. New learning aids are separate assets; Parts 1/2/3/4/6 use original illustrations generated with the built-in image_gen tool. Part 5 combines 21 project-authored editable SVG grammar diagrams with 9 original AI scenes with deterministic SVG grammar overlays. Raw artwork and editable overlay layers are retained in artwork/test-003/practice/part5; only approved compiled composites are served. Part 7 adds 18 project-authored editable SVG reading evidence maps, with explicit source-document links and answer reasoning. These are learning aids, not substitute photographs. No third-party scene photographs or API keys are added for learning aids.
+Part 1 original photographs and their [source credits](test-003-images.md) remain unchanged. New learning aids are separate assets; Parts 1/2/3/4/6 use original illustrations generated with the built-in image_gen tool. Part 5 combines 21 project-authored editable SVG grammar diagrams with 9 original AI scenes with deterministic SVG grammar overlays. Raw artwork and editable overlay layers are retained in artwork/test-003/practice/part5; only approved compiled composites are served. Part 7 adds 18 generated detailed scene/storyboard illustrations connecting the actual events, requests and responses in the reading materials. These are learning aids, not substitute photographs. No third-party scene photographs or API keys are added for learning aids.
 
 ## Asset register
 
@@ -109,24 +109,24 @@ Part 1 original photographs and their [source credits](test-003-images.md) remai
 | test-003-part6-group-02 | 135, 136, 137, 138 | [group-02.webp](../public/images/test-003/practice/part6/group-02.webp) | approved | 1536 × 1024 |
 | test-003-part6-group-03 | 139, 140, 141, 142 | [group-03.webp](../public/images/test-003/practice/part6/group-03.webp) | approved | 1536 × 1024 |
 | test-003-part6-group-04 | 143, 144, 145, 146 | [group-04.webp](../public/images/test-003/practice/part6/group-04.webp) | approved | 1536 × 1024 |
-| test-003-part7-group-01 | 147, 148, 149 | [group-01.svg](../public/images/test-003/practice/part7/group-01.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-02 | 150, 151, 152 | [group-02.svg](../public/images/test-003/practice/part7/group-02.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-03 | 153, 154, 155 | [group-03.svg](../public/images/test-003/practice/part7/group-03.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-04 | 156, 157, 158 | [group-04.svg](../public/images/test-003/practice/part7/group-04.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-05 | 159, 160, 161 | [group-05.svg](../public/images/test-003/practice/part7/group-05.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-06 | 162, 163, 164 | [group-06.svg](../public/images/test-003/practice/part7/group-06.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-07 | 165, 166, 167 | [group-07.svg](../public/images/test-003/practice/part7/group-07.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-08 | 168, 169, 170 | [group-08.svg](../public/images/test-003/practice/part7/group-08.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-09 | 171, 172, 173 | [group-09.svg](../public/images/test-003/practice/part7/group-09.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-10 | 174, 175, 176 | [group-10.svg](../public/images/test-003/practice/part7/group-10.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-11 | 177, 178, 179 | [group-11.svg](../public/images/test-003/practice/part7/group-11.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-12 | 180, 181, 182 | [group-12.svg](../public/images/test-003/practice/part7/group-12.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-13 | 183, 184, 185 | [group-13.svg](../public/images/test-003/practice/part7/group-13.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-14 | 186, 187, 188 | [group-14.svg](../public/images/test-003/practice/part7/group-14.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-15 | 189, 190, 191 | [group-15.svg](../public/images/test-003/practice/part7/group-15.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-16 | 192, 193, 194 | [group-16.svg](../public/images/test-003/practice/part7/group-16.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-17 | 195, 196, 197 | [group-17.svg](../public/images/test-003/practice/part7/group-17.svg) | approved | 1536 × 1450 |
-| test-003-part7-group-18 | 198, 199, 200 | [group-18.svg](../public/images/test-003/practice/part7/group-18.svg) | approved | 1536 × 1450 |
+| test-003-part7-group-01 | 147, 148, 149 | [group-01.webp](../public/images/test-003/practice/part7/group-01.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-02 | 150, 151, 152 | [group-02.webp](../public/images/test-003/practice/part7/group-02.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-03 | 153, 154, 155 | [group-03.webp](../public/images/test-003/practice/part7/group-03.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-04 | 156, 157, 158 | [group-04.webp](../public/images/test-003/practice/part7/group-04.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-05 | 159, 160, 161 | [group-05.webp](../public/images/test-003/practice/part7/group-05.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-06 | 162, 163, 164 | [group-06.webp](../public/images/test-003/practice/part7/group-06.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-07 | 165, 166, 167 | [group-07.webp](../public/images/test-003/practice/part7/group-07.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-08 | 168, 169, 170 | [group-08.webp](../public/images/test-003/practice/part7/group-08.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-09 | 171, 172, 173 | [group-09.webp](../public/images/test-003/practice/part7/group-09.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-10 | 174, 175, 176 | [group-10.webp](../public/images/test-003/practice/part7/group-10.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-11 | 177, 178, 179 | [group-11.webp](../public/images/test-003/practice/part7/group-11.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-12 | 180, 181, 182 | [group-12.webp](../public/images/test-003/practice/part7/group-12.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-13 | 183, 184, 185 | [group-13.webp](../public/images/test-003/practice/part7/group-13.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-14 | 186, 187, 188 | [group-14.webp](../public/images/test-003/practice/part7/group-14.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-15 | 189, 190, 191 | [group-15.webp](../public/images/test-003/practice/part7/group-15.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-16 | 192, 193, 194 | [group-16.webp](../public/images/test-003/practice/part7/group-16.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-17 | 195, 196, 197 | [group-17.webp](../public/images/test-003/practice/part7/group-17.webp) | approved | 1536 × 1024 |
+| test-003-part7-group-18 | 198, 199, 200 | [group-18.webp](../public/images/test-003/practice/part7/group-18.webp) | approved | 1536 × 1024 |
 
 ## Verification
 
@@ -137,13 +137,8 @@ Part 1 original photographs and their [source credits](test-003-images.md) remai
 
 Run `npm run validate:practice-images -- test-003` after every content or image change. A changed source or image invalidates approval. Run `npm run prepare:practice-images -- test-004` for a new test, generate each pending image from its full prompt, import, inspect and approve it, link approved images, and validate. Pending work never becomes an approved reference automatically.
 
+## Part 7 illustration replacement (2026-11-11)
 
-## Acceptance results (2026-11-10, including Part 7)
+All 18 text-card SVGs were replaced with original scene storyboards generated with the built-in image_gen tool. Each WebP was visually inspected against the full reading group and three answers; inaccurate incidental dates, identifiers and conditional outcomes were corrected before approval. The manifest contains the actual generation and edit prompts and the final review note for each group. The original 88 Part 1–6 aids and real Part 1 photographs are unchanged.
 
-- All 106 images generated, visually reviewed and linked; no missing/unreferenced/pending assets or audit errors. Part 7 adds 18 editable SVG evidence maps, including six single, six double and six triple passage groups.
-- `npm test`: 31 tests in 11 files passed. Parser tests now cover Part 7 Group ownership and trailing metadata; workflow tests require 106 entries and complete Part 7 source prompts. Existing listening/TTS/scoring tests pass; audible voice quality was not manually assessed.
-- `npm run build`: passed (index generation, TypeScript and Vite).
-- `npm run validate:practice-images`: passed for all seven Parts.
-- `npm run test:practice-ui`: passed against the production preview under the repository URL prefix at desktop 1440×1000 and mobile 390×844. Checked Part 7 single/double/triple groups and final group, delayed reveal, one image per group, all 106 image decodes, zoom, wrong-only behavior, image failure and Exam isolation. Mobile/desktop screenshots inspected.
-- Parsed source comparison against the prior commit confirmed unchanged questions, choices, answers, explanations, transcripts and passages across all seven Parts. Original Part 1 photographs remain untouched.
-- README generation instructions now require Part 1–7 images for every future test. Generic prepare/import/review/link/validate/report commands enumerate all seven Parts automatically. Source-specific SVG blueprint scripts must be adapted to new material, rather than recycled as images for Test 004/005.
+Verification: 31 tests in 11 files, production build, strict 106-image audit and desktop/mobile browser checks passed. The browser decoded all 106 images and checked single/double/triple Part 7 groups under the GitHub Pages URL prefix. Parsed source comparison confirmed no changes to existing questions, choices, answers, explanations, transcripts or passages.

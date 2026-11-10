@@ -30,7 +30,7 @@ const strategies = {
   3: 'Draw one coherent scene or three-step storyboard for the COMPLETE conversation. Show place, participants, problem, decision and next action, including evidence for ALL THREE correct answers. Do not invent facts.',
   4: 'Draw one coherent event/process or storyboard for the COMPLETE talk. Include setting, important times, people, actions and evidence for ALL THREE answers; not just its first sentence.',
   5: 'Create a precise educational diagram combining sentence meaning with the grammatical relationship. Use a timeline for tense, agent-to-recipient arrows for passive voice, modifier arrows for word class, relative-clause links for pronouns, spatial/temporal links for prepositions/conjunctions. Explain why alternatives do not fit. Do not merely typeset the question.',
-  7: 'Create a reading evidence map for the complete passage group. Distinguish each source document, connect people, dates, requests and replies, and show the reasoning for every correct answer. For multiple passages explicitly connect evidence across documents. Preserve uncertainty, conditions, and exact arithmetic. Use a timeline or relationship diagram; do not merely reproduce questions.',
+  7: 'Create a rich professionally illustrated workplace/travel/community scene storyboard for the complete passage group, matching the detailed semi-realistic educational illustration style of Parts 3/4/6. Show people, environments, objects and actions with coherent visual storytelling. For multiple passages connect the actual request and response as illustrated events. Cover evidence for every answer, preserving uncertainty, conditions and exact arithmetic. Scenes must dominate at least 75 percent of the canvas. Only short essential English labels or dialogue. Never produce text boxes with arrows, a text-heavy evidence map, question screenshots or a diagram made from cards.',
   6: 'Draw one unified process/scene for the entire passage with a small grammatical relationship layer for ALL FOUR blanks. Incorporate chronology, people, setting, actions and logical connections. Not four unrelated scenes.',
 }
 
@@ -113,6 +113,7 @@ if (command === 'prepare') {
   const manifest = await load(); const entry = manifest.entries.find(e => e.id === id)
   if (!entry || !input) throw Error('Provide manifest ID and local image')
   const extension = path.extname(input).toLowerCase()
+  if (entry.part === 7 && extension === '.svg') throw Error('Part 7 requires a generated scene illustration, not an SVG text-card map')
   if (!['.webp', '.png', '.jpg', '.svg'].includes(extension)) throw Error('Unsupported image')
   const imagePath = entry.imagePath.replace(/\.[a-z]+$/, extension)
   if (!safe(imagePath)) throw Error('Unsafe image path')
@@ -175,6 +176,7 @@ if (command === 'prepare') {
     if (seen.has(entry.id)) errors.push(`Duplicate ID: ${entry.id}`); seen.add(entry.id)
     if (paths.has(entry.imagePath)) errors.push(`Duplicate image path: ${entry.imagePath}`); paths.add(entry.imagePath)
     const want = expected.find(e => e.id === entry.id)
+    if (entry.part === 7 && entry.imagePath.endsWith('.svg')) errors.push(`Part 7 requires a scene illustration: ${entry.id}`)
     if (!want || want.sourceHash !== entry.sourceHash || JSON.stringify(want.questionIds) !== JSON.stringify(entry.questionIds)) errors.push(`Stale/unknown source: ${entry.id}`)
     if (!safe(entry.imagePath) || !entry.imagePath.startsWith(`images/${testId}/practice/`)) { errors.push(`Unsafe path: ${entry.imagePath}`); continue }
     try {

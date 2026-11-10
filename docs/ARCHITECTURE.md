@@ -74,4 +74,4 @@ Question and QuestionGroup carry optional practiceImage/practiceImageAlt fields.
 
 Offline scripts use the same Markdown parser to derive a content-fingerprinted manifest and complete prompts, import local assets, record explicit review, link approved paths and audit references. Public assets never contain service credentials. See PRACTICE-VISUAL-LEARNING-SPEC.md for lifecycle.
 
-Part 7 uses the same Group-level rendering contract for single/double/triple material. Preparation, linking and coverage validation enumerate all seven Parts; new tests must supply a reviewed reading evidence map for every Passage Group. Test 003 has 18 project-authored SVG maps generated from source-specific blueprints by scripts/create-reading-diagrams.mjs.
+Part 7 uses the same Group-level rendering contract for single/double/triple material. Preparation, linking and coverage validation enumerate all seven Parts; new tests must supply a reviewed generated scene illustration for every Passage Group. Part 7 uses the same detailed scene/storyboard style as Parts 3/4/6; text-card SVG maps are not used. The full prompt and actual generator details remain in the manifest.

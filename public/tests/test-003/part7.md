@@ -4,7 +4,7 @@
 
 ### Practice Image
 
-images/test-003/practice/part7/group-01.svg
+images/test-003/practice/part7/group-01.webp
 
 ### Practice Image Alt
 
@@ -80,7 +80,7 @@ No release date has been announced. Prior screening, giveaways, and cancellation
 
 ### Practice Image
 
-images/test-003/practice/part7/group-02.svg
+images/test-003/practice/part7/group-02.webp
 
 ### Practice Image Alt
 
@@ -161,7 +161,7 @@ At [1] it introduces all the interview rules. Later positions interrupt the rule
 
 ### Practice Image
 
-images/test-003/practice/part7/group-03.svg
+images/test-003/practice/part7/group-03.webp
 
 ### Practice Image Alt
 
@@ -239,7 +239,7 @@ Seats require advance assignment. Arrival bookings are unavailable; street selle
 
 ### Practice Image
 
-images/test-003/practice/part7/group-04.svg
+images/test-003/practice/part7/group-04.webp
 
 ### Practice Image Alt
 
@@ -317,7 +317,7 @@ Bird counts are compared with earlier surveys. Donations and guide appeal are no
 
 ### Practice Image
 
-images/test-003/practice/part7/group-05.svg
+images/test-003/practice/part7/group-05.webp
 
 ### Practice Image Alt
 
@@ -398,7 +398,7 @@ A ground-level alternative is available. Mandatory climbing, on-site diagnosis, 
 
 ### Practice Image
 
-images/test-003/practice/part7/group-06.svg
+images/test-003/practice/part7/group-06.webp
 
 ### Practice Image Alt
 
@@ -476,7 +476,7 @@ The page asks for access needs during booking. Parking cannot be reserved and la
 
 ### Practice Image
 
-images/test-003/practice/part7/group-07.svg
+images/test-003/practice/part7/group-07.webp
 
 ### Practice Image Alt
 
@@ -560,7 +560,7 @@ The photography workshop uses that courtyard. Pass collection and performance ve
 
 ### Practice Image
 
-images/test-003/practice/part7/group-08.svg
+images/test-003/practice/part7/group-08.webp
 
 ### Practice Image Alt
 
@@ -646,7 +646,7 @@ The policy and chat protect confidential information. The other practices contra
 
 ### Practice Image
 
-images/test-003/practice/part7/group-09.svg
+images/test-003/practice/part7/group-09.webp
 
 ### Practice Image Alt
 
@@ -730,7 +730,7 @@ The email specifies printed collection as the alternative. The other actions are
 
 ### Practice Image
 
-images/test-003/practice/part7/group-10.svg
+images/test-003/practice/part7/group-10.webp
 
 ### Practice Image Alt
 
@@ -813,7 +813,7 @@ The notice identifies an online outage. No sellout or membership restriction is 
 
 ### Practice Image
 
-images/test-003/practice/part7/group-11.svg
+images/test-003/practice/part7/group-11.webp
 
 ### Practice Image Alt
 
@@ -897,7 +897,7 @@ She arrives before the ten-o'clock cue and offers badge assistance. She asks to 
 
 ### Practice Image
 
-images/test-003/practice/part7/group-12.svg
+images/test-003/practice/part7/group-12.webp
 
 ### Practice Image Alt
 
@@ -979,7 +979,7 @@ The message drops the elaborate backdrop in response to prop guidance. The other
 
 ### Practice Image
 
-images/test-003/practice/part7/group-13.svg
+images/test-003/practice/part7/group-13.webp
 
 ### Practice Image Alt
 
@@ -1070,7 +1070,7 @@ Two adults at $220 total $440. The other items are excluded or have the wrong du
 
 ### Practice Image
 
-images/test-003/practice/part7/group-14.svg
+images/test-003/practice/part7/group-14.webp
 
 ### Practice Image Alt
 
@@ -1166,7 +1166,7 @@ He asks about screening rights and explicitly excludes verdict advice. Other sub
 
 ### Practice Image
 
-images/test-003/practice/part7/group-15.svg
+images/test-003/practice/part7/group-15.webp
 
 ### Practice Image Alt
 
@@ -1260,7 +1260,7 @@ Both guest and manager request unchanged lodging. A replacement meal and investi
 
 ### Practice Image
 
-images/test-003/practice/part7/group-16.svg
+images/test-003/practice/part7/group-16.webp
 
 ### Practice Image Alt
 
@@ -1358,7 +1358,7 @@ Both invoice and advertisement exclude equipment, and the venue is not the facto
 
 ### Practice Image
 
-images/test-003/practice/part7/group-17.svg
+images/test-003/practice/part7/group-17.webp
 
 ### Practice Image Alt
 
@@ -1449,7 +1449,7 @@ The refusal of an improvised crossing follows the safety principle. Neither a to
 
 ### Practice Image
 
-images/test-003/practice/part7/group-18.svg
+images/test-003/practice/part7/group-18.webp
 
 ### Practice Image Alt
 

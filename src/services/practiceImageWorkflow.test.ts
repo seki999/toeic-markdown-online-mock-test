@@ -32,6 +32,7 @@ describe('offline image workflow', () => {
     const original = parsePart(await readFile(path.join(tests, 'part5.md'), 'utf8')).groups[0].questions[0]
     const fixture = path.join(tests, 'test-only.svg')
     await writeFile(fixture, '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024"><path d="M0 0L1536 1024M1536 0L0 1024" stroke="black"/></svg>')
+    expect(spawnSync(process.execPath, ['scripts/practice-images.mjs', 'import', testId, reading[0].id, fixture]).status).toBe(1)
     const tooSmall = path.join(tests, 'tiny.svg')
     await writeFile(tooSmall, '<svg viewBox="0 0 64 64"></svg>')
     expect(spawnSync(process.execPath, ['scripts/practice-images.mjs', 'import', testId, id, tooSmall]).status).toBe(1)
