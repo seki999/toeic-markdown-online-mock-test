@@ -64,6 +64,14 @@ try {
     }
     await exitFullscreen.click()
     await page.waitForFunction(() => !document.fullscreenElement && !speechSynthesis.speaking)
+    await page.getByRole('button', { name: 'Part 3 Listening', exact: true }).click()
+    const previousUtterances = await page.evaluate(() => window.learningTest.utterances.length)
+    await page.getByRole('button', { name: '沉浸式视听学习', exact: true }).click()
+    await player.getByRole('heading', { name: 'Part 3 · 第 32 题' }).waitFor()
+    await page.waitForFunction(expected => window.learningTest.utterances.length > expected, previousUtterances)
+    assert.equal(await page.evaluate(() => window.learningTest.utterances.at(-1).text), 'Questions 32 through 34 refer to the following conversation.')
+    await exitFullscreen.click()
+    await page.waitForFunction(() => !document.fullscreenElement && !speechSynthesis.speaking)
     await page.evaluate(() => localStorage.removeItem('toeic.learning.progress.test-003.all'))
     await open(1)
     await caption.getByText('A. 厨师正在案板上切馅饼。', { exact: true }).waitFor()
@@ -118,8 +126,8 @@ try {
       await open(part)
       await player.getByRole('heading', { name: `Part ${part} · 第 ${question} 题` }).waitFor()
       await caption.getByText(translation, { exact: true }).waitFor()
-      await player.getByRole('button', { name: /查看学习配图/ }).click()
       await player.locator('.practice-illustration img').first().evaluate(image => image.decode())
+      assert.equal(await player.getByRole('button', { name: /查看学习配图/ }).count(), 0)
       assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true)
     }
 

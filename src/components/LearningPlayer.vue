@@ -31,7 +31,9 @@ function position(fallbackToLast = false) {
   const found = items.value.findIndex(entry => entry.question.id === target)
   return found >= 0 ? found : Math.max(0, items.value.findIndex(entry => entry.question.part === props.part))
 }
-const index = ref(props.continuousLaunch ? 0 : position(settings.value.scope === 'test'))
+const index = ref(props.continuousLaunch
+  ? items.value.findIndex(entry => entry.question.part >= props.part)
+  : position(settings.value.scope === 'test'))
 const item = computed(() => items.value[index.value])
 const question = computed(() => item.value?.question)
 const line = ref(0)
@@ -43,7 +45,6 @@ const choice = ref<ChoiceLabel>()
 const revealed = ref(false)
 const finished = ref(false)
 const played = new Set<number>()
-const showImage = ref(false)
 const failedImage = ref(false)
 const skipDetail = ref(false)
 const reviewText = ref('')
@@ -76,7 +77,7 @@ onBeforeUnmount(() => {
 function resetQuestion(position: number) {
   index.value = position
   line.value = 0
-  finished.value = revealed.value = showImage.value = failedImage.value = false
+  finished.value = revealed.value = failedImage.value = false
   skipDetail.value = false
   reviewText.value = ''
   choice.value = undefined
@@ -243,8 +244,7 @@ function skipAudio() {
     <div v-if="imageUrl && !failedImage" class="learning-picture">
       <img :src="imageUrl" :alt="'第 ' + question.id + ' 题原图'" @error="failedImage = true">
     </div>
-    <PracticeIllustration v-else-if="item.image && (revealed || showImage)" :image="item.image" :alt="item.imageAlt" />
-    <button v-else-if="item.image" type="button" @click="showImage = true">查看学习配图（可能包含答案线索）</button>
+    <PracticeIllustration v-else-if="item.image" :image="item.image" :alt="item.imageAlt" caption="学习配图" />
     <p v-else class="image-status">这道题没有可用配图。</p>
 
     <div class="learning-captions" aria-live="polite">
