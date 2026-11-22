@@ -13,6 +13,7 @@ for (const directory of directories) {
   if (!match) throw new Error(`${directory.name}/metadata.md has no YAML frontmatter`)
   const metadata = load(match[1])
   if (!metadata?.id || !metadata?.title) throw new Error(`${directory.name}/metadata.md requires id and title`)
+  if (metadata.published === false) continue
   await Promise.all(Array.from({ length: 7 }, (_, index) => readFile(join(folder, `part${index + 1}.md`), 'utf8')))
   entries.push({ id: String(metadata.id), title: String(metadata.title), version: String(metadata.version ?? '1.0'), difficulty: metadata.difficulty, targetScore: metadata.targetScore, demo: metadata.demo === true, path: `tests/${directory.name}/` })
 }
