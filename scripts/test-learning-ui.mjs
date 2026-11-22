@@ -142,6 +142,12 @@ try {
       const body = (await response.text()).replace(/^### Practice Image(?: Alt)?\r?\n(?:[^#\r\n]*\r?\n)*/gm, '')
       await route.fulfill({ response, body })
     })
+    await open(7)
+    await caption.getByText('#### Advertisement', { exact: true }).waitFor()
+    await button('播放').click()
+    await page.waitForFunction(() => window.learningTest.utterances.length === 1)
+    assert.equal(await page.evaluate(() => window.learningTest.utterances[0].text), 'Advertisement')
+
     await open(3, '&unsupported=1')
     await player.getByText('这道题没有可用配图。', { exact: true }).waitFor()
     await player.getByText('此浏览器不支持语音合成，仍可手动阅读字幕。').waitFor()
