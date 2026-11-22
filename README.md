@@ -53,7 +53,7 @@ node scripts/learning.mjs generate test-003 > learning-missing.json
 npm run learning:validate -- test-003
 ```
 
-生成命令输出覆盖率与待补充字段，保留已有学习文件。加上 `--scripts` 可同时导出完整学习脚本。将已填写的 `missingSubtitles` 和 `missingAnswers` 条目分别合并到 `subtitles` 和 `answers`，然后运行验证。003 已接入全部 200 题，随附 7 道完整中英对照题及其中文解析，每个 Part 各一题。启动开发服务器后可用 `npm run test:learning-ui` 运行视听模式的桌面和移动端回归测试。
+生成命令输出覆盖率与待补充字段，保留已有学习文件。加上 `--scripts` 可同时导出完整学习脚本。将已填写的 `missingSubtitles` 和 `missingAnswers` 条目分别合并到 `subtitles` 和 `answers`，然后运行验证。003 的全部 200 题均有中文字幕，其中 7 道题另有中文解析。启动开发服务器后可用 `npm run test:learning-ui` 运行视听模式的桌面和移动端回归测试。
 
 ## 内置题库
 

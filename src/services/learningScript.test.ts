@@ -21,7 +21,7 @@ describe('Learning scripts from the published Markdown', () => {
     expect(script.question.image || script.image).toBeTruthy()
     expect(subtitleFor(notes, { ...script.segments[0], textEn: 'changed' })).toBeUndefined()
     expect(explanationFor(notes, { ...script.question, explanation: 'changed' })).toBeUndefined()
-    expect(scripts.some(entry => entry.segments.some(segment => !subtitleFor(notes, segment)))).toBe(true)
+    expect(scripts.flatMap(entry => entry.segments).filter(segment => !subtitleFor(notes, segment)?.textZh)).toEqual([])
     if (part === 1) expect(script.segments.map(segment => segment.option)).toEqual(['A', 'B', 'C', 'D'])
     if (part === 3) expect(new Set(script.segments.flatMap(segment => segment.speaker ?? []))).toEqual(new Set(['Narrator', 'Speaker 1', 'Speaker 2']))
     if (part === 5) {

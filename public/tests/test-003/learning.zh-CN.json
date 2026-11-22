@@ -323,6 +323,6158 @@
     "q147.option.D.1": {
       "textEn": "A discussion with the director",
       "textZh": "与导演交流"
+    },
+    "q2.audio.1.1": {
+      "textEn": "A. A bicycle is resting beside a closed wooden door.",
+      "textZh": "A. 一辆自行车停在封闭的木门旁。"
+    },
+    "q2.audio.2.1": {
+      "textEn": "B. A rider is fastening a helmet under his chin.",
+      "textZh": "B.  一个骑手在下巴下系上头盔"
+    },
+    "q2.audio.3.1": {
+      "textEn": "C. A mechanic is inflating a detached tire.",
+      "textZh": "C. 机械师正在充气一个分离的轮胎。"
+    },
+    "q2.audio.4.1": {
+      "textEn": "D. A bicycle is suspended above a workbench.",
+      "textZh": "D. 自行车停在工作台上方。"
+    },
+    "q3.audio.1.1": {
+      "textEn": "A. The aircraft is flying over a terminal.",
+      "textZh": "A. 飞机正在飞越一个航站楼。"
+    },
+    "q3.audio.2.1": {
+      "textEn": "B. Travelers are descending an outdoor staircase.",
+      "textZh": "B. 旅行者们在室外楼梯下"
+    },
+    "q3.audio.3.1": {
+      "textEn": "C. A truck is parked directly beneath the tail.",
+      "textZh": "C. 一辆卡车停在尾巴下方"
+    },
+    "q3.audio.4.1": {
+      "textEn": "D. A boarding bridge is connected to the aircraft.",
+      "textZh": "D. 登机桥与飞机相连。"
+    },
+    "q4.audio.1.1": {
+      "textEn": "A. A florist is wrapping stems in paper.",
+      "textZh": "A. 花鸟在纸上裹着花"
+    },
+    "q4.audio.2.1": {
+      "textEn": "B. A bouquet is standing in a transparent vase.",
+      "textZh": "B. 花瓶里是透明的花瓶花瓶里有花瓶"
+    },
+    "q4.audio.3.1": {
+      "textEn": "C. Loose petals are floating in a basin.",
+      "textZh": "C. 松花瓣漂浮在一个盆地中。"
+    },
+    "q4.audio.4.1": {
+      "textEn": "D. A vase has been overturned on the floor.",
+      "textZh": "D.  一个花瓶倒在地板上"
+    },
+    "q5.audio.1.1": {
+      "textEn": "A. Passengers are climbing down a rope ladder.",
+      "textZh": "A. 乘客正在爬上绳子梯子。"
+    },
+    "q5.audio.2.1": {
+      "textEn": "B. A ferry is being lifted out of the water.",
+      "textZh": "B. 一艘渡轮被抬出水面。"
+    },
+    "q5.audio.3.1": {
+      "textEn": "C. The vessel is fitted with a single round window.",
+      "textZh": "C.  该船装有单一圆形窗户。"
+    },
+    "q5.audio.4.1": {
+      "textEn": "D. Life rings are attached to the upper railing.",
+      "textZh": "D. 生命环附在上栏杆上。"
+    },
+    "q6.audio.1.1": {
+      "textEn": "A. Bundles of vegetables are piled beside some carrots.",
+      "textZh": "A. 蔬菜堆在胡萝卜旁边"
+    },
+    "q6.audio.2.1": {
+      "textEn": "B. A customer is weighing a gourd on a scale.",
+      "textZh": "B. 顾客的重量是大块的瓜子"
+    },
+    "q6.audio.3.1": {
+      "textEn": "C. Produce has been sealed in identical cartons.",
+      "textZh": "C. 生产品被封装在相同的纸箱中。"
+    },
+    "q6.audio.4.1": {
+      "textEn": "D. A vendor is peeling potatoes with a knife.",
+      "textZh": "D.  一个卖家正在用刀剥土豆"
+    },
+    "q8.audio.1.1": {
+      "textEn": "Could you designate a substitute for Friday?",
+      "textZh": "你能替周五指定一个替补吗?"
+    },
+    "q8.audio.2.1": {
+      "textEn": "A. Friday was a holiday last year.",
+      "textZh": "A. 星期五是去年的节日。"
+    },
+    "q8.audio.3.1": {
+      "textEn": "B. The design has already been approved.",
+      "textZh": "B. 设计已经获得批准。"
+    },
+    "q8.audio.4.1": {
+      "textEn": "C. I will ask Ravi to cover my shift.",
+      "textZh": "C.  我会叫拉维来掩护我的班"
+    },
+    "q9.audio.1.1": {
+      "textEn": "When does the inaugural ferry service depart?",
+      "textZh": "首航轮渡服务何时出发?."
+    },
+    "q9.audio.2.1": {
+      "textEn": "A. At seven tomorrow morning.",
+      "textZh": "A.  明天早上七点"
+    },
+    "q9.audio.3.1": {
+      "textEn": "B. It carries bicycles, too.",
+      "textZh": "B.  它也携带自行车。"
+    },
+    "q9.audio.4.1": {
+      "textEn": "C. A fairly small suitcase.",
+      "textZh": "C.  一个很小的手提箱。"
+    },
+    "q10.audio.1.1": {
+      "textEn": "The courier has not arrived yet.",
+      "textZh": "信使还没到"
+    },
+    "q10.audio.2.1": {
+      "textEn": "A. I will call the delivery office.",
+      "textZh": "A.  我会给送货办公室打电话的"
+    },
+    "q10.audio.3.1": {
+      "textEn": "B. Yes, the corridor is narrow.",
+      "textZh": "B.  是的，走廊很狭窄。"
+    },
+    "q10.audio.4.1": {
+      "textEn": "C. It is a very legible signature.",
+      "textZh": "C.  这是一个非常清晰的签名。"
+    },
+    "q11.audio.1.1": {
+      "textEn": "Where should I stow these sample boxes?",
+      "textZh": "我该把样本箱放哪?"
+    },
+    "q11.audio.2.1": {
+      "textEn": "A. Three boxes were damaged.",
+      "textZh": "A. 3箱受损。"
+    },
+    "q11.audio.3.1": {
+      "textEn": "B. Under the counter, please.",
+      "textZh": "B.  请在柜台下面"
+    },
+    "q11.audio.4.1": {
+      "textEn": "C. They are selling well.",
+      "textZh": "C.  他们卖得很好。"
+    },
+    "q12.audio.1.1": {
+      "textEn": "Would you prefer a suite or two separate rooms?",
+      "textZh": "你更喜欢套房还是两个分开的房间?"
+    },
+    "q12.audio.2.1": {
+      "textEn": "A. Which arrangement costs less?",
+      "textZh": "A.  哪项安排的费用较低?"
+    },
+    "q12.audio.3.1": {
+      "textEn": "B. The meeting starts at ten.",
+      "textZh": "B.  会议从十开始。"
+    },
+    "q12.audio.4.1": {
+      "textEn": "C. Yes, I enjoyed the sweet dessert.",
+      "textZh": "C.  是的，我喜欢甜点。"
+    },
+    "q13.audio.1.1": {
+      "textEn": "Is the itinerary final?",
+      "textZh": "行程是定的吗?"
+    },
+    "q13.audio.2.1": {
+      "textEn": "A. I brought a spare tire.",
+      "textZh": "A.  我带了个备用轮胎"
+    },
+    "q13.audio.3.1": {
+      "textEn": "B. We are still waiting for the airline to confirm.",
+      "textZh": "B.  我们还在等航空公司确认"
+    },
+    "q13.audio.4.1": {
+      "textEn": "C. At the front entrance.",
+      "textZh": "C.  在前门。"
+    },
+    "q14.audio.1.1": {
+      "textEn": "You will volunteer at the recital, will you not?",
+      "textZh": "你会志愿参加独奏会，不是吗?"
+    },
+    "q14.audio.2.1": {
+      "textEn": "A. Actually, I have to work that evening.",
+      "textZh": "A.  事实上，我晚上得上班了"
+    },
+    "q14.audio.3.1": {
+      "textEn": "B. The violin sounds superb.",
+      "textZh": "B.  小提琴听起来棒极了"
+    },
+    "q14.audio.4.1": {
+      "textEn": "C. I recycled the leaflet.",
+      "textZh": "C.  我回收了传单。"
+    },
+    "q15.audio.1.1": {
+      "textEn": "Why is there so much congestion near the bureau?",
+      "textZh": "为什么局里附近有这么多堵塞?"
+    },
+    "q15.audio.2.1": {
+      "textEn": "A. One lane has been closed for repairs.",
+      "textZh": "A. 有一条车道因维修而关闭。"
+    },
+    "q15.audio.3.1": {
+      "textEn": "B. I filled out the form neatly.",
+      "textZh": "B.  我填写的表格很整齐。"
+    },
+    "q15.audio.4.1": {
+      "textEn": "C. The desk has four drawers.",
+      "textZh": "C. 书桌有四个抽屉。"
+    },
+    "q16.audio.1.1": {
+      "textEn": "Can you procure another microphone?",
+      "textZh": "你能再买个麦克风吗?"
+    },
+    "q16.audio.2.1": {
+      "textEn": "A. I will borrow one from the next room.",
+      "textZh": "A.  我从隔壁房间借一个"
+    },
+    "q16.audio.3.1": {
+      "textEn": "B. The announcement was eloquent.",
+      "textZh": "B.  这一宣布是雄辩的。"
+    },
+    "q16.audio.4.1": {
+      "textEn": "C. No, the room is on the second floor.",
+      "textZh": "C.  不，房间在二楼。"
+    },
+    "q17.audio.1.1": {
+      "textEn": "Has the museum received the subsidy?",
+      "textZh": "博物馆收到补助了吗?"
+    },
+    "q17.audio.2.1": {
+      "textEn": "A. Finance says the funds will arrive Monday.",
+      "textZh": "A. 财务部门说资金会在星期一到来"
+    },
+    "q17.audio.3.1": {
+      "textEn": "B. The exhibit is downstairs.",
+      "textZh": "B. 展览在楼下"
+    },
+    "q17.audio.4.1": {
+      "textEn": "C. I prefer the contemporary paintings.",
+      "textZh": "C.  我更喜欢当代的画"
+    },
+    "q18.audio.1.1": {
+      "textEn": "Do we need to ratify the pact today?",
+      "textZh": "我们今天需要批准这项条约吗?"
+    },
+    "q18.audio.2.1": {
+      "textEn": "A. The packing tape is in the drawer.",
+      "textZh": "A. 包装带在抽屉里"
+    },
+    "q18.audio.3.1": {
+      "textEn": "B. It is a tangible object.",
+      "textZh": "B.  它是一个有形的物体。"
+    },
+    "q18.audio.4.1": {
+      "textEn": "C. The vote has been moved to next week.",
+      "textZh": "C. 投票已移至下周进行。"
+    },
+    "q19.audio.1.1": {
+      "textEn": "Why did the driver sound the horn?",
+      "textZh": "司机为什么吹喇叭?"
+    },
+    "q19.audio.2.1": {
+      "textEn": "A. A pedestrian stepped into the road.",
+      "textZh": "A.  一名行人走进道路。"
+    },
+    "q19.audio.3.1": {
+      "textEn": "B. Two liters of unleaded fuel.",
+      "textZh": "B.  无铅油二升。"
+    },
+    "q19.audio.4.1": {
+      "textEn": "C. The hood was blue.",
+      "textZh": "C. 头罩是蓝色的。"
+    },
+    "q20.audio.1.1": {
+      "textEn": "The brochure is rather bland.",
+      "textZh": "这本小册子相当粗糙。"
+    },
+    "q20.audio.2.1": {
+      "textEn": "A. About twenty centimeters wide.",
+      "textZh": "A. 宽约20厘米。"
+    },
+    "q20.audio.3.1": {
+      "textEn": "B. I had soup for lunch.",
+      "textZh": "B.  我午餐吃汤了"
+    },
+    "q20.audio.4.1": {
+      "textEn": "C. Perhaps a more colorful cover would help.",
+      "textZh": "C.  也许更彩色的封面会有所帮助。"
+    },
+    "q21.audio.1.1": {
+      "textEn": "Could you make this correspondence more cordial?",
+      "textZh": "你能把这信写得更亲切点吗?"
+    },
+    "q21.audio.2.1": {
+      "textEn": "A. There are three envelopes.",
+      "textZh": "A. 有三个信封。"
+    },
+    "q21.audio.3.1": {
+      "textEn": "B. I will add a warmer opening.",
+      "textZh": "B.  我将增加一个温暖的开口。"
+    },
+    "q21.audio.4.1": {
+      "textEn": "C. The cord is too short.",
+      "textZh": "C. 绳索太短了"
+    },
+    "q22.audio.1.1": {
+      "textEn": "Who should receive this voucher?",
+      "textZh": "谁应该收到这个凭单?"
+    },
+    "q22.audio.2.1": {
+      "textEn": "A. The fare rose last month.",
+      "textZh": "A. 上个月的票价上涨了。"
+    },
+    "q22.audio.3.1": {
+      "textEn": "B. Anyone whose train was canceled.",
+      "textZh": "B. 任何人的火车被取消。"
+    },
+    "q22.audio.4.1": {
+      "textEn": "C. At the ticket machine.",
+      "textZh": "C.  在售票机那边"
+    },
+    "q23.audio.1.1": {
+      "textEn": "Are you going to hike or stroll around the lake?",
+      "textZh": "你是要去湖边散步还是走走?"
+    },
+    "q23.audio.2.1": {
+      "textEn": "A. I left it on the porch.",
+      "textZh": "A.  我把它放在门廊上。"
+    },
+    "q23.audio.3.1": {
+      "textEn": "B. The fare is very reasonable.",
+      "textZh": "B. 票价非常合理。"
+    },
+    "q23.audio.4.1": {
+      "textEn": "C. Just a short walk this time.",
+      "textZh": "C.  这次就走一小步"
+    },
+    "q24.audio.1.1": {
+      "textEn": "You seem weary after the voyage.",
+      "textZh": "航行后你看起来很疲惫"
+    },
+    "q24.audio.2.1": {
+      "textEn": "A. The boat is sixty meters long.",
+      "textZh": "A. 船长60米。"
+    },
+    "q24.audio.3.1": {
+      "textEn": "B. Yes, it has a new sail.",
+      "textZh": "B.  是的，它有一个新的帆。"
+    },
+    "q24.audio.4.1": {
+      "textEn": "C. I would appreciate a break.",
+      "textZh": "C.  我很乐意休息一下。"
+    },
+    "q25.audio.1.1": {
+      "textEn": "When will the dividend be announced?",
+      "textZh": "什么时候宣布红利?"
+    },
+    "q25.audio.2.1": {
+      "textEn": "A. After the board meeting on Thursday.",
+      "textZh": "A. 周四董事会会议后。"
+    },
+    "q25.audio.3.1": {
+      "textEn": "B. It is divisible by four.",
+      "textZh": "B.  它被四分五裂。"
+    },
+    "q25.audio.4.1": {
+      "textEn": "C. In a savings account.",
+      "textZh": "C. 在一个储蓄账户里。"
+    },
+    "q26.audio.1.1": {
+      "textEn": "Should we solicit a testimonial from the client?",
+      "textZh": "要不要请当事人作证?"
+    },
+    "q26.audio.2.1": {
+      "textEn": "A. Those tiles are exquisite.",
+      "textZh": "A.  这些瓷砖很精致"
+    },
+    "q26.audio.3.1": {
+      "textEn": "B. The test takes fifteen minutes.",
+      "textZh": "B. 测试需要15分钟。"
+    },
+    "q26.audio.4.1": {
+      "textEn": "C. Let us wait until the installation is complete.",
+      "textZh": "C.  让我们等到安装完成。"
+    },
+    "q27.audio.1.1": {
+      "textEn": "Is this garment made of jersey?",
+      "textZh": "这衣服是运动衫做的吗?"
+    },
+    "q27.audio.2.1": {
+      "textEn": "A. The tournament was televised.",
+      "textZh": "A. 锦标赛通过电视直播。"
+    },
+    "q27.audio.3.1": {
+      "textEn": "B. Let me check the fabric label.",
+      "textZh": "B.  让我检查一下布料标签"
+    },
+    "q27.audio.4.1": {
+      "textEn": "C. No, the airport is crowded.",
+      "textZh": "C.  不，机场太拥挤了。"
+    },
+    "q28.audio.1.1": {
+      "textEn": "I cannot untangle this cable.",
+      "textZh": "我不能解开这条缆绳。"
+    },
+    "q28.audio.2.1": {
+      "textEn": "A. It is an avid reader.",
+      "textZh": "A. 它是个热衷阅读的人。"
+    },
+    "q28.audio.3.1": {
+      "textEn": "B. Try unplugging it before you start.",
+      "textZh": "B.  在你开始前试着解开它。"
+    },
+    "q28.audio.4.1": {
+      "textEn": "C. The account has reached maturity.",
+      "textZh": "C. 账户已经到期。"
+    },
+    "q29.audio.1.1": {
+      "textEn": "Where can I lodge a complaint about the overdraft fee?",
+      "textZh": "我在哪里可以投诉透支费?"
+    },
+    "q29.audio.2.1": {
+      "textEn": "A. We have a double room available.",
+      "textZh": "A.  我们有一个双层房间。"
+    },
+    "q29.audio.3.1": {
+      "textEn": "B. Customer service can handle that.",
+      "textZh": "B. 客户服务可以处理。"
+    },
+    "q29.audio.4.1": {
+      "textEn": "C. A paltry amount of rainfall.",
+      "textZh": "C. 降雨量微乎其微"
+    },
+    "q30.audio.1.1": {
+      "textEn": "Would you mind giving me a candid assessment?",
+      "textZh": "你介意给我一个坦率的评估吗?"
+    },
+    "q30.audio.2.1": {
+      "textEn": "A. The camera is behind you.",
+      "textZh": "A. 摄像头在你身后"
+    },
+    "q30.audio.3.1": {
+      "textEn": "B. It will be assessed tomorrow at noon.",
+      "textZh": "B. 将于明天中午评估。"
+    },
+    "q30.audio.4.1": {
+      "textEn": "C. I think the proposal still needs work.",
+      "textZh": "C.  我认为，该提案仍然需要工作。"
+    },
+    "q31.audio.1.1": {
+      "textEn": "Could the team meet simultaneously in both offices?",
+      "textZh": "小组能否在两个办公室同时开会?"
+    },
+    "q31.audio.2.1": {
+      "textEn": "A. They are in the vicinity.",
+      "textZh": "A.  他们就在附近。"
+    },
+    "q31.audio.3.1": {
+      "textEn": "B. There is one office chair left.",
+      "textZh": "B.  还剩一张办公室椅子"
+    },
+    "q31.audio.4.1": {
+      "textEn": "C. A video conference would make that possible.",
+      "textZh": "C. 举行电视会议是有可能的。"
+    },
+    "q33.stem.1": {
+      "textEn": "What feature do the speakers consider most important?",
+      "textZh": "发言者认为最重要的特征是什么?"
+    },
+    "q33.option.A.1": {
+      "textEn": "Access from overseas",
+      "textZh": "从海外入境"
+    },
+    "q33.option.B.1": {
+      "textEn": "A long warranty",
+      "textZh": "长长的保修"
+    },
+    "q33.option.C.1": {
+      "textEn": "A colorful display",
+      "textZh": "彩色显示"
+    },
+    "q33.option.D.1": {
+      "textEn": "Ease of operation",
+      "textZh": "运作便利"
+    },
+    "q34.stem.1": {
+      "textEn": "What will the second speaker do next?",
+      "textZh": "第二位发言者接下来将做什么?"
+    },
+    "q34.option.A.1": {
+      "textEn": "Hire a receptionist",
+      "textZh": "雇个接待员"
+    },
+    "q34.option.B.1": {
+      "textEn": "Cancel a training class",
+      "textZh": "取消培训课程"
+    },
+    "q34.option.C.1": {
+      "textEn": "Obtain a comprehensive quotation",
+      "textZh": "获得综合报价"
+    },
+    "q34.option.D.1": {
+      "textEn": "Arrange an immediate installation",
+      "textZh": "立即安排安装"
+    },
+    "3-group-2.audio.1.1": {
+      "textEn": "Questions 35 through 37 refer to the following conversation.",
+      "textZh": "第 35 至 37 题根据以下对话作答。"
+    },
+    "3-group-2.audio.2.1": {
+      "textEn": "Marta, a small blemish on the metal panel has led to a customer complaint.",
+      "textZh": "玛塔，金属面板上的一个小问题导致顾客投诉。"
+    },
+    "3-group-2.audio.2.2": {
+      "textEn": "I was about to compensate the buyer, but the quality team wants to probe the cause first.",
+      "textZh": "我本来要补偿买家的但质量小组想先调查原因"
+    },
+    "3-group-2.audio.3.1": {
+      "textEn": "I have a photograph.",
+      "textZh": "我有张照片。"
+    },
+    "3-group-2.audio.3.2": {
+      "textEn": "The alloy itself looks fine; the protective coating seems to have failed during transport.",
+      "textZh": "合金本身看起来很好；防护涂层似乎在运输过程中失败了。"
+    },
+    "3-group-2.audio.4.1": {
+      "textEn": "Could rough handling tarnish the surface that quickly?",
+      "textZh": "粗糙的处理会很快地玷污地表吗?"
+    },
+    "3-group-2.audio.5.1": {
+      "textEn": "Possibly.",
+      "textZh": "也许吧"
+    },
+    "3-group-2.audio.5.2": {
+      "textEn": "Let us keep the damaged panel here and send a replacement now.",
+      "textZh": "我们把损坏的面板留在这现在派个替补人员"
+    },
+    "3-group-2.audio.5.3": {
+      "textEn": "We can ask the courier for its handling records while the laboratory examines the coating.",
+      "textZh": "我们可以在实验室检查涂层时请信使提供处理记录。"
+    },
+    "3-group-2.audio.6.1": {
+      "textEn": "That sounds fair.",
+      "textZh": "这听起来很公平。"
+    },
+    "3-group-2.audio.6.2": {
+      "textEn": "I will call the buyer and explain the plan.",
+      "textZh": "我会打电话给买主解释计划"
+    },
+    "q35.stem.1": {
+      "textEn": "What problem is being discussed?",
+      "textZh": "正在讨论什么问题?"
+    },
+    "q35.option.A.1": {
+      "textEn": "Damage to a product surface",
+      "textZh": "对产品表面的损害"
+    },
+    "q35.option.B.1": {
+      "textEn": "A missing payment",
+      "textZh": "少了一笔钱"
+    },
+    "q35.option.C.1": {
+      "textEn": "A shortage of raw metal",
+      "textZh": "生金属短缺"
+    },
+    "q35.option.D.1": {
+      "textEn": "An incorrect order quantity",
+      "textZh": "命令数量不正确"
+    },
+    "q36.stem.1": {
+      "textEn": "What does the second speaker recommend?",
+      "textZh": "第二位发言者有何建议?"
+    },
+    "q36.option.A.1": {
+      "textEn": "Stopping all shipments",
+      "textZh": "停止所有货运"
+    },
+    "q36.option.B.1": {
+      "textEn": "Providing a replacement before the inquiry is finished",
+      "textZh": "在调查结束前提供替代人员"
+    },
+    "q36.option.C.1": {
+      "textEn": "Discarding the damaged panel",
+      "textZh": "丢弃损坏的面板"
+    },
+    "q36.option.D.1": {
+      "textEn": "Refunding every recent order",
+      "textZh": "重新为最近的命令提供资金"
+    },
+    "q37.stem.1": {
+      "textEn": "Why will the first speaker contact the buyer?",
+      "textZh": "第一位发言者为何要与买方联系?"
+    },
+    "q37.option.A.1": {
+      "textEn": "To explain how the complaint will be handled",
+      "textZh": "解释如何处理申诉"
+    },
+    "q37.option.B.1": {
+      "textEn": "To change the delivery address",
+      "textZh": "更改送货地址"
+    },
+    "q37.option.C.1": {
+      "textEn": "To solicit a new order",
+      "textZh": "来争取新的秩序"
+    },
+    "q37.option.D.1": {
+      "textEn": "To request a laboratory job application",
+      "textZh": "申请实验室工作"
+    },
+    "3-group-3.audio.1.1": {
+      "textEn": "Questions 38 through 40 refer to the following conversation.",
+      "textZh": "第 38 至 40 题根据以下对话作答。"
+    },
+    "3-group-3.audio.2.1": {
+      "textEn": "The ventilation contractor says the new filters are ready, but dust will still penetrate the room unless we replace the seal around the door.",
+      "textZh": "通风承包商说新过滤器已经准备好，但灰尘仍然会穿透房间，除非我们更换门周围的封条。"
+    },
+    "3-group-3.audio.3.1": {
+      "textEn": "Then ordering the filters alone would be a facile solution.",
+      "textZh": "那么单点滤波器就太简单了"
+    },
+    "3-group-3.audio.3.2": {
+      "textEn": "We should address the whole problem.",
+      "textZh": "我们应该解决整个问题。"
+    },
+    "3-group-3.audio.4.1": {
+      "textEn": "The laboratory staff agree.",
+      "textZh": "实验室工作人员同意。"
+    },
+    "3-group-3.audio.4.2": {
+      "textEn": "They say it is imperative to finish before Friday, when the testing equipment arrives.",
+      "textZh": "他们说，在测试设备到达后，必须在星期五之前完成。"
+    },
+    "3-group-3.audio.5.1": {
+      "textEn": "The contractor can replace the seal Wednesday morning.",
+      "textZh": "承包商可更换星期三上午的封条。"
+    },
+    "3-group-3.audio.5.2": {
+      "textEn": "We need to designate someone to unlock the building at seven.",
+      "textZh": "我们需要指定一人在七点给大楼开门。"
+    },
+    "3-group-3.audio.6.1": {
+      "textEn": "I live nearby.",
+      "textZh": "我住在附近我住在附近我住在附近我住在附近"
+    },
+    "3-group-3.audio.6.2": {
+      "textEn": "I can do that, and I will warn the staff that the room will be unavailable until noon.",
+      "textZh": "我可以做到这一点，我将警告工作人员，房间将在中午之前不开放。"
+    },
+    "q38.stem.1": {
+      "textEn": "Where most likely do the speakers work?",
+      "textZh": "发言者最可能在哪里工作?"
+    },
+    "q38.option.A.1": {
+      "textEn": "At a laboratory",
+      "textZh": "在实验室里"
+    },
+    "q38.option.B.1": {
+      "textEn": "At a theater",
+      "textZh": "在剧院"
+    },
+    "q38.option.C.1": {
+      "textEn": "At an apparel shop",
+      "textZh": "在服装店"
+    },
+    "q38.option.D.1": {
+      "textEn": "At a ferry terminal",
+      "textZh": "在渡轮码头"
+    },
+    "q39.stem.1": {
+      "textEn": "Why does the work need to be completed this week?",
+      "textZh": "为什么本周的工作需要完成?"
+    },
+    "q39.option.A.1": {
+      "textEn": "Equipment is due to arrive",
+      "textZh": "设备将运抵"
+    },
+    "q39.option.B.1": {
+      "textEn": "An inspection was canceled",
+      "textZh": "检查取消了"
+    },
+    "q39.option.C.1": {
+      "textEn": "A technician is retiring",
+      "textZh": "有个技术员要退休了"
+    },
+    "q39.option.D.1": {
+      "textEn": "A lease will expire",
+      "textZh": "租约将到期"
+    },
+    "q40.stem.1": {
+      "textEn": "What does the second speaker offer to do?",
+      "textZh": "第二位发言者愿意做什么?"
+    },
+    "q40.option.A.1": {
+      "textEn": "Collect the filters from a factory",
+      "textZh": "从工厂收集过滤器"
+    },
+    "q40.option.B.1": {
+      "textEn": "Repair the door personally",
+      "textZh": "亲自修门"
+    },
+    "q40.option.C.1": {
+      "textEn": "Give the contractor access to the building",
+      "textZh": "让承包商进入大楼"
+    },
+    "q40.option.D.1": {
+      "textEn": "Transport the testing equipment",
+      "textZh": "运输测试设备"
+    },
+    "3-group-4.audio.1.1": {
+      "textEn": "Questions 41 through 43 refer to the following conversation.",
+      "textZh": "第 41 至 43 题根据以下对话作答。"
+    },
+    "3-group-4.audio.2.1": {
+      "textEn": "Our debut cooking class is full.",
+      "textZh": "我们的首次烹饪课已经满了"
+    },
+    "3-group-4.audio.2.2": {
+      "textEn": "The instructor wants a piquant soup as the first recipe, but several guests have requested a less spicy entree.",
+      "textZh": "教官想先吃点辣汤作为食谱，但有几位客人要求少点辣菜。"
+    },
+    "3-group-4.audio.3.1": {
+      "textEn": "We can cater to both groups.",
+      "textZh": "我们可以照顾两个团体。"
+    },
+    "3-group-4.audio.3.2": {
+      "textEn": "Prepare a mild base and put the seasonings on a separate tray.",
+      "textZh": "准备一个温和的基座，并把调料放在一个单独的托盘上。"
+    },
+    "3-group-4.audio.3.3": {
+      "textEn": "Everyone can choose their own level of heat.",
+      "textZh": "每个人都可以选择自己的热量水平。"
+    },
+    "3-group-4.audio.4.1": {
+      "textEn": "Good idea.",
+      "textZh": "不错的主意。"
+    },
+    "3-group-4.audio.4.2": {
+      "textEn": "That should make the soup palatable without changing the lesson.",
+      "textZh": "这应该能让汤美味，而不改变教训。"
+    },
+    "3-group-4.audio.5.1": {
+      "textEn": "Also, the ingredient list on the booking page omits sesame oil.",
+      "textZh": "另外，预订页上的成分列表省略了芝麻油。"
+    },
+    "3-group-4.audio.5.2": {
+      "textEn": "It is important for guests with allergies.",
+      "textZh": "这对过敏的客人很重要。"
+    },
+    "3-group-4.audio.6.1": {
+      "textEn": "I will update the page and email the list to everyone this afternoon.",
+      "textZh": "我今天下午将更新网页，并发电子邮件给大家。"
+    },
+    "3-group-4.audio.6.2": {
+      "textEn": "Could you buy the extra bowls?",
+      "textZh": "你能多买些碗吗?"
+    },
+    "q41.stem.1": {
+      "textEn": "What are the speakers preparing for?",
+      "textZh": "发言者准备做什么?"
+    },
+    "q41.option.A.1": {
+      "textEn": "A cooking class",
+      "textZh": "烹饪课"
+    },
+    "q41.option.B.1": {
+      "textEn": "A grocery delivery",
+      "textZh": "杂货店"
+    },
+    "q41.option.C.1": {
+      "textEn": "A staff interview",
+      "textZh": "工作人员面试"
+    },
+    "q41.option.D.1": {
+      "textEn": "A restaurant inspection",
+      "textZh": "餐厅的检查"
+    },
+    "q42.stem.1": {
+      "textEn": "How will different preferences be accommodated?",
+      "textZh": "如何照顾不同的偏好?"
+    },
+    "q42.option.A.1": {
+      "textEn": "By lowering the admission price",
+      "textZh": "通过降低录取价格"
+    },
+    "q42.option.B.1": {
+      "textEn": "By serving seasonings separately",
+      "textZh": "通过分别的季节服务"
+    },
+    "q42.option.C.1": {
+      "textEn": "By canceling the soup lesson",
+      "textZh": "取消汤课"
+    },
+    "q42.option.D.1": {
+      "textEn": "By offering only dessert",
+      "textZh": "只提供甜点"
+    },
+    "q43.stem.1": {
+      "textEn": "What will the first speaker do this afternoon?",
+      "textZh": "第一位发言者今天下午将做什么?"
+    },
+    "q43.option.A.1": {
+      "textEn": "Meet an allergy specialist",
+      "textZh": "见个过敏专家"
+    },
+    "q43.option.B.1": {
+      "textEn": "Purchase the bowls",
+      "textZh": "买碗"
+    },
+    "q43.option.C.1": {
+      "textEn": "Send an updated ingredient list",
+      "textZh": "发送更新的成分列表"
+    },
+    "q43.option.D.1": {
+      "textEn": "Test a new oven",
+      "textZh": "测试一个新的烤箱"
+    },
+    "3-group-5.audio.1.1": {
+      "textEn": "Questions 44 through 46 refer to the following conversation.",
+      "textZh": "第 44 至 46 题根据以下对话作答。"
+    },
+    "3-group-5.audio.2.1": {
+      "textEn": "The municipal office approved our outdoor premiere, but a throng could block the emergency exit.",
+      "textZh": "市政府批准我们户外首映但一阵子就能封锁紧急出口了"
+    },
+    "3-group-5.audio.2.2": {
+      "textEn": "We must not let an upsurge in ticket sales put anyone in jeopardy.",
+      "textZh": "我们决不能让售票量激增给任何人带来危险。"
+    },
+    "3-group-5.audio.3.1": {
+      "textEn": "We can segregate the entry queue from the exit route with temporary barriers.",
+      "textZh": "我们可以用临时屏障从出站路线中分离出进站队列。"
+    },
+    "3-group-5.audio.3.2": {
+      "textEn": "The statutory occupancy limit still applies even outdoors.",
+      "textZh": "即使在户外，法定占用期限也仍然适用。"
+    },
+    "3-group-5.audio.4.1": {
+      "textEn": "Would that deter people from arriving early?",
+      "textZh": "那会阻止人们提前到达吗?"
+    },
+    "3-group-5.audio.5.1": {
+      "textEn": "No.",
+      "textZh": "没有。"
+    },
+    "3-group-5.audio.5.2": {
+      "textEn": "It simply keeps a clear path.",
+      "textZh": "它只是保持一条清晰的道路。"
+    },
+    "3-group-5.audio.5.3": {
+      "textEn": "We should explain the arrangement in the confirmation email instead of adding it at the last minute.",
+      "textZh": "我们应该在确认邮件中解释这个安排，而不是在最后一刻添加它。"
+    },
+    "3-group-5.audio.6.1": {
+      "textEn": "I will draft that now.",
+      "textZh": "我现在就去起草"
+    },
+    "3-group-5.audio.6.2": {
+      "textEn": "Please ask the site manager where the barriers can be stored overnight.",
+      "textZh": "请询问站点管理器在一夜之间可以存储哪些屏障。"
+    },
+    "q44.stem.1": {
+      "textEn": "What concern does the first speaker raise?",
+      "textZh": "第一位发言者有什么关切?"
+    },
+    "q44.option.A.1": {
+      "textEn": "The performers lack permits",
+      "textZh": "表演者没有许可证"
+    },
+    "q44.option.B.1": {
+      "textEn": "The performance might be too short",
+      "textZh": "表演可能太短了"
+    },
+    "q44.option.C.1": {
+      "textEn": "Ticket prices are too high",
+      "textZh": "车票价太高了"
+    },
+    "q44.option.D.1": {
+      "textEn": "An emergency route could become blocked",
+      "textZh": "紧急通道可能会被封锁"
+    },
+    "q45.stem.1": {
+      "textEn": "What is suggested to improve safety?",
+      "textZh": "提出什么加强安全的建议?"
+    },
+    "q45.option.A.1": {
+      "textEn": "Canceling advance ticket sales",
+      "textZh": "取消预售票"
+    },
+    "q45.option.B.1": {
+      "textEn": "Removing the capacity limit",
+      "textZh": "取消容量限制"
+    },
+    "q45.option.C.1": {
+      "textEn": "Separating the queue from the exit",
+      "textZh": "将队列从退出中分离"
+    },
+    "q45.option.D.1": {
+      "textEn": "Delaying every admission",
+      "textZh": "推迟每次录取"
+    },
+    "q46.stem.1": {
+      "textEn": "What will the second speaker be asked to find out?",
+      "textZh": "第二位发言者将被要求知道什么?"
+    },
+    "q46.option.A.1": {
+      "textEn": "Who will perform first",
+      "textZh": "谁先表演"
+    },
+    "q46.option.B.1": {
+      "textEn": "Where equipment can be stored",
+      "textZh": "设备可以储存的地方"
+    },
+    "q46.option.C.1": {
+      "textEn": "Whether a script is finished",
+      "textZh": "脚本是否完成"
+    },
+    "q46.option.D.1": {
+      "textEn": "How much the tickets cost",
+      "textZh": "票价多少钱?"
+    },
+    "3-group-6.audio.1.1": {
+      "textEn": "Questions 47 through 49 refer to the following conversation.",
+      "textZh": "第 47 至 49 题根据以下对话作答。"
+    },
+    "3-group-6.audio.2.1": {
+      "textEn": "I am worried the new gadget will become obsolete within a year.",
+      "textZh": "我担心新装备在一年内就会过时。"
+    },
+    "3-group-6.audio.2.2": {
+      "textEn": "The distributor calls it an ingenious design, but there is no spare battery.",
+      "textZh": "发行商称其为\"巧妙的设计\"，但没有多余的电池。"
+    },
+    "3-group-6.audio.3.1": {
+      "textEn": "That is a valid concern.",
+      "textZh": "这是一个合理的关切。"
+    },
+    "3-group-6.audio.3.2": {
+      "textEn": "A glowing testimonial cannot substitute for a reliable maintenance plan.",
+      "textZh": "发光的证言不能取代可靠的维修计划。"
+    },
+    "3-group-6.audio.4.1": {
+      "textEn": "Our current device still works, though its software is bewildering.",
+      "textZh": "我们目前的设备仍然有效，尽管它的软件令人困惑。"
+    },
+    "3-group-6.audio.4.2": {
+      "textEn": "Would a training session be enough?",
+      "textZh": "训练课程就够了吗?"
+    },
+    "3-group-6.audio.5.1": {
+      "textEn": "Possibly.",
+      "textZh": "也许吧"
+    },
+    "3-group-6.audio.5.2": {
+      "textEn": "Before we procure replacements, let us ask support to demonstrate the functions we actually use.",
+      "textZh": "在我们获得替换之前，让我们请求支持，以展示我们实际使用的功能。"
+    },
+    "3-group-6.audio.6.1": {
+      "textEn": "I will arrange a demonstration for Tuesday.",
+      "textZh": "我会安排星期二的示威"
+    },
+    "3-group-6.audio.6.2": {
+      "textEn": "If that solves the problem, we can postpone the purchase.",
+      "textZh": "如果解决了这个问题，我们可以推迟购买。"
+    },
+    "q47.stem.1": {
+      "textEn": "Why is the first speaker hesitant about a product?",
+      "textZh": "为什么第一位发言者对产品犹豫不决?"
+    },
+    "q47.option.A.1": {
+      "textEn": "It cannot connect to the internet",
+      "textZh": "它不能连接到互联网上"
+    },
+    "q47.option.B.1": {
+      "textEn": "The distributor has closed",
+      "textZh": "分销商已经关门了"
+    },
+    "q47.option.C.1": {
+      "textEn": "Its color is unpopular",
+      "textZh": "它的颜色是不受欢迎的"
+    },
+    "q47.option.D.1": {
+      "textEn": "A replacement battery is unavailable",
+      "textZh": "没有备用电池"
+    },
+    "q48.stem.1": {
+      "textEn": "What does the second speaker imply about testimonials?",
+      "textZh": "第二位发言者对证词意味着什么?"
+    },
+    "q48.option.A.1": {
+      "textEn": "They always contain false claims",
+      "textZh": "他们总是有虚假的说法"
+    },
+    "q48.option.B.1": {
+      "textEn": "They determine a product warranty",
+      "textZh": "他们决定了产品保修"
+    },
+    "q48.option.C.1": {
+      "textEn": "They replace the need for training",
+      "textZh": "他们取代了训练的需要"
+    },
+    "q48.option.D.1": {
+      "textEn": "They are insufficient to establish long-term support",
+      "textZh": "它们不足以建立长期支助"
+    },
+    "q49.stem.1": {
+      "textEn": "What will the speakers do before purchasing devices?",
+      "textZh": "发言者在购买设备之前会做什么?"
+    },
+    "q49.option.A.1": {
+      "textEn": "Ask customers to return devices",
+      "textZh": "请客户返回设备"
+    },
+    "q49.option.B.1": {
+      "textEn": "Replace every battery",
+      "textZh": "替换每个电池"
+    },
+    "q49.option.C.1": {
+      "textEn": "Evaluate a demonstration of their current equipment",
+      "textZh": "评估其现有设备的演示"
+    },
+    "q49.option.D.1": {
+      "textEn": "Advertise the new model",
+      "textZh": "广告新模式"
+    },
+    "3-group-7.audio.1.1": {
+      "textEn": "Questions 50 through 52 refer to the following conversation.",
+      "textZh": "第 50 至 52 题根据以下对话作答。"
+    },
+    "3-group-7.audio.2.1": {
+      "textEn": "The distinguished pianist has agreed to play at our retirement dinner.",
+      "textZh": "尊贵的钢琴家同意在我们退休晚宴上演奏。"
+    },
+    "3-group-7.audio.2.2": {
+      "textEn": "Her recital fee is reasonable, but she needs a quiet room to warm up.",
+      "textZh": "她的独奏费是合理的，但她需要一个安静的房间来暖和。"
+    },
+    "3-group-7.audio.3.1": {
+      "textEn": "The hotel has a small suite beside the ballroom.",
+      "textZh": "酒店在舞厅旁边有一个小套房。"
+    },
+    "3-group-7.audio.3.2": {
+      "textEn": "It would give her some tranquility away from the hustle-bustle in the lobby.",
+      "textZh": "这会让她远离大堂的皮条客感到镇定"
+    },
+    "3-group-7.audio.4.1": {
+      "textEn": "Excellent.",
+      "textZh": "不错。"
+    },
+    "3-group-7.audio.4.2": {
+      "textEn": "We also need to check whether formal attire is required.",
+      "textZh": "我们还需要检查是否需要正式的服装。"
+    },
+    "3-group-7.audio.4.3": {
+      "textEn": "The invitation says elegant, which is rather obscure.",
+      "textZh": "请柬上写的是优雅的， 相当模糊。"
+    },
+    "3-group-7.audio.5.1": {
+      "textEn": "I will call the organizer and ask for precise wording.",
+      "textZh": "我将打电话给组织者，要求确切措辞。"
+    },
+    "3-group-7.audio.5.2": {
+      "textEn": "Then we can send a clarification with the revised itinerary.",
+      "textZh": "然后，我们可以发出一个澄清与订正的行程。"
+    },
+    "3-group-7.audio.6.1": {
+      "textEn": "Please also confirm whether the pianist needs transport from the station.",
+      "textZh": "也请确认钢琴家是否需要从车站出发的交通工具。"
+    },
+    "q50.stem.1": {
+      "textEn": "What event are the speakers organizing?",
+      "textZh": "发言者们正在组织什么活动?"
+    },
+    "q50.option.A.1": {
+      "textEn": "A piano competition",
+      "textZh": "钢琴比赛"
+    },
+    "q50.option.B.1": {
+      "textEn": "A retirement dinner",
+      "textZh": "退休晚饭"
+    },
+    "q50.option.C.1": {
+      "textEn": "An inaugural lecture",
+      "textZh": "开幕演讲"
+    },
+    "q50.option.D.1": {
+      "textEn": "A hotel opening",
+      "textZh": "酒店开业"
+    },
+    "q51.stem.1": {
+      "textEn": "Why is a separate room suggested?",
+      "textZh": "为什么建议单独开个房间?"
+    },
+    "q51.option.A.1": {
+      "textEn": "To serve a buffet",
+      "textZh": "为自助餐服务"
+    },
+    "q51.option.B.1": {
+      "textEn": "To display gifts",
+      "textZh": "展示礼物"
+    },
+    "q51.option.C.1": {
+      "textEn": "To provide a quiet practice space",
+      "textZh": "提供安静的练习空间"
+    },
+    "q51.option.D.1": {
+      "textEn": "To conduct interviews",
+      "textZh": "进行面谈"
+    },
+    "q52.stem.1": {
+      "textEn": "What information will the second speaker clarify?",
+      "textZh": "第二位发言者将澄清哪些信息?"
+    },
+    "q52.option.A.1": {
+      "textEn": "The age of the hotel",
+      "textZh": "旅馆的年代"
+    },
+    "q52.option.B.1": {
+      "textEn": "The dress requirements",
+      "textZh": "着装要求"
+    },
+    "q52.option.C.1": {
+      "textEn": "The number of music awards",
+      "textZh": "音乐奖的数量"
+    },
+    "q52.option.D.1": {
+      "textEn": "The price of a piano",
+      "textZh": "钢琴的价钱"
+    },
+    "3-group-8.audio.1.1": {
+      "textEn": "Questions 53 through 55 refer to the following conversation.",
+      "textZh": "第 53 至 55 题根据以下对话作答。"
+    },
+    "3-group-8.audio.2.1": {
+      "textEn": "A counterfeit ticket appeared at the tournament yesterday.",
+      "textZh": "昨天的锦标赛上出现了一张假票"
+    },
+    "3-group-8.audio.2.2": {
+      "textEn": "Security wants us to confiscate suspicious tickets, but I do not want volunteers to upbraid innocent visitors.",
+      "textZh": "保安部门要我们没收可疑的罚单但我不想让志愿者对纯洁的来访者造成伤害"
+    },
+    "3-group-8.audio.3.1": {
+      "textEn": "They should stay cordial and refer cases to a supervisor.",
+      "textZh": "他们应该保持友善，把案件交给主管。"
+    },
+    "3-group-8.audio.3.2": {
+      "textEn": "A nasty accusation could cause a bigger problem than the ticket.",
+      "textZh": "恶毒的指控可能会引起比罚单更大的问题。"
+    },
+    "3-group-8.audio.4.1": {
+      "textEn": "We can also use the scanner to check the serial number before making a decision.",
+      "textZh": "我们还可以使用扫描仪在作出决定前检查序列号。"
+    },
+    "3-group-8.audio.5.1": {
+      "textEn": "Good.",
+      "textZh": "不错。"
+    },
+    "3-group-8.audio.5.2": {
+      "textEn": "Please put that process in a leaflet for the morning briefing.",
+      "textZh": "请将此过程作为上午简报的传单。"
+    },
+    "3-group-8.audio.6.1": {
+      "textEn": "I will.",
+      "textZh": "我会的。"
+    },
+    "3-group-8.audio.6.2": {
+      "textEn": "We should keep one entrance available for people who need assistance, so a disputed ticket does not delay everyone else.",
+      "textZh": "我们应该为需要帮助的人保留一个入口，所以有争议的罚单不会拖延其他人的时间。"
+    },
+    "q53.stem.1": {
+      "textEn": "What prompted the discussion?",
+      "textZh": "是什么引起讨论的?"
+    },
+    "q53.option.A.1": {
+      "textEn": "The loss of a trophy",
+      "textZh": "失去奖杯"
+    },
+    "q53.option.B.1": {
+      "textEn": "The discovery of a false ticket",
+      "textZh": "假票的发现"
+    },
+    "q53.option.C.1": {
+      "textEn": "An unpaid volunteer fee",
+      "textZh": "未付志愿人员费"
+    },
+    "q53.option.D.1": {
+      "textEn": "A change in tournament rules",
+      "textZh": "锦标赛规则的变化"
+    },
+    "q54.stem.1": {
+      "textEn": "How should volunteers handle questionable tickets?",
+      "textZh": "志愿者应如何处理可疑的罚单?"
+    },
+    "q54.option.A.1": {
+      "textEn": "Discard them without checking",
+      "textZh": "不检查就丢弃他们"
+    },
+    "q54.option.B.1": {
+      "textEn": "Accuse visitors publicly",
+      "textZh": "公开访问者"
+    },
+    "q54.option.C.1": {
+      "textEn": "Close all entrances",
+      "textZh": "关闭所有入口"
+    },
+    "q54.option.D.1": {
+      "textEn": "Ask a supervisor to review them",
+      "textZh": "请主管审查一下"
+    },
+    "q55.stem.1": {
+      "textEn": "What will the second speaker prepare?",
+      "textZh": "第二位发言者将准备什么?"
+    },
+    "q55.option.A.1": {
+      "textEn": "An apology to a coach",
+      "textZh": "向教练道歉"
+    },
+    "q55.option.B.1": {
+      "textEn": "Written guidance for a briefing",
+      "textZh": "简报的书面指导"
+    },
+    "q55.option.C.1": {
+      "textEn": "A new scoring system",
+      "textZh": "一个新的评分系统"
+    },
+    "q55.option.D.1": {
+      "textEn": "A list of tournament winners",
+      "textZh": "锦标赛冠军名单"
+    },
+    "3-group-9.audio.1.1": {
+      "textEn": "Questions 56 through 58 refer to the following conversation.",
+      "textZh": "第 56 至 58 题根据以下对话作答。"
+    },
+    "3-group-9.audio.2.1": {
+      "textEn": "The finance team is not immune to a surge in travel costs.",
+      "textZh": "财务小组也未能幸免旅费的激增。"
+    },
+    "3-group-9.audio.2.2": {
+      "textEn": "We may default on our hotel deposit if the reimbursement arrives late.",
+      "textZh": "如果偿还款迟到我们可能会拖欠旅馆的押金"
+    },
+    "3-group-9.audio.3.1": {
+      "textEn": "Could we use the provisional budget approval?",
+      "textZh": "我们能使用临时预算批准吗?"
+    },
+    "3-group-9.audio.3.2": {
+      "textEn": "It gives us a small reprieve until the final figures are confirmed.",
+      "textZh": "它给了我们一个小小的缓期执行直到最后的数字得到确认。"
+    },
+    "3-group-9.audio.4.1": {
+      "textEn": "Only with the director's signature.",
+      "textZh": "只有导演的签名"
+    },
+    "3-group-9.audio.4.2": {
+      "textEn": "I do not want to obfuscate the situation by calling the deposit an equipment expense.",
+      "textZh": "我不想通过将存款称为设备费用来混淆这一状况。"
+    },
+    "3-group-9.audio.5.1": {
+      "textEn": "Of course.",
+      "textZh": "当然"
+    },
+    "3-group-9.audio.5.2": {
+      "textEn": "I will prepare a candid note explaining the cash-flow gap.",
+      "textZh": "我将编写一份坦率的说明，解释现金流动缺口。"
+    },
+    "3-group-9.audio.5.3": {
+      "textEn": "We can ask for the signature before lunch.",
+      "textZh": "我们可以在午餐前要求签名"
+    },
+    "3-group-9.audio.6.1": {
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    },
+    "3-group-9.audio.6.2": {
+      "textEn": "That will also leave an accurate record for the audit.",
+      "textZh": "这也将为审计工作留下准确的记录。"
+    },
+    "q56.stem.1": {
+      "textEn": "What difficulty do the speakers face?",
+      "textZh": "发言者面临什么困难?"
+    },
+    "q56.option.A.1": {
+      "textEn": "A payment may be late",
+      "textZh": "付款可能迟到"
+    },
+    "q56.option.B.1": {
+      "textEn": "An audit report is missing",
+      "textZh": "缺少审计报告"
+    },
+    "q56.option.C.1": {
+      "textEn": "A hotel has lost a reservation",
+      "textZh": "一家酒店失去了订房"
+    },
+    "q56.option.D.1": {
+      "textEn": "An equipment order was canceled",
+      "textZh": "设备订单被取消"
+    },
+    "q57.stem.1": {
+      "textEn": "What is required to use provisional funding?",
+      "textZh": "使用临时资金需要什么?"
+    },
+    "q57.option.A.1": {
+      "textEn": "The trip must be postponed",
+      "textZh": "旅行必须推迟"
+    },
+    "q57.option.B.1": {
+      "textEn": "The hotel must lower its price",
+      "textZh": "酒店必须降低价格"
+    },
+    "q57.option.C.1": {
+      "textEn": "The audit must be canceled",
+      "textZh": "审计必须取消"
+    },
+    "q57.option.D.1": {
+      "textEn": "The director must sign",
+      "textZh": "导演必须签字"
+    },
+    "q58.stem.1": {
+      "textEn": "Why does the first speaker reject a proposed accounting label?",
+      "textZh": "为什么第一位发言者拒绝提议的会计标签?"
+    },
+    "q58.option.A.1": {
+      "textEn": "It would require new software",
+      "textZh": "这需要新的软件"
+    },
+    "q58.option.B.1": {
+      "textEn": "It would reveal a trade secret",
+      "textZh": "它会揭示一个商业秘密"
+    },
+    "q58.option.C.1": {
+      "textEn": "It would misrepresent the expense",
+      "textZh": "那会不实开支的"
+    },
+    "q58.option.D.1": {
+      "textEn": "It would increase the room rate",
+      "textZh": "那会提高房间的收费率"
+    },
+    "3-group-10.audio.1.1": {
+      "textEn": "Questions 59 through 61 refer to the following conversation.",
+      "textZh": "第 59 至 61 题根据以下对话作答。"
+    },
+    "3-group-10.audio.2.1": {
+      "textEn": "I have to recuperate after my operation, so I cannot guide next week's excursion.",
+      "textZh": "手术后我必须恢复， 所以我不能指导下周的游览。"
+    },
+    "3-group-10.audio.2.2": {
+      "textEn": "Would you take my group?",
+      "textZh": "你能带我一组人去吗?"
+    },
+    "3-group-10.audio.3.1": {
+      "textEn": "Of course.",
+      "textZh": "当然"
+    },
+    "3-group-10.audio.3.2": {
+      "textEn": "Does the itinerary involve a strenuous trek?",
+      "textZh": "行程是否包括艰难的旅程?"
+    },
+    "3-group-10.audio.3.3": {
+      "textEn": "I have only led the urban walking tour before.",
+      "textZh": "我之前只领导过城市步行之旅"
+    },
+    "3-group-10.audio.4.1": {
+      "textEn": "No.",
+      "textZh": "没有。"
+    },
+    "3-group-10.audio.4.2": {
+      "textEn": "It is a short stroll through the suburb and a visit to the botanical garden.",
+      "textZh": "它是一个短暂的漫步穿过郊区和参观植物园。"
+    },
+    "3-group-10.audio.4.3": {
+      "textEn": "The visitors are interested in exotic plants, not climbing.",
+      "textZh": "参观者对异域植物感兴趣，而不是攀登。"
+    },
+    "3-group-10.audio.5.1": {
+      "textEn": "Then I can manage it.",
+      "textZh": "那样我就能搞定了"
+    },
+    "3-group-10.audio.5.2": {
+      "textEn": "Send me the route and the contact details for the lodge.",
+      "textZh": "把小屋的路线和联系方式发给我"
+    },
+    "3-group-10.audio.6.1": {
+      "textEn": "I will email them tonight.",
+      "textZh": "我今晚会发邮件给他们"
+    },
+    "3-group-10.audio.6.2": {
+      "textEn": "Please remind everyone to bring water, since the forecast is muggy.",
+      "textZh": "请提醒大家带水， 因为预测是粗糙的。"
+    },
+    "q59.stem.1": {
+      "textEn": "Why does the first speaker need help?",
+      "textZh": "为什么第一位发言者需要帮助?"
+    },
+    "q59.option.A.1": {
+      "textEn": "To attend a tournament",
+      "textZh": "参加一场大赛"
+    },
+    "q59.option.B.1": {
+      "textEn": "To repair a vehicle",
+      "textZh": "修理车辆"
+    },
+    "q59.option.C.1": {
+      "textEn": "To recover from surgery",
+      "textZh": "从手术中恢复"
+    },
+    "q59.option.D.1": {
+      "textEn": "To move to another city",
+      "textZh": "搬到另一个城市去"
+    },
+    "q60.stem.1": {
+      "textEn": "What will the group do?",
+      "textZh": "团队会怎么做?"
+    },
+    "q60.option.A.1": {
+      "textEn": "Inspect a factory",
+      "textZh": "检查一个工厂"
+    },
+    "q60.option.B.1": {
+      "textEn": "Climb a mountain",
+      "textZh": "爬上山来"
+    },
+    "q60.option.C.1": {
+      "textEn": "Take an overnight voyage",
+      "textZh": "过夜航行吧"
+    },
+    "q60.option.D.1": {
+      "textEn": "Visit a botanical garden",
+      "textZh": "参观植物园"
+    },
+    "q61.stem.1": {
+      "textEn": "What will be sent to the second speaker?",
+      "textZh": "将向第二位发言者发送什么信息?"
+    },
+    "q61.option.A.1": {
+      "textEn": "Plant seeds",
+      "textZh": "植物种子"
+    },
+    "q61.option.B.1": {
+      "textEn": "A new uniform",
+      "textZh": "一套新制服"
+    },
+    "q61.option.C.1": {
+      "textEn": "Route and lodging information",
+      "textZh": "路线和住宿信息"
+    },
+    "q61.option.D.1": {
+      "textEn": "A medical bill",
+      "textZh": "医疗费"
+    },
+    "3-group-11.audio.1.1": {
+      "textEn": "Questions 62 through 64 refer to the following conversation.",
+      "textZh": "第 62 至 64 题根据以下对话作答。"
+    },
+    "3-group-11.audio.2.1": {
+      "textEn": "Our brewery tour visitors keep asking why we ferment this batch longer.",
+      "textZh": "我们的酿酒厂参观者一直问为什么我们发酵这批时间更长。"
+    },
+    "3-group-11.audio.2.2": {
+      "textEn": "Could you articulate the reason without too much technical terminology?",
+      "textZh": "你能用太多的技术术语来说明原因吗?"
+    },
+    "3-group-11.audio.3.1": {
+      "textEn": "Certainly.",
+      "textZh": "当然可以。"
+    },
+    "3-group-11.audio.3.2": {
+      "textEn": "Extra time gives the drink a mellow flavor.",
+      "textZh": "额外的时间给饮料一种美食的味道。"
+    },
+    "3-group-11.audio.3.3": {
+      "textEn": "I can compare it with the sharper batch we made last month.",
+      "textZh": "我可以和上个月的批量比较一下"
+    },
+    "3-group-11.audio.4.1": {
+      "textEn": "That will help.",
+      "textZh": "那会有所帮助的。"
+    },
+    "3-group-11.audio.4.2": {
+      "textEn": "The brochure is a little vapid; it talks about excellence without explaining anything.",
+      "textZh": "这本小册子有点模糊；它讲的是优异之处，却不作任何解释。"
+    },
+    "3-group-11.audio.5.1": {
+      "textEn": "I will add a short paragraph and avoid claims that might delude readers.",
+      "textZh": "我将增加一个简短的段落，避免可能欺骗读者的说法。"
+    },
+    "3-group-11.audio.5.2": {
+      "textEn": "The distiller next door has a good plain-language guide; perhaps they will show us their approach.",
+      "textZh": "隔壁的蒸馏器有一个很好的通俗的指南；也许他们会向我们展示他们的方法。"
+    },
+    "3-group-11.audio.6.1": {
+      "textEn": "Let us ask, but make sure we do not plagiarize their text.",
+      "textZh": "让我们问一下，但要确保我们不篡改他们的文字。"
+    },
+    "q62.stem.1": {
+      "textEn": "What is the first speaker requesting?",
+      "textZh": "第一位发言者要求什么?"
+    },
+    "q62.option.A.1": {
+      "textEn": "A clear explanation for tour visitors",
+      "textZh": "对参观者的明确解释"
+    },
+    "q62.option.B.1": {
+      "textEn": "A discount on raw materials",
+      "textZh": "原材料折扣"
+    },
+    "q62.option.C.1": {
+      "textEn": "A longer opening schedule",
+      "textZh": "较长的开幕时间表"
+    },
+    "q62.option.D.1": {
+      "textEn": "A change in factory ownership",
+      "textZh": "工厂所有权的改变"
+    },
+    "q63.stem.1": {
+      "textEn": "What benefit of extra time is mentioned?",
+      "textZh": "提到额外时间有什么好处?"
+    },
+    "q63.option.A.1": {
+      "textEn": "A lower ticket price",
+      "textZh": "票价低一点"
+    },
+    "q63.option.B.1": {
+      "textEn": "A milder flavor",
+      "textZh": "比较温和的味道"
+    },
+    "q63.option.C.1": {
+      "textEn": "A brighter bottle color",
+      "textZh": "更亮的瓶子颜色"
+    },
+    "q63.option.D.1": {
+      "textEn": "A larger container",
+      "textZh": "一个更大的容器"
+    },
+    "q64.stem.1": {
+      "textEn": "What does the first speaker caution against?",
+      "textZh": "第一位发言者警告注意什么?"
+    },
+    "q64.option.A.1": {
+      "textEn": "Inviting visitors into the brewery",
+      "textZh": "邀请参观者进入酿酒厂"
+    },
+    "q64.option.B.1": {
+      "textEn": "Providing printed information",
+      "textZh": "提供印刷资料"
+    },
+    "q64.option.C.1": {
+      "textEn": "Copying another business's wording",
+      "textZh": "复制另一企业的措辞"
+    },
+    "q64.option.D.1": {
+      "textEn": "Comparing two batches",
+      "textZh": "比较两批"
+    },
+    "3-group-12.audio.1.1": {
+      "textEn": "Questions 65 through 67 refer to the following conversation.",
+      "textZh": "第 65 至 67 题根据以下对话作答。"
+    },
+    "3-group-12.audio.2.1": {
+      "textEn": "The recreation center has received a donation for aerobics equipment.",
+      "textZh": "娱乐中心收到了用于气动设备的捐赠。"
+    },
+    "3-group-12.audio.2.2": {
+      "textEn": "We could use part of it for the marathon training group as well.",
+      "textZh": "马拉松训练组也得用一部分"
+    },
+    "3-group-12.audio.3.1": {
+      "textEn": "The donor's implicit expectation was broader access, not a private program.",
+      "textZh": "捐助者的隐含期望是扩大访问范围，而不是一个私人方案。"
+    },
+    "3-group-12.audio.3.2": {
+      "textEn": "We should avoid letting our fondness for running influence the decision.",
+      "textZh": "我们应避免让自己喜欢的竞选影响这个决定。"
+    },
+    "3-group-12.audio.4.1": {
+      "textEn": "What about a rotation of classes?",
+      "textZh": "轮班怎么样?"
+    },
+    "3-group-12.audio.4.2": {
+      "textEn": "Beginners could use the room on Mondays, and runners on Wednesdays.",
+      "textZh": "初学者周一可以使用房间，周三可以使用跑车。"
+    },
+    "3-group-12.audio.5.1": {
+      "textEn": "That seems fair.",
+      "textZh": "这似乎公平。"
+    },
+    "3-group-12.audio.5.2": {
+      "textEn": "We should also consult the dietitian about a nutrition workshop.",
+      "textZh": "我们还应该就营养问题征求饮食学家的意见。"
+    },
+    "3-group-12.audio.6.1": {
+      "textEn": "I will invite her to next week's planning meeting.",
+      "textZh": "我将邀请她参加下周的计划会议。"
+    },
+    "3-group-12.audio.6.2": {
+      "textEn": "She may have suggestions for people who are returning to exercise after an injury.",
+      "textZh": "她可能对受伤后返回锻炼的人有建议。"
+    },
+    "q65.stem.1": {
+      "textEn": "What are the speakers discussing?",
+      "textZh": "发言者在讨论什么?"
+    },
+    "q65.option.A.1": {
+      "textEn": "How to use donated resources",
+      "textZh": "如何使用捐赠资源"
+    },
+    "q65.option.B.1": {
+      "textEn": "How to appoint a new donor",
+      "textZh": "如何任命新的捐助者"
+    },
+    "q65.option.C.1": {
+      "textEn": "How to sell a sports center",
+      "textZh": "如何出售一个体育中心"
+    },
+    "q65.option.D.1": {
+      "textEn": "How to choose a race winner",
+      "textZh": "如何选择比赛胜者"
+    },
+    "q66.stem.1": {
+      "textEn": "What does the second speaker want to ensure?",
+      "textZh": "第二位发言者希望确保什么?"
+    },
+    "q66.option.A.1": {
+      "textEn": "Several groups can benefit",
+      "textZh": "有几个群体可以受益"
+    },
+    "q66.option.B.1": {
+      "textEn": "Every class has a competition",
+      "textZh": "每个班都有比赛"
+    },
+    "q66.option.C.1": {
+      "textEn": "The equipment is sold immediately",
+      "textZh": "设备马上卖掉"
+    },
+    "q66.option.D.1": {
+      "textEn": "Only runners can enter",
+      "textZh": "只有跑者才能进入"
+    },
+    "q67.stem.1": {
+      "textEn": "Who will be invited to a meeting?",
+      "textZh": "将邀请谁参加会议?"
+    },
+    "q67.option.A.1": {
+      "textEn": "A construction inspector",
+      "textZh": "施工检查员"
+    },
+    "q67.option.B.1": {
+      "textEn": "A travel agent",
+      "textZh": "一个旅行社"
+    },
+    "q67.option.C.1": {
+      "textEn": "A nutrition professional",
+      "textZh": "营养专业"
+    },
+    "q67.option.D.1": {
+      "textEn": "A financial auditor",
+      "textZh": "财务审计员"
+    },
+    "3-group-13.audio.1.1": {
+      "textEn": "Questions 68 through 70 refer to the following conversation.",
+      "textZh": "第 68 至 70 题根据以下对话作答。"
+    },
+    "3-group-13.audio.2.1": {
+      "textEn": "The customer asked for a holistic review of the service problem.",
+      "textZh": "客户要求全面审查服务问题。"
+    },
+    "3-group-13.audio.2.2": {
+      "textEn": "An apology alone will not vindicate our handling of the case.",
+      "textZh": "仅靠道歉并不能证明我们处理此案的正确性。"
+    },
+    "3-group-13.audio.3.1": {
+      "textEn": "We need tangible improvements.",
+      "textZh": "我们需要切实的改进。"
+    },
+    "3-group-13.audio.3.2": {
+      "textEn": "The missed appointment was a mishap, but our repeated failure to reply made it worse.",
+      "textZh": "错过的预约是一场灾难，但我们一再未能答复，使情况更加糟糕。"
+    },
+    "3-group-13.audio.4.1": {
+      "textEn": "I agree.",
+      "textZh": "и种"
+    },
+    "3-group-13.audio.4.2": {
+      "textEn": "It would be remiss to blame a junior employee as a scapegoat when our notification system failed.",
+      "textZh": "在我们的通报系统失败时责备一个初级员工作为替罪羊是失职的"
+    },
+    "3-group-13.audio.5.1": {
+      "textEn": "I have already arranged a replacement appointment for Friday.",
+      "textZh": "我已经安排周五的替补预约了"
+    },
+    "3-group-13.audio.5.2": {
+      "textEn": "I will also test the reminder system today and give the customer my direct number.",
+      "textZh": "我今天也会测试提醒系统并给客户我的直接号码。"
+    },
+    "3-group-13.audio.6.1": {
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    },
+    "3-group-13.audio.6.2": {
+      "textEn": "Please include those steps in the reconciliation meeting notes.",
+      "textZh": "请将这些步骤列入和解会议说明。"
+    },
+    "q68.stem.1": {
+      "textEn": "What is the main purpose of the conversation?",
+      "textZh": "谈话的主要目的是什么?"
+    },
+    "q68.option.A.1": {
+      "textEn": "To plan a retirement party",
+      "textZh": "计划一个退休派对"
+    },
+    "q68.option.B.1": {
+      "textEn": "To improve the response to a service complaint",
+      "textZh": "改进对服务投诉的回应"
+    },
+    "q68.option.C.1": {
+      "textEn": "To introduce a new product",
+      "textZh": "推出新产品"
+    },
+    "q68.option.D.1": {
+      "textEn": "To choose an accounting firm",
+      "textZh": "选择会计师事务所"
+    },
+    "q69.stem.1": {
+      "textEn": "What does the first speaker oppose?",
+      "textZh": "第一位发言者反对什么?"
+    },
+    "q69.option.A.1": {
+      "textEn": "Testing reminders",
+      "textZh": "测试提醒"
+    },
+    "q69.option.B.1": {
+      "textEn": "Offering a new appointment",
+      "textZh": "提出新的任命"
+    },
+    "q69.option.C.1": {
+      "textEn": "Giving a direct telephone number",
+      "textZh": "提供直通电话号码"
+    },
+    "q69.option.D.1": {
+      "textEn": "Blaming one employee for a system failure",
+      "textZh": "将一个员工归咎于系统故障"
+    },
+    "q70.stem.1": {
+      "textEn": "What has already been arranged?",
+      "textZh": "已经安排了什么?"
+    },
+    "q70.option.A.1": {
+      "textEn": "A customer survey",
+      "textZh": "客户调查"
+    },
+    "q70.option.B.1": {
+      "textEn": "A software purchase",
+      "textZh": "软件购买"
+    },
+    "q70.option.C.1": {
+      "textEn": "A staff dismissal",
+      "textZh": "解雇工作人员"
+    },
+    "q70.option.D.1": {
+      "textEn": "A replacement appointment",
+      "textZh": "替补任用"
+    },
+    "q72.stem.1": {
+      "textEn": "How should attendees submit questions?",
+      "textZh": "与会者应如何提出问题?"
+    },
+    "q72.option.A.1": {
+      "textEn": "Call a telephone number",
+      "textZh": "打个电话"
+    },
+    "q72.option.B.1": {
+      "textEn": "Send text messages",
+      "textZh": "发送短信"
+    },
+    "q72.option.C.1": {
+      "textEn": "Ask at the entrance",
+      "textZh": "在入口处问"
+    },
+    "q72.option.D.1": {
+      "textEn": "Write them on cards",
+      "textZh": "写在纸牌上"
+    },
+    "q73.stem.1": {
+      "textEn": "What is scheduled for four o'clock?",
+      "textZh": "四点钟有什么计划?"
+    },
+    "q73.option.A.1": {
+      "textEn": "A meal service",
+      "textZh": "餐饮服务"
+    },
+    "q73.option.B.1": {
+      "textEn": "A project-planning session",
+      "textZh": "项目规划会议"
+    },
+    "q73.option.C.1": {
+      "textEn": "A building inspection",
+      "textZh": "建筑物检查"
+    },
+    "q73.option.D.1": {
+      "textEn": "The host's introduction",
+      "textZh": "主持人介绍"
+    },
+    "4-group-2.audio.1.1": {
+      "textEn": "Questions 74 through 76 refer to the following talk.",
+      "textZh": "第 74 至 76 题根据以下讲话作答。"
+    },
+    "4-group-2.audio.2.1": {
+      "textEn": "This is a message for the tenants of Brook Avenue.",
+      "textZh": "这是给布鲁克大道的房客的讯息"
+    },
+    "4-group-2.audio.2.2": {
+      "textEn": "The municipal authority will enact a temporary restriction on access to our street tomorrow while workers repair a sewage pipe.",
+      "textZh": "市政当局将颁布一项临时限制令，禁止工人在明天修排污管道时进入我们的街道。"
+    },
+    "4-group-2.audio.2.3": {
+      "textEn": "The work is intended to lessen the risk of contamination and will run from eight until noon.",
+      "textZh": "这项工作旨在降低污染风险，将从八点持续到中午。"
+    },
+    "4-group-2.audio.2.4": {
+      "textEn": "Please do not trespass beyond the marked barriers or attempt to wade through standing water.",
+      "textZh": "请不要越过有标记的屏障，或试图通过站立的水。"
+    },
+    "4-group-2.audio.2.5": {
+      "textEn": "A convoy of maintenance vehicles will need the whole lane, so vehicles parked there must be moved tonight.",
+      "textZh": "维修车辆车队需要整条车道所以今晚必须把停在那里的车辆搬走"
+    },
+    "4-group-2.audio.2.6": {
+      "textEn": "We realize this puts a crimp in your morning plans.",
+      "textZh": "我们意识到这让你的早间计划有点小麻烦"
+    },
+    "4-group-2.audio.2.7": {
+      "textEn": "A shuttle from the north entrance will connect residents to the main bus stop, and the building office has printed details.",
+      "textZh": "从北门出发的穿梭车将连接居民与主客车站，建筑办公室有印刷细节。"
+    },
+    "q74.stem.1": {
+      "textEn": "Why will access to the street be restricted?",
+      "textZh": "为什么限制进入街道?"
+    },
+    "q74.option.A.1": {
+      "textEn": "A film is being made",
+      "textZh": "正在拍摄一部电影"
+    },
+    "q74.option.B.1": {
+      "textEn": "A parade is planned",
+      "textZh": "计划进行游行"
+    },
+    "q74.option.C.1": {
+      "textEn": "A market is opening",
+      "textZh": "市场正在开张"
+    },
+    "q74.option.D.1": {
+      "textEn": "A pipe requires repair",
+      "textZh": "管道需要修理"
+    },
+    "q75.stem.1": {
+      "textEn": "What must vehicle owners do tonight?",
+      "textZh": "车主今晚要做什么?"
+    },
+    "q75.option.A.1": {
+      "textEn": "Move vehicles from the lane",
+      "textZh": "将车辆从车道上移走"
+    },
+    "q75.option.B.1": {
+      "textEn": "Pay an entrance fee",
+      "textZh": "缴纳入场费"
+    },
+    "q75.option.C.1": {
+      "textEn": "Collect new permits",
+      "textZh": "领取新许可证"
+    },
+    "q75.option.D.1": {
+      "textEn": "Inspect their engines",
+      "textZh": "检查他们的引擎"
+    },
+    "q76.stem.1": {
+      "textEn": "What assistance is offered to residents?",
+      "textZh": "向居民提供了哪些援助?"
+    },
+    "q76.option.A.1": {
+      "textEn": "Transport to a bus stop",
+      "textZh": "前往公共汽车站的交通"
+    },
+    "q76.option.B.1": {
+      "textEn": "Refunded utility bills",
+      "textZh": "重新供资的水电费"
+    },
+    "q76.option.C.1": {
+      "textEn": "Free hotel rooms",
+      "textZh": "免费旅馆房间"
+    },
+    "q76.option.D.1": {
+      "textEn": "A replacement vehicle",
+      "textZh": "一辆替换车辆"
+    },
+    "4-group-3.audio.1.1": {
+      "textEn": "Questions 77 through 79 refer to the following talk.",
+      "textZh": "第 77 至 79 题根据以下讲话作答。"
+    },
+    "4-group-3.audio.2.1": {
+      "textEn": "Welcome aboard the research vessel Meridian.",
+      "textZh": "欢迎登上研究船Meridian。"
+    },
+    "4-group-3.audio.2.2": {
+      "textEn": "On this voyage we will observe pelagic birds beyond the harbor.",
+      "textZh": "在这次航行中，我们将观察港外的远洋鸟类。"
+    },
+    "4-group-3.audio.2.3": {
+      "textEn": "The latitude and longitude of each observation will be recorded automatically, so visitors need only note the species and approximate count.",
+      "textZh": "每次观测的纬度和经度会自动记录，因此参观者只需要注意物种和大致的计数。"
+    },
+    "4-group-3.audio.2.4": {
+      "textEn": "The captain expects a light breeze this afternoon, but precipitation may arrive before we return.",
+      "textZh": "船长预计今天下午会有轻微微风，但降水可能会在返航前到达。"
+    },
+    "4-group-3.audio.2.5": {
+      "textEn": "Please stow cameras inside waterproof bags when you are not using them.",
+      "textZh": "相机不用时，请放入防水袋内。"
+    },
+    "4-group-3.audio.2.6": {
+      "textEn": "The optics equipment belongs to the research team and must not be adjusted without permission.",
+      "textZh": "光学设备属于研究组的，不得擅自调整。"
+    },
+    "4-group-3.audio.2.7": {
+      "textEn": "We encourage spontaneous questions, but keep the passageway clear.",
+      "textZh": "我们鼓励自发的问题，但保持通道清晰。"
+    },
+    "4-group-3.audio.2.8": {
+      "textEn": "Anyone with jet lag or motion sickness may rest in the lower cabin; a crew member can escort you there.",
+      "textZh": "任何有飞机时滞或运动疾病的人可以在下层机舱休息；乘务员可以护送你到那里。"
+    },
+    "q77.stem.1": {
+      "textEn": "What is the purpose of the voyage?",
+      "textZh": "航行的目的是什么?"
+    },
+    "q77.option.A.1": {
+      "textEn": "To deliver factory equipment",
+      "textZh": "交付工厂设备"
+    },
+    "q77.option.B.1": {
+      "textEn": "To test new engines",
+      "textZh": "测试新引擎"
+    },
+    "q77.option.C.1": {
+      "textEn": "To film a wedding",
+      "textZh": "要拍婚礼"
+    },
+    "q77.option.D.1": {
+      "textEn": "To observe seabirds",
+      "textZh": "观察海鸟"
+    },
+    "q78.stem.1": {
+      "textEn": "What information must visitors record themselves?",
+      "textZh": "访客必须记录哪些信息?"
+    },
+    "q78.option.A.1": {
+      "textEn": "The species and number of birds",
+      "textZh": "鸟类的种类和数量"
+    },
+    "q78.option.B.1": {
+      "textEn": "Exact geographic coordinates",
+      "textZh": "准确的地理坐标"
+    },
+    "q78.option.C.1": {
+      "textEn": "The vessel's speed",
+      "textZh": "舰只的速度"
+    },
+    "q78.option.D.1": {
+      "textEn": "Every change in wind direction",
+      "textZh": "风向的每一个变化"
+    },
+    "q79.stem.1": {
+      "textEn": "What are visitors told about optical equipment?",
+      "textZh": "关于光学设备，游客们怎么说的?"
+    },
+    "q79.option.A.1": {
+      "textEn": "It can be rented at the harbor",
+      "textZh": "可以租到港口"
+    },
+    "q79.option.B.1": {
+      "textEn": "It must be returned before lunch",
+      "textZh": "午餐前一定要还回来的"
+    },
+    "q79.option.C.1": {
+      "textEn": "Permission is needed to adjust it",
+      "textZh": "需要许可才能调整"
+    },
+    "q79.option.D.1": {
+      "textEn": "It is included in the ticket price",
+      "textZh": "算在票价之内"
+    },
+    "4-group-4.audio.1.1": {
+      "textEn": "Questions 80 through 82 refer to the following talk.",
+      "textZh": "第 80 至 82 题根据以下讲话作答。"
+    },
+    "4-group-4.audio.2.1": {
+      "textEn": "This is the monthly update from Northbridge Housing.",
+      "textZh": "这是来自北桥住宅的每月更新。"
+    },
+    "4-group-4.audio.2.2": {
+      "textEn": "A derelict factory on the outskirts of town will be converted into an affordable residence complex.",
+      "textZh": "城郊废弃的工厂将改建为可负担的住宅建筑群。"
+    },
+    "4-group-4.audio.2.3": {
+      "textEn": "The developer will restore the facade and retain the original clock tower as part of the area's industrial legacy.",
+      "textZh": "开发者将修复外观，保留原有的钟楼，作为该地区工业遗产的一部分。"
+    },
+    "4-group-4.audio.2.4": {
+      "textEn": "A monolithic building had been proposed, but the revised plan uses smaller blocks around a shared garden.",
+      "textZh": "曾提出过一座单层建筑，但修订后的计划使用更小的街区环绕一个共享的花园。"
+    },
+    "4-group-4.audio.2.5": {
+      "textEn": "The project is not a panacea for the housing shortage, yet it should add eighty apartments.",
+      "textZh": "这个项目不是解决住房短缺的灵丹妙药，但它应该增加80套公寓。"
+    },
+    "4-group-4.audio.2.6": {
+      "textEn": "A public meeting will take place in the old dormitory on June twelve.",
+      "textZh": "6月12日将在旧宿舍举行公开会议。"
+    },
+    "4-group-4.audio.2.7": {
+      "textEn": "Please send questions in advance; the bureau will publish written responses afterward, including an explanation of how the rural bus service will connect to the complex.",
+      "textZh": "请提前发问；局会公布事后的书面答复，包括农村公交服务将如何与综合体连接的解释。"
+    },
+    "q80.stem.1": {
+      "textEn": "What will be created at the factory site?",
+      "textZh": "工厂工地将创造什么?"
+    },
+    "q80.option.A.1": {
+      "textEn": "Housing",
+      "textZh": "住房"
+    },
+    "q80.option.B.1": {
+      "textEn": "A casino",
+      "textZh": "赌场"
+    },
+    "q80.option.C.1": {
+      "textEn": "A sports arena",
+      "textZh": "一个体育场"
+    },
+    "q80.option.D.1": {
+      "textEn": "A shopping warehouse",
+      "textZh": "一个购物仓库"
+    },
+    "q81.stem.1": {
+      "textEn": "What part of the site will be preserved?",
+      "textZh": "该网站的哪个部分将保留下来?"
+    },
+    "q81.option.A.1": {
+      "textEn": "All production machinery",
+      "textZh": "所有生产机械"
+    },
+    "q81.option.B.1": {
+      "textEn": "The clock tower",
+      "textZh": "钟楼"
+    },
+    "q81.option.C.1": {
+      "textEn": "The employee car park",
+      "textZh": "员工停车场"
+    },
+    "q81.option.D.1": {
+      "textEn": "A private swimming pool",
+      "textZh": "一个私人游泳池"
+    },
+    "q82.stem.1": {
+      "textEn": "What are listeners encouraged to do before the meeting?",
+      "textZh": "鼓励听众在会议之前做些什么?"
+    },
+    "q82.option.A.1": {
+      "textEn": "Apply for a mortgage",
+      "textZh": "申请抵押贷款"
+    },
+    "q82.option.B.1": {
+      "textEn": "Submit questions",
+      "textZh": "提交问题"
+    },
+    "q82.option.C.1": {
+      "textEn": "Reserve an apartment",
+      "textZh": "预留公寓"
+    },
+    "q82.option.D.1": {
+      "textEn": "Purchase a bus ticket",
+      "textZh": "购买公共汽车票"
+    },
+    "4-group-5.audio.1.1": {
+      "textEn": "Questions 83 through 85 refer to the following talk.",
+      "textZh": "第 83 至 85 题根据以下讲话作答。"
+    },
+    "4-group-5.audio.2.1": {
+      "textEn": "Attention, gallery visitors.",
+      "textZh": "请注意，画廊访客。"
+    },
+    "4-group-5.audio.2.2": {
+      "textEn": "Our exhibition on the renaissance of handwoven textiles closes on Sunday.",
+      "textZh": "我们手织纺织品复兴展览周日闭幕。"
+    },
+    "4-group-5.audio.2.3": {
+      "textEn": "It features contemporary apparel alongside older pieces, showing how a once moribund craft found new patronage.",
+      "textZh": "它的特点是当代服装与旧的作品并列，表明曾经沉没的工艺是如何找到新的赞助品的。"
+    },
+    "4-group-5.audio.2.4": {
+      "textEn": "Please do not touch the delicate fabric, even when the display looks like a garment that could be worn.",
+      "textZh": "请不要触摸微妙的织物， 即使显示看起来像一件衣服可以穿。"
+    },
+    "4-group-5.audio.2.5": {
+      "textEn": "A conservator will explain how humidity can cause natural fibers to deteriorate during a free talk at three.",
+      "textZh": "保存者会解释湿度如何在三点的自由谈话中导致自然纤维恶化。"
+    },
+    "4-group-5.audio.2.6": {
+      "textEn": "The temperature is monitored with a thermometer near the entrance, but visitors should not adjust the controls.",
+      "textZh": "入口附近用温度计监测温度，但访客不应调整控制。"
+    },
+    "4-group-5.audio.2.7": {
+      "textEn": "Our shop has a small composition book with notes from the exhibition.",
+      "textZh": "我们的店里有一本小构思书里面有展览的笔记"
+    },
+    "4-group-5.audio.2.8": {
+      "textEn": "Purchases support the restoration fund, and members receive a ten percent discount.",
+      "textZh": "购买支持修复基金，会员享受10%的折扣。"
+    },
+    "q83.stem.1": {
+      "textEn": "What does the exhibition illustrate?",
+      "textZh": "展览能说明什么?"
+    },
+    "q83.option.A.1": {
+      "textEn": "The growth of air travel",
+      "textZh": "空中旅行的增长"
+    },
+    "q83.option.B.1": {
+      "textEn": "The revival of a textile craft",
+      "textZh": "纺织工艺的复兴"
+    },
+    "q83.option.C.1": {
+      "textEn": "The invention of television",
+      "textZh": "电视的发明"
+    },
+    "q83.option.D.1": {
+      "textEn": "The history of banking",
+      "textZh": "银行业的历史"
+    },
+    "q84.stem.1": {
+      "textEn": "What will be discussed at three?",
+      "textZh": "三点讨论什么?"
+    },
+    "q84.option.A.1": {
+      "textEn": "The design of a new entrance",
+      "textZh": "新入口的设计"
+    },
+    "q84.option.B.1": {
+      "textEn": "Damage to fibers caused by moisture",
+      "textZh": "水分对纤维造成的损害"
+    },
+    "q84.option.C.1": {
+      "textEn": "How to arrange a discount",
+      "textZh": "如何安排折扣"
+    },
+    "q84.option.D.1": {
+      "textEn": "A change in museum opening hours",
+      "textZh": "博物馆开放时间的变化"
+    },
+    "q85.stem.1": {
+      "textEn": "What benefit do members receive?",
+      "textZh": "成员能得到什么好处?"
+    },
+    "q85.option.A.1": {
+      "textEn": "Permission to touch exhibits",
+      "textZh": "允许触摸展品"
+    },
+    "q85.option.B.1": {
+      "textEn": "A reduction in the shop price",
+      "textZh": "降低商店价格"
+    },
+    "q85.option.C.1": {
+      "textEn": "Reserved parking",
+      "textZh": "预留停车位"
+    },
+    "q85.option.D.1": {
+      "textEn": "Free weaving equipment",
+      "textZh": "免费编织设备"
+    },
+    "4-group-6.audio.1.1": {
+      "textEn": "Questions 86 through 88 refer to the following talk.",
+      "textZh": "第 86 至 88 题根据以下讲话作答。"
+    },
+    "4-group-6.audio.2.1": {
+      "textEn": "Thank you for attending today's workplace conduct training.",
+      "textZh": "谢谢你参加今天的工作场所操控训练"
+    },
+    "4-group-6.audio.2.2": {
+      "textEn": "A truculent response to criticism can turn a minor disagreement into a vicious exchange.",
+      "textZh": "对批评的轻率反应，可以把小的分歧变成恶毒的交换。"
+    },
+    "4-group-6.audio.2.3": {
+      "textEn": "Managers should not goad colleagues into defending themselves or use rhetoric that reinforces prejudice against an ethnic minority.",
+      "textZh": "管理人员不应欺骗同事为自己辩护或使用强化对少数民族偏见的言辞。"
+    },
+    "4-group-6.audio.2.4": {
+      "textEn": "Our aim is to pacify disputes through fair procedures, not to force staff to capitulate to the loudest voice.",
+      "textZh": "我们的目标是通过公平程序来平息争端，而不是迫使工作人员屈服于最响亮的声音。"
+    },
+    "4-group-6.audio.2.5": {
+      "textEn": "If a concern cannot be resolved privately, submit it to the employee relations office.",
+      "textZh": "如果一项关切不能私下解决，请提交雇员关系办公室。"
+    },
+    "4-group-6.audio.2.6": {
+      "textEn": "The office's jurisdiction includes internal conduct complaints but excludes disputes with external suppliers.",
+      "textZh": "该办公室的管辖权包括内部行为投诉，但不包括与外部供应商的争议。"
+    },
+    "4-group-6.audio.2.7": {
+      "textEn": "A revised guide will be emailed this evening.",
+      "textZh": "一份订正指南今晚将发电子邮件。"
+    },
+    "4-group-6.audio.2.8": {
+      "textEn": "Read the examples before Friday's follow-up session, where we will practice giving feedback without personal accusations.",
+      "textZh": "在星期五后续会议之前阅读这些例子，我们将在不提出个人指控的情况下进行反馈。"
+    },
+    "q86.stem.1": {
+      "textEn": "What is the training intended to improve?",
+      "textZh": "培训的目的是如何改进?"
+    },
+    "q86.option.A.1": {
+      "textEn": "Negotiating supplier prices",
+      "textZh": "谈判供应商价格"
+    },
+    "q86.option.B.1": {
+      "textEn": "Designing advertisements",
+      "textZh": "设计广告"
+    },
+    "q86.option.C.1": {
+      "textEn": "Handling workplace disagreements",
+      "textZh": "处理工作场所的分歧"
+    },
+    "q86.option.D.1": {
+      "textEn": "Planning international travel",
+      "textZh": "规划国际旅行"
+    },
+    "q87.stem.1": {
+      "textEn": "Which concern falls outside the office's responsibility?",
+      "textZh": "哪个问题不属于办公室的责任范围?"
+    },
+    "q87.option.A.1": {
+      "textEn": "Unfair feedback within a team",
+      "textZh": "团队内部的不公平反馈"
+    },
+    "q87.option.B.1": {
+      "textEn": "An internal conduct complaint",
+      "textZh": "内部行为投诉"
+    },
+    "q87.option.C.1": {
+      "textEn": "A hostile exchange between colleagues",
+      "textZh": "同事之间的敌对交流"
+    },
+    "q87.option.D.1": {
+      "textEn": "A dispute with an external supplier",
+      "textZh": "与外部供应商的纠纷"
+    },
+    "q88.stem.1": {
+      "textEn": "What should participants do before Friday?",
+      "textZh": "与会者在星期五之前应做什么?"
+    },
+    "q88.option.A.1": {
+      "textEn": "Prepare a budget forecast",
+      "textZh": "编制预算预测"
+    },
+    "q88.option.B.1": {
+      "textEn": "Read the guide's examples",
+      "textZh": "阅读指南的示例"
+    },
+    "q88.option.C.1": {
+      "textEn": "Elect a new manager",
+      "textZh": "选一个新经理"
+    },
+    "q88.option.D.1": {
+      "textEn": "Call each supplier",
+      "textZh": "给每个供应商打电话"
+    },
+    "4-group-7.audio.1.1": {
+      "textEn": "Questions 89 through 91 refer to the following talk.",
+      "textZh": "第 89 至 91 题根据以下讲话作答。"
+    },
+    "4-group-7.audio.2.1": {
+      "textEn": "Here is the forecast for the Ridge Recreation Area.",
+      "textZh": "以下是岭上娱乐区的预测。"
+    },
+    "4-group-7.audio.2.2": {
+      "textEn": "Advection of warmer air will briefly raise temperatures this morning, followed by sleet after dusk.",
+      "textZh": "温暖空气的附着将短暂地提高温度接下来是黄昏后的泥沙。"
+    },
+    "4-group-7.audio.2.3": {
+      "textEn": "A blizzard is possible at higher elevations, and the avalanche route will remain closed irrespective of conditions in the valley.",
+      "textZh": "在较高海拔地区，暴风雪是可能的，雪崩路线无论河谷的状况如何，都会一直关闭。"
+    },
+    "4-group-7.audio.2.4": {
+      "textEn": "No tornado warning is currently in effect.",
+      "textZh": "目前没有实施龙卷风警告。"
+    },
+    "4-group-7.audio.2.5": {
+      "textEn": "Those details matter: a mild afternoon at the lodge does not make the upper trail safe.",
+      "textZh": "这些细节很重要:一个温和的下午在小屋里不能保证上行道的安全。"
+    },
+    "4-group-7.audio.2.6": {
+      "textEn": "Sailing lessons on the lake will continue until noon, while sledding sessions have been canceled.",
+      "textZh": "湖上的帆船课会一直持续到中午，而滑雪会则被取消。"
+    },
+    "4-group-7.audio.2.7": {
+      "textEn": "A ranger will update the information board at eleven.",
+      "textZh": "护林员将在 11 点更新告示栏。"
+    },
+    "4-group-7.audio.2.8": {
+      "textEn": "Please consult that board before you embark on an excursion, and use the marked low-level paths rather than improvising a route.",
+      "textZh": "请在开始远足前咨询那块板子， 并使用标记的低层路径，而不是即兴的路径。"
+    },
+    "q89.stem.1": {
+      "textEn": "What condition is expected after dusk?",
+      "textZh": "黄昏后需要什么条件?"
+    },
+    "q89.option.A.1": {
+      "textEn": "Sleet",
+      "textZh": "队列"
+    },
+    "q89.option.B.1": {
+      "textEn": "A heat wave",
+      "textZh": "热浪"
+    },
+    "q89.option.C.1": {
+      "textEn": "A tornado confirmed to be approaching",
+      "textZh": "龙卷风证实正在逼近"
+    },
+    "q89.option.D.1": {
+      "textEn": "Dense dust",
+      "textZh": "深色尘埃"
+    },
+    "q90.stem.1": {
+      "textEn": "Which activity has been canceled?",
+      "textZh": "哪项活动被取消?"
+    },
+    "q90.option.A.1": {
+      "textEn": "Low-level walking",
+      "textZh": "低级行走"
+    },
+    "q90.option.B.1": {
+      "textEn": "Morning sailing",
+      "textZh": "早启航"
+    },
+    "q90.option.C.1": {
+      "textEn": "Checking the board",
+      "textZh": "检查棋盘"
+    },
+    "q90.option.D.1": {
+      "textEn": "Sledding",
+      "textZh": "雪橇"
+    },
+    "q91.stem.1": {
+      "textEn": "What are visitors advised to do before setting out?",
+      "textZh": "参观者在出发前建议做什么?"
+    },
+    "q91.option.A.1": {
+      "textEn": "Go directly to the upper trail",
+      "textZh": "直接到上方小径"
+    },
+    "q91.option.B.1": {
+      "textEn": "Choose an unmarked route",
+      "textZh": "选择一个无标记的路由"
+    },
+    "q91.option.C.1": {
+      "textEn": "Wait for a supplier call",
+      "textZh": "等一个供货商来电"
+    },
+    "q91.option.D.1": {
+      "textEn": "Check updated information",
+      "textZh": "检查更新信息"
+    },
+    "4-group-8.audio.1.1": {
+      "textEn": "Questions 92 through 94 refer to the following talk.",
+      "textZh": "第 92 至 94 题根据以下讲话作答。"
+    },
+    "4-group-8.audio.2.1": {
+      "textEn": "Hello, this is Noah at Crescent Catering.",
+      "textZh": "你好，我是诺亚在新月餐饮。"
+    },
+    "4-group-8.audio.2.2": {
+      "textEn": "I am calling about your buffet booking for Saturday.",
+      "textZh": "我打电话问你周六的自助餐"
+    },
+    "4-group-8.audio.2.3": {
+      "textEn": "Our gourmet menu now includes a fragrant vegetable entree and a savory gourd dish.",
+      "textZh": "我们的美食菜单现在包括一个香味的蔬菜主菜和一个美味的果酱菜肴。"
+    },
+    "4-group-8.audio.2.4": {
+      "textEn": "We will provide a napkin and reusable cutlery for each guest.",
+      "textZh": "我们将为每位客人提供餐巾和可重复使用的餐具。"
+    },
+    "4-group-8.audio.2.5": {
+      "textEn": "The chef can dilute the piquant sauce for guests who prefer less heat, and the ingredient cards will identify each preservative and common allergen.",
+      "textZh": "厨师可以稀释那些更喜欢少热的客人的辣椒酱，配料卡会识别每个防腐剂和常见的过敏剂。"
+    },
+    "4-group-8.audio.2.6": {
+      "textEn": "Please confirm the final number by Thursday at five; after that, we will charge for the confirmed quantity even if attendance falls.",
+      "textZh": "请在星期四五点前确认最后数字；之后，即使出席人数减少，我们将收取确认数量的费用。"
+    },
+    "4-group-8.audio.2.7": {
+      "textEn": "You asked about a freebie for early payment.",
+      "textZh": "你问一个免费的提前付款。"
+    },
+    "4-group-8.audio.2.8": {
+      "textEn": "We can include a tray of fruit at no extra charge if payment reaches us by Wednesday.",
+      "textZh": "如果周三收到付款，我们可以免费加入一盘水果。"
+    },
+    "4-group-8.audio.2.9": {
+      "textEn": "Please reply to my email.",
+      "textZh": "请回复我的电子邮件。"
+    },
+    "q92.stem.1": {
+      "textEn": "What is the caller discussing?",
+      "textZh": "打电话的人在讨论什么?"
+    },
+    "q92.option.A.1": {
+      "textEn": "A hotel room cancellation",
+      "textZh": "酒店房间被取消"
+    },
+    "q92.option.B.1": {
+      "textEn": "Repairs to kitchen equipment",
+      "textZh": "厨房设备修理费"
+    },
+    "q92.option.C.1": {
+      "textEn": "An application for a cooking job",
+      "textZh": "一份烹饪工作申请"
+    },
+    "q92.option.D.1": {
+      "textEn": "Arrangements for a catered event",
+      "textZh": "安排一个迎合需要的活动"
+    },
+    "q93.stem.1": {
+      "textEn": "When must the final guest count be confirmed?",
+      "textZh": "什么时候才能确定最后的客人数?"
+    },
+    "q93.option.A.1": {
+      "textEn": "Thursday at five",
+      "textZh": "星期四五点"
+    },
+    "q93.option.B.1": {
+      "textEn": "Saturday morning",
+      "textZh": "周六早上周六周六周六周六周六周六周六周六周六周六"
+    },
+    "q93.option.C.1": {
+      "textEn": "Wednesday at noon",
+      "textZh": "星期三中午12时"
+    },
+    "q93.option.D.1": {
+      "textEn": "Friday at three",
+      "textZh": "星期五三点"
+    },
+    "q94.stem.1": {
+      "textEn": "What is offered for early payment?",
+      "textZh": "提前付款的报价是多少?"
+    },
+    "q94.option.A.1": {
+      "textEn": "A larger dining room",
+      "textZh": "一间更大的餐厅"
+    },
+    "q94.option.B.1": {
+      "textEn": "A free chef training course",
+      "textZh": "免费厨师培训课程"
+    },
+    "q94.option.C.1": {
+      "textEn": "An additional fruit tray",
+      "textZh": "额外的水果托盘"
+    },
+    "q94.option.D.1": {
+      "textEn": "A discount on all future bookings",
+      "textZh": "今后所有预订的折扣"
+    },
+    "4-group-9.audio.1.1": {
+      "textEn": "Questions 95 through 97 refer to the following talk.",
+      "textZh": "第 95 至 97 题根据以下讲话作答。"
+    },
+    "4-group-9.audio.2.1": {
+      "textEn": "Welcome to the technician briefing.",
+      "textZh": "欢迎来到技术员的介绍会"
+    },
+    "4-group-9.audio.2.2": {
+      "textEn": "Yesterday's pressure test produced a sudden jolt in the pump and caused water to gush from the outlet.",
+      "textZh": "昨天的压力测试在泵里产生突然的振动并导致水从排水口涌出。"
+    },
+    "4-group-9.audio.2.3": {
+      "textEn": "Nobody was injured, but the flow briefly became turbid because it disturbed settled soil.",
+      "textZh": "没有人受伤，但流量由于扰乱了定居的土壤而短暂变得不稳定。"
+    },
+    "4-group-9.audio.2.4": {
+      "textEn": "Do not assume the pump is invincible simply because it passed last month's test.",
+      "textZh": "不要认为泵是不可战胜的只是因为它通过上个月的测试。"
+    },
+    "4-group-9.audio.2.5": {
+      "textEn": "We will examine the manifold and replace the worn seal before restarting the unit.",
+      "textZh": "我们将检查多面体并更换破损的印章然后再重新启动这个单位"
+    },
+    "4-group-9.audio.2.6": {
+      "textEn": "To avoid another mishap, only the lead technician may operate the controls during the next test.",
+      "textZh": "为避免再发生事故，在下次试验期间，只有领头技术员可以操作控制器。"
+    },
+    "4-group-9.audio.2.7": {
+      "textEn": "Please write observations in legible notes and report even a small spurt immediately.",
+      "textZh": "请用清晰的笔记写下观察结果立即报告哪怕是小小的突袭事件"
+    },
+    "4-group-9.audio.2.8": {
+      "textEn": "The inspection begins at nine, and routine cleaning will resume only after the supervisor gives clearance.",
+      "textZh": "检查从9点开始，只有在主管批准后才能恢复例行清洁。"
+    },
+    "q95.stem.1": {
+      "textEn": "What happened during a test?",
+      "textZh": "测试时发生了什么?"
+    },
+    "q95.option.A.1": {
+      "textEn": "A worker suffered a burn",
+      "textZh": "一个工人被烧伤了"
+    },
+    "q95.option.B.1": {
+      "textEn": "The power stayed off all day",
+      "textZh": "电源停了一整天"
+    },
+    "q95.option.C.1": {
+      "textEn": "Water escaped suddenly",
+      "textZh": "水突然逃出来了"
+    },
+    "q95.option.D.1": {
+      "textEn": "A control panel was stolen",
+      "textZh": "控制面板被盗"
+    },
+    "q96.stem.1": {
+      "textEn": "Who may operate the controls in the next test?",
+      "textZh": "在下次测试中谁可以操作控制器?"
+    },
+    "q96.option.A.1": {
+      "textEn": "The cleaning contractor",
+      "textZh": "清洁承包商"
+    },
+    "q96.option.B.1": {
+      "textEn": "Any observer",
+      "textZh": "任何观察员"
+    },
+    "q96.option.C.1": {
+      "textEn": "Only the lead technician",
+      "textZh": "只有首席技师"
+    },
+    "q96.option.D.1": {
+      "textEn": "All visitors",
+      "textZh": "所有访客"
+    },
+    "q97.stem.1": {
+      "textEn": "When may routine cleaning resume?",
+      "textZh": "什么时候可以恢复例行清洁工作?"
+    },
+    "q97.option.A.1": {
+      "textEn": "Before the seal is replaced",
+      "textZh": "在封印被替换之前"
+    },
+    "q97.option.B.1": {
+      "textEn": "After supervisory clearance",
+      "textZh": "监督许可后"
+    },
+    "q97.option.C.1": {
+      "textEn": "Whenever the notes are finished",
+      "textZh": "当笔记完成时"
+    },
+    "q97.option.D.1": {
+      "textEn": "As soon as nine arrives",
+      "textZh": "一到九点"
+    },
+    "4-group-10.audio.1.1": {
+      "textEn": "Questions 98 through 100 refer to the following talk.",
+      "textZh": "第 98 至 100 题根据以下讲话作答。"
+    },
+    "4-group-10.audio.2.1": {
+      "textEn": "This is a reminder from the Meridian Benefits Office.",
+      "textZh": "这是从Meridian福利办公室得到的提醒。"
+    },
+    "4-group-10.audio.2.2": {
+      "textEn": "On Tuesday a dietitian and a psychiatrist will offer separate information sessions as part of our holistic wellness program.",
+      "textZh": "星期二，一位饮食医生和一位精神病医生将单独提供信息课，作为我们整体健康方案的一部分。"
+    },
+    "4-group-10.audio.2.3": {
+      "textEn": "Topics include nutrition, stress, and ways to locate appropriate professional support.",
+      "textZh": "题目包括营养、压力和寻找适当专业支助的方法。"
+    },
+    "4-group-10.audio.2.4": {
+      "textEn": "The program will not diagnose diabetes, pneumonia, an ulcer, or a tumor; it is an information service, not a treatment clinic.",
+      "textZh": "该方案不会诊断糖尿病、肺炎、溃疡或肿瘤；它是一种信息服务，而不是治疗诊所。"
+    },
+    "4-group-10.audio.2.5": {
+      "textEn": "Please abstain from discussing another employee's medical history.",
+      "textZh": "请不要讨论另一个员工的病史"
+    },
+    "4-group-10.audio.2.6": {
+      "textEn": "Anyone seeking confidential counsel can book a private appointment after the group sessions.",
+      "textZh": "任何寻求保密律师的人可在集体开庭后预约私人预约。"
+    },
+    "4-group-10.audio.2.7": {
+      "textEn": "Registration closes Monday at noon.",
+      "textZh": "登记于星期一中午结束。"
+    },
+    "4-group-10.audio.2.8": {
+      "textEn": "Places are limited to prevent the organizers from being overwhelmed, and employees who cannot attend will receive a leaflet describing available services.",
+      "textZh": "地点有限，以防止组织者不堪重负，不能出席的员工会收到介绍现有服务的传单。"
+    },
+    "q98.stem.1": {
+      "textEn": "What is the purpose of the sessions?",
+      "textZh": "会议的目的是什么?"
+    },
+    "q98.option.A.1": {
+      "textEn": "To provide wellness information",
+      "textZh": "提供健康信息"
+    },
+    "q98.option.B.1": {
+      "textEn": "To issue travel insurance",
+      "textZh": "发放旅行保险"
+    },
+    "q98.option.C.1": {
+      "textEn": "To sell medical equipment",
+      "textZh": "出售医疗设备"
+    },
+    "q98.option.D.1": {
+      "textEn": "To perform surgery",
+      "textZh": "做手术"
+    },
+    "q99.stem.1": {
+      "textEn": "What behavior does the speaker ask employees to avoid?",
+      "textZh": "演讲者要求员工避免什么行为?."
+    },
+    "q99.option.A.1": {
+      "textEn": "Consulting a dietitian",
+      "textZh": "咨询饮食师"
+    },
+    "q99.option.B.1": {
+      "textEn": "Discussing colleagues' medical histories",
+      "textZh": "讨论同事的病历"
+    },
+    "q99.option.C.1": {
+      "textEn": "Reading the service leaflet",
+      "textZh": "阅读服务传单"
+    },
+    "q99.option.D.1": {
+      "textEn": "Booking private appointments",
+      "textZh": "预约私人预约"
+    },
+    "q100.stem.1": {
+      "textEn": "When does registration end?",
+      "textZh": "登记何时结束?"
+    },
+    "q100.option.A.1": {
+      "textEn": "Monday at midnight",
+      "textZh": "星期一午夜时分"
+    },
+    "q100.option.B.1": {
+      "textEn": "Tuesday evening",
+      "textZh": "星期二晚间"
+    },
+    "q100.option.C.1": {
+      "textEn": "Friday at five",
+      "textZh": "星期五五点"
+    },
+    "q100.option.D.1": {
+      "textEn": "Monday at noon",
+      "textZh": "星期一中午12时"
+    },
+    "q102.stem.1": {
+      "textEn": "The consultant, _____ specializes in airport operations, will inspect the site tomorrow.",
+      "textZh": "这位顾问 _____ 专攻机场运营，明天将到现场视察。"
+    },
+    "q102.option.A.1": {
+      "textEn": "whose",
+      "textZh": "谁的"
+    },
+    "q102.option.B.1": {
+      "textEn": "whom",
+      "textZh": "谁（宾格）"
+    },
+    "q102.option.C.1": {
+      "textEn": "who",
+      "textZh": "谁（主格）"
+    },
+    "q102.option.D.1": {
+      "textEn": "which",
+      "textZh": "哪个"
+    },
+    "q103.stem.1": {
+      "textEn": "An ornament attached to the door must not _____ the emergency sign.",
+      "textZh": "门上的装饰物不得 _____ 紧急标志。"
+    },
+    "q103.option.A.1": {
+      "textEn": "obscure",
+      "textZh": "遮蔽"
+    },
+    "q103.option.B.1": {
+      "textEn": "recuperate",
+      "textZh": "康复"
+    },
+    "q103.option.C.1": {
+      "textEn": "repent",
+      "textZh": "悔过"
+    },
+    "q103.option.D.1": {
+      "textEn": "ordain",
+      "textZh": "任命"
+    },
+    "q104.stem.1": {
+      "textEn": "The brochure is more _____ than the version distributed last spring.",
+      "textZh": "这本宣传册比去年春天发放的版本更 _____。"
+    },
+    "q104.option.A.1": {
+      "textEn": "informative",
+      "textZh": "信息丰富的"
+    },
+    "q104.option.B.1": {
+      "textEn": "inform",
+      "textZh": "告知"
+    },
+    "q104.option.C.1": {
+      "textEn": "informatively",
+      "textZh": "以提供信息的方式"
+    },
+    "q104.option.D.1": {
+      "textEn": "information",
+      "textZh": "信息"
+    },
+    "q105.stem.1": {
+      "textEn": "The manager asked the photographer not to _____ that the guest had endorsed the product.",
+      "textZh": "经理要求摄影师不要 _____ 那位来宾曾为该产品背书。"
+    },
+    "q105.option.A.1": {
+      "textEn": "insinuate",
+      "textZh": "暗示"
+    },
+    "q105.option.B.1": {
+      "textEn": "sewage",
+      "textZh": "污水"
+    },
+    "q105.option.C.1": {
+      "textEn": "exterminate",
+      "textZh": "彻底消灭"
+    },
+    "q105.option.D.1": {
+      "textEn": "tarnish",
+      "textZh": "玷污"
+    },
+    "q106.stem.1": {
+      "textEn": "All trainees must complete the safety course _____ they operate the machine.",
+      "textZh": "所有学员必须完成安全课程，_____ 他们操作机器。"
+    },
+    "q106.option.A.1": {
+      "textEn": "during",
+      "textZh": "在……期间"
+    },
+    "q106.option.B.1": {
+      "textEn": "despite",
+      "textZh": "尽管"
+    },
+    "q106.option.C.1": {
+      "textEn": "before",
+      "textZh": "在……之前"
+    },
+    "q106.option.D.1": {
+      "textEn": "unless",
+      "textZh": "除非"
+    },
+    "q107.stem.1": {
+      "textEn": "The museum _____ by a private foundation since 2018.",
+      "textZh": "自 2018 年以来，这家博物馆一直由一家私人基金会 _____。"
+    },
+    "q107.option.A.1": {
+      "textEn": "supports",
+      "textZh": "支持（第三人称单数）"
+    },
+    "q107.option.B.1": {
+      "textEn": "supporting",
+      "textZh": "支持（-ing 形式）"
+    },
+    "q107.option.C.1": {
+      "textEn": "will support",
+      "textZh": "将支持"
+    },
+    "q107.option.D.1": {
+      "textEn": "has been supported",
+      "textZh": "已得到支持"
+    },
+    "q108.stem.1": {
+      "textEn": "Please send the supplier a copy of _____ signed contract.",
+      "textZh": "请把一份 _____ 已签署合同的副本发给供应商。"
+    },
+    "q108.option.A.1": {
+      "textEn": "yours",
+      "textZh": "你的东西"
+    },
+    "q108.option.B.1": {
+      "textEn": "your",
+      "textZh": "你的"
+    },
+    "q108.option.C.1": {
+      "textEn": "yourself",
+      "textZh": "你自己"
+    },
+    "q108.option.D.1": {
+      "textEn": "you",
+      "textZh": "你"
+    },
+    "q109.stem.1": {
+      "textEn": "The auditors found no evidence of _____ activity in the account.",
+      "textZh": "审计人员没有在该账户中发现 _____ 活动的证据。"
+    },
+    "q109.option.A.1": {
+      "textEn": "covertness",
+      "textZh": "隐蔽性"
+    },
+    "q109.option.B.1": {
+      "textEn": "covertly",
+      "textZh": "隐蔽地"
+    },
+    "q109.option.C.1": {
+      "textEn": "covert",
+      "textZh": "隐蔽的"
+    },
+    "q109.option.D.1": {
+      "textEn": "cover",
+      "textZh": "遮盖"
+    },
+    "q110.stem.1": {
+      "textEn": "The terms must be reviewed _____ the application is submitted.",
+      "textZh": "相关条款必须得到审查，_____ 提交申请。"
+    },
+    "q110.option.A.1": {
+      "textEn": "because of",
+      "textZh": "因为"
+    },
+    "q110.option.B.1": {
+      "textEn": "before",
+      "textZh": "在……之前"
+    },
+    "q110.option.C.1": {
+      "textEn": "during",
+      "textZh": "在……期间"
+    },
+    "q110.option.D.1": {
+      "textEn": "instead of",
+      "textZh": "而不是"
+    },
+    "q111.stem.1": {
+      "textEn": "A provisional permit does not _____ entry to restricted areas.",
+      "textZh": "临时许可证并不 _____ 进入限制区域。"
+    },
+    "q111.option.A.1": {
+      "textEn": "authorize",
+      "textZh": "授权（动词）"
+    },
+    "q111.option.B.1": {
+      "textEn": "authorized",
+      "textZh": "经授权的"
+    },
+    "q111.option.C.1": {
+      "textEn": "authoritative",
+      "textZh": "权威的"
+    },
+    "q111.option.D.1": {
+      "textEn": "authorization",
+      "textZh": "授权（名词）"
+    },
+    "q112.stem.1": {
+      "textEn": "The company will _____ employees for approved relocation expenses.",
+      "textZh": "公司将向员工 _____ 经批准的搬迁费用。"
+    },
+    "q112.option.A.1": {
+      "textEn": "compensate",
+      "textZh": "补偿"
+    },
+    "q112.option.B.1": {
+      "textEn": "arouse",
+      "textZh": "唤起"
+    },
+    "q112.option.C.1": {
+      "textEn": "deprive",
+      "textZh": "剥夺"
+    },
+    "q112.option.D.1": {
+      "textEn": "confiscate",
+      "textZh": "没收"
+    },
+    "q113.stem.1": {
+      "textEn": "The report contains _____ references to the earlier investigation.",
+      "textZh": "这份报告包含对先前调查的 _____ 提述。"
+    },
+    "q113.option.A.1": {
+      "textEn": "every",
+      "textZh": "每一"
+    },
+    "q113.option.B.1": {
+      "textEn": "much",
+      "textZh": "许多"
+    },
+    "q113.option.C.1": {
+      "textEn": "several",
+      "textZh": "几个"
+    },
+    "q113.option.D.1": {
+      "textEn": "another",
+      "textZh": "另一个"
+    },
+    "q114.stem.1": {
+      "textEn": "The shipping embargo has made it difficult _____ replacement parts.",
+      "textZh": "航运禁运导致 _____ 替换零件变得困难。"
+    },
+    "q114.option.A.1": {
+      "textEn": "obtains",
+      "textZh": "获取（第三人称单数）"
+    },
+    "q114.option.B.1": {
+      "textEn": "to obtain",
+      "textZh": "获取（不定式）"
+    },
+    "q114.option.C.1": {
+      "textEn": "obtained",
+      "textZh": "获取（过去式或过去分词）"
+    },
+    "q114.option.D.1": {
+      "textEn": "obtain",
+      "textZh": "获取（原形）"
+    },
+    "q115.stem.1": {
+      "textEn": "The firm's popularity is due _____ its reliable after-sales service.",
+      "textZh": "这家公司的受欢迎程度应归 _____ 其可靠的售后服务。"
+    },
+    "q115.option.A.1": {
+      "textEn": "to",
+      "textZh": "向；到"
+    },
+    "q115.option.B.1": {
+      "textEn": "at",
+      "textZh": "在（某一点）"
+    },
+    "q115.option.C.1": {
+      "textEn": "with",
+      "textZh": "与；用"
+    },
+    "q115.option.D.1": {
+      "textEn": "on",
+      "textZh": "在……上"
+    },
+    "q116.stem.1": {
+      "textEn": "If the payment is late, the client may _____ the discount.",
+      "textZh": "如果付款逾期，客户可能 _____ 折扣。"
+    },
+    "q116.option.A.1": {
+      "textEn": "forfeit",
+      "textZh": "丧失"
+    },
+    "q116.option.B.1": {
+      "textEn": "vindicate",
+      "textZh": "证明……无过错"
+    },
+    "q116.option.C.1": {
+      "textEn": "ferment",
+      "textZh": "发酵"
+    },
+    "q116.option.D.1": {
+      "textEn": "inoculate",
+      "textZh": "接种疫苗"
+    },
+    "q117.stem.1": {
+      "textEn": "The exhibit opens Monday, _____ installation must finish this weekend.",
+      "textZh": "展览周一开幕，_____ 布展工作必须在本周末完成。"
+    },
+    "q117.option.A.1": {
+      "textEn": "so",
+      "textZh": "因此"
+    },
+    "q117.option.B.1": {
+      "textEn": "although",
+      "textZh": "尽管"
+    },
+    "q117.option.C.1": {
+      "textEn": "whereas",
+      "textZh": "然而；而"
+    },
+    "q117.option.D.1": {
+      "textEn": "unless",
+      "textZh": "除非"
+    },
+    "q118.stem.1": {
+      "textEn": "The architect offered a _____ explanation of the structural changes.",
+      "textZh": "建筑师对结构改动作了 _____ 的解释。"
+    },
+    "q118.option.A.1": {
+      "textEn": "plausibility",
+      "textZh": "可信性（单数名词）"
+    },
+    "q118.option.B.1": {
+      "textEn": "plausible",
+      "textZh": "可信的"
+    },
+    "q118.option.C.1": {
+      "textEn": "plausibilities",
+      "textZh": "可信性（复数名词）"
+    },
+    "q118.option.D.1": {
+      "textEn": "plausibly",
+      "textZh": "似乎有理地"
+    },
+    "q119.stem.1": {
+      "textEn": "Neither of the two proposals _____ the statutory requirements.",
+      "textZh": "两项提案均不 _____ 法定要求。"
+    },
+    "q119.option.A.1": {
+      "textEn": "meets",
+      "textZh": "满足（第三人称单数）"
+    },
+    "q119.option.B.1": {
+      "textEn": "meet",
+      "textZh": "满足（原形）"
+    },
+    "q119.option.C.1": {
+      "textEn": "have met",
+      "textZh": "已满足"
+    },
+    "q119.option.D.1": {
+      "textEn": "meeting",
+      "textZh": "满足（-ing 形式）"
+    },
+    "q120.stem.1": {
+      "textEn": "The franchise agreement permits the retailer to _____ branded apparel only at approved locations.",
+      "textZh": "特许经营协议仅允许零售商在获批地点 _____ 品牌服装。"
+    },
+    "q120.option.A.1": {
+      "textEn": "capitulate",
+      "textZh": "屈服"
+    },
+    "q120.option.B.1": {
+      "textEn": "beguile",
+      "textZh": "哄骗；迷住"
+    },
+    "q120.option.C.1": {
+      "textEn": "gape",
+      "textZh": "张大嘴看"
+    },
+    "q120.option.D.1": {
+      "textEn": "vend",
+      "textZh": "出售"
+    },
+    "q121.stem.1": {
+      "textEn": "The training materials were revised _____ employees could understand the terminology.",
+      "textZh": "培训材料已修订，_____ 员工能理解其中的术语。"
+    },
+    "q121.option.A.1": {
+      "textEn": "according to",
+      "textZh": "根据"
+    },
+    "q121.option.B.1": {
+      "textEn": "so that",
+      "textZh": "以便；使得"
+    },
+    "q121.option.C.1": {
+      "textEn": "as well as",
+      "textZh": "以及"
+    },
+    "q121.option.D.1": {
+      "textEn": "in spite of",
+      "textZh": "尽管"
+    },
+    "q122.stem.1": {
+      "textEn": "Each entry must be judged on _____ own merits.",
+      "textZh": "评审每份参赛作品时，必须依据 _____ 本身的优点。"
+    },
+    "q122.option.A.1": {
+      "textEn": "itself",
+      "textZh": "它自己"
+    },
+    "q122.option.B.1": {
+      "textEn": "it",
+      "textZh": "它"
+    },
+    "q122.option.C.1": {
+      "textEn": "their",
+      "textZh": "他们的"
+    },
+    "q122.option.D.1": {
+      "textEn": "its",
+      "textZh": "它的"
+    },
+    "q123.stem.1": {
+      "textEn": "The city council will _____ the new recycling ordinance next month.",
+      "textZh": "市议会将于下月 _____ 新的回收条例。"
+    },
+    "q123.option.A.1": {
+      "textEn": "enact",
+      "textZh": "制定并通过（法律）"
+    },
+    "q123.option.B.1": {
+      "textEn": "enervate",
+      "textZh": "使虚弱"
+    },
+    "q123.option.C.1": {
+      "textEn": "collide",
+      "textZh": "碰撞"
+    },
+    "q123.option.D.1": {
+      "textEn": "groom",
+      "textZh": "梳理；培养"
+    },
+    "q124.stem.1": {
+      "textEn": "The full prospectus is available _____ request.",
+      "textZh": "_____ 提出请求，可获取招股说明书全文。"
+    },
+    "q124.option.A.1": {
+      "textEn": "on",
+      "textZh": "在……上；在（某日）"
+    },
+    "q124.option.B.1": {
+      "textEn": "in",
+      "textZh": "在……里"
+    },
+    "q124.option.C.1": {
+      "textEn": "by",
+      "textZh": "通过；在……之前"
+    },
+    "q124.option.D.1": {
+      "textEn": "for",
+      "textZh": "为了；持续"
+    },
+    "q125.stem.1": {
+      "textEn": "The maintenance team has _____ the faulty sensor.",
+      "textZh": "维修团队已经 _____ 了故障传感器。"
+    },
+    "q125.option.A.1": {
+      "textEn": "replacing",
+      "textZh": "更换（-ing 形式）"
+    },
+    "q125.option.B.1": {
+      "textEn": "replace",
+      "textZh": "更换（动词原形）"
+    },
+    "q125.option.C.1": {
+      "textEn": "replacement",
+      "textZh": "替换（名词）"
+    },
+    "q125.option.D.1": {
+      "textEn": "replaced",
+      "textZh": "更换（过去式或过去分词）"
+    },
+    "q126.stem.1": {
+      "textEn": "The successful campaign will _____ in a public awards ceremony.",
+      "textZh": "这项成功的活动将 _____ 于一场公开颁奖典礼。"
+    },
+    "q126.option.A.1": {
+      "textEn": "plagiarize",
+      "textZh": "剽窃"
+    },
+    "q126.option.B.1": {
+      "textEn": "confiscate",
+      "textZh": "没收"
+    },
+    "q126.option.C.1": {
+      "textEn": "culminate",
+      "textZh": "以……告终；达到高潮"
+    },
+    "q126.option.D.1": {
+      "textEn": "obfuscate",
+      "textZh": "使难以理解"
+    },
+    "q127.stem.1": {
+      "textEn": "The new scanner processes invoices _____ than the old model.",
+      "textZh": "新扫描仪处理发票的速度比旧型号 _____。"
+    },
+    "q127.option.A.1": {
+      "textEn": "more quickly",
+      "textZh": "更快地"
+    },
+    "q127.option.B.1": {
+      "textEn": "most quickly",
+      "textZh": "最快地"
+    },
+    "q127.option.C.1": {
+      "textEn": "quickness",
+      "textZh": "迅速（名词）"
+    },
+    "q127.option.D.1": {
+      "textEn": "quick",
+      "textZh": "快的"
+    },
+    "q128.stem.1": {
+      "textEn": "Staff should _____ the small conference room for interviews.",
+      "textZh": "工作人员应 _____ 小会议室，用于面试。"
+    },
+    "q128.option.A.1": {
+      "textEn": "reserved",
+      "textZh": "预留（过去式或过去分词）"
+    },
+    "q128.option.B.1": {
+      "textEn": "reserving",
+      "textZh": "预留（-ing 形式）"
+    },
+    "q128.option.C.1": {
+      "textEn": "reserve",
+      "textZh": "预留（动词原形）"
+    },
+    "q128.option.D.1": {
+      "textEn": "reservation",
+      "textZh": "预订（名词）"
+    },
+    "q129.stem.1": {
+      "textEn": "The charity maintains political _____ when evaluating applications.",
+      "textZh": "该慈善机构在评估申请时保持政治上的 _____。"
+    },
+    "q129.option.A.1": {
+      "textEn": "neutrally",
+      "textZh": "中立地"
+    },
+    "q129.option.B.1": {
+      "textEn": "neutralize",
+      "textZh": "使中和；使失效"
+    },
+    "q129.option.C.1": {
+      "textEn": "neutral",
+      "textZh": "中立的"
+    },
+    "q129.option.D.1": {
+      "textEn": "neutrality",
+      "textZh": "中立（名词）"
+    },
+    "q130.stem.1": {
+      "textEn": "The award recognizes altruism _____ personal financial gain.",
+      "textZh": "这个奖项表彰的是利他精神，_____ 个人经济利益。"
+    },
+    "q130.option.A.1": {
+      "textEn": "as soon as",
+      "textZh": "一……就……"
+    },
+    "q130.option.B.1": {
+      "textEn": "even though",
+      "textZh": "即使；尽管"
+    },
+    "q130.option.C.1": {
+      "textEn": "rather than",
+      "textZh": "而不是"
+    },
+    "q130.option.D.1": {
+      "textEn": "so that",
+      "textZh": "以便；使得"
+    },
+    "q132.stem.1": {
+      "textEn": "Which phrase best completes blank 132?",
+      "textZh": "哪一个词最能填空132号?"
+    },
+    "q132.option.A.1": {
+      "textEn": "will be checked",
+      "textZh": "将被查验"
+    },
+    "q132.option.B.1": {
+      "textEn": "have checking",
+      "textZh": "查验（have ＋ -ing 形式）"
+    },
+    "q132.option.C.1": {
+      "textEn": "checking",
+      "textZh": "查验（-ing 形式）"
+    },
+    "q132.option.D.1": {
+      "textEn": "will check",
+      "textZh": "将查验"
+    },
+    "q133.stem.1": {
+      "textEn": "Which sentence belongs at [1]?",
+      "textZh": "哪个句子属于[1]?"
+    },
+    "q133.option.A.1": {
+      "textEn": "All tickets will be sold after the display closes.",
+      "textZh": "所有门票在展会结束后售出。"
+    },
+    "q133.option.B.1": {
+      "textEn": "The donated ornament will be returned yesterday.",
+      "textZh": "捐赠的装饰品将于昨天归还。"
+    },
+    "q133.option.C.1": {
+      "textEn": "The exhibition was canceled last winter.",
+      "textZh": "去年冬天展览取消了。"
+    },
+    "q133.option.D.1": {
+      "textEn": "A separate waiting area will be available beside that entrance.",
+      "textZh": "该入口旁将有一个单独的等候区。"
+    },
+    "q134.stem.1": {
+      "textEn": "Which word best completes blank 134?",
+      "textZh": "哪个字最能填满134个空白?"
+    },
+    "q134.option.A.1": {
+      "textEn": "reported",
+      "textZh": "报告（过去式或过去分词）"
+    },
+    "q134.option.B.1": {
+      "textEn": "reporting",
+      "textZh": "报告（-ing 形式）"
+    },
+    "q134.option.C.1": {
+      "textEn": "reports",
+      "textZh": "报告（第三人称单数）"
+    },
+    "q134.option.D.1": {
+      "textEn": "report",
+      "textZh": "报告（原形）"
+    },
+    "6-passage-group-2.passage.1.1": {
+      "textEn": "Westbank Meal Service: Kitchen Procedures",
+      "textZh": "西岸餐饮服务:厨房程序"
+    },
+    "6-passage-group-2.passage.1.2": {
+      "textEn": "The kitchen review identified several insanitary storage practices.",
+      "textZh": "厨房审查确定了若干不卫生的储存做法。"
+    },
+    "6-passage-group-2.passage.1.3": {
+      "textEn": "These findings do not justify blaming one employee; the old procedure was unclear, and the company accepts responsibility.",
+      "textZh": "这些调查结果不能成为指责一名雇员的理由；旧的程序不明确，公司接受责任。"
+    },
+    "6-passage-group-2.passage.1.4": {
+      "textEn": "Staff must disinfect preparation surfaces before work and separate raw ingredients from edible food that is ready to serve.",
+      "textZh": "工作人员在工作前必须先消毒制备表面，并将原料与可食用食品分开供餐。"
+    },
+    "6-passage-group-2.passage.1.5": {
+      "textEn": "Store every ingredient in a _____ (135) container.",
+      "textZh": "将每种食材存放在 _____（135）的容器内。"
+    },
+    "6-passage-group-2.passage.1.6": {
+      "textEn": "A fastidious approach to labeling will help prevent contamination.",
+      "textZh": "标签的快速方法将有助于防止污染。"
+    },
+    "6-passage-group-2.passage.1.7": {
+      "textEn": "A label must identify both the product and its opening date.",
+      "textZh": "标签必须同时标明产品及其打开日期。"
+    },
+    "6-passage-group-2.passage.1.8": {
+      "textEn": "**[1]** (136) An unreadable label cannot be relied upon when deciding whether an item is safe to use.",
+      "textZh": "** [1] ** (136) 在决定某一物品是否安全使用时，不能依赖不可读标签。"
+    },
+    "6-passage-group-2.passage.1.9": {
+      "textEn": "The supervisor will demonstrate how to whisk the sauce without adding excess air and how to dilute the cleaning solution _____ (137) the supplier's instructions.",
+      "textZh": "主管将演示如何在不混入过多空气的情况下搅打酱汁，以及如何 _____（137）供应商的说明稀释清洁液。"
+    },
+    "6-passage-group-2.passage.1.10": {
+      "textEn": "Staff should not improvise chemical proportions.",
+      "textZh": "工作人员不应冒充化学成分。"
+    },
+    "6-passage-group-2.passage.1.11": {
+      "textEn": "We have ordered a replacement refrigerator. _____ (138), use the unit in the adjoining kitchen.",
+      "textZh": "我们已订购一台替换用的冰箱。_____（138），请使用隔壁厨房的那台。"
+    },
+    "6-passage-group-2.passage.1.12": {
+      "textEn": "Report any temperature alarm immediately; do not simply switch it off.",
+      "textZh": "立即报告任何温度警报；不要简单地关闭它。"
+    },
+    "q135.stem.1": {
+      "textEn": "Which word best completes blank 135?",
+      "textZh": "哪一个词最好完成空白135?"
+    },
+    "q135.option.A.1": {
+      "textEn": "sealed",
+      "textZh": "密封的"
+    },
+    "q135.option.B.1": {
+      "textEn": "seals",
+      "textZh": "密封件（复数）"
+    },
+    "q135.option.C.1": {
+      "textEn": "sealing",
+      "textZh": "密封（-ing 形式）"
+    },
+    "q135.option.D.1": {
+      "textEn": "seal",
+      "textZh": "密封（动词原形）"
+    },
+    "q136.stem.1": {
+      "textEn": "Which sentence belongs at [1]?",
+      "textZh": "哪个句子属于[1]?"
+    },
+    "q136.option.A.1": {
+      "textEn": "The new menu will be advertised next year.",
+      "textZh": "新菜单将于明年对外宣传。"
+    },
+    "q136.option.B.1": {
+      "textEn": "Guests can pay for meals at reception.",
+      "textZh": "客人可以在接待处支付餐费。"
+    },
+    "q136.option.C.1": {
+      "textEn": "Write this information in clear, legible lettering.",
+      "textZh": "用清楚、易辨认的字迹写下这些信息。"
+    },
+    "q136.option.D.1": {
+      "textEn": "Everyone should skip the labeling step.",
+      "textZh": "所有人都应跳过贴标签这一步。"
+    },
+    "q137.stem.1": {
+      "textEn": "Which phrase best completes blank 137?",
+      "textZh": "哪个词最能填空137?"
+    },
+    "q137.option.A.1": {
+      "textEn": "instead of",
+      "textZh": "而不是"
+    },
+    "q137.option.B.1": {
+      "textEn": "in spite of",
+      "textZh": "尽管"
+    },
+    "q137.option.C.1": {
+      "textEn": "according to",
+      "textZh": "按照"
+    },
+    "q137.option.D.1": {
+      "textEn": "apart from",
+      "textZh": "除……之外"
+    },
+    "q138.stem.1": {
+      "textEn": "Which word best completes blank 138?",
+      "textZh": "哪一个词最能填满138个空白?"
+    },
+    "q138.option.A.1": {
+      "textEn": "Otherwise",
+      "textZh": "否则"
+    },
+    "q138.option.B.1": {
+      "textEn": "Previously",
+      "textZh": "先前"
+    },
+    "q138.option.C.1": {
+      "textEn": "Consequently",
+      "textZh": "因此"
+    },
+    "q138.option.D.1": {
+      "textEn": "Meanwhile",
+      "textZh": "在此期间"
+    },
+    "6-passage-group-3.passage.1.1": {
+      "textEn": "To: Department Heads",
+      "textZh": "致:部门主管"
+    },
+    "6-passage-group-3.passage.1.2": {
+      "textEn": "From: People and Culture Office",
+      "textZh": "来源:人民和文化办公室"
+    },
+    "6-passage-group-3.passage.1.3": {
+      "textEn": "Date: October 3",
+      "textZh": "日期:10月3日"
+    },
+    "6-passage-group-3.passage.1.4": {
+      "textEn": "Subject: Respectful performance reviews",
+      "textZh": "主题:尊重业绩审查"
+    },
+    "6-passage-group-3.passage.1.5": {
+      "textEn": "An overt accusation can tarnish trust as much as a covert insult.",
+      "textZh": "公开指控会玷污信任，如同污辱。"
+    },
+    "6-passage-group-3.passage.1.6": {
+      "textEn": "Managers must not insinuate that an employee is dishonest merely because a deadline was missed.",
+      "textZh": "管理人员决不能仅仅因为错过最后期限而暗示雇员不诚实。"
+    },
+    "6-passage-group-3.passage.1.7": {
+      "textEn": "Review the facts before making a judgment, and avoid _____ (139) language that may arouse resentment.",
+      "textZh": "下判断前先核实事实，并避免使用可能引起反感的 _____（139）措辞。"
+    },
+    "6-passage-group-3.passage.1.8": {
+      "textEn": "If the record is incomplete, give the employee an opportunity to explain.",
+      "textZh": "如果记录不完整，请给雇员解释的机会。"
+    },
+    "6-passage-group-3.passage.1.9": {
+      "textEn": "**[1]** (140) This sequence protects both the employee and the organization from decisions based on rumor.",
+      "textZh": "** [1] ** (140) 这一序列保护雇员和组织不受基于谣言的决定的影响。"
+    },
+    "6-passage-group-3.passage.1.10": {
+      "textEn": "Do not try to elicit a confession or goad someone into an angry reply.",
+      "textZh": "不要试图招供或暗示某人愤怒的回答。"
+    },
+    "6-passage-group-3.passage.1.11": {
+      "textEn": "A supervisor who is oblivious _____ (141) a workload problem should consult the scheduling team.",
+      "textZh": "对工作量问题 _____（141）的主管应咨询排班团队。"
+    },
+    "6-passage-group-3.passage.1.12": {
+      "textEn": "A temporary adjustment may be more useful than a warning.",
+      "textZh": "临时调整可能比警告更有用。"
+    },
+    "6-passage-group-3.passage.1.13": {
+      "textEn": "Written records _____ (142) securely for twelve months.",
+      "textZh": "书面记录 _____（142）妥善保管十二个月。"
+    },
+    "6-passage-group-3.passage.1.14": {
+      "textEn": "The employee relations office can provide counsel on difficult cases.",
+      "textZh": "雇员关系办公室可就困难案件提供咨询。"
+    },
+    "6-passage-group-3.passage.1.15": {
+      "textEn": "Fair procedures will not eliminate every disagreement, but they make reconciliation more likely.",
+      "textZh": "公平程序不会消除所有分歧，但能使和解更可能。"
+    },
+    "q139.stem.1": {
+      "textEn": "Which word best completes blank 139?",
+      "textZh": "哪一个词能最好地完成139个空白?"
+    },
+    "q139.option.A.1": {
+      "textEn": "offensively",
+      "textZh": "冒犯地"
+    },
+    "q139.option.B.1": {
+      "textEn": "offend",
+      "textZh": "冒犯（动词）"
+    },
+    "q139.option.C.1": {
+      "textEn": "offense",
+      "textZh": "冒犯（名词）；罪行"
+    },
+    "q139.option.D.1": {
+      "textEn": "offensive",
+      "textZh": "冒犯性的"
+    },
+    "q140.stem.1": {
+      "textEn": "Which sentence belongs at [1]?",
+      "textZh": "哪个句子属于[1]?"
+    },
+    "q140.option.A.1": {
+      "textEn": "The employee must resign immediately.",
+      "textZh": "员工必须立即辞职。"
+    },
+    "q140.option.B.1": {
+      "textEn": "Only then should you decide whether corrective action is necessary.",
+      "textZh": "只有这样，你才能决定是否有必要采取纠正行动。"
+    },
+    "q140.option.C.1": {
+      "textEn": "Submit the warning before reviewing any evidence.",
+      "textZh": "在审查任何证据前提交警告。"
+    },
+    "q140.option.D.1": {
+      "textEn": "All records should be discarded after the interview.",
+      "textZh": "所有记录都应在面谈后丢弃。"
+    },
+    "q141.stem.1": {
+      "textEn": "Which preposition best completes blank 141?",
+      "textZh": "哪一个预设最好完成空白141?"
+    },
+    "q141.option.A.1": {
+      "textEn": "upon",
+      "textZh": "在……上；一……就……"
+    },
+    "q141.option.B.1": {
+      "textEn": "to",
+      "textZh": "向；对"
+    },
+    "q141.option.C.1": {
+      "textEn": "for",
+      "textZh": "为了；对于"
+    },
+    "q141.option.D.1": {
+      "textEn": "by",
+      "textZh": "由；凭借"
+    },
+    "q142.stem.1": {
+      "textEn": "Which phrase best completes blank 142?",
+      "textZh": "哪个词最能填空142?"
+    },
+    "q142.option.A.1": {
+      "textEn": "must be stored",
+      "textZh": "必须被存放"
+    },
+    "q142.option.B.1": {
+      "textEn": "must storing",
+      "textZh": "必须存放（must ＋ -ing 形式）"
+    },
+    "q142.option.C.1": {
+      "textEn": "must been stored",
+      "textZh": "必须被存放（must ＋ been ＋ 过去分词）"
+    },
+    "q142.option.D.1": {
+      "textEn": "must store",
+      "textZh": "必须存放"
+    },
+    "6-passage-group-4.passage.1.1": {
+      "textEn": "Riverbend Enterprise Review",
+      "textZh": "Riverbend 企业审查"
+    },
+    "6-passage-group-4.passage.1.2": {
+      "textEn": "The town's craft economy experienced a renaissance after a group of retailers formed a purchasing pact.",
+      "textZh": "城镇的工艺经济在一批零售商形成购买协议后经历了复兴。"
+    },
+    "6-passage-group-4.passage.1.3": {
+      "textEn": "A once moribund workshop now supplies contemporary furniture to hotels in the vicinity.",
+      "textZh": "一个一度停业的车间现在向附近的旅馆供应当代家具。"
+    },
+    "6-passage-group-4.passage.1.4": {
+      "textEn": "The workshop's intrinsic appeal lies in its careful workmanship, not in claims that it can _____ (143) every customer with advertising.",
+      "textZh": "这家工坊真正的吸引力在于精细的做工，至于所谓广告可以 _____（143）每位顾客，并非其吸引力所在。"
+    },
+    "6-passage-group-4.passage.1.5": {
+      "textEn": "The initiative received a modest subsidy.",
+      "textZh": "这一举措得到的补贴不多。"
+    },
+    "6-passage-group-4.passage.1.6": {
+      "textEn": "**[1]** (144) Instead, the owners used it to train apprentices and improve ventilation.",
+      "textZh": "** [1] ** (144) 相反，业主用它来培训学徒和改进通风。"
+    },
+    "6-passage-group-4.passage.1.7": {
+      "textEn": "Those changes produced tangible benefits, including fewer defects and lower staff turnover.",
+      "textZh": "这些变化产生了实际好处，包括缺陷减少，工作人员更替率降低。"
+    },
+    "6-passage-group-4.passage.1.8": {
+      "textEn": "The municipal bureau has _____ (145) the project a model for other small businesses.",
+      "textZh": "市政局已将该项目 _____（145）其他小企业的典范。"
+    },
+    "6-passage-group-4.passage.1.9": {
+      "textEn": "However, the owners reject the idea that a single grant is a panacea.",
+      "textZh": "然而，所有者们拒绝接受单一赠款是一种灵丹妙药的想法。"
+    },
+    "6-passage-group-4.passage.1.10": {
+      "textEn": "They attribute their progress to sustained collaboration and the willingness to articulate problems clearly.",
+      "textZh": "它们将其进展归因于持续的合作和明确阐明问题的意愿。"
+    },
+    "6-passage-group-4.passage.1.11": {
+      "textEn": "Applications for the next grant round close on May 16.",
+      "textZh": "下一轮赠款申请于5月16日结束。"
+    },
+    "6-passage-group-4.passage.1.12": {
+      "textEn": "Businesses _____ (146) wish to apply should request the prospectus and prepare a realistic budget.",
+      "textZh": "_____（146）有意申请的企业应索取项目说明书，并制订切实可行的预算。"
+    },
+    "6-passage-group-4.passage.1.13": {
+      "textEn": "The review panel will publish its criterion for scoring proposals before the deadline.",
+      "textZh": "审查小组将在截止日期之前公布其评分建议的标准。"
+    },
+    "q143.stem.1": {
+      "textEn": "Which verb best completes blank 143?",
+      "textZh": "哪个动词最能完成143的空白?"
+    },
+    "q143.option.A.1": {
+      "textEn": "recuperate",
+      "textZh": "恢复健康"
+    },
+    "q143.option.B.1": {
+      "textEn": "beguile",
+      "textZh": "哄骗；迷住"
+    },
+    "q143.option.C.1": {
+      "textEn": "repent",
+      "textZh": "悔过"
+    },
+    "q143.option.D.1": {
+      "textEn": "gape",
+      "textZh": "张大嘴看"
+    },
+    "q144.stem.1": {
+      "textEn": "Which sentence belongs at [1]?",
+      "textZh": "哪个句子属于[1]?"
+    },
+    "q144.option.A.1": {
+      "textEn": "The workshop stopped making furniture.",
+      "textZh": "车间停止制造家具。"
+    },
+    "q144.option.B.1": {
+      "textEn": "The money was not spent on a promotional campaign.",
+      "textZh": "这笔钱没有花在促销运动上。"
+    },
+    "q144.option.C.1": {
+      "textEn": "All apprentices were dismissed immediately.",
+      "textZh": "所有学徒都立即被开除。"
+    },
+    "q144.option.D.1": {
+      "textEn": "The grant was used entirely to purchase advertisements.",
+      "textZh": "这笔赠款完全用于购买广告。"
+    },
+    "q145.stem.1": {
+      "textEn": "Which verb best completes blank 145?",
+      "textZh": "哪个动词最能填空145?"
+    },
+    "q145.option.A.1": {
+      "textEn": "designated",
+      "textZh": "指定（过去式或过去分词）"
+    },
+    "q145.option.B.1": {
+      "textEn": "designating",
+      "textZh": "指定（-ing 形式）"
+    },
+    "q145.option.C.1": {
+      "textEn": "designates",
+      "textZh": "指定（第三人称单数）"
+    },
+    "q145.option.D.1": {
+      "textEn": "designation",
+      "textZh": "指定（名词）"
+    },
+    "q146.stem.1": {
+      "textEn": "Which word best completes blank 146?",
+      "textZh": "哪一个词最好完成空白146?"
+    },
+    "q146.option.A.1": {
+      "textEn": "what",
+      "textZh": "什么"
+    },
+    "q146.option.B.1": {
+      "textEn": "whose",
+      "textZh": "谁的"
+    },
+    "q146.option.C.1": {
+      "textEn": "that",
+      "textZh": "那个；关系代词"
+    },
+    "q146.option.D.1": {
+      "textEn": "whom",
+      "textZh": "谁（宾格）"
+    },
+    "q148.stem.1": {
+      "textEn": "Where may authorized press photography take place?",
+      "textZh": "在哪里可以进行授权的新闻摄影?"
+    },
+    "q148.option.A.1": {
+      "textEn": "In the lobby",
+      "textZh": "在大厅里"
+    },
+    "q148.option.B.1": {
+      "textEn": "Inside the projection booth",
+      "textZh": "在投影亭内"
+    },
+    "q148.option.C.1": {
+      "textEn": "Anywhere without consent",
+      "textZh": "未经同意的任何地方"
+    },
+    "q148.option.D.1": {
+      "textEn": "During the film",
+      "textZh": "在电影拍摄期间"
+    },
+    "q149.stem.1": {
+      "textEn": "What is suggested about the next film?",
+      "textZh": "下一部电影有什么建议?"
+    },
+    "q149.option.A.1": {
+      "textEn": "Its timing is still uncertain",
+      "textZh": "时间还不确定"
+    },
+    "q149.option.B.1": {
+      "textEn": "It will be free for students",
+      "textZh": "学生可以免费"
+    },
+    "q149.option.C.1": {
+      "textEn": "It has been canceled",
+      "textZh": "已经取消"
+    },
+    "q149.option.D.1": {
+      "textEn": "It has already been screened",
+      "textZh": "已经筛选过了"
+    },
+    "7-passage-group-2.passage.1.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-2.passage.1.2": {
+      "textEn": "To: Field Study Volunteers",
+      "textZh": "调至:外地研究志愿人员"
+    },
+    "7-passage-group-2.passage.1.3": {
+      "textEn": "From: Dr. Hana Holt",
+      "textZh": "发讯人:Hana Holt博士"
+    },
+    "7-passage-group-2.passage.1.4": {
+      "textEn": "Date: April 6",
+      "textZh": "日期:4月6日"
+    },
+    "7-passage-group-2.passage.1.5": {
+      "textEn": "Subject: Neighborhood survey",
+      "textZh": "主题:邻里调查"
+    },
+    "7-passage-group-2.passage.1.6": {
+      "textEn": "As a sociologist studying public services, I am recruiting interviewers for a densely populated district.",
+      "textZh": "作为研究公共服务的社会学家，我在招聘一个人口稠密地区的采访者。"
+    },
+    "7-passage-group-2.passage.1.7": {
+      "textEn": "A prevalent complaint is that residents cannot find plain-language appointment information.",
+      "textZh": "一个普遍的投诉是，居民无法找到简单语言的预约信息。"
+    },
+    "7-passage-group-2.passage.1.8": {
+      "textEn": "Some leaflets allude to online options without explaining how to use them.",
+      "textZh": "有些传单提到在线选项，但没有解释如何使用这些选项。"
+    },
+    "7-passage-group-2.passage.1.9": {
+      "textEn": "We want to understand this problem rather than presume residents lack interest.",
+      "textZh": "我们想理解这个问题，而不是假设居民缺乏兴趣。"
+    },
+    "7-passage-group-2.passage.1.10": {
+      "textEn": "[1] Participation is voluntary, and interviewers must not pressure anyone to respond.",
+      "textZh": "[1] 参与是自愿的，采访者不得强迫任何人作出回应。"
+    },
+    "7-passage-group-2.passage.1.11": {
+      "textEn": "[2] Avoid asking about congenital conditions or other private medical matters; those subjects are outside this survey.",
+      "textZh": "[2] 避免询问先天性状况或其他私人医疗事项；这些科目不在本次调查范围之内。"
+    },
+    "7-passage-group-2.passage.1.12": {
+      "textEn": "[3] The questionnaire concerns opening hours, transport, and access to information.",
+      "textZh": "[3] 调查表涉及开放时间、运输和获取信息。"
+    },
+    "7-passage-group-2.passage.1.13": {
+      "textEn": "[4]",
+      "textZh": "插入位置 [4]"
+    },
+    "7-passage-group-2.passage.1.14": {
+      "textEn": "Training takes place April 14 at 10 a.m. at the community center.",
+      "textZh": "培训于4月14日上午10时在社区中心进行。"
+    },
+    "7-passage-group-2.passage.1.15": {
+      "textEn": "A practice session is compulsory even for experienced volunteers.",
+      "textZh": "即使对经验丰富的志愿人员来说，实践课也是强制性的。"
+    },
+    "7-passage-group-2.passage.1.16": {
+      "textEn": "Findings will be published without names, and the council receives a summary in May.",
+      "textZh": "调查结果将在没有姓名的情况下公布，理事会将在5月收到一份摘要。"
+    },
+    "7-passage-group-2.passage.1.17": {
+      "textEn": "Confirm availability by April 10.",
+      "textZh": "在4月10日之前确认可用性。"
+    },
+    "q150.stem.1": {
+      "textEn": "What is the survey examining?",
+      "textZh": "调查检查内容是什么?"
+    },
+    "q150.option.A.1": {
+      "textEn": "Rates of inherited illness",
+      "textZh": "遗症发病率"
+    },
+    "q150.option.B.1": {
+      "textEn": "Employee salaries",
+      "textZh": "雇员薪金"
+    },
+    "q150.option.C.1": {
+      "textEn": "Preferences for private insurance",
+      "textZh": "私营保险的优惠"
+    },
+    "q150.option.D.1": {
+      "textEn": "Access to public-service information",
+      "textZh": "获取公共服务信息"
+    },
+    "q151.stem.1": {
+      "textEn": "What is required of all interviewers?",
+      "textZh": "要求所有采访者做什么?"
+    },
+    "q151.option.A.1": {
+      "textEn": "A personal laptop",
+      "textZh": "个人笔记本电脑"
+    },
+    "q151.option.B.1": {
+      "textEn": "Residence in the district",
+      "textZh": "该区居民"
+    },
+    "q151.option.C.1": {
+      "textEn": "A medical qualification",
+      "textZh": "医学资格"
+    },
+    "q151.option.D.1": {
+      "textEn": "Attendance at a practice session",
+      "textZh": "参加实践会议的情况"
+    },
+    "q152.stem.1": {
+      "textEn": "Where would \"The following rules apply to every interview.\" best fit?",
+      "textZh": "\"以下规则适用于每次面试\"在哪里最合适?."
+    },
+    "q152.option.A.1": {
+      "textEn": "[2]",
+      "textZh": "插入位置 [2]"
+    },
+    "q152.option.B.1": {
+      "textEn": "[1]",
+      "textZh": "插入位置 [1]"
+    },
+    "q152.option.C.1": {
+      "textEn": "[3]",
+      "textZh": "插入位置 [3]"
+    },
+    "q152.option.D.1": {
+      "textEn": "[4]",
+      "textZh": "插入位置 [4]"
+    },
+    "7-passage-group-3.passage.1.1": {
+      "textEn": "#### Notice",
+      "textZh": "通知"
+    },
+    "7-passage-group-3.passage.1.2": {
+      "textEn": "North Pier Access Notice",
+      "textZh": "北码头出入通知"
+    },
+    "7-passage-group-3.passage.1.3": {
+      "textEn": "A tumultuous opening day showed that unrestricted entry could overwhelm the pier.",
+      "textZh": "一个混乱的开放日显示，不受限制的进入可能使码头覆没。"
+    },
+    "7-passage-group-3.passage.1.4": {
+      "textEn": "Reservations become compulsory on July 1 following a review of queues and emergency access.",
+      "textZh": "在对排队和紧急接入进行审查后，预订于7月1日成为强制性。"
+    },
+    "7-passage-group-3.passage.1.5": {
+      "textEn": "This is not an inevitable consequence of rising numbers; it addresses a specific safety problem.",
+      "textZh": "这不是数字上升的必然后果；它涉及一个具体的安全问题。"
+    },
+    "7-passage-group-3.passage.1.6": {
+      "textEn": "Digital notices are ubiquitous, but printed directions remain available.",
+      "textZh": "数字通知无处不在，但印刷方向仍然可用。"
+    },
+    "7-passage-group-3.passage.1.7": {
+      "textEn": "As informal tour advertisements proliferate, only tickets issued by North Pier guarantee entry.",
+      "textZh": "随着非正式旅游广告的激增，只有北码头担保公司开出的门票。"
+    },
+    "7-passage-group-3.passage.1.8": {
+      "textEn": "Do not buy from street sellers.",
+      "textZh": "不要从街头卖家那里买东西。"
+    },
+    "7-passage-group-3.passage.1.9": {
+      "textEn": "A canceled booking carries no cash refund; as a consolation, the holder receives a voucher valid for thirty days.",
+      "textZh": "取消的订票不带现金退款；作为安慰，持票人领取有效期为三十日的凭证。"
+    },
+    "7-passage-group-3.passage.1.10": {
+      "textEn": "The pier remains a public recreation site.",
+      "textZh": "码头仍然是公共娱乐场所。"
+    },
+    "7-passage-group-3.passage.1.11": {
+      "textEn": "Visitors with a mobility handicap may request an accessible shuttle when reserving.",
+      "textZh": "有行动障碍的访客在预订时可要求无障碍的班车。"
+    },
+    "7-passage-group-3.passage.1.12": {
+      "textEn": "It cannot be booked upon arrival because a seat must be assigned in advance.",
+      "textZh": "到达时不能预订，因为必须事先分配一个席位。"
+    },
+    "7-passage-group-3.passage.1.13": {
+      "textEn": "A final safety sweep will check the proximity of queues to emergency equipment.",
+      "textZh": "最后的安全扫描将检查队列是否接近紧急设备。"
+    },
+    "7-passage-group-3.passage.1.14": {
+      "textEn": "The system will be reviewed after three months.",
+      "textZh": "三个月后将对该系统进行审查。"
+    },
+    "7-passage-group-3.passage.1.15": {
+      "textEn": "Send suggestions to access@northpier.example rather than the ticket attendants.",
+      "textZh": "提供访问建议@northpier.example 而不是售票员。"
+    },
+    "q153.stem.1": {
+      "textEn": "Why is a reservation system being introduced?",
+      "textZh": "为什么实行预订制度?"
+    },
+    "q153.option.A.1": {
+      "textEn": "Tourism is being prohibited",
+      "textZh": "禁止旅游"
+    },
+    "q153.option.B.1": {
+      "textEn": "All paper tickets are being abolished",
+      "textZh": "所有纸票都被废除了"
+    },
+    "q153.option.C.1": {
+      "textEn": "A review identified crowd-safety problems",
+      "textZh": "审查查明了人群安全问题"
+    },
+    "q153.option.D.1": {
+      "textEn": "The pier is becoming a private club",
+      "textZh": "码头正在变成私人俱乐部"
+    },
+    "q154.stem.1": {
+      "textEn": "What is provided for a canceled booking?",
+      "textZh": "取消订房有什么规定?"
+    },
+    "q154.option.A.1": {
+      "textEn": "A hotel night",
+      "textZh": "旅馆之夜"
+    },
+    "q154.option.B.1": {
+      "textEn": "Credit for a later visit",
+      "textZh": "以后访问的功劳"
+    },
+    "q154.option.C.1": {
+      "textEn": "A cash refund",
+      "textZh": "现金退款"
+    },
+    "q154.option.D.1": {
+      "textEn": "A guaranteed shuttle seat",
+      "textZh": "保证穿梭座位"
+    },
+    "q155.stem.1": {
+      "textEn": "What must a visitor needing the shuttle do?",
+      "textZh": "需要穿梭的访客必须做什么?"
+    },
+    "q155.option.A.1": {
+      "textEn": "Request it when reserving",
+      "textZh": "保留时请求它"
+    },
+    "q155.option.B.1": {
+      "textEn": "Wait for the review",
+      "textZh": "等待审查"
+    },
+    "q155.option.C.1": {
+      "textEn": "Buy from a street seller",
+      "textZh": "从街头贩子那里买东西"
+    },
+    "q155.option.D.1": {
+      "textEn": "Ask upon arrival",
+      "textZh": "抵达时问"
+    },
+    "7-passage-group-4.passage.1.1": {
+      "textEn": "#### Article",
+      "textZh": "第条"
+    },
+    "7-passage-group-4.passage.1.2": {
+      "textEn": "Wetland Restoration Reaches New Stage",
+      "textZh": "湿地恢复到达新阶段"
+    },
+    "7-passage-group-4.passage.1.3": {
+      "textEn": "Nesting birds are a harbinger of improvement at Mill Fen, where a team has spent two years controlling invasive reeds.",
+      "textZh": "巢鸟是米尔芬改进的预兆，一个团队花了两年时间控制入侵的芦苇。"
+    },
+    "7-passage-group-4.passage.1.4": {
+      "textEn": "The program emphasizes gradual removal rather than immediate eradication of every nonnative plant.",
+      "textZh": "该方案强调逐步清除而不是立即根除所有非原生植物。"
+    },
+    "7-passage-group-4.passage.1.5": {
+      "textEn": "Sudden removal could wreak havoc on the soil and nearby gardens.",
+      "textZh": "突然清除可能会对土壤和附近的花园造成破坏。"
+    },
+    "7-passage-group-4.passage.1.6": {
+      "textEn": "A plant disease continues to plague one section, which is being monitored separately.",
+      "textZh": "一种植物病症继续困扰着一个科，目前正在单独监测。"
+    },
+    "7-passage-group-4.passage.1.7": {
+      "textEn": "Researchers place a decoy bird at selected points to test local birds' responses to possible intruders.",
+      "textZh": "研究人员将一只诱饵鸟放置在选定的点上，以测试当地鸟类对可能的入侵者的反应。"
+    },
+    "7-passage-group-4.passage.1.8": {
+      "textEn": "Visitors must not move it or enter closed plots.",
+      "textZh": "访客不得移动或进入封闭的地块。"
+    },
+    "7-passage-group-4.passage.1.9": {
+      "textEn": "Results are recorded weekly; photographs alone do not establish success.",
+      "textZh": "调查结果每周记录一次；仅凭照片并不能确定是否成功。"
+    },
+    "7-passage-group-4.passage.1.10": {
+      "textEn": "The next public walk is August 19.",
+      "textZh": "接下来的公众步行是8月19日。"
+    },
+    "7-passage-group-4.passage.1.11": {
+      "textEn": "A vivacious naturalist will explain the research in everyday language.",
+      "textZh": "一个活泼的自然主义者会用日常语言来解释研究。"
+    },
+    "7-passage-group-4.passage.1.12": {
+      "textEn": "Group size is limited to twelve, and waterproof footwear is required.",
+      "textZh": "每组最多 12 人，必须穿防水鞋。"
+    },
+    "7-passage-group-4.passage.1.13": {
+      "textEn": "Registration is free, although donations support field equipment.",
+      "textZh": "登记是免费的，但捐款支持外地设备。"
+    },
+    "7-passage-group-4.passage.1.14": {
+      "textEn": "The final report will compare bird counts with earlier surveys, rather than merely record the number of reeds removed.",
+      "textZh": "最后报告将把鸟类数量与先前的调查进行比较，而不只是记录清除的芦苇数量。"
+    },
+    "q156.stem.1": {
+      "textEn": "Why is removal gradual?",
+      "textZh": "为什么清除是渐进的?"
+    },
+    "q156.option.A.1": {
+      "textEn": "Workers await a film crew",
+      "textZh": "工人们在等电影组人员"
+    },
+    "q156.option.B.1": {
+      "textEn": "Every reed is protected",
+      "textZh": "每个芦苇都有保护"
+    },
+    "q156.option.C.1": {
+      "textEn": "Rapid changes could damage the environment",
+      "textZh": "迅速变化可能破坏环境"
+    },
+    "q156.option.D.1": {
+      "textEn": "All surveys are complete",
+      "textZh": "所有调查已经完成"
+    },
+    "q157.stem.1": {
+      "textEn": "What is the decoy used for?",
+      "textZh": "诱饵用来干什么?"
+    },
+    "q157.option.A.1": {
+      "textEn": "Measuring rainfall",
+      "textZh": "测量降雨量"
+    },
+    "q157.option.B.1": {
+      "textEn": "Studying birds' responses",
+      "textZh": "研究鸟类的反应"
+    },
+    "q157.option.C.1": {
+      "textEn": "Advertising the walk",
+      "textZh": "广告走动"
+    },
+    "q157.option.D.1": {
+      "textEn": "Removing reeds",
+      "textZh": "删除芦苇"
+    },
+    "q158.stem.1": {
+      "textEn": "How will progress be evaluated?",
+      "textZh": "如何评价进展情况?"
+    },
+    "q158.option.A.1": {
+      "textEn": "By counting donations only",
+      "textZh": "仅算捐款"
+    },
+    "q158.option.B.1": {
+      "textEn": "By measuring guide popularity",
+      "textZh": "通过衡量指南的受欢迎程度"
+    },
+    "q158.option.C.1": {
+      "textEn": "By comparing bird counts over time",
+      "textZh": "通过比较鸟类的数量随着时间的推移"
+    },
+    "q158.option.D.1": {
+      "textEn": "By selecting attractive photographs",
+      "textZh": "通过选择有吸引力的照片"
+    },
+    "7-passage-group-5.passage.1.1": {
+      "textEn": "#### Memo",
+      "textZh": "备忘"
+    },
+    "7-passage-group-5.passage.1.2": {
+      "textEn": "To: Fleet Staff",
+      "textZh": "致:舰队参谋"
+    },
+    "7-passage-group-5.passage.1.3": {
+      "textEn": "From: Transport Safety Office",
+      "textZh": "发讯人:运输安全办公室"
+    },
+    "7-passage-group-5.passage.1.4": {
+      "textEn": "Date: January 9",
+      "textZh": "日期: 1月9日"
+    },
+    "7-passage-group-5.passage.1.5": {
+      "textEn": "Subject: Vehicle checks",
+      "textZh": "主体:车辆检查"
+    },
+    "7-passage-group-5.passage.1.6": {
+      "textEn": "A delivery driver was the only casualty of a recent depot collision and has now returned to work.",
+      "textZh": "一名送货司机是最近一次仓库碰撞的唯一受害者，现已恢复工作。"
+    },
+    "7-passage-group-5.passage.1.7": {
+      "textEn": "The incident has led to revised checks.",
+      "textZh": "该事件导致修改检查。"
+    },
+    "7-passage-group-5.passage.1.8": {
+      "textEn": "Before departure, inspect the bumper, tires, and warning lights.",
+      "textZh": "出发前，检查保险杠、轮胎和警灯。"
+    },
+    "7-passage-group-5.passage.1.9": {
+      "textEn": "If a tire looks damaged, do not simply shrug and assume it is safe.",
+      "textZh": "如果一个轮胎看起来受损了， 不要只是高耸， 并假设它是安全的。"
+    },
+    "7-passage-group-5.passage.1.10": {
+      "textEn": "Log the fault and request another vehicle.",
+      "textZh": "把故障记录下来，再找另一辆车"
+    },
+    "7-passage-group-5.passage.1.11": {
+      "textEn": "Never jaywalk across the depot road; use the crossing.",
+      "textZh": "永远不要走过仓库道路；使用过路口。"
+    },
+    "7-passage-group-5.passage.1.12": {
+      "textEn": "A sudden stop on a wet surface can cause a vehicle to skid even at low speed.",
+      "textZh": "突然停在湿水面上，即使低速滑行也会造成车辆滑行。"
+    },
+    "7-passage-group-5.passage.1.13": {
+      "textEn": "A reflective vest is required outside the marked office area.",
+      "textZh": "在标明的办公区外需要反光背心。"
+    },
+    "7-passage-group-5.passage.1.14": {
+      "textEn": "Staff assigned to the elevated platform may request a ground-level task if acrophobia makes the platform unsuitable.",
+      "textZh": "如果恐惧症使平台不合适，分配到提升平台的工作人员可要求开展地面工作。"
+    },
+    "7-passage-group-5.passage.1.15": {
+      "textEn": "The procedure demonstration is at 8:30 on Monday.",
+      "textZh": "程序演示于周一8:30举行。"
+    },
+    "7-passage-group-5.passage.1.16": {
+      "textEn": "Drivers and dispatch staff must attend; mechanics may watch a recording.",
+      "textZh": "司机和调度人员必须出席；机械师可以观看录音。"
+    },
+    "7-passage-group-5.passage.1.17": {
+      "textEn": "Send conflicts to the supervisor by Friday instead of exchanging shifts without approval.",
+      "textZh": "星期五前将冲突送交主管，而不是未经批准而换班。"
+    },
+    "q159.stem.1": {
+      "textEn": "What should a driver do about tire damage?",
+      "textZh": "司机对轮胎损坏应该做什么?"
+    },
+    "q159.option.A.1": {
+      "textEn": "Postpone checks until Monday",
+      "textZh": "将检查推迟到星期一"
+    },
+    "q159.option.B.1": {
+      "textEn": "Repair it without reporting",
+      "textZh": "在不报告的情况下修复"
+    },
+    "q159.option.C.1": {
+      "textEn": "Report it and request a different vehicle",
+      "textZh": "上报，请换辆新车"
+    },
+    "q159.option.D.1": {
+      "textEn": "Continue more slowly",
+      "textZh": "继续慢一点"
+    },
+    "q160.stem.1": {
+      "textEn": "Who may watch a recording instead of attending?",
+      "textZh": "谁可以看录音而不是出席?"
+    },
+    "q160.option.A.1": {
+      "textEn": "Mechanics",
+      "textZh": "机械师"
+    },
+    "q160.option.B.1": {
+      "textEn": "Dispatch staff",
+      "textZh": "调度人员"
+    },
+    "q160.option.C.1": {
+      "textEn": "Drivers",
+      "textZh": "司机"
+    },
+    "q160.option.D.1": {
+      "textEn": "Every employee",
+      "textZh": "每个雇员"
+    },
+    "q161.stem.1": {
+      "textEn": "What is implied about platform assignments?",
+      "textZh": "平台任务意味着什么?"
+    },
+    "q161.option.A.1": {
+      "textEn": "An alternative task can be requested",
+      "textZh": "可请求执行其它任务"
+    },
+    "q161.option.B.1": {
+      "textEn": "Platforms will be removed",
+      "textZh": "平台将被移除"
+    },
+    "q161.option.C.1": {
+      "textEn": "Everyone must climb",
+      "textZh": "每个人都要爬上去"
+    },
+    "q161.option.D.1": {
+      "textEn": "A diagnosis must be made on site",
+      "textZh": "必须在现场进行诊断"
+    },
+    "7-passage-group-6.passage.1.1": {
+      "textEn": "#### Web Page",
+      "textZh": "网页"
+    },
+    "7-passage-group-6.passage.1.2": {
+      "textEn": "Elm House Community Dining",
+      "textZh": "榆树楼社区餐厅"
+    },
+    "7-passage-group-6.passage.1.3": {
+      "textEn": "You are cordially invited to our Sunday table.",
+      "textZh": "我们诚恳地邀请你来到我们的周日餐桌。"
+    },
+    "7-passage-group-6.passage.1.4": {
+      "textEn": "Our founders' penurious beginnings led them to value hospitality without expensive surroundings.",
+      "textZh": "我们的创始人充满了痛苦的开端，使他们在没有昂贵的环境的情况下，珍视好客。"
+    },
+    "7-passage-group-6.passage.1.5": {
+      "textEn": "Today they serve regional cuisine in a splendid converted workshop.",
+      "textZh": "今天，它们在一个出色的转换车间里为区域烹饪服务。"
+    },
+    "7-passage-group-6.passage.1.6": {
+      "textEn": "A seasonal delicacy appears each week, alongside a familiar vegetable dish.",
+      "textZh": "每周都会有季节性美味的菜肴和熟悉的菜肴出现。"
+    },
+    "7-passage-group-6.passage.1.7": {
+      "textEn": "The restaurant is a social enterprise, not a medical service.",
+      "textZh": "餐厅是社会企业，不是医疗服务。"
+    },
+    "7-passage-group-6.passage.1.8": {
+      "textEn": "Its partner charity addresses malnutrition through food deliveries.",
+      "textZh": "其伙伴慈善机构通过运送食物解决营养不良问题。"
+    },
+    "7-passage-group-6.passage.1.9": {
+      "textEn": "Individual nutrition advice is available only through a separate professional program.",
+      "textZh": "个人营养咨询只能通过单独的专业方案提供。"
+    },
+    "7-passage-group-6.passage.1.10": {
+      "textEn": "Sunday bookings run from noon to three.",
+      "textZh": "周日可预约的时段为中午十二点到下午三点。"
+    },
+    "7-passage-group-6.passage.1.11": {
+      "textEn": "Guests with a ravenous appetite can order extra portions, but leftovers must be packed promptly.",
+      "textZh": "食欲旺盛的客人可以订购额外的部分，但剩余部分必须迅速包装。"
+    },
+    "7-passage-group-6.passage.1.12": {
+      "textEn": "Reservations for more than six require a deposit.",
+      "textZh": "六人以上的预订需要支付订金。"
+    },
+    "7-passage-group-6.passage.1.13": {
+      "textEn": "Ten percent of Sunday sales supports deliveries.",
+      "textZh": "10%的周日销售额支持交货。"
+    },
+    "7-passage-group-6.passage.1.14": {
+      "textEn": "Mention access needs when booking; the side entrance has a ramp.",
+      "textZh": "预订时要提及出入需要；侧入口有坡道。"
+    },
+    "7-passage-group-6.passage.1.15": {
+      "textEn": "Parking cannot be reserved, and the nearest bus stop is two minutes away.",
+      "textZh": "停车站不能预留，最近的公交车站离车站还有两分钟。"
+    },
+    "q162.stem.1": {
+      "textEn": "How does the restaurant support the charity?",
+      "textZh": "餐厅如何支持慈善事业?"
+    },
+    "q162.option.A.1": {
+      "textEn": "It contributes part of Sunday sales",
+      "textZh": "周日的部分销售额"
+    },
+    "q162.option.B.1": {
+      "textEn": "It sells its building",
+      "textZh": "它卖掉它的建筑"
+    },
+    "q162.option.C.1": {
+      "textEn": "It charges an annual subscription",
+      "textZh": "它每年收费订阅"
+    },
+    "q162.option.D.1": {
+      "textEn": "It gives every guest medical advice",
+      "textZh": "它会给每个客人提供医疗建议"
+    },
+    "q163.stem.1": {
+      "textEn": "Which reservation requires a deposit?",
+      "textZh": "哪些保留需要押金?"
+    },
+    "q163.option.A.1": {
+      "textEn": "Four guests",
+      "textZh": "四个客人"
+    },
+    "q163.option.B.1": {
+      "textEn": "Two guests",
+      "textZh": "两个客人"
+    },
+    "q163.option.C.1": {
+      "textEn": "Six guests",
+      "textZh": "六个客人"
+    },
+    "q163.option.D.1": {
+      "textEn": "Eight guests",
+      "textZh": "八位来宾"
+    },
+    "q164.stem.1": {
+      "textEn": "What should guests needing the ramp do?",
+      "textZh": "需要斜坡的客人应该做什么?"
+    },
+    "q164.option.A.1": {
+      "textEn": "Reserve parking",
+      "textZh": "预备停车"
+    },
+    "q164.option.B.1": {
+      "textEn": "Arrive after three",
+      "textZh": "3点后到达"
+    },
+    "q164.option.C.1": {
+      "textEn": "Contact a film organizer",
+      "textZh": "联系电影组织者"
+    },
+    "q164.option.D.1": {
+      "textEn": "Mention it when booking",
+      "textZh": "订房时要说"
+    },
+    "7-passage-group-7.passage.1.1": {
+      "textEn": "#### Advertisement",
+      "textZh": "广告"
+    },
+    "7-passage-group-7.passage.1.2": {
+      "textEn": "Lumen Street Festival, May 22",
+      "textZh": "5月22日鲁门街节"
+    },
+    "7-passage-group-7.passage.1.3": {
+      "textEn": "A neon installation, ballet performance, and punk concert will animate the old avenue.",
+      "textZh": "一个霓虹灯安装，芭蕾表演， 和朋克音乐会将会激活旧的大道。"
+    },
+    "7-passage-group-7.passage.1.4": {
+      "textEn": "Organizers hope the district will blossom again.",
+      "textZh": "组织者希望该区再次开花。"
+    },
+    "7-passage-group-7.passage.1.5": {
+      "textEn": "Ballet starts at 5 p.m.; the concert follows at 7.",
+      "textZh": "芭蕾舞于下午5时开始；演唱会随后在7时开始。"
+    },
+    "7-passage-group-7.passage.1.6": {
+      "textEn": "Although retro styles are in vogue, the organizers want useful activities rather than an irresistible advertising slogan.",
+      "textZh": "虽然复古风格在Vogue中，但组织者想要的是有用的活动，而不是一个不可抗拒的广告口号。"
+    },
+    "7-passage-group-7.passage.1.7": {
+      "textEn": "Admission is free, but workshop places must be booked.",
+      "textZh": "入学是免费的，但工作室的名额必须预定。"
+    },
+    "7-passage-group-7.passage.1.8": {
+      "textEn": "Photography workshops cost $25.",
+      "textZh": "摄影车间费用为25美元。"
+    },
+    "7-passage-group-7.passage.1.9": {
+      "textEn": "Participants may snap street scenes after an explanation of consent rules.",
+      "textZh": "在解释同意规则后，与会者可打破街景。"
+    },
+    "7-passage-group-7.passage.1.10": {
+      "textEn": "A messy work area must be cleared before the evening performances.",
+      "textZh": "晚上演出前必须清理一个杂乱无章的工作区。"
+    },
+    "7-passage-group-7.passage.1.11": {
+      "textEn": "Instructors use the courtyard behind number 18 to keep the pavement clear.",
+      "textZh": "教官们利用18号后面的庭院来保持人行道的清晰。"
+    },
+    "7-passage-group-7.passage.1.12": {
+      "textEn": "The ticket desk opens at noon.",
+      "textZh": "售票台中午开放。"
+    },
+    "7-passage-group-7.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-7.passage.2.2": {
+      "textEn": "To: Festival Desk",
+      "textZh": "至:节日台"
+    },
+    "7-passage-group-7.passage.2.3": {
+      "textEn": "From: Owen Dale",
+      "textZh": "发讯人:欧文·戴尔"
+    },
+    "7-passage-group-7.passage.2.4": {
+      "textEn": "Date: May 16",
+      "textZh": "日期:5月16日"
+    },
+    "7-passage-group-7.passage.2.5": {
+      "textEn": "I booked two photography places, but my companion has to work.",
+      "textZh": "我订了两个摄影站但我的同伴必须工作"
+    },
+    "7-passage-group-7.passage.2.6": {
+      "textEn": "Cancel only her place; I still plan to attend.",
+      "textZh": "只取消她的位置，我仍然计划去参加"
+    },
+    "7-passage-group-7.passage.2.7": {
+      "textEn": "I do not want to vacillate about my booking, since travel is arranged.",
+      "textZh": "我不想离开我的预订，因为旅行是安排的。"
+    },
+    "7-passage-group-7.passage.2.8": {
+      "textEn": "I am bringing a friend who prefers ballet to loud music.",
+      "textZh": "我带来一个朋友谁喜欢芭蕾而不是大声的音乐。"
+    },
+    "7-passage-group-7.passage.2.9": {
+      "textEn": "She does not need a workshop seat.",
+      "textZh": "她不需要工作室的座位。"
+    },
+    "7-passage-group-7.passage.2.10": {
+      "textEn": "Does she need a performance ticket?",
+      "textZh": "她需要一张表演票吗?"
+    },
+    "7-passage-group-7.passage.2.11": {
+      "textEn": "I will collect my workshop pass at 12:30.",
+      "textZh": "我会在12: 30领取工作证。"
+    },
+    "q165.stem.1": {
+      "textEn": "How many paid workshop places does Mr. Dale retain?",
+      "textZh": "戴尔先生有多少带薪工作室?"
+    },
+    "q165.option.A.1": {
+      "textEn": "None",
+      "textZh": "无"
+    },
+    "q165.option.B.1": {
+      "textEn": "One",
+      "textZh": "一个"
+    },
+    "q165.option.C.1": {
+      "textEn": "Three",
+      "textZh": "三个"
+    },
+    "q165.option.D.1": {
+      "textEn": "Two",
+      "textZh": "二个"
+    },
+    "q166.stem.1": {
+      "textEn": "When is his friend's preferred performance?",
+      "textZh": "他朋友的首选表演是什么时候?"
+    },
+    "q166.option.A.1": {
+      "textEn": "5 p.m.",
+      "textZh": "下午5时"
+    },
+    "q166.option.B.1": {
+      "textEn": "7 p.m.",
+      "textZh": "下午7时"
+    },
+    "q166.option.C.1": {
+      "textEn": "12:30 p.m.",
+      "textZh": "中午12时30分"
+    },
+    "q166.option.D.1": {
+      "textEn": "Noon",
+      "textZh": "午间"
+    },
+    "q167.stem.1": {
+      "textEn": "Where will Mr. Dale attend instruction?",
+      "textZh": "戴尔先生到哪里去上课?"
+    },
+    "q167.option.A.1": {
+      "textEn": "At the concert entrance",
+      "textZh": "在音乐会入口处"
+    },
+    "q167.option.B.1": {
+      "textEn": "Behind number 18",
+      "textZh": "18号后面"
+    },
+    "q167.option.C.1": {
+      "textEn": "At the ballet stage",
+      "textZh": "在芭蕾舞阶段"
+    },
+    "q167.option.D.1": {
+      "textEn": "At the station",
+      "textZh": "在车站"
+    },
+    "7-passage-group-8.passage.1.1": {
+      "textEn": "#### Policy",
+      "textZh": "政策"
+    },
+    "7-passage-group-8.passage.1.2": {
+      "textEn": "Cedar Works Benefits",
+      "textZh": "锡达工程福利"
+    },
+    "7-passage-group-8.passage.1.3": {
+      "textEn": "The plan covers eligible consultations for general, mental, and reproductive health, including counseling related to abortion.",
+      "textZh": "该计划涵盖对一般、精神和生殖健康的合格咨询，包括与堕胎有关的咨询。"
+    },
+    "7-passage-group-8.passage.1.4": {
+      "textEn": "Coverage descriptions do not replace professional advice.",
+      "textZh": "覆盖面说明不能取代专业建议。"
+    },
+    "7-passage-group-8.passage.1.5": {
+      "textEn": "Claims involving an obese patient or a congenital condition follow the same confidential process as other eligible care.",
+      "textZh": "涉及肥胖病人或先天性疾病的申诉遵循与其他合格护理相同的保密程序。"
+    },
+    "7-passage-group-8.passage.1.6": {
+      "textEn": "Do not send medical details to line managers.",
+      "textZh": "不将医疗细节发送给线上管理人员。"
+    },
+    "7-passage-group-8.passage.1.7": {
+      "textEn": "Claims staff may request an invoice for a prescribed pill or a consultation, but medical details remain confidential.",
+      "textZh": "索赔工作人员可以要求开具一张开具处方药的发票或咨询，但医疗细节保密。"
+    },
+    "7-passage-group-8.passage.1.8": {
+      "textEn": "Payment inquiries need a claim number; routine queries take five business days.",
+      "textZh": "付款查询需要索赔号；例行查询需要5个工作日。"
+    },
+    "7-passage-group-8.passage.1.9": {
+      "textEn": "Urgent billing problems may be escalated to the benefits officer.",
+      "textZh": "紧急收费问题可能会升级到福利干事身上。"
+    },
+    "7-passage-group-8.passage.2.1": {
+      "textEn": "#### Chat",
+      "textZh": "聊天"
+    },
+    "7-passage-group-8.passage.2.2": {
+      "textEn": "**Nia, 09:10:** My consultation claim was rejected because the invoice was missing.",
+      "textZh": "** Nia，09:10:** 我的咨询索赔因发票遗失而被驳回。"
+    },
+    "7-passage-group-8.passage.2.3": {
+      "textEn": "I do not want the details shared with my supervisor.",
+      "textZh": "我不想与我的主管分享细节。"
+    },
+    "7-passage-group-8.passage.2.4": {
+      "textEn": "**Ben, 09:12:** Submit it directly through the secure benefits portal.",
+      "textZh": "** Ben， 09:12:** 直接通过安全福利门户提交。"
+    },
+    "7-passage-group-8.passage.2.5": {
+      "textEn": "I will not ask about the clinical subject.",
+      "textZh": "我不会问临床问题。"
+    },
+    "7-passage-group-8.passage.2.6": {
+      "textEn": "**Nia, 09:13:** Payment is due Friday.",
+      "textZh": "** Nia， 09:13:** 应于星期五付款。"
+    },
+    "7-passage-group-8.passage.2.7": {
+      "textEn": "Normal processing will be too late.",
+      "textZh": "正常处理会太迟。"
+    },
+    "7-passage-group-8.passage.2.8": {
+      "textEn": "**Ben, 09:15:** Send the claim number to the benefits officer with the deadline.",
+      "textZh": "** Ben，09:15:** 将索赔号发送给福利干事，并注明截止日期。"
+    },
+    "7-passage-group-8.passage.2.9": {
+      "textEn": "Do not include medical history in this group chat.",
+      "textZh": "在此分组聊天中不要包括病史。"
+    },
+    "q168.stem.1": {
+      "textEn": "Why was the claim rejected?",
+      "textZh": "为何驳回这一主张?"
+    },
+    "q168.option.A.1": {
+      "textEn": "She was already reimbursed",
+      "textZh": "她已经偿还了"
+    },
+    "q168.option.B.1": {
+      "textEn": "Consultations are excluded",
+      "textZh": "协商不包括在内"
+    },
+    "q168.option.C.1": {
+      "textEn": "Her manager objected",
+      "textZh": "她的经理反对"
+    },
+    "q168.option.D.1": {
+      "textEn": "A document was missing",
+      "textZh": "缺少一个文件"
+    },
+    "q169.stem.1": {
+      "textEn": "What should Nia do about the deadline?",
+      "textZh": "尼娅应该怎么办期限?"
+    },
+    "q169.option.A.1": {
+      "textEn": "Post the invoice in the chat",
+      "textZh": "在聊天中张贴发票"
+    },
+    "q169.option.B.1": {
+      "textEn": "Escalate with the claim number",
+      "textZh": "与索赔号一起递增"
+    },
+    "q169.option.C.1": {
+      "textEn": "Wait without contacting anyone",
+      "textZh": "等待，不联系任何人"
+    },
+    "q169.option.D.1": {
+      "textEn": "Send medical history to her manager",
+      "textZh": "把病史寄给她的经理"
+    },
+    "q170.stem.1": {
+      "textEn": "What do both materials emphasize?",
+      "textZh": "这两种材料都强调什么?"
+    },
+    "q170.option.A.1": {
+      "textEn": "Having managers diagnose conditions",
+      "textZh": "让管理人员诊断病情"
+    },
+    "q170.option.B.1": {
+      "textEn": "Rejecting all reproductive-health claims",
+      "textZh": "驳回所有生殖健康要求"
+    },
+    "q170.option.C.1": {
+      "textEn": "Restricting access to medical information",
+      "textZh": "限制获取医疗信息"
+    },
+    "q170.option.D.1": {
+      "textEn": "Using group chats for medical records",
+      "textZh": "使用集体聊天进行医疗记录"
+    },
+    "7-passage-group-9.passage.1.1": {
+      "textEn": "#### Article",
+      "textZh": "第条"
+    },
+    "7-passage-group-9.passage.1.2": {
+      "textEn": "Harrow Exchange Training",
+      "textZh": "Harrow 交流培训"
+    },
+    "7-passage-group-9.passage.1.3": {
+      "textEn": "The local bourse will host workshops for new investors.",
+      "textZh": "当地商场将为新投资者举办讲习班。"
+    },
+    "7-passage-group-9.passage.1.4": {
+      "textEn": "A prolific writer will explain the difference between a dividend and repayment at maturity, and how subtraction of fees changes a quoted return.",
+      "textZh": "大量撰稿人将解释红利和到期还款之间的差别，以及扣除费用如何改变所引用的回报。"
+    },
+    "7-passage-group-9.passage.1.5": {
+      "textEn": "The chair, vice president of the chamber of commerce, says no specific investments will be recommended.",
+      "textZh": "商会主席、副主席说，不建议进行具体投资。"
+    },
+    "7-passage-group-9.passage.1.6": {
+      "textEn": "Bring a calculator.",
+      "textZh": "带一个计算器。"
+    },
+    "7-passage-group-9.passage.1.7": {
+      "textEn": "The first workshop is March 18 at 9 a.m.",
+      "textZh": "第一期讲习班是3月18日上午9时。"
+    },
+    "7-passage-group-9.passage.1.8": {
+      "textEn": "Places cost $40.",
+      "textZh": "地点花费40美元。"
+    },
+    "7-passage-group-9.passage.1.9": {
+      "textEn": "Registration before March 10 includes a workbook at no extra charge.",
+      "textZh": "3月10日之前的登记包括免费工作手册。"
+    },
+    "7-passage-group-9.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-9.passage.2.2": {
+      "textEn": "To: Training Coordinator",
+      "textZh": "至:培训协调员"
+    },
+    "7-passage-group-9.passage.2.3": {
+      "textEn": "From: Sofia Rana",
+      "textZh": "发讯人:索非亚·拉纳"
+    },
+    "7-passage-group-9.passage.2.4": {
+      "textEn": "Date: March 8",
+      "textZh": "日期:3月8日"
+    },
+    "7-passage-group-9.passage.2.5": {
+      "textEn": "Please register me for the first workshop; my $40 payment is enclosed.",
+      "textZh": "请登记我参加第一个工作坊，随函附上我的40美元付款。"
+    },
+    "7-passage-group-9.passage.2.6": {
+      "textEn": "I am an avid reader of the speaker, especially on the virtue of clear fee disclosure.",
+      "textZh": "我是这位发言者的热门读者，特别是因为要明确披露费用。"
+    },
+    "7-passage-group-9.passage.2.7": {
+      "textEn": "I have a calculator.",
+      "textZh": "我有一个计算器。"
+    },
+    "7-passage-group-9.passage.2.8": {
+      "textEn": "Could you send the workbook electronically?",
+      "textZh": "你能以电子方式发送工作手册吗?"
+    },
+    "7-passage-group-9.passage.2.9": {
+      "textEn": "I travel March 15 and want to read it beforehand.",
+      "textZh": "我在3月15日旅行，想事先阅读一下。"
+    },
+    "7-passage-group-9.passage.2.10": {
+      "textEn": "If that is unavailable, keep a printed copy for collection on the day.",
+      "textZh": "如果无法提供，请在当天保存一份打印的拷贝以供收藏。"
+    },
+    "q171.stem.1": {
+      "textEn": "What will the course avoid?",
+      "textZh": "航线会避免什么?"
+    },
+    "q171.option.A.1": {
+      "textEn": "Explaining fees",
+      "textZh": "解释费用"
+    },
+    "q171.option.B.1": {
+      "textEn": "Comparing income and repayment",
+      "textZh": "收入与还款的比较"
+    },
+    "q171.option.C.1": {
+      "textEn": "Using calculations",
+      "textZh": "使用计算"
+    },
+    "q171.option.D.1": {
+      "textEn": "Recommending specific investments",
+      "textZh": "建议具体投资"
+    },
+    "q172.stem.1": {
+      "textEn": "Why is Ms. Rana eligible for the workbook?",
+      "textZh": "为什么拉纳女士有资格拿到工作手册?"
+    },
+    "q172.option.A.1": {
+      "textEn": "She works for the exchange",
+      "textZh": "她为交易所工作"
+    },
+    "q172.option.B.1": {
+      "textEn": "She has a calculator",
+      "textZh": "她有一个计算器"
+    },
+    "q172.option.C.1": {
+      "textEn": "She travels on March 15",
+      "textZh": "她3月15号出行"
+    },
+    "q172.option.D.1": {
+      "textEn": "She registers before the deadline",
+      "textZh": "在截止日期之前她就注册了"
+    },
+    "q173.stem.1": {
+      "textEn": "What if electronic delivery is unavailable?",
+      "textZh": "如果无法通过电子方式交付，怎么办?"
+    },
+    "q173.option.A.1": {
+      "textEn": "She will change her travel date",
+      "textZh": "她会改旅行日期的"
+    },
+    "q173.option.B.1": {
+      "textEn": "Her payment must be returned",
+      "textZh": "她的薪水必须退还"
+    },
+    "q173.option.C.1": {
+      "textEn": "She will collect a printed copy",
+      "textZh": "她会收集一份印刷本"
+    },
+    "q173.option.D.1": {
+      "textEn": "She will cancel",
+      "textZh": "她会取消的"
+    },
+    "7-passage-group-10.passage.1.1": {
+      "textEn": "#### Notice",
+      "textZh": "通知"
+    },
+    "7-passage-group-10.passage.1.2": {
+      "textEn": "Bay Museum Science Evenings",
+      "textZh": "海湾博物馆科学晚报"
+    },
+    "7-passage-group-10.passage.1.3": {
+      "textEn": "Explore purification of water, atmospheric measurements, and simple sensors.",
+      "textZh": "探索净水，大气测量，简易传感器。"
+    },
+    "7-passage-group-10.passage.1.4": {
+      "textEn": "The presenter uses familiar objects instead of trying to mystify visitors with jargon.",
+      "textZh": "介绍者使用熟悉的物体，而不是试图用术语来神秘化访客。"
+    },
+    "7-passage-group-10.passage.1.5": {
+      "textEn": "Week one compares clear and turbid samples.",
+      "textZh": "一周来比较清晰和模糊的样本。"
+    },
+    "7-passage-group-10.passage.1.6": {
+      "textEn": "Week two examines a filter's circumference and capacity.",
+      "textZh": "第二周检查过滤器的周长和能力。"
+    },
+    "7-passage-group-10.passage.1.7": {
+      "textEn": "Each adult session lasts ninety minutes.",
+      "textZh": "每次成人会议持续90分钟。"
+    },
+    "7-passage-group-10.passage.1.8": {
+      "textEn": "Admission is $15, or $10 for members.",
+      "textZh": "接纳成员为15美元或10美元。"
+    },
+    "7-passage-group-10.passage.1.9": {
+      "textEn": "Reserve by telephone; online booking is temporarily unavailable.",
+      "textZh": "电话储备；暂时无法在线预订。"
+    },
+    "7-passage-group-10.passage.1.10": {
+      "textEn": "Doors open at 6:15, with demonstrations at 6:30.",
+      "textZh": "6点15分开门，6点30分示威"
+    },
+    "7-passage-group-10.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-10.passage.2.2": {
+      "textEn": "To: Museum Office",
+      "textZh": "至:博物馆办公室"
+    },
+    "7-passage-group-10.passage.2.3": {
+      "textEn": "From: Ellis Wong",
+      "textZh": "发讯人:黄艾莉丝"
+    },
+    "7-passage-group-10.passage.2.4": {
+      "textEn": "I would like two places in the first session.",
+      "textZh": "我想在第一届会议上坐两个位子。"
+    },
+    "7-passage-group-10.passage.2.5": {
+      "textEn": "My partner is a member, but I am not.",
+      "textZh": "我的搭档是会员但我不是"
+    },
+    "7-passage-group-10.passage.2.6": {
+      "textEn": "We can arrive at 6:20.",
+      "textZh": "我们可以在6: 20到达。"
+    },
+    "7-passage-group-10.passage.2.7": {
+      "textEn": "The web form initially made us think both evenings were full.",
+      "textZh": "网络表格起初让我们觉得两个晚上都满了。"
+    },
+    "7-passage-group-10.passage.2.8": {
+      "textEn": "I now see the telephone-booking notice.",
+      "textZh": "我现在看到电话预订通知。"
+    },
+    "7-passage-group-10.passage.2.9": {
+      "textEn": "Please confirm the total charge and whether samples are required.",
+      "textZh": "请确认总收费以及是否需要样品。"
+    },
+    "7-passage-group-10.passage.2.10": {
+      "textEn": "We have never attended a practical demonstration here.",
+      "textZh": "我们以前从未在这里参加过实操演示。"
+    },
+    "q174.stem.1": {
+      "textEn": "What does the requested session concern?",
+      "textZh": "所要求的会议涉及什么?"
+    },
+    "q174.option.A.1": {
+      "textEn": "Water samples",
+      "textZh": "水样"
+    },
+    "q174.option.B.1": {
+      "textEn": "Financial returns",
+      "textZh": "财务收益"
+    },
+    "q174.option.C.1": {
+      "textEn": "Writing advertisements",
+      "textZh": "写广告"
+    },
+    "q174.option.D.1": {
+      "textEn": "Filter circumference",
+      "textZh": "滤镜环绕"
+    },
+    "q175.stem.1": {
+      "textEn": "What is the total admission charge?",
+      "textZh": "入院费总额是多少?"
+    },
+    "q175.option.A.1": {
+      "textEn": "$15",
+      "textZh": "15 美元"
+    },
+    "q175.option.B.1": {
+      "textEn": "$30",
+      "textZh": "30 美元"
+    },
+    "q175.option.C.1": {
+      "textEn": "$20",
+      "textZh": "20 美元"
+    },
+    "q175.option.D.1": {
+      "textEn": "$25",
+      "textZh": "25 美元"
+    },
+    "q176.stem.1": {
+      "textEn": "Why did the online booking fail?",
+      "textZh": "网络预订为何失败?."
+    },
+    "q176.option.A.1": {
+      "textEn": "Both sessions are sold out",
+      "textZh": "两届都卖光了"
+    },
+    "q176.option.B.1": {
+      "textEn": "Members cannot book",
+      "textZh": "成员不能预订"
+    },
+    "q176.option.C.1": {
+      "textEn": "The service is temporarily unavailable",
+      "textZh": "该服务暂时无法使用"
+    },
+    "q176.option.D.1": {
+      "textEn": "The guests arrived early",
+      "textZh": "客人早点来"
+    },
+    "7-passage-group-11.passage.1.1": {
+      "textEn": "#### Memo",
+      "textZh": "备忘"
+    },
+    "7-passage-group-11.passage.1.2": {
+      "textEn": "Heritage Volunteers",
+      "textZh": "传统志愿人员"
+    },
+    "7-passage-group-11.passage.1.3": {
+      "textEn": "We will mourn our founder at a memorial on June 4.",
+      "textZh": "我们将在6月4日的纪念馆悼念我们的创始人。"
+    },
+    "7-passage-group-11.passage.1.4": {
+      "textEn": "An envoy from our overseas partner will attend.",
+      "textZh": "海外伙伴的特使将出席。"
+    },
+    "7-passage-group-11.passage.1.5": {
+      "textEn": "The event honors her legacy of practical diplomacy, not a political cause.",
+      "textZh": "该活动尊重她的实际外交遗产，而不是政治事业。"
+    },
+    "7-passage-group-11.passage.1.6": {
+      "textEn": "Volunteers should enter from the east at 8 a.m. and collect badges.",
+      "textZh": "志愿者应于上午8时从东部进入并收集徽章。"
+    },
+    "7-passage-group-11.passage.1.7": {
+      "textEn": "The stage manager gives the opening cue at 10.",
+      "textZh": "舞台经理在10点开机"
+    },
+    "7-passage-group-11.passage.1.8": {
+      "textEn": "Do not start music before that signal.",
+      "textZh": "别在那信号之前开始音乐"
+    },
+    "7-passage-group-11.passage.1.9": {
+      "textEn": "Written tributes may allude to memories but need office review by May 30.",
+      "textZh": "书面的悼念可能提及记忆，但需要在5月30日之前进行办公室审查。"
+    },
+    "7-passage-group-11.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-11.passage.2.2": {
+      "textEn": "To: Heritage Office",
+      "textZh": "致:遗产办公室"
+    },
+    "7-passage-group-11.passage.2.3": {
+      "textEn": "From: Leila Sato",
+      "textZh": "发讯人:莱拉·萨托"
+    },
+    "7-passage-group-11.passage.2.4": {
+      "textEn": "Date: May 27",
+      "textZh": "日期:5月27日"
+    },
+    "7-passage-group-11.passage.2.5": {
+      "textEn": "I attach a tribute about my first project with the founder.",
+      "textZh": "我对与创始人的第一个项目表示赞扬。"
+    },
+    "7-passage-group-11.passage.2.6": {
+      "textEn": "Please review it before the deadline.",
+      "textZh": "请在截止日期前审查。"
+    },
+    "7-passage-group-11.passage.2.7": {
+      "textEn": "The envoy travels with me, but our train means we arrive at nine, after the volunteer briefing.",
+      "textZh": "特使和我一起旅行，但我们的火车意味着我们到达九点，在志愿者通报之后。"
+    },
+    "7-passage-group-11.passage.2.8": {
+      "textEn": "Could someone meet us at the east entrance?",
+      "textZh": "能有人在东门见我们吗?"
+    },
+    "7-passage-group-11.passage.2.9": {
+      "textEn": "I can assist with badges before the opening signal.",
+      "textZh": "我可以在开通信号前帮你们办到警徽"
+    },
+    "7-passage-group-11.passage.2.10": {
+      "textEn": "Keep my assignment rather than finding a replacement.",
+      "textZh": "而不是找替补"
+    },
+    "q177.stem.1": {
+      "textEn": "What does Ms. Sato ask the office to review?",
+      "textZh": "佐藤小姐要求办公室审查什么?"
+    },
+    "q177.option.A.1": {
+      "textEn": "A new envoy appointment",
+      "textZh": "新的特使任命"
+    },
+    "q177.option.B.1": {
+      "textEn": "A written tribute",
+      "textZh": "书面致敬"
+    },
+    "q177.option.C.1": {
+      "textEn": "A canceled train",
+      "textZh": "取消的列车"
+    },
+    "q177.option.D.1": {
+      "textEn": "A revised music score",
+      "textZh": "修改后的音乐乐谱"
+    },
+    "q178.stem.1": {
+      "textEn": "How late will she be relative to volunteer reporting time?",
+      "textZh": "她会比志愿者报告时间晚多久?"
+    },
+    "q178.option.A.1": {
+      "textEn": "Two hours",
+      "textZh": "两小时"
+    },
+    "q178.option.B.1": {
+      "textEn": "One hour",
+      "textZh": "一小时"
+    },
+    "q178.option.C.1": {
+      "textEn": "Fifteen minutes",
+      "textZh": "15分钟"
+    },
+    "q178.option.D.1": {
+      "textEn": "Thirty minutes",
+      "textZh": "30分钟"
+    },
+    "q179.stem.1": {
+      "textEn": "What is implied about her availability?",
+      "textZh": "她的可用性意味着什么?"
+    },
+    "q179.option.A.1": {
+      "textEn": "She misses the entire event",
+      "textZh": "她错过了整个事件"
+    },
+    "q179.option.B.1": {
+      "textEn": "She attends only an overseas visit",
+      "textZh": "她只参加过海外访问"
+    },
+    "q179.option.C.1": {
+      "textEn": "She can help before the opening",
+      "textZh": "开张前她可以帮忙"
+    },
+    "q179.option.D.1": {
+      "textEn": "She must surrender her assignment",
+      "textZh": "她必须交出任务"
+    },
+    "7-passage-group-12.passage.1.1": {
+      "textEn": "#### Web Page",
+      "textZh": "网页"
+    },
+    "7-passage-group-12.passage.1.2": {
+      "textEn": "River Stage Auditions",
+      "textZh": "河流阶段的考察"
+    },
+    "7-passage-group-12.passage.1.3": {
+      "textEn": "Our director hopes to groom newcomers and let experienced performers excel in unfamiliar roles.",
+      "textZh": "我们的导演希望培养新人让有经验的演员在不熟悉的角色上表现优异"
+    },
+    "7-passage-group-12.passage.1.4": {
+      "textEn": "A precocious applicant is welcome, but anyone under eighteen needs a guardian.",
+      "textZh": "欢迎才智早熟的申请人，不过未满 18 岁的人需要有监护人陪同。"
+    },
+    "7-passage-group-12.passage.1.5": {
+      "textEn": "Auditions are February 12 from 10 a.m. to 4 p.m.",
+      "textZh": "试演定于 2 月 12 日上午 10 点到下午 4 点。"
+    },
+    "7-passage-group-12.passage.1.6": {
+      "textEn": "Wear comfortable attire; trendy or hip clothing is unnecessary.",
+      "textZh": "穿着舒适的服饰；时髦或臀部的服饰是不必要的。"
+    },
+    "7-passage-group-12.passage.1.7": {
+      "textEn": "Bring a two-minute speech.",
+      "textZh": "带个两分钟的演讲"
+    },
+    "7-passage-group-12.passage.1.8": {
+      "textEn": "A tangle of costume material or an elaborate prop can distract, so both are discouraged.",
+      "textZh": "缠绕着服装材料或精心制作的道具可以分散注意力，所以两者都被劝阻。"
+    },
+    "7-passage-group-12.passage.2.1": {
+      "textEn": "#### Message",
+      "textZh": "消息"
+    },
+    "7-passage-group-12.passage.2.2": {
+      "textEn": "From: Theo Marsh",
+      "textZh": "发讯人:Theo Marsh"
+    },
+    "7-passage-group-12.passage.2.3": {
+      "textEn": "My seventeen-year-old daughter can attend after school at 3:30, and I will accompany her.",
+      "textZh": "我十七岁的女儿可以放学3: 30去上学，我会陪着她。"
+    },
+    "7-passage-group-12.passage.2.4": {
+      "textEn": "Her speech is one minute and forty-five seconds long.",
+      "textZh": "她的演讲长1分45秒。"
+    },
+    "7-passage-group-12.passage.2.5": {
+      "textEn": "We planned to bring a painted backdrop, but will leave it home after reading your advice.",
+      "textZh": "我们计划带一个漆色的背景， 但是在读完你的建议后，会把它留在家里。"
+    },
+    "7-passage-group-12.passage.2.6": {
+      "textEn": "Please confirm a time near 3:30.",
+      "textZh": "请确认3: 30附近时间"
+    },
+    "7-passage-group-12.passage.2.7": {
+      "textEn": "Morning appointments will not work because she has classes.",
+      "textZh": "早间预约不行因为她有课"
+    },
+    "q180.stem.1": {
+      "textEn": "Why must the applicant be accompanied?",
+      "textZh": "为什么必须陪同申请人?"
+    },
+    "q180.option.A.1": {
+      "textEn": "She is already employed",
+      "textZh": "她已经就业了"
+    },
+    "q180.option.B.1": {
+      "textEn": "She is under eighteen",
+      "textZh": "她不满18岁"
+    },
+    "q180.option.C.1": {
+      "textEn": "All performers need interpreters",
+      "textZh": "所有表演者都需要翻译"
+    },
+    "q180.option.D.1": {
+      "textEn": "She has no prepared speech",
+      "textZh": "她没有准备好的演讲"
+    },
+    "q181.stem.1": {
+      "textEn": "Which appointment best meets the request?",
+      "textZh": "哪个预约最符合要求?"
+    },
+    "q181.option.A.1": {
+      "textEn": "3:30 p.m.",
+      "textZh": "下午3时30分"
+    },
+    "q181.option.B.1": {
+      "textEn": "Noon",
+      "textZh": "午间"
+    },
+    "q181.option.C.1": {
+      "textEn": "5 p.m.",
+      "textZh": "下午5时"
+    },
+    "q181.option.D.1": {
+      "textEn": "10 a.m.",
+      "textZh": "上午10时"
+    },
+    "q182.stem.1": {
+      "textEn": "What change have they made?",
+      "textZh": "他们做了什么改变?"
+    },
+    "q182.option.A.1": {
+      "textEn": "Performing music instead of a speech",
+      "textZh": "表演音乐而不是演讲"
+    },
+    "q182.option.B.1": {
+      "textEn": "Leaving the backdrop at home",
+      "textZh": "将背景留在家里"
+    },
+    "q182.option.C.1": {
+      "textEn": "Attending without a guardian",
+      "textZh": "无监护人出席"
+    },
+    "q182.option.D.1": {
+      "textEn": "Wearing evening dress",
+      "textZh": "穿着晚礼服"
+    },
+    "7-passage-group-13.passage.1.1": {
+      "textEn": "#### Advertisement",
+      "textZh": "广告"
+    },
+    "7-passage-group-13.passage.1.2": {
+      "textEn": "Crest Lodge Weekend",
+      "textZh": "十字路口周末( C)"
+    },
+    "7-passage-group-13.passage.1.3": {
+      "textEn": "Two nights cost $220 per person, including breakfast and one guided trek.",
+      "textZh": "两天晚上每人花费220美元，包括早餐和一次导游旅行。"
+    },
+    "7-passage-group-13.passage.1.4": {
+      "textEn": "A sports jersey is suitable; avoid loose, untied shoelaces.",
+      "textZh": "运动衫是合适的；避免松散，松绑的鞋带。"
+    },
+    "7-passage-group-13.passage.1.5": {
+      "textEn": "The nearby casino is independent and not included.",
+      "textZh": "附近的赌场是独立的，不包含在内。"
+    },
+    "7-passage-group-13.passage.1.6": {
+      "textEn": "Preserve tranquility by avoiding loud music after nine.",
+      "textZh": "九点后请勿大声播放音乐，以保持安静。"
+    },
+    "7-passage-group-13.passage.1.7": {
+      "textEn": "Do not trespass on the neighboring farm.",
+      "textZh": "别闯进邻居的农场"
+    },
+    "7-passage-group-13.passage.1.8": {
+      "textEn": "The lodge offers both meadow and ridge routes, but they differ in difficulty; staff can explain which suits your party.",
+      "textZh": "旅馆既提供草地，也提供山脊路线，但困难程度不同；工作人员可以解释哪些适合你的派对。"
+    },
+    "7-passage-group-13.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-13.passage.2.2": {
+      "textEn": "To: Crest Lodge",
+      "textZh": "发往: Crest Lodge"
+    },
+    "7-passage-group-13.passage.2.3": {
+      "textEn": "From: Amira Boyd",
+      "textZh": "发讯人: Amira Boyd"
+    },
+    "7-passage-group-13.passage.2.4": {
+      "textEn": "Please book two adult packages.",
+      "textZh": "请订两件成人包裹。"
+    },
+    "7-passage-group-13.passage.2.5": {
+      "textEn": "My companion recently injured her hip and prefers an easy route; do not cancel the trek.",
+      "textZh": "我的同伴最近伤了她的臀部，更喜欢一条轻松的路线；不要取消旅行。"
+    },
+    "7-passage-group-13.passage.2.6": {
+      "textEn": "We will arrive at six Friday by bus.",
+      "textZh": "我们周五6点乘公交车到达"
+    },
+    "7-passage-group-13.passage.2.7": {
+      "textEn": "Could you arrange a ground-floor room and confirm a route without steep climbing?",
+      "textZh": "你能安排一个地底房间并且确认一条没有陡峭攀登的路线吗?"
+    },
+    "7-passage-group-13.passage.2.8": {
+      "textEn": "We do not need help with luggage, but an uphill walk from the bus stop would be difficult.",
+      "textZh": "我们不需要行李的帮助，但从公交车站走上坡路会很困难。"
+    },
+    "7-passage-group-13.passage.3.1": {
+      "textEn": "#### Reply",
+      "textZh": "答复"
+    },
+    "7-passage-group-13.passage.3.2": {
+      "textEn": "Dear Ms. Boyd,",
+      "textZh": "亲爱的博伊德女士，"
+    },
+    "7-passage-group-13.passage.3.3": {
+      "textEn": "Room 3 is on the ground floor.",
+      "textZh": "第3会议室在一楼。"
+    },
+    "7-passage-group-13.passage.3.4": {
+      "textEn": "Saturday's meadow route is nearly level; Sunday's ridge route is steep.",
+      "textZh": "星期六的草地路线接近平面；星期日的山脊路线陡峭。"
+    },
+    "7-passage-group-13.passage.3.5": {
+      "textEn": "We assigned you to Saturday at ten.",
+      "textZh": "我们派你到周六十点"
+    },
+    "7-passage-group-13.passage.3.6": {
+      "textEn": "Breakfast runs from seven to nine.",
+      "textZh": "早餐从七点到九点"
+    },
+    "7-passage-group-13.passage.3.7": {
+      "textEn": "Pay the $440 total on arrival.",
+      "textZh": "440美元一到就付账"
+    },
+    "7-passage-group-13.passage.3.8": {
+      "textEn": "The bus stops opposite the lodge on level ground, so no transfer is needed.",
+      "textZh": "巴士停在小屋对面的平面地面上，所以不需要转移。"
+    },
+    "7-passage-group-13.passage.3.9": {
+      "textEn": "We look forward to welcoming you both.",
+      "textZh": "我们期待着欢迎你们两位。"
+    },
+    "q183.stem.1": {
+      "textEn": "Which activity will the guests join?",
+      "textZh": "客人要参加什么活动?"
+    },
+    "q183.option.A.1": {
+      "textEn": "Saturday's meadow walk",
+      "textZh": "周六的草地散步时"
+    },
+    "q183.option.B.1": {
+      "textEn": "An included casino tour",
+      "textZh": "包括赌场巡回演出"
+    },
+    "q183.option.C.1": {
+      "textEn": "A Friday climb",
+      "textZh": "星期五攀登时"
+    },
+    "q183.option.D.1": {
+      "textEn": "Sunday's ridge trek",
+      "textZh": "星期天的山脊之旅"
+    },
+    "q184.stem.1": {
+      "textEn": "What room feature meets a request?",
+      "textZh": "哪个房间能满足要求?"
+    },
+    "q184.option.A.1": {
+      "textEn": "A casino view",
+      "textZh": "赌场风景"
+    },
+    "q184.option.B.1": {
+      "textEn": "A private balcony",
+      "textZh": "一个私人阳台"
+    },
+    "q184.option.C.1": {
+      "textEn": "Ground-floor location",
+      "textZh": "底楼地点"
+    },
+    "q184.option.D.1": {
+      "textEn": "A kitchen",
+      "textZh": "厨房"
+    },
+    "q185.stem.1": {
+      "textEn": "What does $440 cover?",
+      "textZh": "440块能付多少?"
+    },
+    "q185.option.A.1": {
+      "textEn": "Three nights for one guest",
+      "textZh": "三个晚上一个客人"
+    },
+    "q185.option.B.1": {
+      "textEn": "Casino admission",
+      "textZh": "赌场招生"
+    },
+    "q185.option.C.1": {
+      "textEn": "Private bus transfers",
+      "textZh": "私人公共汽车转让"
+    },
+    "q185.option.D.1": {
+      "textEn": "Two adult weekend packages",
+      "textZh": "两个成人周末包"
+    },
+    "7-passage-group-14.passage.1.1": {
+      "textEn": "#### Article",
+      "textZh": "第条"
+    },
+    "7-passage-group-14.passage.1.2": {
+      "textEn": "Screen Rights Forum",
+      "textZh": "屏幕权利论坛"
+    },
+    "7-passage-group-14.passage.1.3": {
+      "textEn": "A film mogul joins the Elm Hall forum October 20 to discuss piracy.",
+      "textZh": "一位电影业巨头将于 10 月 20 日参加榆树厅论坛，讨论盗版问题。"
+    },
+    "7-passage-group-14.passage.1.4": {
+      "textEn": "The panel examines a verdict on unauthorized distribution and explains why a crackdown cannot replace clear licensing information.",
+      "textZh": "小组审查关于未经授权的销售的裁决，并解释为什么镇压不能取代明确的许可证发放信息。"
+    },
+    "7-passage-group-14.passage.1.5": {
+      "textEn": "Speakers will not name individual downloaders or invite anyone to denounce neighbors.",
+      "textZh": "演讲者不会点出个人下载者的名字，也不会邀请任何人谴责邻居。"
+    },
+    "7-passage-group-14.passage.1.6": {
+      "textEn": "Organizers seek useful guidance rather than confrontation.",
+      "textZh": "组织者寻求有益的指导，而不是对抗。"
+    },
+    "7-passage-group-14.passage.1.7": {
+      "textEn": "A producer and distributor will answer questions submitted by attendees.",
+      "textZh": "生产商和经销商将回答与会者提出的问题。"
+    },
+    "7-passage-group-14.passage.2.1": {
+      "textEn": "#### Schedule",
+      "textZh": "时间表"
+    },
+    "7-passage-group-14.passage.2.2": {
+      "textEn": "| Time | Session |",
+      "textZh": "时间｜环节"
+    },
+    "7-passage-group-14.passage.2.3": {
+      "textEn": "| --- | --- |",
+      "textZh": "表格分隔线"
+    },
+    "7-passage-group-14.passage.2.4": {
+      "textEn": "| 13:00 | Registration |",
+      "textZh": "13:00｜签到"
+    },
+    "7-passage-group-14.passage.2.5": {
+      "textEn": "| 13:30 | Licensing explained |",
+      "textZh": "13:30｜授权说明"
+    },
+    "7-passage-group-14.passage.2.6": {
+      "textEn": "| 14:15 | Rights-holder panel with producer and distributor |",
+      "textZh": "14:15｜权利人座谈，制片方和发行方参加"
+    },
+    "7-passage-group-14.passage.2.7": {
+      "textEn": "| 15:00 | Audience questions |",
+      "textZh": "15:00｜观众提问"
+    },
+    "7-passage-group-14.passage.2.8": {
+      "textEn": "Submit written questions before 14:45.",
+      "textZh": "14:45前提交书面问题。"
+    },
+    "7-passage-group-14.passage.2.9": {
+      "textEn": "Late arrivals may enter between sessions.",
+      "textZh": "迟到者可在休会期间入境。"
+    },
+    "7-passage-group-14.passage.2.10": {
+      "textEn": "No film screening is included, and seating is first come, first served.",
+      "textZh": "不包括电影放映，座位先到，先服务。"
+    },
+    "7-passage-group-14.passage.3.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-14.passage.3.2": {
+      "textEn": "To: Forum Coordinator",
+      "textZh": "致:论坛协调员"
+    },
+    "7-passage-group-14.passage.3.3": {
+      "textEn": "From: Kellan Price",
+      "textZh": "发讯人:Kellan Price"
+    },
+    "7-passage-group-14.passage.3.4": {
+      "textEn": "I arrive at two and will miss the licensing presentation.",
+      "textZh": "我到了两个，而且会错过许可证的介绍。"
+    },
+    "7-passage-group-14.passage.3.5": {
+      "textEn": "I want to hear the producer and ask whether our school may show a purchased film publicly.",
+      "textZh": "我想听听制片人问我们学校能否公开放映一部购买的电影"
+    },
+    "7-passage-group-14.passage.3.6": {
+      "textEn": "I do not need advice about the verdict.",
+      "textZh": "我不需要关于判决的意见。"
+    },
+    "7-passage-group-14.passage.3.7": {
+      "textEn": "I will submit my question upon arrival.",
+      "textZh": "我会在抵达时提出我的问题。"
+    },
+    "7-passage-group-14.passage.3.8": {
+      "textEn": "Staff want to understand the difference between buying a copy and obtaining public-screening permission.",
+      "textZh": "工作人员希望了解购买副本与获得公共筛选许可之间的区别。"
+    },
+    "q186.stem.1": {
+      "textEn": "When is the person Mr. Price wants to hear scheduled?",
+      "textZh": "普莱斯先生想听的人是什么时候?"
+    },
+    "q186.option.A.1": {
+      "textEn": "13:00",
+      "textZh": "13:00（下午一点）"
+    },
+    "q186.option.B.1": {
+      "textEn": "14:15",
+      "textZh": "14: 15 (英语)."
+    },
+    "q186.option.C.1": {
+      "textEn": "13:30",
+      "textZh": "13时30分"
+    },
+    "q186.option.D.1": {
+      "textEn": "16:00",
+      "textZh": "16:00（下午四点）"
+    },
+    "q187.stem.1": {
+      "textEn": "Can he still submit a question on time?",
+      "textZh": "他还能按时提出问题吗?"
+    },
+    "q187.option.A.1": {
+      "textEn": "No, registration starts at one",
+      "textZh": "不，登记从一个开始"
+    },
+    "q187.option.B.1": {
+      "textEn": "Only by buying a film",
+      "textZh": "只有买一部电影"
+    },
+    "q187.option.C.1": {
+      "textEn": "Yes, shortly after his arrival",
+      "textZh": "是的，在他到达后不久"
+    },
+    "q187.option.D.1": {
+      "textEn": "Only by attending the earlier talk",
+      "textZh": "只能通过参加之前的谈话"
+    },
+    "q188.stem.1": {
+      "textEn": "What is his principal concern?",
+      "textZh": "他主要关心什么?"
+    },
+    "q188.option.A.1": {
+      "textEn": "The producer's next sequel",
+      "textZh": "制片人的下一部续集"
+    },
+    "q188.option.B.1": {
+      "textEn": "Theater construction",
+      "textZh": "剧院建筑"
+    },
+    "q188.option.C.1": {
+      "textEn": "A criminal appeal",
+      "textZh": "刑事上诉"
+    },
+    "q188.option.D.1": {
+      "textEn": "School screening permission",
+      "textZh": "学校检查许可"
+    },
+    "7-passage-group-15.passage.1.1": {
+      "textEn": "#### Policy",
+      "textZh": "政策"
+    },
+    "7-passage-group-15.passage.1.2": {
+      "textEn": "Harbor Hotel Conduct",
+      "textZh": "港湾酒店行为"
+    },
+    "7-passage-group-15.passage.1.3": {
+      "textEn": "A guest who is mad about a delay should speak to the duty manager.",
+      "textZh": "来宾对延迟很生气，应该跟值班经理谈谈。"
+    },
+    "7-passage-group-15.passage.1.4": {
+      "textEn": "Staff must not make obnoxious remarks, brag about authority, or direct expressions of disgust at a guest.",
+      "textZh": "工作人员不得发表令人讨厌的言论、吹嘘权威或直接对客人表示厌恶。"
+    },
+    "7-passage-group-15.passage.1.5": {
+      "textEn": "Nor should a manager demote staff before a review.",
+      "textZh": "管理人员也不应在审查之前将工作人员降级。"
+    },
+    "7-passage-group-15.passage.1.6": {
+      "textEn": "Complaints should identify the time and service area; names are helpful but not essential.",
+      "textZh": "投诉应指明时间和服务领域；姓名有帮助，但并不重要。"
+    },
+    "7-passage-group-15.passage.1.7": {
+      "textEn": "Maintain accurate records so everyone can explain what happened.",
+      "textZh": "保持准确的记录，让每个人都能解释发生了什么。"
+    },
+    "7-passage-group-15.passage.2.1": {
+      "textEn": "#### Complaint",
+      "textZh": "申诉"
+    },
+    "7-passage-group-15.passage.2.2": {
+      "textEn": "To: Duty Manager",
+      "textZh": "致:值班经理"
+    },
+    "7-passage-group-15.passage.2.3": {
+      "textEn": "From: Jonah Wells",
+      "textZh": "发讯人:Jonah Wells"
+    },
+    "7-passage-group-15.passage.2.4": {
+      "textEn": "Date: April 11",
+      "textZh": "日期:4月11日"
+    },
+    "7-passage-group-15.passage.2.5": {
+      "textEn": "Yesterday at 6:20 p.m.",
+      "textZh": "昨天下午6点20分"
+    },
+    "7-passage-group-15.passage.2.6": {
+      "textEn": "I asked about missing room service.",
+      "textZh": "我问了一下缺少客房服务的问题。"
+    },
+    "7-passage-group-15.passage.2.7": {
+      "textEn": "The desk employee dismissed my question and made a personal remark.",
+      "textZh": "书房员工拒绝了我的问题，并发表了个人意见。"
+    },
+    "7-passage-group-15.passage.2.8": {
+      "textEn": "I do not know the name.",
+      "textZh": "我不知道这个名字。"
+    },
+    "7-passage-group-15.passage.2.9": {
+      "textEn": "A second employee helped and deserves a compliment.",
+      "textZh": "第二名雇员帮助并值得称赞。"
+    },
+    "7-passage-group-15.passage.2.10": {
+      "textEn": "Investigate the first response, but keep my remaining two nights.",
+      "textZh": "调查第一个反应，但保持我剩下的两晚。"
+    },
+    "7-passage-group-15.passage.2.11": {
+      "textEn": "The room itself is satisfactory, and I do not wish to move hotels.",
+      "textZh": "房间本身令人满意，我不想搬旅馆。"
+    },
+    "7-passage-group-15.passage.3.1": {
+      "textEn": "#### Chat",
+      "textZh": "聊天"
+    },
+    "7-passage-group-15.passage.3.2": {
+      "textEn": "**Manager:** Check the desk roster for April 10 at 6:20 and preserve the service record.",
+      "textZh": "** 管理人员:** 在4月10日6时20分检查办公桌名册并保存服务记录。"
+    },
+    "7-passage-group-15.passage.3.3": {
+      "textEn": "**Supervisor:** Two people were on duty.",
+      "textZh": "** 监督员:** 两人在值班。"
+    },
+    "7-passage-group-15.passage.3.4": {
+      "textEn": "I will interview both before deciding what happened.",
+      "textZh": "在决定发生的事之前，我会先采访两个"
+    },
+    "7-passage-group-15.passage.3.5": {
+      "textEn": "**Manager:** Good.",
+      "textZh": "* 管理者:** 不错。"
+    },
+    "7-passage-group-15.passage.3.6": {
+      "textEn": "Offer a replacement meal tonight while reviewing the complaint.",
+      "textZh": "今晚在检讨投诉时提供一顿替代餐"
+    },
+    "7-passage-group-15.passage.3.7": {
+      "textEn": "Keep his reservation unchanged.",
+      "textZh": "保持他的预定不变。"
+    },
+    "7-passage-group-15.passage.3.8": {
+      "textEn": "Tell him we are checking the records, and provide an update tomorrow even if the review is unfinished.",
+      "textZh": "告诉他我们正在检查记录， 并提供更新的明天，即使审查没有完成。"
+    },
+    "q189.stem.1": {
+      "textEn": "Which record matches the complaint?",
+      "textZh": "哪些记录与投诉相符?"
+    },
+    "q189.option.A.1": {
+      "textEn": "April 11 lunch bookings",
+      "textZh": "4月11日的午餐预订"
+    },
+    "q189.option.B.1": {
+      "textEn": "Next week's housekeeping plan",
+      "textZh": "下周的户口计划"
+    },
+    "q189.option.C.1": {
+      "textEn": "Last month's checkout list",
+      "textZh": "上个月的离职名单"
+    },
+    "q189.option.D.1": {
+      "textEn": "April 10 desk roster",
+      "textZh": "4月10日案头名册"
+    },
+    "q190.stem.1": {
+      "textEn": "Which step follows the policy?",
+      "textZh": "哪个步骤遵循政策?"
+    },
+    "q190.option.A.1": {
+      "textEn": "Rejecting a nameless complaint",
+      "textZh": "驳回无名投诉"
+    },
+    "q190.option.B.1": {
+      "textEn": "Canceling the stay",
+      "textZh": "取消暂停"
+    },
+    "q190.option.C.1": {
+      "textEn": "Immediately demoting both",
+      "textZh": "立即降职"
+    },
+    "q190.option.D.1": {
+      "textEn": "Interviewing staff before discipline",
+      "textZh": "纪律前与工作人员面谈"
+    },
+    "q191.stem.1": {
+      "textEn": "What remains unchanged?",
+      "textZh": "什么情况没有改变?"
+    },
+    "q191.option.A.1": {
+      "textEn": "The missed meal",
+      "textZh": "错过的饭"
+    },
+    "q191.option.B.1": {
+      "textEn": "The original interview schedule",
+      "textZh": "最初的面谈时间表"
+    },
+    "q191.option.C.1": {
+      "textEn": "An arranged public apology",
+      "textZh": "安排公开道歉"
+    },
+    "q191.option.D.1": {
+      "textEn": "The accommodation reservation",
+      "textZh": "住宿预订"
+    },
+    "7-passage-group-16.passage.1.1": {
+      "textEn": "#### Advertisement",
+      "textZh": "广告"
+    },
+    "7-passage-group-16.passage.1.2": {
+      "textEn": "Forge Safety Seminar",
+      "textZh": "福尔吉安全研讨会"
+    },
+    "7-passage-group-16.passage.1.3": {
+      "textEn": "Distinguish protective equipment from counterfeit products.",
+      "textZh": "区分防护设备与假冒产品。"
+    },
+    "7-passage-group-16.passage.1.4": {
+      "textEn": "Learn helmet construction, including the barrier protecting the skull, and verify supplier records.",
+      "textZh": "学习头盔构造，包括保护头骨的屏障，并核实供应商记录。"
+    },
+    "7-passage-group-16.passage.1.5": {
+      "textEn": "An inspector demonstrates tests; participants must not strike helmets themselves.",
+      "textZh": "视察员进行测试；参加者不得自己击打头盔。"
+    },
+    "7-passage-group-16.passage.1.6": {
+      "textEn": "Admission is $60, with $15 off for registered partner firms.",
+      "textZh": "录取费为60美元，注册伙伴公司可减免15美元。"
+    },
+    "7-passage-group-16.passage.1.7": {
+      "textEn": "The venue is Forge Training Center, not the factory.",
+      "textZh": "地点是Forge培训中心，而不是工厂。"
+    },
+    "7-passage-group-16.passage.1.8": {
+      "textEn": "Equipment is available for demonstration only and is not supplied to attendees.",
+      "textZh": "设备仅供演示使用，不提供给参加者。"
+    },
+    "7-passage-group-16.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-16.passage.2.2": {
+      "textEn": "To: Procurement Team",
+      "textZh": "改为:采购小组"
+    },
+    "7-passage-group-16.passage.2.3": {
+      "textEn": "From: Laila Stone",
+      "textZh": "发讯人:莱拉·斯通"
+    },
+    "7-passage-group-16.passage.2.4": {
+      "textEn": "We are a registered partner and I reserved three places.",
+      "textZh": "我们是注册合伙人我保留了三个位置"
+    },
+    "7-passage-group-16.passage.2.5": {
+      "textEn": "Pay before June 8.",
+      "textZh": "6月8日前支付。"
+    },
+    "7-passage-group-16.passage.2.6": {
+      "textEn": "A review found a defective batch, but we should not insinuate every item from the supplier is false.",
+      "textZh": "一次审查发现有缺陷的批次，但我们不应该影射供应商的每件物品都是虚假的。"
+    },
+    "7-passage-group-16.passage.2.7": {
+      "textEn": "Evidence should guide us and allow us to act with a clear conscience.",
+      "textZh": "证据应该指导我们，让我们以明确的良知采取行动。"
+    },
+    "7-passage-group-16.passage.2.8": {
+      "textEn": "After the seminar, review our approved-supplier list rather than automatically excluding small manufacturers.",
+      "textZh": "研讨会结束后，审查我们已批准的供应商名单，而不是自动排除小制造商。"
+    },
+    "7-passage-group-16.passage.3.1": {
+      "textEn": "#### Invoice",
+      "textZh": "发票"
+    },
+    "7-passage-group-16.passage.3.2": {
+      "textEn": "Invoice F-204",
+      "textZh": "F-204号发票"
+    },
+    "7-passage-group-16.passage.3.3": {
+      "textEn": "Customer: Stone Fabrication",
+      "textZh": "客户:石头制造"
+    },
+    "7-passage-group-16.passage.3.4": {
+      "textEn": "| Item | Quantity | Unit price | Total |",
+      "textZh": "项目｜数量｜单价｜合计"
+    },
+    "7-passage-group-16.passage.3.5": {
+      "textEn": "| --- | ---: | ---: | ---: |",
+      "textZh": "表格分隔线"
+    },
+    "7-passage-group-16.passage.3.6": {
+      "textEn": "| Partner admission | 3 | $45 | $135 |",
+      "textZh": "合作伙伴入场券｜3 张｜45 美元｜135 美元"
+    },
+    "7-passage-group-16.passage.3.7": {
+      "textEn": "Due: June 8",
+      "textZh": "到期日期:6月8日"
+    },
+    "7-passage-group-16.passage.3.8": {
+      "textEn": "Venue: Forge Training Center",
+      "textZh": "地点:Forge培训中心"
+    },
+    "7-passage-group-16.passage.3.9": {
+      "textEn": "No equipment purchase is included.",
+      "textZh": "不包括设备采购。"
+    },
+    "7-passage-group-16.passage.3.10": {
+      "textEn": "Please quote the invoice number when paying and send any attendance changes to the booking office before June 5.",
+      "textZh": "付款时请注明发票号码。如出席安排有变，请在 6 月 5 日之前通知预订办公室。"
+    },
+    "q192.stem.1": {
+      "textEn": "How was the unit price calculated?",
+      "textZh": "单位价格如何计算?"
+    },
+    "q192.option.A.1": {
+      "textEn": "A third seat was free",
+      "textZh": "第三个座位是免费的"
+    },
+    "q192.option.B.1": {
+      "textEn": "A penalty was added",
+      "textZh": "增加了一项惩罚"
+    },
+    "q192.option.C.1": {
+      "textEn": "A helmet was removed from a package",
+      "textZh": "从包裹里摘下头盔"
+    },
+    "q192.option.D.1": {
+      "textEn": "The partner reduction was applied",
+      "textZh": "减少了伙伴人数"
+    },
+    "q193.stem.1": {
+      "textEn": "What will follow the seminar?",
+      "textZh": "研讨会之后会有什么结果?"
+    },
+    "q193.option.A.1": {
+      "textEn": "Automatic purchases",
+      "textZh": "自动购买"
+    },
+    "q193.option.B.1": {
+      "textEn": "Exclusion of every small maker",
+      "textZh": "排斥每一个小制造者"
+    },
+    "q193.option.C.1": {
+      "textEn": "A supplier-list review",
+      "textZh": "供应商名单审查"
+    },
+    "q193.option.D.1": {
+      "textEn": "Unsupervised destructive testing",
+      "textZh": "无监督的破坏性测试"
+    },
+    "q194.stem.1": {
+      "textEn": "What do the three admissions include?",
+      "textZh": "三个招生内容包括什么?."
+    },
+    "q194.option.A.1": {
+      "textEn": "Three helmets",
+      "textZh": "三个头盔"
+    },
+    "q194.option.B.1": {
+      "textEn": "A factory tour",
+      "textZh": "工厂之旅"
+    },
+    "q194.option.C.1": {
+      "textEn": "The seminar only",
+      "textZh": "仅限研讨会"
+    },
+    "q194.option.D.1": {
+      "textEn": "Replacement equipment",
+      "textZh": "更换设备"
+    },
+    "7-passage-group-17.passage.1.1": {
+      "textEn": "#### Web Page",
+      "textZh": "网页"
+    },
+    "7-passage-group-17.passage.1.2": {
+      "textEn": "Orion Outdoor Club",
+      "textZh": "猎户座户外俱乐部"
+    },
+    "7-passage-group-17.passage.1.3": {
+      "textEn": "Our charter requires inclusive, safe outings.",
+      "textZh": "我们的宪章要求有包容性和安全的出行。"
+    },
+    "7-passage-group-17.passage.1.4": {
+      "textEn": "Do not cause wanton trail damage or goad inexperienced members into risky behavior.",
+      "textZh": "不要给那些没有经验的成员造成无意识的伤害让他们做出危险的行为"
+    },
+    "7-passage-group-17.passage.1.5": {
+      "textEn": "Before entering the river, practice how to exhale calmly under guidance.",
+      "textZh": "在进入河流之前，练习如何在引导下平静地呼气。"
+    },
+    "7-passage-group-17.passage.1.6": {
+      "textEn": "No guide can prevent every accident.",
+      "textZh": "没有任何向导可以防止每起事故发生。"
+    },
+    "7-passage-group-17.passage.1.7": {
+      "textEn": "Follow instructions and stick to the marked route.",
+      "textZh": "遵循指示，坚持标明路线。"
+    },
+    "7-passage-group-17.passage.1.8": {
+      "textEn": "Report a loose strap or tangle of ropes before departure.",
+      "textZh": "在出发前报告一条松散的绳子或绳子。"
+    },
+    "7-passage-group-17.passage.1.9": {
+      "textEn": "The leader may cancel an outing if conditions make the planned route unsafe.",
+      "textZh": "如果条件使计划中的路线不安全，领导人可以取消出行。"
+    },
+    "7-passage-group-17.passage.1.10": {
+      "textEn": "Separate rules apply to competitive events: athletes must not dope before a race, and officials may require testing.",
+      "textZh": "不同的规则适用于竞技赛事:运动员在比赛前不得吸毒，官员可能要求测试。"
+    },
+    "7-passage-group-17.passage.2.1": {
+      "textEn": "#### Email",
+      "textZh": "电子邮件"
+    },
+    "7-passage-group-17.passage.2.2": {
+      "textEn": "To: Orion Trip Desk",
+      "textZh": "致:猎户座旅行服务台"
+    },
+    "7-passage-group-17.passage.2.3": {
+      "textEn": "From: Marco Lane",
+      "textZh": "发讯人:Marco Lane"
+    },
+    "7-passage-group-17.passage.2.4": {
+      "textEn": "I booked May 5.",
+      "textZh": "我预定了5月5日。"
+    },
+    "7-passage-group-17.passage.2.5": {
+      "textEn": "Your leaflet says heavy rain could strand us beyond the bridge.",
+      "textZh": "你的传单说大雨会把我们拖到桥外"
+    },
+    "7-passage-group-17.passage.2.6": {
+      "textEn": "I prefer postponement to an improvised crossing.",
+      "textZh": "我宁愿推迟，也不愿临时过境。"
+    },
+    "7-passage-group-17.passage.2.7": {
+      "textEn": "This plea is urgent because I must arrange leave.",
+      "textZh": "这个请求是紧急的因为我必须安排离开"
+    },
+    "7-passage-group-17.passage.2.8": {
+      "textEn": "When is the decision made, and can my booking transfer?",
+      "textZh": "什么时候做决定， 和我的预订转帐?"
+    },
+    "7-passage-group-17.passage.2.9": {
+      "textEn": "I can ask my employer about a different date, but need notice rather than a change on arrival.",
+      "textZh": "我可以问我的雇主一个不同的日期， 但需要通知而不是在到达时改变。"
+    },
+    "7-passage-group-17.passage.3.1": {
+      "textEn": "#### Reply",
+      "textZh": "答复"
+    },
+    "7-passage-group-17.passage.3.2": {
+      "textEn": "Dear Mr. Lane,",
+      "textZh": "亲爱的莱恩先生，"
+    },
+    "7-passage-group-17.passage.3.3": {
+      "textEn": "The guide reviews conditions at 6 p.m. on May 4.",
+      "textZh": "导游会在 5 月 4 日下午 6 点检查现场条件。"
+    },
+    "7-passage-group-17.passage.3.4": {
+      "textEn": "If unsafe, we postpone to May 12 and transfer your booking unless you request a refund.",
+      "textZh": "如果不安全，我们推迟到5月12日并转移你的预订，除非你要求退款。"
+    },
+    "7-passage-group-17.passage.3.5": {
+      "textEn": "We will not try an unplanned crossing.",
+      "textZh": "我们不会尝试一个计划外的过境。"
+    },
+    "7-passage-group-17.passage.3.6": {
+      "textEn": "Members receive a message after the review.",
+      "textZh": "成员们在审议后收到一个信息。"
+    },
+    "7-passage-group-17.passage.3.7": {
+      "textEn": "Keep both dates in mind when arranging leave.",
+      "textZh": "安排休假时要记住两个日期。"
+    },
+    "7-passage-group-17.passage.3.8": {
+      "textEn": "The same equipment requirements apply to the alternative date.",
+      "textZh": "其他日期也适用同样的设备要求。"
+    },
+    "q195.stem.1": {
+      "textEn": "When will the decision be made?",
+      "textZh": "何时决定?"
+    },
+    "q195.option.A.1": {
+      "textEn": "At the postponed outing",
+      "textZh": "在推迟的外出时"
+    },
+    "q195.option.B.1": {
+      "textEn": "The evening before the original outing",
+      "textZh": "最初出门的前一天晚上"
+    },
+    "q195.option.C.1": {
+      "textEn": "Noon on May 12",
+      "textZh": "5月12日午间"
+    },
+    "q195.option.D.1": {
+      "textEn": "A week after May 5",
+      "textZh": "5月5日之后的一个星期"
+    },
+    "q196.stem.1": {
+      "textEn": "What happens by default if the crossing is unsafe?",
+      "textZh": "如果过境不安全，默认会发生什么情况?"
+    },
+    "q196.option.A.1": {
+      "textEn": "A second payment",
+      "textZh": "第二次支付"
+    },
+    "q196.option.B.1": {
+      "textEn": "Automatic transfer to May 12",
+      "textZh": "自动转移至5月12日"
+    },
+    "q196.option.C.1": {
+      "textEn": "Cancellation without alternatives",
+      "textZh": "取消不另作选择"
+    },
+    "q196.option.D.1": {
+      "textEn": "An unmarked crossing",
+      "textZh": "未加标记的过境点"
+    },
+    "q197.stem.1": {
+      "textEn": "How does the reply reflect the charter?",
+      "textZh": "答复如何反映宪章?"
+    },
+    "q197.option.A.1": {
+      "textEn": "It guarantees no accidents",
+      "textZh": "它保证不发生意外"
+    },
+    "q197.option.B.1": {
+      "textEn": "It avoids unnecessary risk",
+      "textZh": "避免不必要的风险"
+    },
+    "q197.option.C.1": {
+      "textEn": "It encourages dares",
+      "textZh": "鼓起勇气来"
+    },
+    "q197.option.D.1": {
+      "textEn": "It allows ignoring the guide",
+      "textZh": "它允许忽略向导"
+    },
+    "7-passage-group-18.passage.1.1": {
+      "textEn": "#### Article",
+      "textZh": "第条"
+    },
+    "7-passage-group-18.passage.1.2": {
+      "textEn": "Instrument Workshop Open Day",
+      "textZh": "仪器讲习班开放日"
+    },
+    "7-passage-group-18.passage.1.3": {
+      "textEn": "Legendary instrument maker Clara Verne welcomes visitors August 3.",
+      "textZh": "传奇乐器制造者克拉拉·凡尔纳(Clara Verne)欢迎8月3日的访客。"
+    },
+    "7-passage-group-18.passage.1.4": {
+      "textEn": "At her career's zenith she worked for major orchestras; now she trains apprentices.",
+      "textZh": "在她的职业生涯的Zenith，她为主要的管弦乐团工作；现在她培养学徒。"
+    },
+    "7-passage-group-18.passage.1.5": {
+      "textEn": "She shows how to tune worn instruments rather than promising all can be restored.",
+      "textZh": "她展示了如何调谐磨损的乐器，而不是保证所有乐器都能被恢复。"
+    },
+    "7-passage-group-18.passage.1.6": {
+      "textEn": "A paltry repair budget can create false expectations, she warns.",
+      "textZh": "她警告说，微小的修补预算会造成错误的期望。"
+    },
+    "7-passage-group-18.passage.1.7": {
+      "textEn": "Inspect the wood before quoting a price.",
+      "textZh": "在引用价格之前检查一下木头。"
+    },
+    "7-passage-group-18.passage.1.8": {
+      "textEn": "The open day includes consultations by appointment, not free repairs.",
+      "textZh": "开放日包括预约咨询，而不是免费维修。"
+    },
+    "7-passage-group-18.passage.2.1": {
+      "textEn": "#### Form",
+      "textZh": "表单"
+    },
+    "7-passage-group-18.passage.2.2": {
+      "textEn": "Client: Rosa Malik",
+      "textZh": "客户:罗莎·马利克"
+    },
+    "7-passage-group-18.passage.2.3": {
+      "textEn": "Instrument: Violin",
+      "textZh": "工具:维奥林"
+    },
+    "7-passage-group-18.passage.2.4": {
+      "textEn": "Requested date: August 3, afternoon",
+      "textZh": "要求的日期:8月3日下午"
+    },
+    "7-passage-group-18.passage.2.5": {
+      "textEn": "Problem: Loose fitting and unstable tuning",
+      "textZh": "问题:松散的装配和不稳定的调音"
+    },
+    "7-passage-group-18.passage.2.6": {
+      "textEn": "Budget: $120",
+      "textZh": "预算:120美元"
+    },
+    "7-passage-group-18.passage.2.7": {
+      "textEn": "Inspect before starting work.",
+      "textZh": "开工前请检查。"
+    },
+    "7-passage-group-18.passage.2.8": {
+      "textEn": "Contact me if costs exceed the limit; I am not seeking a replacement.",
+      "textZh": "如果费用超过限额，请联系我；我不是在寻求替代。"
+    },
+    "7-passage-group-18.passage.2.9": {
+      "textEn": "I can leave the instrument for several days, but need a written estimate first.",
+      "textZh": "我可以离开乐器几天，但首先需要一份书面估计。"
+    },
+    "7-passage-group-18.passage.2.10": {
+      "textEn": "Please use email because I cannot answer calls during working hours.",
+      "textZh": "请使用电子邮件， 因为我无法在工作时间接听电话 。"
+    },
+    "7-passage-group-18.passage.3.1": {
+      "textEn": "#### Reply",
+      "textZh": "答复"
+    },
+    "7-passage-group-18.passage.3.2": {
+      "textEn": "Dear Ms. Malik,",
+      "textZh": "亲爱的马利克女士，"
+    },
+    "7-passage-group-18.passage.3.3": {
+      "textEn": "Your appointment is 2:30 on August 3.",
+      "textZh": "你约在8月3日两点半"
+    },
+    "7-passage-group-18.passage.3.4": {
+      "textEn": "Inspection is $20 and remains part of the final bill if you proceed; it will not be charged twice.",
+      "textZh": "检查为20美元，如果继续检查，则仍然是最后账单的一部分；检查不会收取两次费用。"
+    },
+    "7-passage-group-18.passage.3.5": {
+      "textEn": "If the wood is sound, the fitting adjustment is a further $70, making $90 altogether.",
+      "textZh": "如果木材是好的， 适配调整是另外70美元， 总共90美元。"
+    },
+    "7-passage-group-18.passage.3.6": {
+      "textEn": "This is not guaranteed before inspection.",
+      "textZh": "这在检查前没有保障。"
+    },
+    "7-passage-group-18.passage.3.7": {
+      "textEn": "In a similar vein, not every tuning problem can be solved in one visit.",
+      "textZh": "在类似情况下，并不是每个调音问题都能在一次访问中解决。"
+    },
+    "7-passage-group-18.passage.3.8": {
+      "textEn": "No repairs begin without your approval.",
+      "textZh": "未经你批准，不能开始修复"
+    },
+    "7-passage-group-18.passage.3.9": {
+      "textEn": "We will email the estimate after inspection.",
+      "textZh": "检查后我们会把估计结果发去邮件"
+    },
+    "q198.stem.1": {
+      "textEn": "What does Ms. Malik want?",
+      "textZh": "马利克小姐想要什么?"
+    },
+    "q198.option.A.1": {
+      "textEn": "A private concert",
+      "textZh": "一场私人演唱会"
+    },
+    "q198.option.B.1": {
+      "textEn": "A new instrument at any price",
+      "textZh": "以任何价格发行的新票据"
+    },
+    "q198.option.C.1": {
+      "textEn": "Apprentice training",
+      "textZh": "学徒培训"
+    },
+    "q198.option.D.1": {
+      "textEn": "Assessment and possible repair",
+      "textZh": "评估和可能的修理"
+    },
+    "q199.stem.1": {
+      "textEn": "What is the expected total for the stated adjustment?",
+      "textZh": "所述调整的预期总数是多少?"
+    },
+    "q199.option.A.1": {
+      "textEn": "$110",
+      "textZh": "110 美元"
+    },
+    "q199.option.B.1": {
+      "textEn": "$70",
+      "textZh": "70 美元"
+    },
+    "q199.option.C.1": {
+      "textEn": "$120",
+      "textZh": "120 美元"
+    },
+    "q199.option.D.1": {
+      "textEn": "$90",
+      "textZh": "90 美元"
+    },
+    "q200.stem.1": {
+      "textEn": "What is necessary before repair begins?",
+      "textZh": "修复开始前需要什么?"
+    },
+    "q200.option.A.1": {
+      "textEn": "Increasing the budget to $200",
+      "textZh": "将预算增加到200美元"
+    },
+    "q200.option.B.1": {
+      "textEn": "The client's approval",
+      "textZh": "客户的认可"
+    },
+    "q200.option.C.1": {
+      "textEn": "Canceling the open day",
+      "textZh": "取消开放日"
+    },
+    "q200.option.D.1": {
+      "textEn": "Buying a new violin",
+      "textZh": "买新小提琴"
     }
   },
   "answers": {

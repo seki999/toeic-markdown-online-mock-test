@@ -80,7 +80,7 @@ try {
     await button('下一题').click()
     await player.getByRole('heading', { name: 'Part 1 · 第 2 题' }).waitFor()
     await page.evaluate(() => window.learningTest.cancelled.at(-1)?.onend?.())
-    await caption.getByText('本句中文字幕待补充。', { exact: true }).waitFor()
+    await caption.getByText('A. 一辆自行车停在封闭的木门旁。', { exact: true }).waitFor()
     assert.equal(await page.evaluate(() => window.learningTest.utterances.length), 2)
     assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true)
 
