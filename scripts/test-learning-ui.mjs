@@ -128,6 +128,12 @@ try {
       await caption.getByText(translation, { exact: true }).waitFor()
       await player.locator('.practice-illustration img').first().evaluate(image => image.decode())
       assert.equal(await player.getByRole('button', { name: /查看学习配图/ }).count(), 0)
+      if (part === 5) {
+        await button('播放').click()
+        await page.waitForFunction(() => window.learningTest.utterances.length === 1)
+        assert.equal(await page.evaluate(() => window.learningTest.utterances[0].text), 'The monetary award will be divided among the three winning teams.')
+        assert.equal(await caption.locator('mark').textContent(), '_____')
+      }
       assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true)
     }
 

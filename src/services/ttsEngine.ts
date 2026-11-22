@@ -27,9 +27,11 @@ export class TtsEngine {
   getVoices() { return [...this.voices] }
 
   speakLine(line: SpeechLine, voiceSelection: VoiceSelection, rate = 1, language = 'en-US', signal?: AbortSignal): Promise<void> {
+    const text = line.text.replace(/[^\S\r\n]*_{2,}[^\S\r\n]*/g, ' ').replace(/ +([,.!?;:，。！？；：])/g, '$1').trim()
+    if (!text) return Promise.resolve()
     const synth = this.synth
     if (!synth || typeof SpeechSynthesisUtterance === 'undefined') return Promise.reject(new Error('Speech synthesis is unavailable'))
-    const utterance = new SpeechSynthesisUtterance(line.text)
+    const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = language
     utterance.rate = rate
     utterance.pitch = 1
