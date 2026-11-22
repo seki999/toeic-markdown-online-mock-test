@@ -24,6 +24,9 @@ const revealedGroups = ref<Record<string, boolean>>({})
 const illustrationVisibility = ref<Record<string, boolean>>({})
 const visibleTranscripts = ref<Record<string, boolean>>({})
 const immersive = computed(() => route.query.mode === 'learning')
+const playerScreen = ref<HTMLElement>()
+const fullPlayback = ref(false)
+let nativeFullscreen = false
 const learningNotes = ref<LearningNotes>()
 const notesError = ref(false)
 watch(immersive, async enabled => {
@@ -37,7 +40,36 @@ function chooseMode(learning: boolean) {
   void router.replace({ query: { ...route.query, mode: learning ? 'learning' : undefined } })
 }
 
+function launchFullPlayback() {
+  const screen = playerScreen.value
+  if (!screen) return
+  fullPlayback.value = true
+  chooseMode(true)
+  void screen.requestFullscreen?.().catch(() => { /* The viewport layout remains available. */ })
+}
+
+function exitFullPlayback() {
+  fullPlayback.value = false
+  if (document.fullscreenElement === playerScreen.value && document.fullscreenElement) {
+    void document.exitFullscreen().catch(() => {})
+  }
+}
+
+function onFullscreenChange() {
+  if (document.fullscreenElement && document.fullscreenElement === playerScreen.value) nativeFullscreen = true
+  else if (nativeFullscreen) {
+    nativeFullscreen = false
+    fullPlayback.value = false
+  }
+}
+
+function onEscape(event: KeyboardEvent) {
+  if (event.key === 'Escape' && fullPlayback.value && !document.fullscreenElement) exitFullPlayback()
+}
+
 onMounted(async () => {
+  document.addEventListener('fullscreenchange', onFullscreenChange)
+  window.addEventListener('keydown', onEscape)
   try {
     test.value = await store.ensureTest(testId)
   } catch {
@@ -45,7 +77,14 @@ onMounted(async () => {
   }
 })
 
-onBeforeUnmount(() => getTtsEngine().cancelSpeech())
+onBeforeUnmount(() => {
+  document.removeEventListener('fullscreenchange', onFullscreenChange)
+  window.removeEventListener('keydown', onEscape)
+  exitFullPlayback()
+  getTtsEngine().cancelSpeech()
+})
+
+watch(immersive, enabled => { if (!enabled) exitFullPlayback() })
 
 watch(part, () => {
   revealedGroups.value = {}
@@ -119,13 +158,16 @@ function audioLines(group: QuestionGroup) {
 
       <div class="set-actions practice-mode-switch" role="group" aria-label="Practice mode">
         <button type="button" :aria-pressed="!immersive" @click="chooseMode(false)">传统做题</button>
-        <button type="button" :aria-pressed="immersive" @click="chooseMode(true)">沉浸式视听学习</button>
+        <button type="button" :aria-pressed="immersive" @click="launchFullPlayback">沉浸式视听学习</button>
       </div>
-      <template v-if="immersive">
-        <p v-if="notesError" role="status">暂时无法加载中文学习资料，可继续使用英文原文。</p>
-        <LearningPlayer :test-id="testId" :part="part" :items="learningItems" :notes="learningNotes" :wrong-only="wrongOnly" />
-      </template>
-      <div v-else-if="groups.length" class="full-part-practice">
+      <div ref="playerScreen" v-show="immersive || fullPlayback" :class="{ 'full-playback': fullPlayback }">
+        <div v-if="fullPlayback" class="fullscreen-toolbar">
+          <button type="button" @click="exitFullPlayback">退出全屏</button>
+        </div>
+        <p v-if="immersive && notesError" role="status">暂时无法加载中文学习资料，可继续使用英文原文。</p>
+        <LearningPlayer v-if="immersive" :key="String(fullPlayback)" :test-id="testId" :part="part" :items="learningItems" :notes="learningNotes" :wrong-only="wrongOnly" :continuous-launch="fullPlayback" />
+      </div>
+      <div v-if="!immersive && groups.length" class="full-part-practice">
         <section v-for="(group, groupIndex) in groups" :key="group.id" class="practice-set">
           <header class="set-toolbar">
             <div>
@@ -190,7 +232,7 @@ function audioLines(group: QuestionGroup) {
         </section>
       </div>
 
-      <div v-else class="empty-state">
+      <div v-else-if="!immersive" class="empty-state">
         <h2>No questions here yet</h2>
         <p>{{ wrongOnly ? 'Complete an exam to build your wrong-answer list.' : 'This Part has no content.' }}</p>
       </div>
@@ -201,6 +243,9 @@ function audioLines(group: QuestionGroup) {
 <style scoped>
 .practice-mode-switch { justify-content: flex-start; margin: 1rem 0; }
 .practice-mode-switch [aria-pressed='true'] { background: #153633; color: #fff; }
+.full-playback { position: fixed; inset: 0; z-index: 30; width: 100%; height: 100%; overflow: auto; overscroll-behavior: contain; background: #f5f4ee; padding: clamp(.5rem, 2vw, 1.5rem); }
+.full-playback > * { max-width: 1200px; margin-inline: auto; }
+.fullscreen-toolbar { display: flex; justify-content: flex-end; margin-bottom: .65rem; }
 .group-transcript {
   margin-bottom: 1rem;
   padding: 1.25rem;

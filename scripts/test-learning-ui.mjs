@@ -46,6 +46,26 @@ try {
     }
     await page.goto(`${base}#/test/test-003/practice?part=1`)
     await page.getByRole('button', { name: '沉浸式视听学习', exact: true }).click()
+    const exitFullscreen = page.getByRole('button', { name: '退出全屏', exact: true })
+    await exitFullscreen.waitFor()
+    await page.waitForFunction(() => document.fullscreenElement?.classList.contains('full-playback'))
+    await page.waitForFunction(() => window.learningTest.utterances.length === 1)
+    if (width === 1440) {
+      for (let question = 2; question <= 6; question++) {
+        await button('下一题').click()
+        await player.getByRole('heading', { name: `Part 1 · 第 ${question} 题` }).waitFor()
+      }
+      await button('播放').click()
+      for (let count = 2; count <= 6; count++) {
+        await page.waitForFunction(expected => window.learningTest.utterances.length === expected, count)
+        await page.evaluate(() => window.learningTest.finish())
+      }
+      await player.getByRole('heading', { name: 'Part 2 · 第 7 题' }).waitFor()
+    }
+    await exitFullscreen.click()
+    await page.waitForFunction(() => !document.fullscreenElement && !speechSynthesis.speaking)
+    await page.evaluate(() => localStorage.removeItem('toeic.learning.progress.test-003.all'))
+    await open(1)
     await caption.getByText('A. 厨师正在案板上切馅饼。', { exact: true }).waitFor()
     await player.locator('.learning-picture img').evaluate(image => image.decode())
     await button('播放').click()

@@ -7,7 +7,7 @@ import { useLearningPlayback } from '../services/learningPlayback'
 import { getTtsEngine } from '../services/ttsEngine'
 import type { ChoiceLabel, PartNumber } from '../types/exam'
 
-const props = defineProps<{ testId: string; part: PartNumber; items: LearningQuestion[]; notes?: LearningNotes; wrongOnly: boolean }>()
+const props = defineProps<{ testId: string; part: PartNumber; items: LearningQuestion[]; notes?: LearningNotes; wrongOnly: boolean; continuousLaunch?: boolean }>()
 const defaults = {
   mode: 'bilingual', captions: 'both', rate: 1, chinese: false, explanations: true,
   nextLine: true, nextQuestion: false, loop: false, gap: 0.5, repeat: false, voice: '',
@@ -21,7 +21,8 @@ function save(key: string, value: unknown) {
 }
 const settingsKey = 'toeic.learning.settings'
 const settings = ref({ ...defaults, ...readSaved(settingsKey, defaults) })
-watch(settings, value => save(settingsKey, value), { deep: true })
+if (props.continuousLaunch) Object.assign(settings.value, { scope: 'test', answerMode: 'auto', nextLine: true, nextQuestion: true, loop: false })
+watch(settings, value => { if (!props.continuousLaunch) save(settingsKey, value) }, { deep: true })
 const progressKey = computed(() => `toeic.learning.progress.${props.testId}.${props.wrongOnly ? 'wrong' : 'all'}`)
 const saved = computed(() => readSaved(progressKey.value, {} as Record<string, number>))
 const items = computed(() => settings.value.scope === 'test' ? props.items : props.items.filter(entry => entry.question.part === props.part))
@@ -30,7 +31,7 @@ function position(fallbackToLast = false) {
   const found = items.value.findIndex(entry => entry.question.id === target)
   return found >= 0 ? found : Math.max(0, items.value.findIndex(entry => entry.question.part === props.part))
 }
-const index = ref(position(settings.value.scope === 'test'))
+const index = ref(props.continuousLaunch ? 0 : position(settings.value.scope === 'test'))
 const item = computed(() => items.value[index.value])
 const question = computed(() => item.value?.question)
 const line = ref(0)
@@ -65,6 +66,7 @@ onMounted(() => {
     window.speechSynthesis.addEventListener('voiceschanged', refreshVoices)
   }
   window.addEventListener('keydown', shortcuts)
+  if (props.continuousLaunch && item.value) void run(signal => playlist(signal, true))
 })
 onBeforeUnmount(() => {
   window.speechSynthesis?.removeEventListener('voiceschanged', refreshVoices)
