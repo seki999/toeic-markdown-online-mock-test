@@ -27,6 +27,7 @@ jobs:
       - run: npm test
       - run: npm run validate:practice-images
       - run: npm run build
+      - run: npm run learning:validate
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

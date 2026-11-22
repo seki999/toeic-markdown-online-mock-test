@@ -1,0 +1,358 @@
+{
+  "subtitles": {
+    "q1.audio.1.1": {
+      "textEn": "A. The cook is slicing a pie on a board.",
+      "textZh": "A. 厨师正在案板上切馅饼。"
+    },
+    "q1.audio.2.1": {
+      "textEn": "B. Some plates are being dried with a cloth.",
+      "textZh": "B. 有人正在用布擦干一些盘子。"
+    },
+    "q1.audio.3.1": {
+      "textEn": "C. Steam is rising from a pan on the stove.",
+      "textZh": "C. 蒸汽正从炉灶上的锅里升起。",
+      "noteZh": "rise from 表示从某处升起，on the stove 指锅在炉灶上。"
+    },
+    "q1.audio.4.1": {
+      "textEn": "D. A whisk is being hung from a hook.",
+      "textZh": "D. 有人正在把打蛋器挂到钩子上。"
+    },
+    "q7.audio.1.1": {
+      "textEn": "Who will spearhead the charity campaign?",
+      "textZh": "谁将牵头负责这次慈善活动？",
+      "noteZh": "spearhead 在这里是动词，表示带头推动。"
+    },
+    "q7.audio.2.1": {
+      "textEn": "A. Lena offered to lead it.",
+      "textZh": "A. 莉娜主动提出带领这项活动。"
+    },
+    "q7.audio.3.1": {
+      "textEn": "B. Beside the poster stand.",
+      "textZh": "B. 在海报架旁边。"
+    },
+    "q7.audio.4.1": {
+      "textEn": "C. It has a bright spear-shaped logo.",
+      "textZh": "C. 它有一个醒目的矛形标志。"
+    },
+    "3-group-1.audio.1.1": {
+      "textEn": "Questions 32 through 34 refer to the following conversation.",
+      "textZh": "第 32 至 34 题根据以下对话作答。"
+    },
+    "3-group-1.audio.2.1": {
+      "textEn": "Our new subsidiary needs a versatile reception system.",
+      "textZh": "我们的新子公司需要一套多功能接待系统。"
+    },
+    "3-group-1.audio.2.2": {
+      "textEn": "The sales representative keeps trying to tout the premium package, but most of its features are peripheral to what we need.",
+      "textZh": "销售代表一再推销高级套餐，但其中大部分功能和我们的实际需求关系不大。",
+      "noteZh": "tout 是大力推销；peripheral to 表示与主要需求关系不大。"
+    },
+    "3-group-1.audio.3.1": {
+      "textEn": "Agreed.",
+      "textZh": "同意。"
+    },
+    "3-group-1.audio.3.2": {
+      "textEn": "Ease of use should be the main criterion.",
+      "textZh": "易用性应该是主要标准。"
+    },
+    "3-group-1.audio.3.3": {
+      "textEn": "The basic package lets visitors register and prints badges without extra equipment.",
+      "textZh": "基础套餐可以让访客登记并打印访客证，无需额外设备。"
+    },
+    "3-group-1.audio.4.1": {
+      "textEn": "It also costs less.",
+      "textZh": "费用也更低。"
+    },
+    "3-group-1.audio.4.2": {
+      "textEn": "Still, I do not want to incur an installation fee we have overlooked.",
+      "textZh": "不过，我不想因为疏忽而多付安装费。"
+    },
+    "3-group-1.audio.5.1": {
+      "textEn": "I will request a written quotation that includes setup and training.",
+      "textZh": "我会索取一份包含安装和培训的书面报价。"
+    },
+    "3-group-1.audio.5.2": {
+      "textEn": "Then we can compare the total costs before signing anything.",
+      "textZh": "这样签约之前就能比较总费用。"
+    },
+    "q32.stem.1": {
+      "textEn": "What are the speakers choosing?",
+      "textZh": "两位说话者在选购什么？"
+    },
+    "q32.option.A.1": {
+      "textEn": "A delivery vehicle",
+      "textZh": "送货车"
+    },
+    "q32.option.B.1": {
+      "textEn": "A reception system",
+      "textZh": "接待系统"
+    },
+    "q32.option.C.1": {
+      "textEn": "An advertising agency",
+      "textZh": "广告代理公司"
+    },
+    "q32.option.D.1": {
+      "textEn": "A conference speaker",
+      "textZh": "会议演讲嘉宾"
+    },
+    "4-group-1.audio.1.1": {
+      "textEn": "Questions 71 through 73 refer to the following talk.",
+      "textZh": "第 71 至 73 题根据以下讲话作答。"
+    },
+    "4-group-1.audio.2.1": {
+      "textEn": "Good afternoon, and welcome to the inaugural session of the Harbor Arts Forum.",
+      "textZh": "下午好，欢迎参加港湾艺术论坛的首场活动。"
+    },
+    "4-group-1.audio.2.2": {
+      "textEn": "Our ebullient host, Elena Ruiz, will introduce the speakers at two.",
+      "textZh": "我们热情洋溢的主持人埃莱娜·鲁伊斯将在两点介绍演讲嘉宾。"
+    },
+    "4-group-1.audio.2.3": {
+      "textEn": "The main presentation explores the intrinsic value of local arts, rather than treating attendance figures as the only measure of success.",
+      "textZh": "主旨演讲将探讨本地艺术本身的价值，而不把出席人数当作衡量成功的唯一标准。",
+      "noteZh": "intrinsic value 指事物本身的价值。"
+    },
+    "4-group-1.audio.2.4": {
+      "textEn": "We hope to elicit candid suggestions from the audience, so please use the cards on your seats to submit questions.",
+      "textZh": "我们希望听到各位坦诚的建议，请用座位上的卡片提交问题。"
+    },
+    "4-group-1.audio.2.5": {
+      "textEn": "A volunteer will collect them during the break.",
+      "textZh": "休息期间会有志愿者收取卡片。"
+    },
+    "4-group-1.audio.2.6": {
+      "textEn": "Although our original speaker is unavailable, her substitute has agreed to lead the discussion.",
+      "textZh": "原定演讲嘉宾无法出席，接替她的嘉宾已同意主持讨论。"
+    },
+    "4-group-1.audio.2.7": {
+      "textEn": "The workshop will culminate in a short planning session at four, when participants can propose projects for next year.",
+      "textZh": "研讨会最后会在四点安排一场简短的规划会，届时与会者可以提出明年的项目建议。"
+    },
+    "q71.stem.1": {
+      "textEn": "What is the event mainly about?",
+      "textZh": "这场活动主要涉及什么？"
+    },
+    "q71.option.A.1": {
+      "textEn": "Airport development",
+      "textZh": "机场开发"
+    },
+    "q71.option.B.1": {
+      "textEn": "Personal banking",
+      "textZh": "个人银行业务"
+    },
+    "q71.option.C.1": {
+      "textEn": "Food preparation",
+      "textZh": "食品制作"
+    },
+    "q71.option.D.1": {
+      "textEn": "Local arts",
+      "textZh": "本地艺术"
+    },
+    "q101.stem.1": {
+      "textEn": "The monetary award will be divided _____ among the three winning teams.",
+      "textZh": "奖金将在三支获胜队伍之间 _____ 分配。"
+    },
+    "q101.option.A.1": {
+      "textEn": "equality",
+      "textZh": "平等（名词）"
+    },
+    "q101.option.B.1": {
+      "textEn": "equalize",
+      "textZh": "使相等（动词）"
+    },
+    "q101.option.C.1": {
+      "textEn": "equal",
+      "textZh": "相等的（形容词）"
+    },
+    "q101.option.D.1": {
+      "textEn": "equally",
+      "textZh": "平均地（副词）"
+    },
+    "6-passage-group-1.passage.1.1": {
+      "textEn": "To: exhibition@lantern.example",
+      "textZh": "收件人：exhibition@lantern.example"
+    },
+    "6-passage-group-1.passage.1.2": {
+      "textEn": "From: Mira Chen, Visitor Services",
+      "textZh": "发件人：米拉·陈，访客服务部"
+    },
+    "6-passage-group-1.passage.1.3": {
+      "textEn": "Date: September 8",
+      "textZh": "日期：9 月 8 日"
+    },
+    "6-passage-group-1.passage.1.4": {
+      "textEn": "Subject: Opening preparations",
+      "textZh": "主题：开幕筹备"
+    },
+    "6-passage-group-1.passage.1.5": {
+      "textEn": "Dear team,",
+      "textZh": "各位同事好："
+    },
+    "6-passage-group-1.passage.1.6": {
+      "textEn": "Our inaugural design exhibition opens next Friday.",
+      "textZh": "我们的首届设计展将于下周五开幕。"
+    },
+    "6-passage-group-1.passage.1.7": {
+      "textEn": "The entrance facade has been restored, and a local artisan has donated an exquisite ornament for the reception desk.",
+      "textZh": "入口的外立面已经修复，一位当地工匠还捐赠了一件精美的饰品，供接待台陈设。"
+    },
+    "6-passage-group-1.passage.1.8": {
+      "textEn": "The display will remain in place _____ (131) the end of the month.",
+      "textZh": "展品将一直陈列在原处 _____（131）本月底。"
+    },
+    "6-passage-group-1.passage.1.9": {
+      "textEn": "Please do not attach labels directly to its surface, as adhesive can inflict permanent damage.",
+      "textZh": "请勿把标签直接贴在展品表面，因为黏合剂可能造成永久损伤。"
+    },
+    "6-passage-group-1.passage.1.10": {
+      "textEn": "A distinguished designer will give a short talk.",
+      "textZh": "一位知名设计师将发表简短讲话。"
+    },
+    "6-passage-group-1.passage.1.11": {
+      "textEn": "To avoid a stampede when the doors open, we will admit visitors in small groups.",
+      "textZh": "为避免开门时人群蜂拥而入，我们将让参观者分小批入场。"
+    },
+    "6-passage-group-1.passage.1.12": {
+      "textEn": "Tickets _____ (132) at the east entrance by two volunteers.",
+      "textZh": "门票将由两名志愿者在东门 _____（132）。"
+    },
+    "6-passage-group-1.passage.1.13": {
+      "textEn": "**[1]** (133) Guests waiting outside can then move indoors without blocking the main doorway.",
+      "textZh": "[1]（133）这样，在外等候的来宾就能进入室内，不会堵住主入口。"
+    },
+    "6-passage-group-1.passage.1.14": {
+      "textEn": "Please _____ (134) any access problems by Wednesday.",
+      "textZh": "请在周三前 _____（134）任何出入方面的问题。"
+    },
+    "6-passage-group-1.passage.1.15": {
+      "textEn": "We want an auspicious opening, but punctuality must not come at the expense of visitor safety.",
+      "textZh": "我们希望开幕顺利，但不能为了准时而牺牲参观者的安全。"
+    },
+    "6-passage-group-1.passage.1.16": {
+      "textEn": "Mira",
+      "textZh": "米拉"
+    },
+    "q131.stem.1": {
+      "textEn": "Which word best completes blank 131?",
+      "textZh": "哪个单词最适合填入第 131 题的空格？"
+    },
+    "q131.option.A.1": {
+      "textEn": "except",
+      "textZh": "除……之外"
+    },
+    "q131.option.B.1": {
+      "textEn": "among",
+      "textZh": "在……之中"
+    },
+    "q131.option.C.1": {
+      "textEn": "until",
+      "textZh": "直到"
+    },
+    "q131.option.D.1": {
+      "textEn": "onto",
+      "textZh": "到……上面"
+    },
+    "7-passage-group-1.passage.1.1": {
+      "textEn": "#### Advertisement",
+      "textZh": "广告"
+    },
+    "7-passage-group-1.passage.1.2": {
+      "textEn": "Riverton Film Weekend",
+      "textZh": "里弗顿电影周末"
+    },
+    "7-passage-group-1.passage.1.3": {
+      "textEn": "The restored cinema hosts The Last Signal on November 7.",
+      "textZh": "翻修后的影院将于 11 月 7 日放映《最后的信号》。"
+    },
+    "7-passage-group-1.passage.1.4": {
+      "textEn": "The story follows a fugitive attempting to clear her name; organizers describe it as suspense rather than a morbid account of violence.",
+      "textZh": "影片讲述一名在逃女子试图洗清冤屈的故事，主办方称这是一部悬疑片，而非渲染暴力的猎奇故事。"
+    },
+    "7-passage-group-1.passage.1.5": {
+      "textEn": "The screening begins at 7 p.m., followed by a discussion with the director.",
+      "textZh": "影片将于晚上 7 点开始放映，随后安排与导演交流。"
+    },
+    "7-passage-group-1.passage.1.6": {
+      "textEn": "Cameras are prohibited during the film.",
+      "textZh": "放映期间禁止使用相机。"
+    },
+    "7-passage-group-1.passage.1.7": {
+      "textEn": "An accredited paparazzo or other press photographer may work only in the lobby and must obtain permission before photographing guests.",
+      "textZh": "持有采访证的狗仔或其他新闻摄影师只能在大厅工作，拍摄来宾前必须获得许可。"
+    },
+    "7-passage-group-1.passage.1.8": {
+      "textEn": "The event aims to resurrect interest in local filmmaking.",
+      "textZh": "活动旨在重新激发人们对本地电影创作的兴趣。"
+    },
+    "7-passage-group-1.passage.1.9": {
+      "textEn": "The director's next project is a sequel, but no release date has been announced.",
+      "textZh": "导演的下一个项目是这部电影的续集，但上映日期尚未公布。"
+    },
+    "7-passage-group-1.passage.1.10": {
+      "textEn": "Bookings cost $18 and include the discussion.",
+      "textZh": "预订票价为 18 美元，包含交流环节。"
+    },
+    "7-passage-group-1.passage.1.11": {
+      "textEn": "Students pay $12 with identification.",
+      "textZh": "学生出示证件后可享 12 美元票价。"
+    },
+    "7-passage-group-1.passage.1.12": {
+      "textEn": "Uncollected tickets are released fifteen minutes before the film.",
+      "textZh": "未领取的门票将在开场前 15 分钟重新发售。"
+    },
+    "7-passage-group-1.passage.1.13": {
+      "textEn": "The evening celebrates storytelling, not the hedonistic lifestyle depicted by some of its characters.",
+      "textZh": "当晚活动旨在庆祝讲故事的艺术，而非推崇片中某些角色的享乐主义生活方式。"
+    },
+    "q147.stem.1": {
+      "textEn": "What is included in the admission price?",
+      "textZh": "门票包含哪项内容？"
+    },
+    "q147.option.A.1": {
+      "textEn": "A private photography session",
+      "textZh": "私人摄影活动"
+    },
+    "q147.option.B.1": {
+      "textEn": "A printed script",
+      "textZh": "印刷版剧本"
+    },
+    "q147.option.C.1": {
+      "textEn": "Admission to the sequel",
+      "textZh": "续集入场券"
+    },
+    "q147.option.D.1": {
+      "textEn": "A discussion with the director",
+      "textZh": "与导演交流"
+    }
+  },
+  "answers": {
+    "1": {
+      "source": "C\nSteam is visibly rising from the left-hand pan. No pie, plate drying, or hanging whisk is shown.",
+      "textZh": "选 C。原图左侧炉灶上的锅正冒蒸汽。画面中没有切馅饼、擦盘子或悬挂打蛋器的动作。rise from 表示「从……升起」，留意动作和位置是否同时符合画面。"
+    },
+    "7": {
+      "source": "A\nThe question asks for a leader; Lena is identified as that person. The location and logo do not answer who.",
+      "textZh": "选 A。Who 问的是人，Lena offered to lead it 用「莉娜主动请缨」间接给出了人选。B 回答地点，C 只描述标志。offer to do 表示主动提出做某事。"
+    },
+    "32": {
+      "source": "B\nVisitor registration and badge printing identify a reception system; none of the other purchases is discussed.",
+      "textZh": "选 B。访客登记和打印访客证都是接待系统的功能，且开头直接提到 reception system。对话没有讨论购买送货车、聘请广告代理公司或选择会议嘉宾。"
+    },
+    "71": {
+      "source": "D\nThe main presentation and project planning concern local arts. Aviation, banking, and cooking are not topics.",
+      "textZh": "选 D。主旨演讲讨论本地艺术本身的价值，最后还会为来年的相关项目做规划。机场开发、银行业务及食品制作均未提及。mainly about 考查的是全篇主题。"
+    },
+    "101": {
+      "source": "D\nThe verb phrase will be divided requires an adverb of manner; equally fits. Equal is an adjective, equality a noun, and equalize a verb.",
+      "textZh": "选 D。equally 是方式副词，修饰 will be divided，说明奖金如何分配。equality 是名词，equalize 是动词，equal 在这里是形容词，均不适合。divide … among … 表示「在……之间分配」。"
+    },
+    "131": {
+      "source": "C\nUntil expresses the end of the display period. The other prepositions do not specify a time endpoint.",
+      "textZh": "选 C。until the end of the month 表示持续到月底，与 will remain 搭配说明陈列何时结束。except 表示排除，among 表示在群体中，onto 表示移动到表面，均无法表达这里的时间终点。"
+    },
+    "147": {
+      "source": "D\nThe booking includes the screening and discussion. No script or private session is offered; the sequel has no release date.",
+      "textZh": "选 D。原文明确说票价包含交流环节。私人摄影和印刷版剧本均未列入；续集连上映日期都未公布。include 表示「包含」，题干用 is included in 改述。"
+    }
+  }
+}

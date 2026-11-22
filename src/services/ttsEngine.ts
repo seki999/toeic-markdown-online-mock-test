@@ -15,27 +15,42 @@ export class TtsEngine {
   state: TtsState = 'IDLE'
   private generation = 0
   private voices: SpeechSynthesisVoice[] = []
-  private readonly synth: SpeechSynthesis
+  private readonly synth: SpeechSynthesis | undefined
 
-  constructor(synth: SpeechSynthesis = window.speechSynthesis) {
+  constructor(synth: SpeechSynthesis | undefined = window.speechSynthesis) {
     this.synth = synth
     this.refreshVoices()
-    this.synth.addEventListener?.('voiceschanged', () => this.refreshVoices())
+    this.synth?.addEventListener?.('voiceschanged', () => this.refreshVoices())
   }
 
-  refreshVoices() { this.voices = this.synth.getVoices() }
+  refreshVoices() { this.voices = this.synth?.getVoices() ?? [] }
   getVoices() { return [...this.voices] }
 
-  speakLine(line: SpeechLine, voiceSelection: VoiceSelection, rate = 1): Promise<void> {
+  speakLine(line: SpeechLine, voiceSelection: VoiceSelection, rate = 1, language = 'en-US', signal?: AbortSignal): Promise<void> {
+    const synth = this.synth
+    if (!synth || typeof SpeechSynthesisUtterance === 'undefined') return Promise.reject(new Error('Speech synthesis is unavailable'))
     const utterance = new SpeechSynthesisUtterance(line.text)
+    utterance.lang = language
     utterance.rate = rate
     utterance.pitch = 1
-    utterance.voice = this.voices.find((voice) => voice.voiceURI === voiceSelection[line.speaker]) ?? this.voices.find((voice) => /^en/i.test(voice.lang)) ?? null
+    const prefix = language.split('-')[0].toLowerCase()
+    const compatible = this.voices.filter(voice => voice.lang.toLowerCase().split(/[-_]/)[0] === prefix)
+    utterance.voice = compatible.find(voice => voice.voiceURI === voiceSelection[line.speaker]) ?? compatible.find(voice => voice.lang.toLowerCase() === language.toLowerCase()) ?? compatible[0] ?? null
     this.state = line.speaker === 'Narrator' ? 'PLAYING_NARRATOR' : 'PLAYING_CONTENT'
     return new Promise((resolve, reject) => {
-      utterance.onend = () => resolve()
-      utterance.onerror = (event) => reject(new Error(`Speech synthesis failed: ${event.error}`))
-      this.synth.speak(utterance)
+      const abort = () => finish(new DOMException('Speech cancelled', 'AbortError'))
+      const finish = (error?: Error) => {
+        signal?.removeEventListener('abort', abort)
+        utterance.onend = null
+        utterance.onerror = null
+        if (error) reject(error)
+        else resolve()
+      }
+      if (signal?.aborted) return abort()
+      signal?.addEventListener('abort', abort, { once: true })
+      utterance.onend = () => finish()
+      utterance.onerror = (event) => finish(new Error(`Speech synthesis failed: ${event.error}`))
+      try { synth.speak(utterance) } catch (error) { finish(new Error(String(error))) }
     })
   }
 
@@ -54,9 +69,9 @@ export class TtsEngine {
     if (run === this.generation) this.state = 'COMPLETED'
   }
 
-  cancelSpeech() { this.generation += 1; this.synth.cancel(); this.state = 'IDLE' }
-  pauseSpeech() { if (this.synth.speaking && !this.synth.paused) { this.synth.pause(); this.state = 'PAUSED' } }
-  resumeSpeech() { if (this.synth.paused) { this.synth.resume(); this.state = 'PLAYING_CONTENT' } }
+  cancelSpeech() { this.generation += 1; this.synth?.cancel(); if (this.synth?.paused) this.synth.resume(); this.state = 'IDLE' }
+  pauseSpeech() { if (this.synth?.speaking && !this.synth.paused) { this.synth.pause(); this.state = 'PAUSED' } }
+  resumeSpeech() { if (this.synth?.paused) { this.synth.resume(); this.state = 'PLAYING_CONTENT' } }
 }
 
 let singleton: TtsEngine | undefined

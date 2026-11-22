@@ -41,6 +41,20 @@ Part 5 可使用可编辑 SVG 语法关系图；`node scripts/create-grammar-dia
 
 本地 UI 回归：启动 `npm run dev`，另一个终端运行 `npx playwright install chromium` 和 `npm run test:practice-ui`。测试覆盖桌面、390px 手机、显示时机、放大/Escape/焦点返回、Group 去重、错题筛选、网络失败和 Exam 隔离。截图写入忽略的 `tmp/practice-visuals/`。003 交付状态见 [图片覆盖报告](docs/TEST-003-PRACTICE-IMAGES.md)。
 
+## 沉浸式视听学习
+
+进入 Practice mode 后，选择「沉浸式视听学习」并点击「播放」。默认用浏览器英语语音逐句朗读，同时显示英文原文和已有中文字幕。Part 1 使用原题照片，包含答案线索的学习配图在答题后显示，也可主动展开。选择答案并确认后可以查看中文解析。「播放设置」支持纯英语、双语和精讲模式，以及自动揭晓、自动下一题和连续学习范围。Space 暂停或播放，左右方向键切句，R 重播本句。设置和上次学习题号存于本机。
+
+每套试卷可在其 `metadata.md` 同级添加 `learning.zh-CN.json`。`subtitles` 按句子 ID 保存 `textEn`（逐字对应原文）、`textZh` 和可选的 `noteZh`，`answers` 按题号保存 `source`（答案和英文解析快照）与 `textZh`。英文原文或答案解析发生变化时，对照报告更新快照和中文内容。缺少中文字幕或解析时，播放器会明确标记缺项。
+
+```bash
+npm run generate:index
+node scripts/learning.mjs generate test-003 > learning-missing.json
+npm run learning:validate -- test-003
+```
+
+生成命令输出覆盖率与待补充字段，保留已有学习文件。加上 `--scripts` 可同时导出完整学习脚本。将已填写的 `missingSubtitles` 和 `missingAnswers` 条目分别合并到 `subtitles` 和 `answers`，然后运行验证。003 已接入全部 200 题，随附 7 道完整中英对照题及其中文解析，每个 Part 各一题。启动开发服务器后可用 `npm run test:learning-ui` 运行视听模式的桌面和移动端回归测试。
+
 ## 内置题库
 
 - `test-001`：完整原创英语模拟考试，Listening 100 + Reading 100，共 200 题；包含六张 Part 1 场景图、全部 Listening transcript、答案和逐题解析，`demo: false`。

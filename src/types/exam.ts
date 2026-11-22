@@ -61,6 +61,7 @@ export interface QuestionGroup {
 export interface TestPart {
   number: PartNumber
   title: string
+  instructions?: string
   groups: QuestionGroup[]
 }
 

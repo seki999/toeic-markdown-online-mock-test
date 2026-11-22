@@ -1,9 +1,12 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import LoadingState from '../components/LoadingState.vue'
 import QuestionCard from '../components/QuestionCard.vue'
 import PracticeIllustration from '../components/PracticeIllustration.vue'
+import LearningPlayer from '../components/LearningPlayer.vue'
+import { learningQuestions, type LearningNotes } from '../services/learningScript'
+import { loadLearningNotes } from '../services/testLoader'
 import { renderMarkdown } from '../services/markdownParser'
 import TtsControls from '../components/TtsControls.vue'
 import { buildContinuousListeningSequence } from '../services/listeningSequence'
@@ -12,6 +15,7 @@ import { useExamStore } from '../stores/exam'
 import type { ChoiceLabel, PartNumber, QuestionGroup, ToeicTest } from '../types/exam'
 
 const route = useRoute()
+const router = useRouter()
 const store = useExamStore()
 const testId = String(route.params.testId)
 const test = ref<ToeicTest>()
@@ -19,6 +23,19 @@ const part = ref<PartNumber>(Number(route.query.part || 1) as PartNumber)
 const revealedGroups = ref<Record<string, boolean>>({})
 const illustrationVisibility = ref<Record<string, boolean>>({})
 const visibleTranscripts = ref<Record<string, boolean>>({})
+const immersive = computed(() => route.query.mode === 'learning')
+const learningNotes = ref<LearningNotes>()
+const notesError = ref(false)
+watch(immersive, async enabled => {
+  if (window.speechSynthesis) getTtsEngine().cancelSpeech()
+  if (!enabled || learningNotes.value) return
+  try { learningNotes.value = await loadLearningNotes(testId); notesError.value = false }
+  catch { notesError.value = true }
+}, { immediate: true })
+
+function chooseMode(learning: boolean) {
+  void router.replace({ query: { ...route.query, mode: learning ? 'learning' : undefined } })
+}
 
 onMounted(async () => {
   try {
@@ -49,6 +66,11 @@ const groups = computed<QuestionGroup[]>(() => {
     .filter((group) => group.questions.length)
 })
 const questionCount = computed(() => groups.value.reduce((total, group) => total + group.questions.length, 0))
+const learningItems = computed(() => {
+  if (!immersive.value || !test.value) return []
+  const wrong = new Set(store.latestResults[testId]?.wrongQuestions ?? [])
+  return test.value.parts.flatMap(learningQuestions).filter(item => !wrongOnly.value || wrong.has(item.question.id))
+})
 
 function hasIllustration(group: QuestionGroup) {
   return Boolean(group.practiceImage || group.questions.some(question => question.practiceImage))
@@ -77,7 +99,7 @@ function audioLines(group: QuestionGroup) {
         <div>
           <p class="eyebrow">{{ wrongOnly ? 'Wrong answer practice' : 'Practice mode' }}</p>
           <h1>Part {{ part }}</h1>
-          <p class="lead part-summary">{{ questionCount }} questions · Complete this Part from top to bottom.</p>
+          <p v-if="!immersive" class="lead part-summary">{{ questionCount }} questions · Complete this Part from top to bottom.</p>
         </div>
         <RouterLink class="button quiet" :to="`/test/${testId}`">Exit practice</RouterLink>
       </div>
@@ -95,7 +117,15 @@ function audioLines(group: QuestionGroup) {
         </button>
       </div>
 
-      <div v-if="groups.length" class="full-part-practice">
+      <div class="set-actions practice-mode-switch" role="group" aria-label="Practice mode">
+        <button type="button" :aria-pressed="!immersive" @click="chooseMode(false)">传统做题</button>
+        <button type="button" :aria-pressed="immersive" @click="chooseMode(true)">沉浸式视听学习</button>
+      </div>
+      <template v-if="immersive">
+        <p v-if="notesError" role="status">暂时无法加载中文学习资料，可继续使用英文原文。</p>
+        <LearningPlayer :test-id="testId" :part="part" :items="learningItems" :notes="learningNotes" :wrong-only="wrongOnly" />
+      </template>
+      <div v-else-if="groups.length" class="full-part-practice">
         <section v-for="(group, groupIndex) in groups" :key="group.id" class="practice-set">
           <header class="set-toolbar">
             <div>
@@ -169,6 +199,8 @@ function audioLines(group: QuestionGroup) {
 </template>
 
 <style scoped>
+.practice-mode-switch { justify-content: flex-start; margin: 1rem 0; }
+.practice-mode-switch [aria-pressed='true'] { background: #153633; color: #fff; }
 .group-transcript {
   margin-bottom: 1rem;
   padding: 1.25rem;

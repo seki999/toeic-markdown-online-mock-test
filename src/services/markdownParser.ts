@@ -167,12 +167,13 @@ export function parsePart(source: string, expectedPart?: PartNumber): TestPart {
   if (!match) throw new ToeicMarkdownError('Part file requires a level-one Part 1-7 heading')
   const number = Number(match[1]) as PartNumber
   if (expectedPart && number !== expectedPart) throw new ToeicMarkdownError(`Expected Part ${expectedPart}, found Part ${number}`, title.line)
-  const roots = all.map((section, index) => ({ section, index })).filter(({ section }) => section.level === 2)
+  const roots = all.map((section, index) => ({ section, index })).filter(({ section }) => section.level === 2 && !/^Directions$|^Instructions$/i.test(section.title))
   const groups = roots.map(({ section, index }) => /^Question\s+\d+$/i.test(section.title)
     ? { id: `${number}-q-${section.title.split(' ').pop()}`, part: number, questions: [questionFromSection(all, index, number)], speech: [], passages: [], tags: [] }
     : parseGroup(all, index, number))
   if (!groups.length) throw new ToeicMarkdownError(`Part ${number} contains no question blocks`)
-  return { number, title: title.title, groups }
+  const instructions = [clean(title.lines), ...all.filter(section => section.level === 2 && /^Directions$|^Instructions$/i.test(section.title)).map(section => clean(section.lines))].filter(Boolean).join('\n\n')
+  return { number, title: title.title, instructions: instructions || undefined, groups }
 }
 
 export function renderMarkdown(source: string): string { return markdown.render(source) }
