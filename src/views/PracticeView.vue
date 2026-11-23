@@ -253,6 +253,12 @@ function audioLines(group: QuestionGroup) {
 .full-playback { position: fixed; inset: 0; z-index: 30; width: 100%; height: 100%; overflow: auto; overscroll-behavior: contain; background: #f5f4ee; padding: clamp(.5rem, 2vw, 1.5rem); }
 .full-playback > * { max-width: 1200px; margin-inline: auto; }
 .fullscreen-toolbar { display: flex; justify-content: flex-end; margin-bottom: .65rem; }
+@media (min-width: 1000px) {
+  .full-playback {
+    --learning-image-max-height: clamp(680px, 70dvh, 1080px);
+  }
+  .full-playback > * { max-width: 1760px; }
+}
 .group-transcript {
   margin-bottom: 1rem;
   padding: 1.25rem;

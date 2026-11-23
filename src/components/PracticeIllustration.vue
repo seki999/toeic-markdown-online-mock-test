@@ -38,7 +38,7 @@ figcaption { margin-bottom: .75rem; font-weight: 650; }
 .image-button { display: block; width: 100%; padding: .5rem; background: transparent; border: 0; border-radius: 12px; box-shadow: none; }
 .image-button:focus-visible { outline: 3px solid #2c5c57; outline-offset: 3px; }
 img { display: block; max-width: 100%; height: auto; margin: auto; border-radius: 8px; }
-.image-button img { max-height: 680px; object-fit: contain; }
+.image-button img { max-height: var(--learning-image-max-height, 680px); object-fit: contain; }
 .image-button span { display: inline-block; margin-top: .6rem; }
 dialog { width: min(96vw, 1600px); max-height: 94dvh; overflow: auto; border: 1px solid var(--line); border-radius: 16px; padding: 1rem; }
 dialog::backdrop { background: #102b32cc; }

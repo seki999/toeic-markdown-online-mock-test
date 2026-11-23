@@ -368,7 +368,7 @@ function skipAudio() {
 .player-row progress { flex: 1 1 10rem; accent-color: #2c5c57; }
 .player-row button { min-height: 44px; padding: .45rem .85rem; }
 .learning-picture { display: grid; place-items: center; border-radius: 12px; background: #112b2a; overflow: hidden; }
-.learning-picture img { display: block; max-width: 100%; max-height: 55vh; object-fit: contain; }
+.learning-picture img { display: block; max-width: 100%; max-height: var(--learning-image-max-height, 55vh); object-fit: contain; }
 .learning-captions { background: #153633; color: #fff; padding: 1rem; min-height: 7rem; border-radius: 12px; overflow-wrap: anywhere; white-space: pre-wrap; }
 .learning-captions p { margin: .35rem 0; }
 .english-caption { display: block; padding: 0; text-align: left; border: 0; color: #fff; background: transparent; font-size: 1.16rem; box-shadow: none; white-space: inherit; }
@@ -377,4 +377,11 @@ function skipAudio() {
 .learning-answer fieldset { display: grid; gap: .35rem; padding: 0; margin-bottom: .65rem; border: 0; }
 .player-settings-grid { display: grid; gap: .65rem 1rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); margin-top: .75rem; }
 .player-settings-grid select, .player-settings-grid input[type=number] { display: block; width: 100%; }
+@media (min-width: 1000px) {
+  .full-playback .learning-player :deep(.practice-illustration) { margin-block: 0; }
+  .full-playback .learning-captions { padding: 1.25rem clamp(1.25rem, 2vw, 2rem); font-size: 1.1rem; }
+  .full-playback .english-caption, .full-playback .learning-stem { font-size: clamp(1.2rem, 1.35vw, 1.6rem); }
+  .full-playback .learning-answer fieldset { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .full-playback .learning-answer legend { grid-column: 1 / -1; }
+}
 </style>
