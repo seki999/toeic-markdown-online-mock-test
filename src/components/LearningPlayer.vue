@@ -36,7 +36,17 @@ const index = ref(props.continuousLaunch
   : position(settings.value.scope === 'test'))
 const item = computed(() => items.value[index.value])
 const question = computed(() => item.value?.question)
-const line = ref(0)
+const sharedLabel = computed(() => {
+  const ids = item.value?.sharedQuestionIds ?? []
+  return ids.length ? `第 ${ids.join('、')} 题共用` : ''
+})
+const startingLine = computed(() => {
+  const current = item.value
+  const previous = items.value[index.value - 1]
+  return current?.sharedQuestionIds.length && current.sharedQuestionIds[0] === previous?.sharedQuestionIds[0]
+    ? current.questionStart : 0
+})
+const line = ref(startingLine.value)
 const segment = computed(() => item.value?.segments[line.value])
 const subtitle = computed(() => segment.value && subtitleFor(props.notes, segment.value))
 const explanation = computed(() => question.value && explanationFor(props.notes, question.value))
@@ -76,7 +86,7 @@ onBeforeUnmount(() => {
 
 function resetQuestion(position: number) {
   index.value = position
-  line.value = 0
+  line.value = startingLine.value
   finished.value = revealed.value = failedImage.value = false
   skipDetail.value = false
   reviewText.value = ''
@@ -168,12 +178,12 @@ async function playlist(signal: AbortSignal, observe = false, startWithReview = 
         await gap(settings.value.gap * 1000, signal)
         line.value += 1
       }
-      finished.value = played.size === questionCount.value
+      finished.value = item.value.segments.slice(startingLine.value).every((_, offset) => played.has(startingLine.value + offset))
       if (settings.value.answerMode === 'auto' && finished.value) await review(signal)
       else if (!revealed.value) {
         if (!settings.value.loop) return
         await gap(settings.value.gap * 1000, signal)
-        line.value = 0
+        line.value = startingLine.value
         played.clear()
         observe = true
         continue
@@ -209,6 +219,7 @@ function replayLine() {
 function replayQuestion() {
   stop()
   resetQuestion(index.value)
+  line.value = 0
   void run(signal => playlist(signal, true))
 }
 function submitAnswer() {
@@ -241,10 +252,12 @@ function skipAudio() {
       <span>{{ index + 1 }} / {{ items.length }} 题</span>
     </header>
 
+    <p v-if="question.part >= 3" class="learning-stem" lang="en">{{ question.text }}</p>
+
     <div v-if="imageUrl && !failedImage" class="learning-picture">
       <img :src="imageUrl" :alt="'第 ' + question.id + ' 题原图'" @error="failedImage = true">
     </div>
-    <PracticeIllustration v-else-if="item.image" :image="item.image" :alt="item.imageAlt" caption="学习配图" />
+    <PracticeIllustration v-else-if="item.image" :image="item.image" :alt="item.imageAlt" :caption="sharedLabel ? `学习配图 · ${sharedLabel}` : '学习配图'" />
     <p v-else class="image-status">这道题没有可用配图。</p>
 
     <div class="learning-captions" aria-live="polite">
@@ -252,6 +265,7 @@ function skipAudio() {
         <p v-if="showEnglish" lang="en">{{ reviewText }}</p>
       </template>
       <template v-else-if="segment">
+        <small v-if="sharedLabel && line < item.questionStart" class="shared-caption">{{ sharedLabel }}材料</small>
         <small v-if="segment.speaker || segment.option">{{ [segment.speaker, segment.option].filter(Boolean).join(' · ') }}</small>
         <button v-if="showEnglish" type="button" class="english-caption" lang="en" title="点击重播本句" @click="replayLine"><template v-for="(fragment, i) in segment.textEn.split(/(_{2,}|\*\*\[\d+\]\*\*)/)" :key="i"><mark v-if="i % 2">{{ fragment }}</mark><template v-else>{{ fragment }}</template></template></button>
         <p v-if="showChinese" lang="zh-CN">{{ subtitle?.textZh || '本句中文字幕待补充。' }}</p>
@@ -282,7 +296,6 @@ function skipAudio() {
     </div>
 
     <div v-if="!revealed" class="learning-answer">
-      <p v-if="question.part >= 5" lang="en">{{ question.text }}</p>
       <fieldset>
         <legend>作答</legend>
         <label v-for="option in question.choices" :key="option.label" class="choice" :class="{ selected: option.label === segment?.option }">
@@ -349,6 +362,8 @@ function skipAudio() {
 <style scoped>
 .learning-player { display: grid; gap: 1rem; padding: clamp(.75rem, 3vw, 1.5rem); border: 1px solid var(--line); border-radius: 20px; background: var(--paper, #fffdf8); }
 .learning-player h2, .image-status { margin: 0; }
+.learning-stem { margin: 0; font-size: 1.15rem; font-weight: 650; }
+.shared-caption { display: block; }
 .player-row { display: flex; flex-wrap: wrap; align-items: center; gap: .55rem .8rem; }
 .player-row progress { flex: 1 1 10rem; accent-color: #2c5c57; }
 .player-row button { min-height: 44px; padding: .45rem .85rem; }

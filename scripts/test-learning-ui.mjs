@@ -128,6 +128,14 @@ try {
       await caption.getByText(translation, { exact: true }).waitFor()
       await player.locator('.practice-illustration img').first().evaluate(image => image.decode())
       assert.equal(await player.getByRole('button', { name: /查看学习配图/ }).count(), 0)
+      if (part === 4) {
+        await button('下一题').click()
+        await player.getByRole('heading', { name: 'Part 4 · 第 72 题' }).waitFor()
+        assert.equal(await player.locator('.learning-stem').textContent(), 'How should attendees submit questions?')
+        await caption.getByRole('button', { name: 'How should attendees submit questions?' }).waitFor()
+        await player.locator('figcaption').getByText('学习配图 · 第 71、72、73 题共用').waitFor()
+        await player.getByText('D · Write them on cards', { exact: true }).waitFor()
+      }
       if (part === 5) {
         await button('播放').click()
         await page.waitForFunction(() => window.learningTest.utterances.length === 1)

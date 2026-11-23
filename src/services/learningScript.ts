@@ -19,6 +19,8 @@ export interface LearningNotes {
 export interface LearningQuestion {
   question: Question
   segments: LearningSegment[]
+  questionStart: number
+  sharedQuestionIds: number[]
   image?: string
   imageAlt?: string
   completedSentence?: string
@@ -70,6 +72,7 @@ function buildScript(part: TestPart, group: QuestionGroup, question: Question): 
   })
 
   question.passages.forEach((passage, index) => add(`${group.id}.passage.${index + 1}`, 'passage', passage.content))
+  const questionStart = segments.length
   if (part.number > 2 || question.text !== `Question ${question.id}`) add(`${questionKey}.stem`, 'question', question.text)
   for (const choice of question.choices) {
     if (!audioOptions.has(choice.label)) add(`${questionKey}.option.${choice.label}`, 'option', choice.text, undefined, choice.label)
@@ -77,7 +80,8 @@ function buildScript(part: TestPart, group: QuestionGroup, question: Question): 
 
   const correct = question.choices.find(choice => choice.label === question.answer)
   return {
-    question, segments,
+    question, segments, questionStart,
+    sharedQuestionIds: group.questions.length > 1 ? group.questions.map(entry => entry.id) : [],
     image: question.practiceImage ?? group.practiceImage,
     imageAlt: question.practiceImage ? question.practiceImageAlt : group.practiceImageAlt,
     completedSentence: part.number === 5 && correct && /_{2,}/.test(question.text)
