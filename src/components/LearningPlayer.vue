@@ -7,7 +7,7 @@ import { useLearningPlayback } from '../services/learningPlayback'
 import { getTtsEngine } from '../services/ttsEngine'
 import type { ChoiceLabel, PartNumber } from '../types/exam'
 
-const props = defineProps<{ testId: string; part: PartNumber; items: LearningQuestion[]; notes?: LearningNotes; wrongOnly: boolean; continuousLaunch?: boolean }>()
+const props = defineProps<{ testId: string; part: PartNumber; items: LearningQuestion[]; notes?: LearningNotes; wrongOnly: boolean; continuousLaunch?: boolean; startQuestionId?: number }>()
 const defaults = {
   mode: 'bilingual', captions: 'both', rate: 1, chinese: false, explanations: true,
   nextLine: true, nextQuestion: false, loop: false, gap: 0.5, repeat: false, voice: '',
@@ -31,11 +31,14 @@ function position(fallbackToLast = false) {
   const found = items.value.findIndex(entry => entry.question.id === target)
   return found >= 0 ? found : Math.max(0, items.value.findIndex(entry => entry.question.part === props.part))
 }
-const index = ref(props.continuousLaunch
-  ? items.value.findIndex(entry => entry.question.part >= props.part)
-  : position(settings.value.scope === 'test'))
+function launchPosition() {
+  const current = items.value.findIndex(entry => entry.question.id === props.startQuestionId)
+  return current >= 0 ? current : items.value.findIndex(entry => entry.question.part >= props.part)
+}
+const index = ref(props.continuousLaunch ? launchPosition() : position(settings.value.scope === 'test'))
 const item = computed(() => items.value[index.value])
 const question = computed(() => item.value?.question)
+defineExpose({ getCurrentQuestionId: () => question.value?.id })
 const sharedLabel = computed(() => {
   const ids = item.value?.sharedQuestionIds ?? []
   return ids.length ? `第 ${ids.join('、')} 题共用` : ''

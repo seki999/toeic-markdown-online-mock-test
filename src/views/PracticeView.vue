@@ -28,6 +28,8 @@ const illustrationVisibility = ref<Record<string, boolean>>({})
 const visibleTranscripts = ref<Record<string, boolean>>({})
 const immersive = computed(() => route.query.mode === 'learning')
 const playerScreen = ref<HTMLElement>()
+const player = ref<InstanceType<typeof LearningPlayer>>()
+const startQuestionId = ref<number>()
 const fullPlayback = ref(false)
 let nativeFullscreen = false
 const learningNotes = ref<LearningNotes>()
@@ -50,6 +52,7 @@ function choosePart(number: number) {
 function launchFullPlayback() {
   const screen = playerScreen.value
   if (!screen) return
+  startQuestionId.value = player.value?.getCurrentQuestionId()
   fullPlayback.value = true
   chooseMode(true)
   void screen.requestFullscreen?.().catch(() => { /* The viewport layout remains available. */ })
@@ -172,7 +175,7 @@ function audioLines(group: QuestionGroup) {
           <button type="button" @click="exitFullPlayback">退出全屏</button>
         </div>
         <p v-if="immersive && notesError" role="status">暂时无法加载中文学习资料，可继续使用英文原文。</p>
-        <LearningPlayer v-if="immersive" :key="String(fullPlayback)" :test-id="testId" :part="part" :items="learningItems" :notes="learningNotes" :wrong-only="wrongOnly" :continuous-launch="fullPlayback" />
+        <LearningPlayer v-if="immersive" ref="player" :key="String(fullPlayback)" :test-id="testId" :part="part" :items="learningItems" :notes="learningNotes" :wrong-only="wrongOnly" :continuous-launch="fullPlayback" :start-question-id="startQuestionId" />
       </div>
       <div v-if="!immersive && groups.length" class="full-part-practice">
         <section v-for="(group, groupIndex) in groups" :key="group.id" class="practice-set">

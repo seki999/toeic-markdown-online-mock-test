@@ -165,6 +165,13 @@ try {
         assert.equal(spoken.filter(line => line === 'Questions 71 through 73 refer to the following talk.').length, 1)
         assert.equal(spoken[firstQuestionLines], 'How should attendees submit questions?')
         assert.deepEqual(spoken.slice(-2), ["What is scheduled for four o'clock?", "What is scheduled for four o'clock?"])
+        await page.getByRole('button', { name: '沉浸式视听学习', exact: true }).click()
+        await exitFullscreen.waitFor()
+        await player.getByRole('heading', { name: 'Part 4 · 第 73 题' }).waitFor()
+        await page.waitForFunction(expected => window.learningTest.utterances.length > expected, spoken.length)
+        assert.equal(await page.evaluate(() => window.learningTest.utterances.at(-1).text), "What is scheduled for four o'clock?")
+        await exitFullscreen.click()
+        await page.waitForFunction(() => !document.fullscreenElement && !speechSynthesis.speaking)
       }
       if (part === 5) {
         await button('播放').click()
