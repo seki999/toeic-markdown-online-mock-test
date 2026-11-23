@@ -24,10 +24,10 @@ const settings = ref({ ...defaults, ...readSaved(settingsKey, defaults) })
 if (props.continuousLaunch) Object.assign(settings.value, { scope: 'test', answerMode: 'auto', nextLine: true, nextQuestion: true, loop: false })
 watch(settings, value => { if (!props.continuousLaunch) save(settingsKey, value) }, { deep: true })
 const progressKey = computed(() => `toeic.learning.progress.${props.testId}.${props.wrongOnly ? 'wrong' : 'all'}`)
-const saved = computed(() => readSaved(progressKey.value, {} as Record<string, number>))
 const items = computed(() => settings.value.scope === 'test' ? props.items : props.items.filter(entry => entry.question.part === props.part))
 function position(fallbackToLast = false) {
-  const target = fallbackToLast ? saved.value.last : saved.value[props.part]
+  const saved = readSaved(progressKey.value, {} as Record<string, number>)
+  const target = fallbackToLast ? saved.last : saved[props.part]
   const found = items.value.findIndex(entry => entry.question.id === target)
   return found >= 0 ? found : Math.max(0, items.value.findIndex(entry => entry.question.part === props.part))
 }
@@ -92,18 +92,19 @@ function resetQuestion(position: number) {
   reviewText.value = ''
   choice.value = undefined
   played.clear()
+  remember()
 }
 function remember() {
   if (!question.value) return
-  saved.value[question.value.part] = saved.value.last = question.value.id
-  save(progressKey.value, saved.value)
+  const saved = readSaved(progressKey.value, {} as Record<string, number>)
+  saved[question.value.part] = saved.last = question.value.id
+  save(progressKey.value, saved)
 }
 watch([items, () => props.part, progressKey], () => {
   stop()
   resetQuestion(position())
-  remember()
 })
-watch(() => question.value?.id, remember, { immediate: true })
+remember()
 
 function selectQuestion(position: number) {
   if (!items.value[position]) return

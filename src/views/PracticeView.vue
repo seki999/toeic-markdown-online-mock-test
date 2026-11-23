@@ -19,7 +19,10 @@ const router = useRouter()
 const store = useExamStore()
 const testId = String(route.params.testId)
 const test = ref<ToeicTest>()
-const part = ref<PartNumber>(Number(route.query.part || 1) as PartNumber)
+const part = computed<PartNumber>(() => {
+  const number = Number(route.query.part)
+  return Number.isInteger(number) && number >= 1 && number <= 7 ? number as PartNumber : 1
+})
 const revealedGroups = ref<Record<string, boolean>>({})
 const illustrationVisibility = ref<Record<string, boolean>>({})
 const visibleTranscripts = ref<Record<string, boolean>>({})
@@ -38,6 +41,10 @@ watch(immersive, async enabled => {
 
 function chooseMode(learning: boolean) {
   void router.replace({ query: { ...route.query, mode: learning ? 'learning' : undefined } })
+}
+
+function choosePart(number: number) {
+  void router.replace({ query: { ...route.query, part: String(number) } })
 }
 
 function launchFullPlayback() {
@@ -149,7 +156,7 @@ function audioLines(group: QuestionGroup) {
           :key="number"
           :class="{ active: part === number }"
           type="button"
-          @click="part = number as PartNumber"
+          @click="choosePart(number)"
         >
           Part {{ number }}
           <small>{{ number < 5 ? 'Listening' : 'Reading' }}</small>

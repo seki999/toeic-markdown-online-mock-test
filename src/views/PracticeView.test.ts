@@ -19,7 +19,10 @@ async function setup(wrong = false) {
   const pinia = createPinia(); setActivePinia(pinia)
   const store = useExamStore()
   vi.mocked(loadTest).mockResolvedValue(test)
-  if (wrong) store.history = [{ id: 'r', testId: 'test-visual', date: '', answers: { 34: 'B' }, partScores: [], listening: { correct: 0, total: 1 }, reading: { correct: 0, total: 0 }, total: { correct: 0, total: 1 }, accuracy: 0, wrongQuestions: [34], unansweredQuestions: [] }]
+  if (wrong) {
+    const latest = { id: 'r', testId: 'test-visual', date: '', answers: { 34: 'B' as const }, partScores: [], listening: { correct: 0, total: 1 }, reading: { correct: 0, total: 0 }, total: { correct: 0, total: 1 }, accuracy: 0, wrongQuestions: [34], unansweredQuestions: [] }
+    store.history = [latest, { ...latest, id: 'older', answers: { 32: 'B' }, wrongQuestions: [32] }]
+  }
   const router = createRouter({ history: createMemoryHistory(), routes: [{ path: '/test/:testId/practice', component: PracticeView }, { path: '/test/:testId', component: { template: '<div />' } }] })
   await router.push(`/test/test-visual/practice?part=3${wrong ? '&wrong=1' : ''}`); await router.isReady()
   const wrapper = mount(PracticeView, { global: { plugins: [pinia, router], stubs: { TtsControls: true } } })

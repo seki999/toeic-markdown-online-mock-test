@@ -32,6 +32,6 @@ export const useExamStore = defineStore('exam', () => {
   function answer(testId: string, questionId: number, choice: ChoiceLabel) { answers.value[testId] ??= {}; answers.value[testId][questionId] = choice }
   function clearAnswers(testId: string) { answers.value[testId] = {} }
   function submit(test: ToeicTest) { const result = scoreTest(test, { ...(answers.value[test.metadata.id] ?? {}) }); history.value.unshift(result); return result }
-  const latestResults = computed(() => Object.fromEntries(history.value.map((result) => [result.testId, result])))
+  const latestResults = computed(() => Object.fromEntries([...history.value].reverse().map(result => [result.testId, result])))
   return { tests, answers, history, latestResults, loading, error, ensureTest, answer, clearAnswers, submit }
 })
