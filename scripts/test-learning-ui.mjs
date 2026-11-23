@@ -129,12 +129,29 @@ try {
       await player.locator('.practice-illustration img').first().evaluate(image => image.decode())
       assert.equal(await player.getByRole('button', { name: /查看学习配图/ }).count(), 0)
       if (part === 4) {
-        await button('下一题').click()
+        async function finishThrough(count, from = 1) {
+          for (let index = from; index <= count; index++) {
+            await page.waitForFunction(expected => window.learningTest.utterances.length === expected, index)
+            await page.evaluate(() => window.learningTest.finish())
+          }
+        }
+        const firstQuestionLines = Number(await player.getByRole('progressbar').getAttribute('max'))
+        await button('播放').click()
+        await finishThrough(firstQuestionLines)
         await player.getByRole('heading', { name: 'Part 4 · 第 72 题' }).waitFor()
         assert.equal(await player.locator('.learning-stem').textContent(), 'How should attendees submit questions?')
         await caption.getByRole('button', { name: 'How should attendees submit questions?' }).waitFor()
         await player.locator('figcaption').getByText('学习配图 · 第 71、72、73 题共用').waitFor()
         await player.getByText('D · Write them on cards', { exact: true }).waitFor()
+        await finishThrough(firstQuestionLines + 5, firstQuestionLines + 1)
+        await player.getByRole('heading', { name: 'Part 4 · 第 73 题' }).waitFor()
+        await page.waitForFunction(expected => window.learningTest.utterances.length === expected, firstQuestionLines + 6)
+        await button('重播本题').click()
+        await page.waitForFunction(expected => window.learningTest.utterances.length === expected, firstQuestionLines + 7)
+        const spoken = await page.evaluate(() => window.learningTest.utterances.map(line => line.text))
+        assert.equal(spoken.filter(line => line === 'Questions 71 through 73 refer to the following talk.').length, 1)
+        assert.equal(spoken[firstQuestionLines], 'How should attendees submit questions?')
+        assert.deepEqual(spoken.slice(-2), ["What is scheduled for four o'clock?", "What is scheduled for four o'clock?"])
       }
       if (part === 5) {
         await button('播放').click()

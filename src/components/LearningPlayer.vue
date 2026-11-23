@@ -219,7 +219,6 @@ function replayLine() {
 function replayQuestion() {
   stop()
   resetQuestion(index.value)
-  line.value = 0
   void run(signal => playlist(signal, true))
 }
 function submitAnswer() {
